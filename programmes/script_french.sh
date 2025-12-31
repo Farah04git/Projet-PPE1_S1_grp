@@ -1,12 +1,17 @@
 #!/bin/bash
 
-URL_FILE=$1
+# voir encodage
 
-DIR_ASPI="./aspirations"
+URL_FILE=$1
+ID=1
+
+DIR_ASPI="./aspirations/français"
 DIR_CONTXT="./contextes"
-DIR_DUMP="./dumps-text"
+DIR_DUMP="./dumps-text/francais/"
 DIR_CONCORD="./concordances"
 DIR_HTML_OUT="./tableaux/état_français.html"
+
+USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 numero_ligne=0
 
@@ -63,6 +68,49 @@ TAB_HTML=$(
 
 echo "$TAB_HTML" > "$DIR_HTML_OUT"
 
+
+while read -r URL ; do
+	echo ">>> Requête vers : $URL"
+
+	# Toute la réponse HTTP (header + body), pour éviter trop de curl
+	full_response=$(curl -s -i -L -A "$USER_AGENT" "$URL")
+
+	# Code HTTP
+	http_code=$(echo "$full_response" | head -n 1 | cut -d ' ' -f 2)
+
+	# Vérification HTTP
+	if [[ "$http_code" != "200" ]] ; then
+		echo "Erreur : $URL non traité (!=200)"
+		continue
+	fi
+	
+	# HTML + écriture dans fichiers aspiration
+	html_full=$(echo "$full_response" | sed -n '/^[[:space:]]*</,$p')
+	filename_aspiration="$DIR_ASPI/fr-$ID.html"
+
+	# Détection encodage UTF-8
+	encoding=$(echo "$html_full" | grep -i -o 'UTF-8' | head -1)
+	
+	if [[ -n "$encoding" ]]; then
+		#echo "Encodage détecté : $encoding"
+
+		# Écriture dump dans fichiers
+		filename_dump="$DIR_DUMP/fr-$ID.txt"
+
+		echo "$html_full" | lynx -dump -nolist -stdin > "$filename_dump"
+
+	else
+		continue
+		
+	fi
+
+	((ID++))
+
+	
+	
+
+
+done < "$URL_FILE" 
 
 
 

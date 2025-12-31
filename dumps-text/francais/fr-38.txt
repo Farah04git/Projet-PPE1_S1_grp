@@ -1,0 +1,543 @@
+   #Flux d'actualité Société
+
+   (BUTTON) Fermer la modale de partage
+
+   Partager
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+     * (BUTTON) Partager sur whatsapp
+     * (BUTTON) Partager sur email
+     * (BUTTON) Partager sur sms
+
+   (BUTTON) Ouvrir le menu principal ELLE, le magazine de toute
+   l'actualité des femmes
+     * Lien vers réseau social mail
+     * Lien vers réseau social facebook
+     * Lien vers réseau social twitter
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social youtube
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+   Je me connecte (BUTTON) (BUTTON) Sauvegarder Sauvegardé Je m'abonne
+   pour 1EUR
+   Le mag
+   (BUTTON) Ouvrir le menu principal ELLE, le magazine de toute
+   l'actualité des femmes
+   Je m'abonne pour 1EUR
+   Le mag
+   (BUTTON) Ouvrir le modal de recherche
+
+   (BUTTON) Fermer le modal de recherche
+
+   Rechercher sur ELLE
+   ____________________ (BUTTON) Lancer la recherche
+
+   ELLE, le magazine de toute l'actualité des femmes (BUTTON) Fermer menu
+   burger
+
+   Se connecter (BUTTON) Rechercher sur le site
+
+     * TOUTE L'ACTU
+     * Menus de Noël
+     * Épiphanie
+     * JE M'ABONNE
+     * Avantages abonnées
+          + Édition Abonnées
+          + J'offre ELLE
+     * BOX BY ELLE
+     * Masterclass ELLE
+     * BONS PLANS
+     * LES RENDEZ-VOUS ELLE
+     * MODE
+          + Chaussures
+          + Actu
+          + Robes
+               o Robes de soirées
+          + Shopping Mode
+               o Jeans
+               o Lingerie
+               o Pulls et Gilets
+               o Manteaux
+               o Accessoires de mode
+          + Défilés de Mode
+               o Fashion week
+               o Créateurs
+          + Horlogerie-Joaillerie
+          + Mode de Stars
+          + Conseils
+               o DIY Mode
+               o Morpho mode
+          + Tendances
+               o Push mode
+               o Streetstyle
+               o L'instant mode
+               o Lookbook
+               o It-pièce
+               o Mode par année
+          + Tests & Quiz Mode
+          + Street Style
+          + Carnet de Mode
+          + L'oeil de la styliste
+     * BEAUTÉ
+          + Actu
+          + Cheveux
+               o Coupe de cheveux
+               o Coiffure
+               o Coiffure de soirée
+               o Coloration
+               o Coiffure facile
+               o Astuces cheveux
+               o Tuto Coiffure
+               o Balayage
+          + Maquillage
+               o Maquillage des yeux
+               o Maquillage de soirée
+               o Astuces maquillage
+          + Soins Beauté
+               o Manucure
+               o Soins corps & visage
+               o Épilation
+               o Bronzage
+          + Tendances
+          + Parfums
+          + Beauté des Stars
+               o Coiffure de stars
+          + Beauté ethnique
+          + Chirurgie esthétique
+          + Tests & Quiz Beauté
+     * FORME
+          + Actu
+          + Bien-être
+          + Yoga
+          + Spas
+          + Sport
+          + Astuces pour maigrir
+          + Régimes
+               o Calcul calories
+               o Guide des calories
+               o Poids idéal
+          + Guides forme
+          + Secrets des Stars
+          + Tests & Quiz Forme et Santé
+     * CULTURE
+          + Actu
+          + Cinéma
+          + Livres
+               o Grands Prix Littéraires ELLE
+          + Musique
+               o Festival
+               o Concerts
+               o Nos playlists
+               o Le clip de la semaine
+          + Séries
+          + Sorties
+               o Actu
+               o Musés/Expos
+               o Bars
+               o Théâtres
+               o Hôtels
+               o Restaurants
+          + Télé
+          + Programme TV avec Télé 7 Jours
+          + Tests & Quiz Culture
+     * ÉVASION
+     * PEOPLE
+          + Actu
+          + Vie des People
+          + Style
+          + Tapis rouge
+          + Enfants de Stars
+          + Royauté
+          + Bios People
+          + Tests & Quiz People
+     * SOCIÉTÉ
+          + Actu Société
+          + Santé
+          + Politique
+          + Argent
+          + Justice
+          + Phénomènes
+          + Femmes à suivre
+          + L'édito
+          + Interviews
+          + L'actu en images
+          + Tests & Quiz Culture Générale
+     * ELLE à TABLE
+          + Actu
+               o Cuisine du placard
+               o Idées menus
+               o Astuces cuisine
+               o Menus de chefs
+          + Cuisine minceur
+               o Apéro minceur
+               o Entrées light
+               o Plats minceur
+               o Desserts light
+          + Recettes
+               o Apéritifs
+               o Entrées
+               o Plats
+               o Desserts
+               o Cocktails
+               o Par ingrédient
+          + Thèmes
+               o Recettes classiques
+               o Cuisine rapide
+               o Recettes faciles
+               o Cuisine du monde
+               o Cuisine de saison
+               o Recettes à petits prix
+               o Pâtisseries
+               o Cuisson
+               o Recettes sans gluten
+               o Recettes végétariennes
+               o Cuisine bio
+          + Menu de la semaine
+          + Accords Mets & Vins
+          + Tests & Quiz Cuisine
+     * ELLE DÉCORATION
+          + News & Tendances
+          + Conseils pratiques
+          + Reportages
+          + Déco par pièce
+          + Déco par couleur
+          + Déco par style
+          + Déco extérieure
+          + Avant / Après
+          + Blog déco : Billie Blanket
+     * ELLE ACTIVE
+          + Tests & Quiz ELLE Active
+     * ELLE GREEN
+     * ELLE ZEN
+          + Bien-être
+          + Bien manger
+          + Yoga
+          + Sommeil
+          + Massages
+          + Spas
+     * PSYCHO-SEXO
+          + Actu
+          + Sexualité
+          + Kamasutra
+          + Fantasmes
+          + Couple
+          + Célibataires
+          + C'est mon histoire
+          + Tests & Quiz Psycho-Sexo
+          + Psycho
+     * ASTRO
+          + Horoscope
+               o Horoscope 2026
+               o Horoscope du jour
+               o Horoscope de demain
+               o Horoscope de la semaine
+               o Horoscope du mois
+               o Caractère des signes
+               o Horoscope amoureux
+               o Horoscope Saint Valentin
+               o Calcul ascendant
+          + Horoscope Chinois
+               o Horoscope chinois 2025
+               o Horoscope chinois du jour
+               o Horoscope chinois de la semaine
+               o Caractère des signes chinois
+          + Amour
+               o Compatibilité amoureuse
+               o Compatibilité des prénoms
+               o Profil sexuel
+               o Personnalité des prénoms
+               o Quel homme est il ?
+          + Tarots
+               o Tarot Oui/Non
+               o Tarot amour
+               o Tarot travail
+               o Tarot des stars
+          + Numérologie
+               o Numérologie 2026
+               o Numérologie du couple
+               o Profil numérologique
+               o Numérologie du travail
+               o Calcul chemin de vie
+          + Boule de Cristal
+          + Idées de prénoms
+     * MAMAN
+          + Actu
+          + Grossesse
+          + Conception
+          + Bébé
+          + Enfant
+          + Ado
+          + Famille
+          + Tests & Quiz Maman
+     * MARIAGE
+          + Robes de Mariée
+          + Actu
+          + Bagues et alliances
+          + Coiffures
+          + Mise en beauté
+          + Accessoires
+          + Préparatifs
+     * Noël
+     * TESTS & QUIZ
+     * NEWSLETTERS
+     * PODCASTS
+
+     * Elle
+     * Société
+     * Interviews
+
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+
+Comment gérer nos états d'âme ?
+
+   Comment gérer nos états d'âme ?
+   (BUTTON) Sauvegarder Sauvegardé
+   Lire dans l'app
+
+
+      Dans son nouveau livre*, le psychiatre Christophe André nous invite
+   à analyser nos humeurs pour gagner en bonheur. Interview. Laure Leter.
+
+
+
+
+
+
+      Qu'est-ce qu'un « état d'âme » ?
+
+
+
+
+
+   C'est notre météo mentale, notre climat intérieur, un mélange
+   d'émotions de faible intensité et de pensées vagabondes. C'est la
+   tranquillité, la bonne humeur, mais aussi l'inquiétude, le
+   ressentiment... Notre vie émotionnelle se déroule plus sous forme
+   d'états d'âme que d'émotions fortes. Nous passons, par exemple, plus de
+   temps sous l'emprise de l'agacement que sous celle de la colère. Comme
+   les états d'âme sont à la fois plus durables et moins intenses que les
+   émotions franches, nous en sous-estimons la puissance. Pourtant, une
+   petite culpabilité peut parfois nous pourrir la journée...
+
+
+
+
+
+      Beaucoup de nos tensions viendraient de ce manque de conscience de
+   l'importance, voire de l'existence, de nos états d'âme ?
+
+
+
+
+
+   Oui, car, finalement, nous prenons rarement le temps de nous pencher
+   sur notre intériorité. C'est pourquoi nous manquons de savoir-faire
+   face à nos états d'âme. Bien souvent, nous apportons aux problèmes
+   qu'ils soulèvent de mauvaises réponses : par exemple, si j'ai un peu de
+   spleen, je grignote, j'achète un sac... En refusant de les examiner,
+   nous naviguons en permanence entre deux écueils : les fuir (dans
+   l'action, la consommation, le sport, le bavardage...) ou nous y noyer
+   en les ressassant en boucle.
+
+
+
+
+
+      Les ruminations sont-elles des états d'âme mal gérés ?
+
+
+
+
+
+   Oui, car ce qui n'est pas résolu tourne dans notre esprit pendant nos
+   activités quotidiennes sous forme de petits bouts de pensées
+   inachevées. C'est un peu comme ne pas raccrocher son téléphone. Cela
+   nous conduit à être « ailleurs » : nous ne retrouvons plus nos
+   affaires, nous n'écoutons pas les gens qui nous parlent... Nous croyons
+   réfléchir, alors que nous évitons toute décision. La question centrale
+   de la rumination, c'est « pourquoi ? » (« j'ai fait ci, je n'ai pas
+   fait ça »). Alors que la meilleure question pour y voir plus clair,
+   c'est « comment ? » (« comment suis-je en train de fonctionner, comment
+   faire pour aller mieux ? »).
+
+
+
+
+
+      Ruminer, c'est donc une façon de ne pas accepter ce qui est ?
+
+
+
+
+
+   Exactement. Sur un air de « j'aurais dû », nous voudrions que les
+   événements n'aient pas eu lieu ou qu'il existe une solution miracle.
+   Refuser une situation (un échec, une « mauvaise » décision...) ou un
+   ressenti (l'inquiétude, l'anxiété...) nous condamne à en rester
+   prisonniers. En travaillant sur nos états d'âme, en les acceptant, nous
+   pouvons renoncer aux solutions idéales et voir ce qui est à notre
+   portée sur le moment pour avancer.
+
+
+
+
+
+      Développer la conscience de soi, ça s'apprend ?
+
+
+
+
+
+   Bien sûr, l'introspection se travaille beaucoup plus qu'on ne le pense.
+   Comme le piano, le golf ou l'anglais. Nous croyons être entièrement
+   maîtres de notre esprit alors que nous fonctionnons bien souvent en
+   mode automatique. Les études montrent que l'observation attentive et
+   tranquille (sans ruminer) de nos états d'âme négatifs nous permet
+   d'être moins ballottés et malmenés par eux. Ce qu'on appelle maturité
+   repose, bien plus que sur nos compétences intellectuelles, sur cette
+   dimension émotionnelle, cette capacité à percevoir et à pacifier nos
+   mouvements intérieurs.
+
+
+
+
+
+   * « Les Etats d'âme. Un apprentissage de la sérénité » (éd. Odile
+   Jacob).
+
+
+
+    Par
+
+   La Rédaction
+   La Rédaction
+
+Toute l'actu Société
+
+     *
+   Le projet de loi visant à interdire les réseaux sociaux aux moins de 15
+       ans sera examiné début janvier
+       Le projet de loi visant à interdire les réseaux sociaux aux moins
+       de 15 ans sera examiné début janvier
+     *
+   « La boulangerie est ouverte », « Et c'est ok », « Dans la France à
+       Macron » ... on vous explique les expressions à la mode
+       Édition abonnées
+       « La boulangerie est ouverte », « Et c'est ok », « Dans la France à
+       Macron » ... on vous explique les expressions à la mode
+     *
+   Mort de Brigitte Bardot : pourquoi la classe politique se divise sur un
+       hommage national
+       Mort de Brigitte Bardot : pourquoi la classe politique se divise
+       sur un hommage national
+     *
+   Labubu, Crocs, chocolat de Dubaï... 9 tendances qui ont fait l'année
+       2025
+       Édition abonnées
+       Labubu, Crocs, chocolat de Dubaï... 9 tendances qui ont fait
+       l'année 2025
+     *
+   IVG, endométriose, violences... ce qui a changé pour les femmes à
+       travers le monde en 2025 IVG, endométriose, violences... ce qui a
+       changé pour les femmes à travers le monde en 2025
+
+   Toutes les infos Société
+
+À lire également
+
+     *
+   Des Fleurs de Bach pour accompagner un régime
+       Des Fleurs de Bach pour accompagner un régime
+     *
+   Passe ta joie !
+       Passe ta joie !
+     *
+   Amy, ses amours, ses emmerdes
+       Amy, ses amours, ses emmerdes
+
+   Article précédent
+
+   Les Français en panne de sommeil ?
+   Dans la tête des parents qui kidnappent leurs enfants
+
+   Article suivant
+
+   Dans la tête des parents qui kidnappent leurs enfants
+
+Les + populaires Société
+
+     *
+   1.
+       Mort du petit Émile : l'enquête s'accélère, la grand-mère veut
+       présenter des « éléments » à la justice
+     *
+   2.
+       À Paris, la première chocolaterie de Cédric Grolet cambriolée en
+       pleine période des fêtes
+     *
+   3.
+       Édition abonnées
+       De la précarité à l'homosexualité taboue, comment la jeune
+       génération se réapprorie le « mariage lavande » ?
+     *
+   4.
+       Brigitte Bardot : les prises de position polémiques d'une icône aux
+       multiples scandales
+     *
+   5.
+       Édition abonnées
+       « Elle restait sage, je ne voyais pas le mal » : reportage auprès
+       des enfants malades des écrans
+     *
+   6.
+       Ils ont choisi de passer le Nouvel An en solo : « J'ai prévu de
+       traîner sur YouTube et de dormir »
+     *
+   7.
+       Mort de Brigitte Bardot : pourquoi la classe politique se divise
+       sur un hommage national
+     *
+   8.
+       Mélanie Fleury, la diabolique de l'Aigle
+
+   Teaser promo Teaser promo Teaser promo
+
+   Horoscope 2026 abonnement numérique
+
+   (BUTTON)
+
+   Haut de page
+   ELLE, le magazine de toute l'actualité des femmes
+
+Suivez-nous
+
+     * Lien vers réseau social facebook
+     * Lien vers réseau social twitter
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social youtube
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+Newsletter Société & Débats
+
+   Je m'inscris
+
+Contacts
+
+     * Annonceurs
+     * Abonnez-vous
+     * La rédaction
+
+     * Nos RSS
+     * Mentions légales et CGU
+     * Données personnelles et cookies
+     * (BUTTON) Gérer mes cookies
+     * Conditions Générales de Vente
+     * Foire aux Questions
+     * Le groupe CMI France
+     * CMI Media
+     * ELLE International
