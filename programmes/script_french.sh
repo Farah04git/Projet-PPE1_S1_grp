@@ -61,10 +61,6 @@ TAB_HTML=$(
 	echo "<td>" "Concordancier HTML" "</td>"
 
 	echo "</tr>"
-	echo "</table>"
-	echo "</body>"
-	echo "</html>"
-
 )
 
 echo "$TAB_HTML" > "$DIR_HTML_OUT"
@@ -123,10 +119,20 @@ while read -r URL ; do
 	echo "$total_occurences"
 	
 
+	echo "<tr>" >> "$DIR_HTML_OUT"
+	echo "<td>" "$ID" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\"$URL\" >Lien internet</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "$http_code" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "$encoding" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "$total_occurences" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_html\" >html</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_dump\" >html</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "</tr>" >> "$DIR_HTML_OUT"
+	
 	((ID++))
-
-	
-	
 
 
 done < "$URL_FILE" 
+
+echo "</table>" >> "$DIR_HTML_OUT"
+echo "</body></html>" >> "$DIR_HTML_OUT"

@@ -4,8 +4,7 @@
    31
 
    L'info du Jour
-   Dernier jour 2025 pour faire un don défiscalisé aux associations du
-   Droit !
+   Le Village vous propose ses ecartes de veux Spéciales Droit
    retour accueil village
    Publicité
    X
@@ -515,16 +514,16 @@ Par Claire Dewerdt, Avocat.
    Grand excès de vitesse : la fin des contraventions, place au tribunal
    correctionnel ? 100
    La communication de pièces par lien de téléchargement est-elle
-   régulière ? 61
+   régulière ? 64
    L'IA peut-elle simplifier et améliorer la recherche juridique ? Ce
    qu'en pensent les juristes... 42
    Licenciement résultant d'informations obtenues par l'employeur du
    médecin traitant d'un salarié = motif contaminant rendant nul et de nul
    effet le licenciement. 38
-   Discrimination syndicale et production de preuves en 2026. 29
-   Le décret Rivage : une réforme controversée du filtrage des appels. 29
+   Le décret Rivage : une réforme controversée du filtrage des appels. 31
+   Discrimination syndicale et production de preuves en 2026. 31
    Marchés publics 2026 : vers une simplification historique pour les PME
-   et les acheteurs locaux ! 27
+   et les acheteurs locaux ! 29
 
    Annonces d'Emploi
 
@@ -605,16 +604,30 @@ Par Claire Dewerdt, Avocat.
 
    PROFESSIONNELS DU DROIT
    Previous Next
+   Facilite l'accès aux professions du Droit
 
 
+   Facilite l'accès aux professions du Droit
+   Procédure d'appel, procédure civile, conseil, contentieux, modes
+   amiables
+
+
+   Procédure d'appel, procédure civile, conseil, contentieux, modes
+   amiables
+   Cabinet d'Avocats
+
+
+   Cabinet d'Avocats
    Bien plus que du droit.
 
 
    Bien plus que du droit.
-   Réseau de professionnels du Droit
 
 
-   Réseau de professionnels du Droit
+   Collectif d'avocats et de médiateurs
+
+
+   Collectif d'avocats et de médiateurs
    Cabinet d'avocat
 
 
@@ -627,24 +640,10 @@ Par Claire Dewerdt, Avocat.
 
 
    Association pour la prévention positive des cyberviolences
-   Facilite l'accès aux professions du Droit
+   Réseau de professionnels du Droit
 
 
-   Facilite l'accès aux professions du Droit
-   Cabinet d'Avocats
-
-
-   Cabinet d'Avocats
-   Collectif d'avocats et de médiateurs
-
-
-   Collectif d'avocats et de médiateurs
-   Procédure d'appel, procédure civile, conseil, contentieux, modes
-   amiables
-
-
-   Procédure d'appel, procédure civile, conseil, contentieux, modes
-   amiables
+   Réseau de professionnels du Droit
 
    Solutions
    Previous Next
@@ -653,46 +652,46 @@ Par Claire Dewerdt, Avocat.
    Créateur de confiance juridique
 
 
-   1er service entièrement en ligne pour externaliser vos appels
-
-
-   Lettre recommandée électronique
-
-
-   AI-powered Contract Management
-
-
-   Destruction et recyclage de documents confidentiels
+   Traducteurs assermentés
 
 
    Maintenance informatique spécialisée pour les professionnels du droit
 
 
-   Logiciels pour professionnels du droit.
+   Aides et Conseils à l'installation des avocats.
 
 
    Offres pour les métiers du droit
 
 
-   Editeur juridique et de solutions de gestion pour les métiers du droit
-
-
    Editeur juridique
 
 
-   Aides et Conseils à l'installation des avocats.
+   Logiciels pour professionnels du droit.
 
 
-   Logiciels de conformité, risques et éthique
-
-
-   Traducteurs assermentés
+   Editeur juridique et de solutions de gestion pour les métiers du droit
 
 
    Association de gestion et de comptabilité pour Avocats
 
 
+   Destruction et recyclage de documents confidentiels
+
+
    Solutions d'informations pour professionnels du droit.
+
+
+   Lettre recommandée électronique
+
+
+   Logiciels de conformité, risques et éthique
+
+
+   AI-powered Contract Management
+
+
+   1er service entièrement en ligne pour externaliser vos appels
 
    Formateurs
    Previous Next
@@ -700,10 +699,22 @@ Par Claire Dewerdt, Avocat.
 
 
    Formation, recherche et innovation
+   Se former aux métiers du Droit
+
+
+   Se former aux métiers du Droit
    Cabinet juridique et organisme de formation
 
 
    Cabinet juridique et organisme de formation
+   La Compétence juridique se recrute !
+
+
+   La Compétence juridique se recrute !
+   Des formations spécialisées
+
+
+   Des formations spécialisées
    Se former est une chance !
 
 
@@ -712,22 +723,10 @@ Par Claire Dewerdt, Avocat.
 
 
    Formations courtes ou longues à destination des professionnels du droit
-   Des formations spécialisées
-
-
-   Des formations spécialisées
    L'école des nouveaux juristes !
 
 
    L'école des nouveaux juristes !
-   La Compétence juridique se recrute !
-
-
-   La Compétence juridique se recrute !
-   Se former aux métiers du Droit
-
-
-   Se former aux métiers du Droit
 
    Nouveautés Édition juridique
    Nouveauté Livre
@@ -801,11 +800,11 @@ Au sommaire de cet article :
 
    - intelligence artificielle - droit du travail - droit pénal -
    propriété intellectuelle - protection des données personnelles -
-   médiation - copropriété - responsabilité civile - procédure civile -
-   preuve - protection des données - licenciement - responsabilité
-   bancaire - formation professionnelle - prescription - sécurité
-   juridique - procédure pénale - contentieux administratif - contrat de
-   travail - indemnisation
+   médiation - responsabilité civile - procédure civile - copropriété -
+   preuve - formation professionnelle - protection des données -
+   licenciement - responsabilité bancaire - sécurité juridique - procédure
+   pénale - prescription - contentieux administratif - contrat de travail
+   - discrimination
 
    D'autres sites du réseau Legi Team
 
