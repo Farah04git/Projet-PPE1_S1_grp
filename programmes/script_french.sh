@@ -7,7 +7,7 @@ ID=1
 
 DIR_ASPI="./aspirations/français"
 DIR_CONTXT="./contextes"
-DIR_DUMP="./dumps-text/francais/"
+DIR_DUMP="./dumps-text/français/"
 DIR_CONCORD="./concordances"
 DIR_HTML_OUT="./tableaux/état_français.html"
 
@@ -87,6 +87,8 @@ while read -r URL ; do
 	# HTML + écriture dans fichiers aspiration
 	html_full=$(echo "$full_response" | sed -n '/^[[:space:]]*</,$p')
 	filename_aspiration="$DIR_ASPI/fr-$ID.html"
+
+	echo "$html_full" > "$filename_aspiration"
 
 	# Détection encodage UTF-8
 	encoding=$(echo "$html_full" | grep -i -o 'UTF-8' | head -1)

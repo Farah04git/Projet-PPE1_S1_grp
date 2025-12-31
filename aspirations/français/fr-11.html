@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage"> 
+<!-- infos siteWeb: Larousse[.fr/.com] -->
+<!-- hostName: [https://www.larousse.fr], machineName: [HLAZPLARWFO01], dateTime: [31/12/2025 15:29:56] -->
+<script>
+    // Problème compatiblitiy [<head></head>] & [Modify by C#]
+    dataLayer = [{'lang':"fr", 'page_type':"editorial", 'page_category':"encyclopedie", 'page_subcategory':""}, { advertisement: {env: 'production', brand: {name: 'Larousse', abbr: 'lar', domain: 'larousse.fr', subDomain: 'www', isPrisma: false}, page: {path: '/', contentObjectId: '', pageType: "Article", pageCategory: "article-media-encyclopedie", pageSubCategory: "content", title: "", author: "", keywords: ""}} }];      // (DataLayer GTM: Default + Prisma)        
+</script>
+<head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8" /><meta name="author" content="Éditions Larousse" /><meta name="tdm-reservation" content="1" /><meta name="viewport" content="width=device-width, initial-scale=1" http-equiv="Content-Type" /><title>
+	État - LAROUSSE
+</title>
+
+    <!-- JQuery core JavaScript -->
+    <!-- ###################### -->
+    <!-- !!! import jquery in TOP Header !!! (JS default for all Library & *.aspx) -->
+    <!-- <script type="text/javascript" src="/library-web/jquery/jquery-1.9.1.min.js"></script> -->                 <!-- src="/library-web/jquery/jquery-1.9.1.js" -->
+    <!-- CDN=[code.jquery.com]:jquery-3.6.0.min.js (!!! < jquery-3.0.0 = conflict slick >>> jquery-migrate !!!)-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.3.2.min.js" integrity="sha256-Ap4KLoCf1rXb52q+i3p0k2vjBsmownyBTE1EqlRiMwA=" crossorigin="anonymous"></script>
+
+    <!-- intégration[v.PROD/v.RECE]: régisPub + CNIL(v.OneTrust) -->
+    <!-- ####################################################### -->
+    <!-- JS-link larousse-CNIL pour gestion GTM (régisPub, GA, réseauxSociaux, ...) -->
+    <!-- -------------------------------------------------------------------------- -->
+    <script src="/library-web/larcom/cnil/htmlParser.js"></script>
+    <script src="/library-web/larcom/cnil/postscribe.js"></script>
+
+    <!-- Démarrage de notification de consentement aux cookies de OneTrust -->
+    <!-- ----------------------------------------------------------------- -->
+    <!-- Début de la mention OneTrust de consentement aux cookies du domaine : larousse.fr -->
+    <!-- call OneTrust [!!! v.PROD !!!]     =>  (data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1) -->
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1"></script>
+    <!-- call OneTrust [!!! v.RECE/DEV !!!] =>  (data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1-test") -->
+    <!-- <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1-test"></script> -->
+    <!-- OneTrust OptanonWrapper() -->
+    <script type="text/javascript">
+        function OptanonWrapper() { 
+          if(!getCookieOT("OptanonAlertBoxClosed")){
+            var newButton =  document.createElement("button") // Create a button 
+            newButton.setAttribute("id", "onetrust-reject-all-handler") // Name the button + pick up style as per template
+            newButton.onclick = function(one){
+                OneTrust.RejectAll();
+            }
+            newButton.innerText = Optanon.GetDomainData().BannerRejectAllButtonText;// Add text to button
+            document.getElementById("onetrust-policy").prepend(newButton) // Place button
+          }
+        }
+        function getCookieOT(name) {
+          var value = "; " + document.cookie;
+          var parts = value.split("; " + name + "=");
+          if (parts.length >= 2) return parts.pop().split(";").shift();
+        }
+    </script>
+    <!-- Fin de la mention OneTrust de consentement aux cookies du domaine : larousse.fr -->
+
+    <!-- ### dataLayer [GTM] stats Hachette #### -->
+    <!-- #######################################  -->
+    <script>
+        <!-- call GTM [v.PROD = GTM-TB2J4SG] / [v.RECE = GTM-W4VMQ8H] / [v.COM = GTM-WBCT33T] -->
+        (function(w,d,s,l,i){
+                w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+                j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+                f.parentNode.insertBefore(j,f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TB2J4SG');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Appel JavaScript-Vidéo [régisPub: VIOUSLY] -->
+    <!-- <script async id="xieg6Sie" src="https://cdn.viously.com/js/sdk/boot.js"></script>-->
+
+    <!-- CSS (bootstrap) -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/bootstrap/css/bootstrap.min.css" /> -->          <!-- href="/library-web/bootstrap/css/bootstrap.css" -->
+    <!-- CDN=[cdn.jsdelivr.net]: bootstrap@4.6.0 [CSS] -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" /> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous" />
+    <!-- CSS (mdb) (!pb:navbar menuBurger & dropdown!)-->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/mdb/css/mdb.min.css" />-->                       <!-- href="/library-web/mdb/css/mdb.css" -->
+    <!-- CSS (slick) -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/slick/slick.css"" /> -->                         <!-- href="./../assets/library/slick/slick.css" -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/slick/slick-theme.css" /> -->                     <!-- href="./../assets/library/slick/slick-theme.css" -->
+    <link rel="stylesheet" type="text/css" href="/library-web/slick/slick.min.css" />                                <!-- slick.min.css = [slick]+[slick-theme] (minifier) -->
+
+    <!-- CSS (font-awesome/fontello)-->
+    <!--<link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/font-awesome.min.css" />-->  <!-- unused font awesome -->
+    <link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/font-collect.css" />
+
+    <!-- CSS (larousse-masterpage)-->
+    <link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/masterpage.css" />               <!-- pb: header, wrapper, footer, lar-grid-, etc...-->
+    
+    <!-- conflit CSS -->
+    <style>
+        /*conflit CSS (bootstrap - MDB)*/
+        .navbar{
+            box-shadow:none;
+        }   
+        /* SLICK */
+        .slick-slide {
+            outline: none !important;
+        }
+    </style>
+
+    
+    
+    
+  
+    
+    <link rel="shortcut icon" href="/encyclopedie/assets/img/favicon.ico" />
+
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="/encyclopedie/assets/css/article.202401161501.css">
+    <link rel="stylesheet" href="/encyclopedie/assets/css/content.202401161501.css">
+
+    
+    <script src="/encyclopedie/assets/js/encyclopedie.202001271425.js"></script>  
+    <script src="/encyclopedie/assets/js/content.202001141318.js"></script> 
+
+   
+    
+
+<meta property="og:title" content="État - LAROUSSE" />
+<meta itemprop="name" content="État - LAROUSSE" />
+<meta name="description" content="On distingue principalement deux types d’État selon leur degré d’unification : l’État fédéral et l’État unitaire L'État unitaire centralisé est celui où l'application d'une loi identique à tous les citoyens est assurée et garantie par la concentration du pouvoir au seul échelon national Il en résulte une réduction proportionnelle de l'autonomie des collectivités territoriales..." />
+<meta property="og:description" content="On distingue principalement deux types d’État selon leur degré d’unification : l’État fédéral et l’État unitaire L'État unitaire centralisé est celui où l'application d'une loi identique à tous les citoyens est assurée et garantie par la concentration du pouvoir au seul échelon national Il en résulte une réduction proportionnelle de l'autonomie des collectivités territoriales..." />
+<meta itemprop="description" content="On distingue principalement deux types d’État selon leur degré d’unification : l’État fédéral et l’État unitaire L'État unitaire centralisé est celui où l'application d'une loi identique à tous les citoyens est assurée et garantie par la concentration du pouvoir au seul échelon national Il en résulte une réduction proportionnelle de l'autonomie des collectivités territoriales..." />
+<link rel="canonical" href="https://www.larousse.fr/encyclopedie/divers/%C3%89tat/49636" />
+<meta property="og:url" content="https://www.larousse.fr/encyclopedie/divers/%C3%89tat/49636" />
+<meta itemprop="url" content="https://www.larousse.fr/encyclopedie/divers/%C3%89tat/49636" />
+<meta name="keywords" content="État, citoyenneté, Révolution, Ancien Régime, décentralisation, commune, département, Région, souveraineté, Cour suprême des États-Unis, Hegel, principe des nationalités, nation, démocratie, Sécurité sociale, retraite, assurance-chômage, politique sociale, John Maynard Keynes, New Deal, Roosevelt, William Beveridge, Winston Churchill, croissance, Trente Glorieuses, égalité, intérêt général, mondialisation, Organisation de coopération et de développement économiques OCDE, keynésianisme, monétarisme, marché, flexibilité, Reagan, Margaret Thatcher, services publics, guerre froide, Balkans, minorités nationales, Mezzogiorno, Catalogne, Pays basque, Union européenne, Organisation des Nations unies ONU, Organisation mondiale du commerce OMC, Fonds monétaire international FMI, Cour internationale de justice CIJ, Cour pénale internationale CPI, justice internationale, droits de l'homme, crimes contre l'humanité, société, libéralisme, pays émergents, solidarité, inégalités, entreprise, élection, représentation, numérique, Internet, concurrence" />
+<meta property="og:image" content="https://www.larousse.fr/encyclopedie/data/vignettes/1311761-Sculpture_repr%c3%a9sentant_le_buste_de_Marianne.jpg" />
+<meta itemprop="image" content="https://www.larousse.fr/encyclopedie/data/vignettes/1311761-Sculpture_repr%c3%a9sentant_le_buste_de_Marianne.jpg" />
+<meta name="robots" content="index,follow" />
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <!-- call GTM [v.PROD = GTM-TB2J4SG] / [v.RECE = GTM-W4VMQ8H]  / [v.COM = GTM-WBCT33T]-->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TB2J4SG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="page">
+        <!-- ####### HEADER ####### -->
+        <div id="header" class="header">
+            <!-- NAVBAR: TOP LAROUSSE (Login, Social, Culture) -->
+            <!--------------------------------------------------->
+            <div class="navbar navbar-inverse navbar-default lar-navbar-top visible-lg">    <!-- navbar-fixed-top  <<<>>> navbar-default -->
+                <div class="container">
+                    <div id="navtop" class="navbar-collapse collapse">
+                         <ul class="lar-culture nav navbar-nav navbar-right">
+                            <li class="culture-en">
+                                <a onclick="changeCulture('en')">EN</a>          <!-- https://www.larousse.com/en/ -->
+                                <img src="/dictionnaires/assets/img/flag-en.png" alt="image" draggable="false"/>
+                            </li>    
+                            <li class="culture-es">
+                                <a onclick="changeCulture('es')">ES</a>          <!-- https://www.larousse.com/es/ -->
+                                <img src="/dictionnaires/assets/img/flag-es.png" alt="image" draggable="false"/>
+                            </li>   
+                            <li class="culture-de">
+                                <a onclick="changeCulture('de')">DE</a>          <!-- https://www.larousse.com/de/ -->
+                                <img src="/dictionnaires/assets/img/flag-de.png" alt="image" draggable="false"/>
+                            </li>    
+                            <li class="culture-it">
+                                <a onclick="changeCulture('it')">IT</a>          <!-- https://www.larousse.com/it/ -->
+                                <img src="/dictionnaires/assets/img/flag-it.png" alt="image" draggable="false"/>
+                            </li>    
+                            
+                        </ul> 
+                         <ul class="lar-social nav navbar-nav navbar-right">
+                            <li><a href="https://www.facebook.com/larousse.fr" target="_blank">&#xf09a;</a></li>
+                            <li><a href="https://x.com/larousse_fr" target="_blank"><img class="logo-x" src="/library-web/larcom/masterpage/img/logo-X.png" /></a></li> 
+                            <li><a href="https://www.instagram.com/editionslarousse/" target="_blank">&#xf16d;</a></li>
+                            <li><a href="https://fr.linkedin.com/company/larousse" target="_blank">&#xf0e1;</a></li>
+                            
+                        </ul>                   
+                        <ul class="lar-login nav navbar-nav navbar-right">
+                            <li><div id="auth-widget-topbar"></div></li>                   <!-- POOOL  connexion (subscription) -->
+                            <li><a href="https://www.editions-larousse.fr/newsletter">Newsletter</a></li>
+                        </ul>   
+                    </div>
+                </div>
+            </div>
+             <!-- NAVBAR: SEARCH (Labelle, saisie Recherche -->
+             <!----------------------------------------------->
+             <div class="lar-searchbar visible-lg">
+                <a class="bt-home"  href="/">LAROUSSE</a>
+                <div class="zone-search">
+                    <input type="search" class="lar-searchtxt" onkeydown="inputKeydownHeader(false,'\\encyclopedie\\rechercher\\')" placeholder="Rechercher dans l'encyclopédie..."/>
+                    <button class="lar-searchbt"  onclick="onSearchHeader(false,'\\encyclopedie\\rechercher\\');">&#xe81e;</button>
+                </div>
+            </div>
+            <!-- NAVBAR: MENU (nav module: encyclo, dicos, cuisine, etc...) -->
+            <!---------------------------------------------------------------->
+            <div class="navbar navbar-default lar-navbar-menu">
+                <div class="container">
+                     <div class="navbar-header">
+                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navmenu">   
+                             <span class="sr-only">Toggle navigation</span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                         </button>
+                         <div class="lar-searchbar search-toggle hidden-lg">
+                            <div><a class="bt-home" href="/">LAROUSSE</a></div>
+                            <span><button class="lar-switchbt lar-openbt" onclick="openSearch()">&#xe81e;</button></span>
+                            <span><button class="lar-switchbt lar-closebt" onclick="closeSearch()">&#xe833;</button></span>
+                            <div class="switch-search">
+                                <input type="search" class="lar-searchtxt" onkeydown="inputKeydownHeader(true,'\\encyclopedie\\rechercher\\')" placeholder="Rechercher dans l'encyclopédie..."/>
+                                <button class="lar-searchbt" onclick="onSearchHeader(true,'\\encyclopedie\\rechercher\\');">&#xe81e;</button>
+                            </div>
+                       </div> 
+                     </div>
+            
+                     <div id="navmenu" class="navbar-collapse collapse">
+                         <ul class="lar-menu nav navbar-nav navbar-left">
+                             <li id="olf"><a href="/dictionnaires/francais"><span class="icon-menu dropdown-submenu hidden-lg">&#xe80a;</span>LANGUE FRANÇAISE</a></li>
+                             <li id="bil"><a href="/dictionnaires/bilingues"><span class="icon-menu hidden-lg">&#xe804;</span>BILINGUES</a></li>
+                             <li id="flashcards"><a href="/flashcards"><span class="icon-menu hidden-lg">&#xe80d;</span>FLASHCARDS</a></li>
+                             <li id="traductor"><a href="/traducteur"><span class="icon-menu hidden-lg">&#xe822;</span>TRADUCTEUR</a></li>
+                             <li id="conj"><a href="/conjugaison"><span class="icon-menu hidden-lg">&#xe805;</span>CONJUGATEUR</a></li>
+                             <li id="encyclo"><a href="/encyclopedie"><span class="icon-menu hidden-lg">&#xe819;</span>ENCYCLOPÉDIE</a></li>
+                             <li id="cook"><a href="https://www.editions-larousse.fr/recettes/"><span class="icon-menu hidden-lg">&#xe809;</span>CUISINE</a></li>
+                             
+                             <li id="jeux"><a href="https://jeux.larousse.fr"><span class="icon-menu hidden-lg">&#xe812;</span>JEUX</a></li>
+                             
+                             <li id="books"><a href="https://www.editions-larousse.fr"><span class="icon-menu hidden-lg">&#xe815;</span>LIVRES</a></li>
+                         </ul>    
+                         <ul class="lar-login  hidden-lg">
+                            <li><div id="auth-widget-menuburger"></div></li>                   <!-- POOOL  connexion (subscription) -->
+                            <li><a href="https://www.editions-larousse.fr/newsletter">Newsletter</a></li>
+                        </ul>  
+                        <ul class="lar-social  hidden-lg">
+                            <li style="width:100%"> 
+                                <span>Suivez nous:</span>
+                                <a href="https://www.facebook.com/larousse.fr">&#xf09a;</a>
+                                <a href="https://x.com/larousse_fr"><img class="logo-x" src="/library-web/larcom/masterpage/img/logo-X.png" /></a>  
+                                <a href="https://www.instagram.com/editionslarousse/">&#xf16d;</a>
+                                <a href="https://fr.linkedin.com/company/larousse">&#xf0e1;</a>
+                                
+                            </li>
+                        </ul>  
+                        <ul class="lar-culture  hidden-lg">
+                            <li style="width:100%"> 
+                                <a href="https://www.larousse.com/en/"  asp-action="culture_en">EN</a>
+                                <a href="https://www.larousse.com/es/"  asp-action="culture_es">ES</a>
+                                <a href="https://www.larousse.com/de/"  asp-action="culture_de">DE</a>
+                                <a href="https://www.larousse.com/it/"  asp-action="culture_it">IT</a>
+                                
+                           </li>
+                        </ul> 
+                     </div>  
+                </div>
+            </div>
+        </div>  
+        <!-- BANIERE(730 x 90) PUB TOP -->
+        <div class="pub-top oast">
+                
+        </div>
+        <!--FIL ARIANE -->
+        <div id="breadcrumb" class="breadcrumb">
+                <div><a href="https://www.larousse.fr">Accueil</a>&nbsp;>&nbsp;<a href="/encyclopedie"><b>Encyclopédie [divers] </b></a> > <b>État</b></div>
+        </div>
+        <!-- ####### HEADER ####### -->
+      
+        <!-- ### Zone POOOL WIDGET ### -->
+        <div id="poool-widget">
+            <!-- votre paywall sera affiché ici --> 
+        </div>     
+
+        
+        
+        
+          
+    <div id="Wrapper" class="wrapper">
+         
+         
+         
+        
+        
+          
+    
+    <div class="row">
+
+        <div class="zone-content col-md-8">
+            <article class="content" id="31250" idc="49636" class="content" role="article">
+	<header>
+		<h1 class="strong">État</h1>
+	<figure class="img-ref"><a href="/encyclopedie/images/Sculpture_repr%C3%A9sentant_le_buste_de_Marianne/1311761"><img src="/encyclopedie/data/vignettes/1311761-Sculpture_repr%c3%a9sentant_le_buste_de_Marianne.jpg" alt="Sculpture représentant le buste de Marianne" title="Sculpture représentant le buste de Marianne"></a><figcaption>Sculpture représentant le buste de Marianne</figcaption></figure></header><aside class="redirect">Consulter aussi dans le dictionnaire : <a href="/dictionnaires/francais/%C3%89tat/31318">État</a></aside>
+	<aside class="renvoi-dossier">Cet article fait partie du <small>dossier</small> consacré à la <a href="/encyclopedie/divers/citoyennet%C3%A9/184341" data-ref="4-184341">citoyenneté</a>.
+	<aside class="dossier" role="complementary" data-ref="4-184341">
+	<p class="info">Pour avoir une vue d'ensemble sur la <b>citoyenneté</b>, consultez en priorité les articles suivants du dossier en cliquant sur celui de votre choix : </p>
+	<ul>
+		<li><a href="/encyclopedie/divers/citoyennet%C3%A9/34196"><b>citoyenneté</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/association/187188"><b>association</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/d%C3%A9mocratie/41420"><b>démocratie</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/%C3%A9lection/46155"><b>élection</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/%C3%89tat/49636"><b>État</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/%C3%A9tat_civil/185918"><b>état civil</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/nation/72712"><b>nation</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/nationalit%C3%A9/72722"><b>nationalité</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/s%C3%A9curit%C3%A9_sociale/90924"><b>sécurité sociale</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/service_public/187160"><b>service public</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/solidarit%C3%A9/92488"><b>solidarité</b></a>
+		</li>
+		<li><a href="/encyclopedie/divers/syndicat/95343"><b>syndicat</b></a>
+		</li>
+	</ul>
+</aside></aside>
+	<p class="definition">
+	<h2 class="h3" id="912801">1. Les formes de l’État</h2>
+	<p>On distingue principalement deux types d’État selon leur degré d’unification : l’État fédéral et l’État unitaire.</p>
+	<h3 class="h4" id="10954514">1.1. L'État unitaire</h3>
+	<section class="gallery right one">
+		<figure class="sel"><a href="/encyclopedie/images/Sculpture_repr%C3%A9sentant_le_buste_de_Marianne/1311761"><img src="/encyclopedie/data/images/1311761-Sculpture_repr%c3%a9sentant_le_buste_de_Marianne.jpg" alt="Sculpture représentant le buste de Marianne" title="Sculpture représentant le buste de Marianne"></a><figcaption>Sculpture représentant le buste de Marianne</figcaption></figure>
+	</section>
+	<p>L'État unitaire centralisé est celui où l'application d'une loi identique à tous les citoyens est assurée et garantie par la <b>concentration du pouvoir au seul échelon national</b>. Il en résulte une réduction proportionnelle de l'autonomie des collectivités territoriales. En France, la <a href="/encyclopedie/divers/R%C3%A9volution_fran%C3%A7aise/140733">Révolution</a>, en supprimant tous les corps intermédiaires entre l'individu et l'État, et en proclamant l'unité et l'indivisibilité de la République, avait poussé à l'extrême un mouvement de centralisation déjà manifeste sous l'<a href="/encyclopedie/divers/Ancien_R%C3%A9gime/105343">Ancien Régime</a>.</p>
+	<p class="alinea">L'État unitaire décentralisé est celui où le même principe d'identité de la loi apparaît compatible avec une <a href="/encyclopedie/divers/d%C3%A9centralisation/40070">décentralisation</a>, qui peut être territoriale ou fonctionnelle : en France, la <a href="/encyclopedie/divers/commune/35545">commune</a>, le <a href="/encyclopedie/divers/d%C3%A9partement/41697">département</a> et la <a href="/encyclopedie/divers/r%C3%A9gion/86826">Région</a> possèdent de réelles prérogatives ; en Espagne ont été créées les communautés autonomes.</p>
+	<h3 class="h4" id="912804">1.2. L'État fédéral</h3>
+	<p>Le fédéralisme est un <b>système de gouvernement à deux degrés</b>. La fédération est formée de plusieurs États ou provinces, régis entre eux par une loi interne et disposant d'une relative <a href="/encyclopedie/divers/souverainet%C3%A9/93195">souveraineté</a>. Ainsi, ils possèdent leur propre législation civile et pénale, leur propre organisation judiciaire, de même qu'ils administrent les questions d'éducation et de santé. En fait, c'est la Constitution de l'État fédéral qui fixe les compétences dévolues à chaque État fédéré et les compétences communes.</p>
+	<p class="alinea">L'État fédéral est représenté sur tous les continents ; c’est par exemple la forme étatique de l'Allemagne, de la Belgique, de la Suisse (confédération à l'origine, d'où son nom de Confédération helvétique), de la Russie, du Canada, des États-Unis, du Mexique, du Cameroun ou de l'Inde.</p>
+	<p class="alinea">Indépendamment de l'<b>autonomie des États fédérés</b>, on retrouve de nombreux traits communs dans l'organisation des fédérations. Les États fédérés ont notamment des institutions similaires à celles de l'État fédéral. Au Canada, par exemple, chaque province est gouvernée selon le système parlementaire ; aux États-Unis, au contraire, chaque État est organisé selon le régime présidentiel. En outre, les États fédérés sont toujours représentés au niveau fédéral par une deuxième chambre parlementaire, souvent appelée Sénat. À l'intérieur de ce Sénat, les États sont représentés soit égalitairement – comme aux États-Unis, où il y a deux sénateurs par État quelle que soit sa population –, soit inégalement – comme au Canada (vingt-quatre sénateurs pour l'Ontario et le Québec, dix, six ou quatre pour les autres provinces). Enfin, il existe généralement dans les États fédéraux une Cour suprême, qui règle les litiges soulevés par l'interprétation de la Constitution dans les rapports entre la fédération et les États (&#x2192;&nbsp;<a href="/encyclopedie/divers/Cour_supr%C3%AAme_des_%C3%89tats-Unis/114929">Cour suprême des États-Unis</a>).</p>
+	<h3 class="h4" id="912805">1.3. L'État confédéral</h3>
+	<p>C'est une association d'États indépendants qui délèguent certaines de leurs compétences à un pouvoir central commun, dont les décisions doivent être prises à l'unanimité. Telle était la Suisse à l'origine. La complexité structurelle d'un État moderne a fait évoluer dans la quasi-totalité des cas la forme « confédérale » vers la forme « fédérale ».</p>
+	<h2 class="h3" id="912802">2. Les fondements de l'État</h2>
+	<h3 class="h4" id="912807">2.1. Les fonctions de l’État</h3>
+	<p>Un État est constitué d'<b>une population</b>, d'<b>un territoire</b> et d'<b>une organisation commune</b>. L'État est l'institution qui détient le pouvoir sur la population et son (ou ses) territoire(s). L’État a revêtu de multiples formes au cours de l'histoire : cité-État ou État-nation, État théocratique, totalitaire, démocratique… Dans tous les cas, l'État doit défendre et protéger ses membres, individus ou collectivités, et combattre ses ennemis, intérieurs et extérieurs. À cette vocation initiale se sont ajoutées, au fil des siècles, de nombreuses autres fonctions, économiques comme la redistribution des richesses parmi les membres de la société et la défense des intérêts des producteurs sur le marché international, mais aussi sociales, notamment la prise en charge de la santé publique et de l'éducation.</p>
+	<h3 class="h4" id="912808">2.2. Le modèle de l'État-nation</h3>
+	<p>Le concept d'« État-nation » – aboutissement d'une longue évolution – exprime une conception moderne de l'État (théorisée au <small>xix</small><sup>e</sup> s. par le philosophe allemand <a href="/encyclopedie/personnage/Georg_Wilhelm_Friedrich_Hegel/123458">Hegel</a>). Il se répand alors en Europe comme la forme accomplie de l’organisation politique (&#x2192;&nbsp;<a href="/encyclopedie/divers/nationalit%C3%A9/72722">principe des nationalités</a>). </p>
+	<p class="alinea">Au <small>xx</small><sup>e</sup> s., la <a href="/encyclopedie/divers/nation/72712">nation</a> s'est imposée, de manière quasi universelle, comme le seul fondement légitime de l'État – au moins dans les textes constitutifs des organisations internationales, qui consacrent le <b>principe du droit des peuples à disposer d'eux-mêmes</b>. En effet, la nation procède du peuple, lequel en <a href="/encyclopedie/divers/d%C3%A9mocratie/41420">démocratie</a> est détenteur de la souveraineté et de la légitimité du pouvoir. Pour être reconnue, une nation doit justifier d'une histoire et d'une langue communes, mais surtout de la <b>conscience de former une communauté spécifique</b>. Aussi l'État-nation peut-il être défini comme un type d'État au sein duquel la population estime dans sa grande majorité former une communauté et reconnaît comme légitimes les institutions qui la gouvernent.</p>
+	<h3 class="h4" id="912809">2.3. L'institution de l'État providence</h3>
+	<p>L'État providence trouve ses fondements idéologiques dans la <b>notion de bien-être</b> qu'il doit garantir à travers un ensemble d'institutions (<a href="/dictionnaires/francais/s%C3%A9curit%C3%A9/71792">Sécurité sociale</a>, caisses de <a href="/encyclopedie/divers/retraite/88092">retraite</a>, assurance-chômage…) mettant en œuvre la <a href="/dictionnaires/francais/social/73133">politique sociale</a> du gouvernement. Cet « État du bien-être » <i>(Welfare State)</i> a été l'un des aboutissements des luttes sociales du <small>xix</small><sup>e</sup> s. et de la première moitié du <small>xx</small><sup>e</sup> s. Il a représenté un compromis entre les forces du capital et celles du travail, et permis une redistribution des richesses plus équitable qu'auparavant.</p>
+	<p class="alinea">Dans le contexte de la crise économique de 1929, la théorie économique développée par <a href="/encyclopedie/personnage/John_Maynard_1_er_baron_Keynes/127345">John Maynard Keynes</a>, qui prône l’intervention de l'État et l’augmentation de la dépense publique pour remettre l’économie sur la voie du plein-emploi, se traduit d’abord aux États-Unis par l’adoption du <i>Social Security Act</i> (15 août 1935) dans le cadre du <a href="/encyclopedie/divers/New_Deal/135106">New Deal</a> (sous la présidence <a href="/encyclopedie/personnage/Franklin_Delano_Roosevelt/141469">Roosevelt</a>). Il s'agit de la mise en place d'un système national d'assurance vieillesse (pour les plus de 65 ans) accompagné d'une assurance-chômage, organisée librement par chaque État, sous le contrôle et, si nécessaire, avec l'aide financière du pouvoir fédéral.</p>
+	<p class="alinea">Le second temps fort pour l’avènement de l’État providence est celui de la publication, au Royaume-Uni, pendant la Seconde Guerre mondiale, du <b>rapport Beveridge</b>. Lord <a href="/encyclopedie/personnage/lord_William_Henry_Beveridge/108757">William Beveridge</a> avait été chargé en 1941, par le gouvernement de <a href="/encyclopedie/personnage/sir_Winston_Leonard_Spencer_Churchill/113615">Winston Churchill</a>, de rédiger un rapport sur l'organisation d'un système de sécurité sociale. Publié en 1942, son travail <i>(Social Insurance and Allied Service)</i> va servir de base à la mise en place de la législation britannique. Il donne un contenu à l'expression « sécurité sociale » utilisée par la loi américaine de 1935. Les principes en sont clairs : le système doit être généralisé (accès à l'aide sans discernement), unifié (une seule cotisation suffit pour accéder aux différentes aides), uniforme (les prestations de services sont identiques pour tous), centralisé (le système est géré par un organisme public unique) et global (le système rassemble toutes les formes d'aides et d'assurances). C'est bien d'une conception nouvelle de la <a href="/encyclopedie/divers/croissance/38632">croissance</a> économique et de l'organisation sociale qu'il s'agit : le rapport Beveridge est l'acte de naissance de l'État providence.</p>
+	<p class="alinea">Dans les démocraties libérales, la période dite des <a href="/encyclopedie/divers/Trente_Glorieuses/185974">Trente Glorieuses</a> coïncidera avec un <b>interventionnisme croissant de l'État</b>. Pour sa part, la France fixera de grandes orientations dans le cadre d'une planification indicative, créant ainsi un modèle d'« économie mixte ».</p>
+	<h2 class="h3" id="912803">3. Les défis de l’État dans le monde contemporain</h2>
+	<p>Historiquement, l'État répond au besoin d'ordre, de sécurité, d'unité, voire d'<a href="/encyclopedie/divers/%C3%A9galit%C3%A9/45976">égalité</a>. Il induit un mode de gouvernement, qui se caractérise par l'existence d'une autorité supérieure au détenteur même du pouvoir exécutif et qui s'impose en principe au corps social au nom du dogme de l'<a href="/encyclopedie/divers/int%C3%A9r%C3%AAt_g%C3%A9n%C3%A9ral/187258">intérêt général</a>. Même s'il revêt des formes diverses, l'État peut se concevoir à la fois comme un principe de fonctionnement de la société, comme un appareil – la <b>puissance publique</b> – mis au service du corps social et comme le suprême recours aux conflits entre la défense de l'intérêt général et l'expression des intérêts particuliers.</p>
+	<p class="alinea">Par définition, on reconnaît à l'État deux prérogatives régaliennes fondamentales : le <b>maintien de l'intégrité territoriale</b> et le <b>maintien de la cohésion sociale</b>. Il constitue, de tout temps, le niveau auquel se font les relations internationales et, dans le monde contemporain, le cadre dans lequel s'exercent la <a href="/encyclopedie/divers/souverainet%C3%A9/93195">souveraineté</a> et la <a href="/encyclopedie/divers/d%C3%A9mocratie/41420">démocratie</a>. À ce titre, l'État est remis en cause par la <a href="/encyclopedie/divers/mondialisation/71051">mondialisation</a>, tandis que la montée des nationalismes provoque un effet de balkanisation : ce sont les principaux défis de l'État moderne.</p>
+	<h3 class="h4" id="912811">3.1. L'État providence face à la mondialisation</h3>
+	<p>En 1980, l'<a href="/encyclopedie/divers/OCDE/136279">Organisation de coopération et de développement économiques (OCDE)</a> consacre son rapport annuel à « <b>la crise de l'État providence</b> ». Face aux échecs des politiques économiques inspirées du <a href="/encyclopedie/divers/keyn%C3%A9sianisme/63865">keynésianisme</a> pour juguler la crise économique, les tenants du <a href="/dictionnaires/francais/mon%C3%A9tarisme/52198">monétarisme</a> en dénoncent les effets : mauvaise gestion des finances publiques, déresponsabilisation des individus, bridage de l'économie. Ce discours <b>néolibéral</b>, qui vise à imposer la logique du <a href="/encyclopedie/divers/march%C3%A9/68189">marché</a> en réduisant les dépenses publiques et le coût de la main-d'œuvre et en augmentant la <a href="/encyclopedie/divers/flexibilit%C3%A9_du_travail/52513">flexibilité</a> du travail, rencontre un succès croissant, en particulier aux États-Unis – selon la formule restée célèbre du président <a href="/encyclopedie/personnage/Ronald_Wilson_Reagan/140465">Reagan</a> : « L’État n’est pas la solution à notre problème ; l’État est le problème » – et au Royaume-Uni sous le gouvernement de <a href="/encyclopedie/personnage/Margaret_Thatcher/146472">Margaret Thatcher</a>. Le marché du travail est déréglementé, des pans entiers du secteur public sont privatisés, des coupes drastiques sont effectuées dans les dépenses sociales. Ces politiques de dérégulation sont favorisées par la <b>mondialisation des échanges</b> (en particulier sur les marchés financiers), qui assure une mobilité sans précédent aux capitaux.</p>
+	<p class="alinea">La suprématie du modèle néolibéral est toutefois remise en cause au tournant du siècle, tandis que s’accentuent les revendications pour une préservation des acquis sociaux et la réaffirmation d’une demande de <a href="/encyclopedie/divers/service_public/187160">services publics</a> – cette tendance se confirme avec la grave crise financière née aux États-Unis en 2008.</p>
+	<h2 class="h3" id="912812">4. L'État-nation face à la balkanisation</h2>
+	<h3 class="h4" id="912815">4.1. L'émiettement étatique</h3>
+	<p>Les guerres, au cours de l'histoire, ont le plus souvent eu pour cause la volonté de construire de grands empires, l'étendue territoriale étant considérée comme un gage de puissance. À la fin du <small>xx</small><sup>e</sup> s., au contraire, la fin de la <a href="/encyclopedie/divers/guerre_froide/122564">guerre froide</a>, les conflits sont nés du démantèlement des États (notamment dans les <a href="/encyclopedie/autre-region/p%C3%A9ninsule_des_Balkans/107278">Balkans</a>), lequel a entraîné une augmentation considérable de leur nombre. Cet émiettement étatique a modifié les relations internationales. Révélé de façon spectaculaire lors de l'effondrement de l'Empire soviétique, le <b>processus de désintégration</b> pourrait bien se poursuivre. Les grands pays sont particulièrement exposés : la Chine, notamment, qui ne cherche à régler la question tibétaine, déjà ancienne, que par la force.</p>
+	<h4 class="h5" id="10909886"> Les facteurs du séparatisme</h4>
+	<p>La plupart des États d'Europe occidentale contiennent eux aussi des <a href="/encyclopedie/divers/minorit%C3%A9_nationale/70520">minorités nationales</a>, et connaissent des flambées autonomistes (Belgique, Espagne, France, Italie, Royaume-Uni). Les <b>clivages nationaux, ethniques ou religieux</b> sont traditionnellement invoqués, au même titre que le <b>principe du droit des peuples à disposer d'eux-mêmes</b>, pour expliquer le phénomène de balkanisation. </p>
+	<p class="alinea">Dans certains cas, le <b>facteur économique</b> est également déterminant : le séparatisme est alors revendiqué pour ne pas faire jouer la solidarité envers les autres quand on détient des richesses et pour rejeter l'institution étatique qui pourrait l'imposer. En Italie, la Ligue lombarde en donne l'exemple en voulant couper le nord du pays du <a href="/encyclopedie/autre-region/Mezzogiorno/133046">Mezzogiorno</a>. En Espagne, l'indépendantisme est enraciné dans les deux communautés les plus industrialisées (la <a href="/encyclopedie/autre-region/Catalogne/112109">Catalogne</a> et le <a href="/encyclopedie/autre-region/Pays_basque/107767">Pays basque</a>).</p>
+	<h3 class="h4" id="912816">4.2. La vigueur des revendications nationales</h3>
+	<p>Faute de réussir à répandre l'idée d'une identité européenne qui puisse transcender les particularismes, l'<a href="/encyclopedie/autre-region/Union_europ%C3%A9enne/147898">Union européenne</a> s'expose elle-même à la fragmentation en « micronations ». En un sens, ce recours à la nation peut être interprété comme un repli face à une supranationalité perçue de manière souvent diffuse et au libéralisme économique, qui aboutit à la standardisation des modes de vie et à la perte de substance de l'État telle qu'on vient de l'analyser.</p>
+	<p class="alinea">La <b>réapparition de thématiques nationalistes</b> a remis en cause l'intangibilité des frontières, et mis au jour une contradiction entre les tendances à la fragmentation et le besoin de préserver la cohésion de l'État. Cette contradiction s’opère dans un contexte où la situation d'interdépendance oblige tout État, en vue de son insertion dans la communauté internationale, à être en conformité avec le droit international. La vigueur des revendications nationales traduit en définitive, paradoxalement, le triomphe plutôt que la crise du modèle de l'État-nation en consacrant le principe du droit des peuples à disposer d'eux-mêmes.</p>
+	<h2 class="h3" id="912813">5. La souveraineté de l’État face à la supranationalité</h2>
+	<h3 class="h4" id="10935544">5.1. L’État, une autorité de moins en moins suprême ?</h3>
+	<p>L’existence de plusieurs organisations supranationales pose la question de <b> l’effritement de la souveraineté étatique</b> dans les relations internationales.</p>
+	<p class="alinea">Si le modèle de construction européenne a fait des émules (la plupart des anciens États membres ou satellites de l'URSS ont fait acte de candidature pour entrer dans l'Union européenne, et dix d'entre eux en font partie depuis les élargissements de 2004 et de 2007), l'Union offre un type d'intégration qui n'entame pas la souveraineté des États membres pour leur politique étrangère. Ainsi, l'aspiration à une défense européenne commune demeure de l'ordre de l'intention ; à l’aube du <small>xxi</small><sup>e</sup> s., les décisions européennes en la matière sont encore subordonnées au leadership américain.</p>
+	<p class="alinea">Le droit de faire la guerre est subordonné en théorie à l'avis et au contrôle de l'<a href="/encyclopedie/divers/ONU/136167">Organisation des Nations unies (ONU)</a>, qui distingue la cause juste de l'agression hostile ou du conflit impérialiste ; les relations commerciales mondiales sont placées sous le contrôle de l'<a href="/encyclopedie/divers/OMC/136112">Organisation mondiale du commerce (OMC)</a>  ; les dépenses publiques des États sont soumises à l'approbation du <a href="/encyclopedie/divers/FMI/133686">Fonds monétaire international (FMI)</a>. </p>
+	<p class="alinea">Ce dessaisissement de souveraineté a toutefois ses limites. Ainsi, la <a href="/encyclopedie/divers/CIJ/113648">Cour internationale de justice (CIJ)</a> de La Haye n'a à juger que les différends survenant entre les États qui ont reconnu son autorité (soit une soixantaine seulement). Même si la création de la <a href="/encyclopedie/divers/CPI/115044">Cour pénale internationale (CPI)</a> marque un progrès dans la remise en cause de l'immunité des chefs d'État, la <a href="/encyclopedie/divers/justice/63614">justice internationale</a> n'en est pas à un stade achevé, et elle s'exerce de manière différenciée selon la puissance des États.</p>
+	<p class="alinea">La défense des <a href="/encyclopedie/divers/droits_de_lhomme/44843">droits de l'homme</a> et de la démocratie est partout proclamée. Or, la recrudescence des conflits identitaires et la montée des intégrismes religieux créent dans certains États des situations tendues et placent les organisations internationales  devant le <b>dilemme de l'ingérence</b> : soit elles cautionnent la souveraineté des États au nom de la non-ingérence dans leurs affaires intérieures, soit elles ne la cautionnent pas, quitte à faire prévaloir la supranationalité. Une notion nouvelle, le « droit d'ingérence », est réservée au cas d'États qui se rendraient coupables de <a href="/encyclopedie/divers/crime/38496">crimes contre l'humanité</a>.</p>
+	<h3 class="h4" id="10931764">5.2. Organisations supranationales et mondialisation</h3>
+	<p>Le chercheur en sciences politiques Yves Mény propose l'analyse suivante (propos recueillis par Henri de Bresson (<i>le Monde,</i> 14 décembre 1999). « On voit émerger une société politique internationale qui n'est plus structurée seulement, comme c'était le cas depuis le traité de Westphalie, en 1648, par les rapports d'État à État. Les États-nations conservent une importance cruciale en tant qu'acteurs de la société internationale. Mais, à côté, il faut désormais compter avec les individus et des organisations structurées en réseaux. […] Sans l'OMC, les conflits commerciaux resteraient dépendants de la loi du plus fort. À travers son organisation de règlement des conflits, l'OMC est l'embryon d'une sorte de juridiction internationale compétente en matière commerciale. Il faut souhaiter l'extension de telles juridictions. La création de la Cour pénale internationale constitue un autre progrès dans cet État de droit en gestation. […]</p>
+	<p class="alinea">La démocratie, dans les États-nations, repose sur deux piliers : en premier lieu, l'élément populaire, constitué par la pratique électorale, l'expression du peuple, la constitution d'un gouvernement représentatif. Mais il y a un autre élément fondamental dans toute démocratie, c'est l'élément constitutionnaliste : la division territoriale du pouvoir entre les autorités nationales et locales, l'existence de cours indépendantes, d'autorités administratives indépendantes, d'une banque centrale, de droits fondamentaux opposables à la majorité. […] Les nouvelles organisations transnationales sont le seul contrepoids qui existe aujourd'hui au fait que de plus en plus de problèmes ne peuvent plus être réglés sur le plan national ni par des négociations d'État à État. Les États n'ont plus la capacité de représenter l'ensemble des énergies, des forces, des intérêts qui traversent la planète. Ce sont des organisations verticales, hiérarchiques, et le monde global est un monde horizontal, où les hiérarchies sont bousculées. On voit, par exemple, que le pouvoir des entreprises peut être plus important que le pouvoir de certains gouvernements. D'où la nécessité d'introduire des normes d'organisation juridique internationales qui s'imposent aux faibles comme aux forts.</p>
+	<p class="alinea">[…] La question d'une démocratisation au niveau global peut remettre en question l'axiome fondamental de la plupart des pouvoirs politiques, qui est que la démocratie ne peut exister qu'au niveau de l'État-nation. […] Au niveau de la planète, la Charte des Nations unies n'a pas empêché les États de fouler aux pieds tous les droits, y compris les plus élémentaires. On n'a commencé à faire des progrès qu'à partir du moment où des organisations comme Amnesty International ou Human Rights Watch ont mené des campagnes de lutte contre les violations. Ce qui montre que, dans un monde médiatique comme le nôtre, les États peuvent beaucoup, mais les organisations transnationales aussi. C'est l'aspect positif du mouvement global aujourd'hui. »</p>
+	<p class="alinea">.</p>
+	<h2 class="h3" id="912814">6. L'État en mutation</h2>
+	<h3 class="h4" id="912817">6.1. L'abandon du sentiment collectif</h3>
+	<p>Plusieurs facteurs ont contribué à une nouvelle perception de la <a href="/encyclopedie/divers/soci%C3%A9t%C3%A9/187350">société</a> et du monde : le vide idéologique laissé par la disparition du modèle soviétique, qui s'affichait comme alternative au <a href="/encyclopedie/divers/lib%C3%A9ralisme/65750">libéralisme</a> économique ; la baisse du taux de profit du capital dans des économies occidentales concurrencées par celles des <a href="/encyclopedie/divers/pays_%C3%A9mergent/47084">pays émergents</a> ; la vague de « révolutions » scientifiques et technologiques, notamment dans les domaines de l'information et de la communication, et l'explosion de la mondialisation des échanges qui l'a accompagnée. La <b>primauté de l'individu sur la collectivité</b> est devenue un nouveau dogme. L'individu doit être libre de produire, d'innover et de consommer, dans un <a href="/encyclopedie/divers/march%C3%A9/68189">marché</a> aux règles changeantes. Mais il doit aussi se sentir davantage responsable et assurer lui-même une part de son bien-être.</p>
+	<p class="alinea">Dans ce contexte, l'État conserve cependant un rôle important comme <b>garant de la </b><a href="/encyclopedie/divers/solidarit%C3%A9/92488"><b>solidarité</b></a><b> nationale</b>. Il est aussi habilité à veiller à ce que la <b>coopération internationale</b> soit un facteur de coexistence pacifique entre les pays et de prospérité durable pour tous. Après des années de déperdition de l'État providence, il y a un juste retour à la conception d'un État entrepreneur afin de relancer la <a href="/encyclopedie/divers/croissance/38632">croissance</a> et d'un État arbitre afin de réduire les <a href="/encyclopedie/divers/in%C3%A9galit%C3%A9s_sociales/61075">inégalités</a>. La marge de manœuvre de chaque État dépend toutefois de ses particularités historiques, politiques, culturelles, économiques et sociales. Tandis que l'<a href="/encyclopedie/divers/entreprise/48402">entreprise</a> ne se préoccupe que de sa propre efficacité, l'État doit se préoccuper de l'efficacité collective.</p>
+	<p class="alinea">L'« État stratège » doit créer le cadre permettant au secteur privé de développer sa compétitivité, tout en continuant à assumer ses responsabilités envers les citoyens. Deux modèles sont en concurrence : celui de l'« État minimum », qui subordonne le politique aux intérêts particuliers, et celui de l'« État républicain », qui, donnant la priorité à la cohésion sociale, place le politique au-dessus des intérêts particuliers. Dans ce dernier cas de figure, <b>l'État devient un régulateur</b>, susceptible d'imposer des règles aux pouvoirs économiques et, le cas échéant, d'apporter une aide aux entreprises en difficulté – comme il l'a fait de manière éclatante en 2008 aux États-Unis (contre toute logique libérale), mais aussi au Royaume-Uni, en Belgique, en Allemagne ou encore en France, pour tenter de remédier à la crise du système financier international par un recours massif à l'argent public. Au demeurant, les pouvoirs publics demeurent les plus aptes à lutter contre les multiples formes d'exclusion sociale et à régler les conflits sociaux.</p>
+	<h3 class="h4" id="912818">6.2. La crise de la représentativité</h3>
+	<p>La prolifération étatique des dernières années du <small>xx</small><sup>e</sup> s. est allée de pair avec l'expansion de la démocratie libérale. Pourtant, plusieurs indices, dans les pays occidentaux, attestent le « divorce » entre la classe politique et le peuple, entre l'État et la nation. En régime démocratique, c'est l'ensemble des citoyens qui est la source de tout pouvoir. Par l'<a href="/encyclopedie/divers/%C3%A9lection/46155">élection</a>, les citoyens délèguent à leurs représentants le droit d'exercer le pouvoir et de prendre des décisions pour la collectivité. Or, les <b>forts taux d'abstention à répétition</b> déjà constatés dans les pays européens ont révélé une « crise de la <a href="/encyclopedie/divers/citoyennet%C3%A9/34196">citoyenneté</a> », à laquelle prétend remédier, en France, l'enseignement dans les lycées de cette nouvelle discipline qu'est l'éducation civique, juridique et sociale. Mais le volet de la formation ne paraît pas suffire. Une réflexion globale de la classe politique s'impose pour <b>redéfinir la notion de </b><a href="/encyclopedie/divers/repr%C3%A9sentation/87634"><b>représentation</b></a>.</p>
+	<h3 class="h4" id="912819">6.3. Le poids politique de la société de l’information</h3>
+	<p>La révolution du <a href="/encyclopedie/divers/num%C3%A9rique/74081">numérique</a> modifie en profondeur le paysage médiatique. L'évolution des médias et la capacité du public à s'approprier les nouvelles technologies suscitent de multiples interrogations sur la <b>redéfinition du rôle de l'État en tant que régulateur</b>, mais aussi en tant qu'acteur de ce secteur. La mondialisation est d'autant plus accentuée aujourd'hui qu'elle se fonde sur une révolution technique : l'abolition de la distance par les progrès de la communication et l'instantanéité de l'information, qui relativise fortement la notion de territoire national. Les relations transnationales entre individus se généralisent en contournant le contrôle de l'État. Néanmoins, le progrès technologique permet aussi à ce dernier de développer ses moyens d'action, de coercition et de communication.</p>
+	<p class="alinea">Les nouvelles technologies proposent un modèle de monde où la communication ne souffrirait d'aucune limite. Mais il n'est pas évident que les bénéfices de la « nouvelle économie » soient universels. Le marché ciblera d'abord la demande économique solvable, sans se préoccuper de la notion de service. La politique scientifique et technique aura tendance à s'éloigner du bien commun au profit des intérêts privés. Les systèmes d'éducation et de formation eux-mêmes n'ignorent pas les impératifs de la productivité, et la société dite « de l'information » a été en grande partie confisquée par de grandes entreprises privées. Selon ces dernières, <b>la société de l'information serait en train de créer une sorte de « gouvernement mondial »</b>, qui rendrait l'État obsolète.</p>
+	<h3 class="h4" id="912820">6.4. La quête d’une nouvelle légitimité</h3>
+	<p>L'État, interlocuteur des agents économiques, a dans le domaine de la communication de masse ses propres missions. La connexion des établissements scolaires et universitaires à <a href="/encyclopedie/divers/Internet/125060">Internet</a> permet de mettre les nouvelles technologies à la portée de la population la plus jeune et, par voie de conséquence, de favoriser l'extension du parc des ordinateurs domestiques. Une fois ce <b>rôle d'impulsion</b> rempli, l'État peut s'investir d'un <b>rôle de réglementation</b> de la <a href="/encyclopedie/divers/concurrence/35984">concurrence</a>, de contrôle de la sécurité commerciale des réseaux, mais aussi de protection de l'éthique. </p>
+	<p class="alinea">L'avènement d'Internet ne signe donc pas la mort de l'État, la fin du besoin d'État, même si les spécificités de ce média rendent l'application de la réglementation étatique délicate. En effet, Internet étant un espace mondial, sa réglementation ne paraît possible que par la voie d'une coopération interétatique. Mais alors, la liberté, qui constitue la principale force d'attraction d'Internet, pourrait être entamée – à moins que les internautes n'acceptent de participer à la définition d'une nouvelle citoyenneté, fondée sur le respect d'intérêts considérés de tout temps comme supérieurs. L'État, en collaboration avec les fournisseurs d'accès, pourrait inciter les clients de ces derniers à élaborer leur propre code de déontologie : il y trouverait une nouvelle légitimité dans la conscience universelle.</p>
+</article>
+           
+            
+            <div class="panel-pays">
+                
+            </div>
+			
+			
+			<div class="rwm-podcast-player" data-pid="1eca0639-3a13-635a-a5fc-c9380f86a94d"></div>
+        </div>
+
+        <div class="col-md-4">
+            <div id="zonePlan">
+                <div class="banner-title">
+                    <hr class="line-left">
+                    <span class="fontello"></span>
+                    <hr class="line-right">
+                    <p class="panel-title">PLAN</p>
+                </div>
+                
+                <div class="panel-plan">  
+                    <div class="list-plan">
+                        <nav id="plan-31250" class="plan" role="contentinfo">
+	<h2>Plan</h2>
+	<ol>
+		<li><a href="#31250" class="n1">État</a>
+		</li>
+		<ol>
+			<li><a href="#912801" class="n2">1. Les formes de l’État</a>
+			</li>
+			
+			<li><a href="#912802" class="n2">2. Les fondements de l'État</a>
+			</li>
+			
+			<li><a href="#912803" class="n2">3. Les défis de l’État dans le monde contemporain</a>
+			</li>
+			
+			<li><a href="#912812" class="n2">4. L'État-nation face à la balkanisation</a>
+			</li>
+			
+			<li><a href="#912813" class="n2">5. La souveraineté de l’État face à la supranationalité</a>
+			</li>
+			
+			<li><a href="#912814" class="n2">6. L'État en mutation</a>
+			</li>
+			
+		</ol>
+	</ol>
+</nav>
+                    </div>                  
+                    
+                </div>
+            </div>
+            
+            <div class="pub-pave oasm">
+                   
+            </div> 
+            
+            
+            <div class="panel-da">
+                
+<div class="banner-title">
+	<hr class="line-left" /><span class="fontello"></span>
+	<hr class="line-right" />
+	<p class="panel-title">Médias associés</p>
+</div>
+<div class="zone-medias">
+	<figure class="photo"><a href="/encyclopedie/images/Sculpture_repr%C3%A9sentant_le_buste_de_Marianne/1311761">
+		<img src="/encyclopedie/data/vignettes/1311761-Sculpture repr&#xE9;sentant le buste de Marianne.jpg" alt="Sculpture repr&#xE9;sentant le buste de Marianne" title="Sculpture repr&#xE9;sentant le buste de Marianne" /></a>
+		<figcaption>Sculpture repr&#xE9;sentant le buste de Marianne</figcaption>
+	</figure>
+</div>
+<div class="banner-title">
+	<hr class="line-left" /><span class="fontello"></span>
+	<hr class="line-right" />
+	<p class="panel-title">Articles associés</p>
+</div>
+<div class="zone-articles">
+	<article><a href="/encyclopedie/divers/absolutisme/17934">
+		<h2><B>absolutisme.</B></h2>
+		<p>Système politique dans lequel le pouvoir est concentré entre les...</p></a>
+	</article>
+	<article><a href="/encyclopedie/divers/administration/18756">
+		<h2><B>administration.</B></h2>
+		<p>Ensemble des services de l'État (avec une majuscule) ; ensemble des fonctionnaires...</p></a>
+	</article>
+	<article><a href="/encyclopedie/divers/anarchisme/20896">
+		<h2><B>anarchisme</B><B>.</B></h2>
+		<p>Conception politique et sociale qui se fonde sur le rejet...</p></a>
+	</article>
+	<article><a href="/encyclopedie/divers/Ancien_R%C3%A9gime/105343">
+		<h2><B>Ancien Régime</B><B>.</B></h2>
+		<p>Régime social et politique de la France depuis le règne...</p></a>
+	</article>
+	<article><a href="/encyclopedie/personnage/Hannah_Arendt/106045">
+		<h2><B>Arendt</B><B>.</B></h2>
+		<p>Hannah <B>Arendt</B><B>.</B> Philosophe américaine d'origine allemande...</p></a>
+	</article>
+	<article><a href="/encyclopedie/personnage/Raymond_Aron/106201">
+		<h2><B>Aron</B><B>.</B></h2>
+		<p>Raymond <B>Aron</B><B>.</B> Philosophe et sociologue français...</p></a>
+	</article>
+	<article><a href="/encyclopedie/divers/Assembl%C3%A9e_nationale_fran%C3%A7aise/23409">
+		<h2><B>Assemblée nationale française.</B></h2>
+		<p>Assemblée élue au suffrage universel direct, qui, avec le Sénat...</p></a>
+	</article>
+	<article><a href="/encyclopedie/divers/autocratie/24279">
+		<h2><B>autocratie</B><B>.</B></h2>
+		<p>Syst&#xE8;me politique dans lequel le pouvoir est d&#xE9;tenu par un...</p></a>
+	</article>
+	<article><a href="/encyclopedie/personnage/Jean_Bodin/109233">
+		<h2><B>Bodin</B><B>.</B></h2>
+		<p>Jean <B>Bodin</B><B>.</B> Philosophe et magistrat fran&#xE7;ais...</p></a>
+	</article>
+	<article><a href="/encyclopedie/divers/bourgeoisie/28294">
+		<h2><B>bourgeoisie.</B></h2>
+		<p>Avant la Révolution française, ensemble des bourgeois.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/budget/29234">
+		<h2><B>budget.</B></h2>
+		<p>Premier outil de gestion, la pratique budgétaire est aussi bien le fait de la ménagère que celui de l'État.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/censure/32138">
+		<h2><B>censure.</B></h2>
+		<p>Action de censurer, d'interdire tout ou partie d'une communication quelconque.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/collectivit%C3%A9_territoriale/35167">
+		<h2><B>collectivité territoriale.</B></h2>
+		<p>Structure administrative française, dotée de la personnalité morale, qui prend en charge...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/communisme/35565">
+		<h2><B>communisme.</B></h2>
+		<p>L'existence d'un régime communiste primitif (communauté primitive), antérieur à la constitution des classes...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/Conseil_constitutionnel/114433">
+		<h2><B>Conseil constitutionnel</B><B>.</B></h2>
+		<p>Organe créé par la Constitution française de 1958 et formé...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/Conseil_d%C3%89tat/114435">
+		<h2><B>Conseil d'État</B><B>.</B></h2>
+		<p>Instance consultative et juridictionnelle suprême de l'administration française. Héritier du Conseil du roi de l'Ancien Régime, le Conseil d'État a été créé par...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/Constitution/36495">
+		<h2><B>Constitution.</B></h2>
+		<p><SMALL>[DROIT]</SMALL> Loi fondamentale, ensemble des lois fondamentales qui, dans un pays...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/d%C3%A9centralisation/40070">
+		<h2><B>décentralisation.</B></h2>
+		<p>La décentralisation consiste en un partage du pouvoir entre l'État et des entités administratives autonomes...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/d%C3%A9concentration/40304">
+		<h2><B>déconcentration.</B></h2>
+		<p>Action de donner davantage de pouvoirs de décision aux agents...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/d%C3%A9partement/41697">
+		<h2><B>département.</B></h2>
+		<p>En France, collectivité territoriale administrée par le conseil départemental et...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/despotisme_%C3%A9clair%C3%A9/42561">
+		<h2><B>despotisme éclairé.</B></h2>
+		<p>Régime politique dans lequel le souverain se conduit en maître...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/dictature_du_prol%C3%A9tariat/43319">
+		<h2><B>dictature du prolétariat.</B></h2>
+		<p>Pour les marxistes, période de transition qui suit la révolution...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/droits_de_lhomme/44843">
+		<h2><B>droits de l'homme.</B></h2>
+		<p>Les droits de l'homme, et les libertés dont ils s'accompagnent, sont ceux dont tout individu...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/oeuvre/De_l_esprit_des_lois/118465">
+		<h2><B>esprit des lois</B> (De l').</h2>
+		<p>Ouvrage de Montesquieu (1748), dans lequel il montre les...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/fascisme/51294">
+		<h2><B>fascisme.</B></h2>
+		<p>Régime établi en Italie de 1922 à 1945, instauré par Mussolini et fondé sur la dictature du parti unique...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/fiscalit%C3%A9/52238">
+		<h2><B>fiscalit&#xE9;</B><B>.</B></h2>
+		<p>Ensemble des lois qui se rapportent aux imp&#xF4;ts.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/fonctionnaire/52838">
+		<h2><B>fonctionnaire</B><B>.</B></h2>
+		<p>Agent public qui, nomm&#xE9; dans un emploi permanent, a &#xE9;t&#xE9;...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/fonction_publique/187252">
+		<h2><B>fonction publique.</B></h2>
+		<p>Ensemble des agents de l'&#xC9;tat, des fonctionnaires.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Charles_Fourier/120051">
+		<h2><B>Fourier</B><B>.</B></h2>
+		<p>Charles <B>Fourier</B><B>.</B> Théoricien socialiste français...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Antonio_Gramsci/122049">
+		<h2><B>Gramsci</B><B>.</B></h2>
+		<p>Antonio <B>Gramsci</B><B>.</B> Philosophe et homme politique italien...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Georg_Wilhelm_Friedrich_Hegel/123458">
+		<h2><B>Hegel</B><B>.</B></h2>
+		<p>Georg Wilhelm Friedrich <B>Hegel</B><B>.</B> Philosophe allemand...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Thomas_Hobbes/124041">
+		<h2><B>Hobbes</B><B>.</B></h2>
+		<p>Thomas <B>Hobbes</B><B>.</B> Philosophe anglais...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/immigration/60005">
+		<h2><B>immigration.</B></h2>
+		<p>Entrée dans un pays d'étrangers venus s'y installer.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/keyn%C3%A9sianisme/63865">
+		<h2><B>keyn&#xE9;sianisme</B><B>.</B></h2>
+		<p>Ensemble des th&#xE9;ories &#xE9;conomiques de J. M. Keynes et des...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/la%C3%AFcit%C3%A9/64364">
+		<h2><B>laïcité.</B></h2>
+		<p>Système qui exclut les Églises de l'exercice du pouvoir politique...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/l%C3%A9ninisme/65470">
+		<h2><B>l&#xE9;ninisme</B><B>.</B></h2>
+		<p>Ensemble des th&#xE9;ories et des pratiques de L&#xE9;nine.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/libert%C3%A9/65769">
+		<h2><B>liberté.</B></h2>
+		<p>Condition d'un peuple qui se gouverne en pleine souveraineté.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/loi/66493">
+		<h2><B>loi.</B></h2>
+		<p><SMALL>[DROIT]</SMALL> Prescription établie par l'autorité souveraine de l'État, applicable à tous, et...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Nicolas_Machiavel/130916">
+		<h2><B>Machiavel</B><B>.</B></h2>
+		<p>Nicolas <B>Machiavel</B><B>.</B> Homme politique et écrivain italien...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/marxisme/68479">
+		<h2><B>marxisme</B><B>.</B></h2>
+		<p>Ensemble des conceptions de Karl Marx, de Friedrich Engels et de...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/m%C3%A9diateur_chimique/68917">
+		<h2><B>m&#xE9;diateur chimique.</B></h2>
+		<p><SMALL>[BIOLOGIE]</SMALL> Substance synth&#xE9;tis&#xE9;e et lib&#xE9;r&#xE9;e par une cellule (neurom&#xE9;diateur, cytokine, prostaglandine, etc.)...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/ministre/70492">
+		<h2><B>ministre.</B></h2>
+		<p>En France, sur proposition du Premier ministre, le pr&#xE9;sident de la R&#xE9;publique nomme les membres du gouvernement...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/minorit%C3%A9_nationale/70520">
+		<h2><B>minorit&#xE9; nationale.</B></h2>
+		<p>Groupe se distinguant de la majorit&#xE9; de la population par...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Charles_de_Secondat_baron_de_La_Br%C3%A8de_et_de_Montesquieu/133812">
+		<h2><B>Montesquieu</B><B>.</B></h2>
+		<p>Charles de Secondat, baron de La Brède et de <B>Montesquieu</B><B>.</B> Écrivain français...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/nation/72712">
+		<h2><B>nation</B><B>.</B></h2>
+		<p>Entit&#xE9; abstraite, collective et indivisible, distincte des individus qui la...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/nationalisme/72720">
+		<h2><B>nationalisme</B><B>.</B></h2>
+		<p>Mouvement politique d'individus qui prennent conscience de former une communaut&#xE9;...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/ONU/136167">
+		<h2><B>ONU</B><B>.</B></h2>
+		<p>Organisation internationale constituée par les États qui ont accepté de...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/ordonnance/75211">
+		<h2><B>ordonnance.</B></h2>
+		<p>Texte de loi émanant du roi ; acte pris par le gouvernement, avec l'autorisation du Parlement...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/planification/80309">
+		<h2><B>planification</B><B>.</B></h2>
+		<p>Encadrement par les pouvoirs publics du d&#xE9;veloppement &#xE9;conomique et social &#xE0;...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/pouvoir_ex%C3%A9cutif/50392">
+		<h2><B>pouvoir ex&#xE9;cutif.</B></h2>
+		<p>Pouvoir charg&#xE9; d'appliquer les lois, de d&#xE9;finir et de conduire...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/pouvoir_r%C3%A9glementaire/86850">
+		<h2><B>pouvoir r&#xE9;glementaire.</B></h2>
+		<p>Pouvoir reconnu &#xE0; certaines autorit&#xE9;s d'&#xE9;dicter des d&#xE9;cisions ex&#xE9;cutoires de caract&#xE8;re...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/pr%C3%A9fet/82311">
+		<h2><B>préfet.</B></h2>
+		<p>En France, haut fonctionnaire, nommé par le président de la...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/pr%C3%A9sident/82940">
+		<h2><B>pr&#xE9;sident.</B></h2>
+		<p>Titre du chef de l'&#xC9;tat dans une r&#xE9;publique.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/privil%C3%A8ge/83252">
+		<h2><B>privilège.</B></h2>
+		<p>Dans la France de l'Ancien Régime, droit, avantage exclusif possédé...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Pierre_Joseph_Proudhon/139696">
+		<h2><B>Proudhon</B><B>.</B></h2>
+		<p>Pierre Joseph <B>Proudhon</B><B>.</B> Théoricien politique français...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/oeuvre/les_Six_Livres_de_la_r%C3%A9publique/140710">
+		<h2><B>r&#xE9;publique</B> (les Six Livres de la).</h2>
+		<p>Par Jean Bodin (1576), qui fonde la science politique...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Jean-Jacques_Rousseau/141649">
+		<h2><B>Rousseau</B><B>.</B></h2>
+		<p>Jean-Jacques <B>Rousseau</B><B>.</B> Écrivain et philosophe de langue française...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/le_S%C3%A9nat_en_France/91202">
+		<h2><B>Sénat en France</B> (le).</h2>
+		<p>Assemblée, qui, avec l'Assemblée nationale, constitue actuellement le Parlement français.</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/s%C3%A9paration_des_pouvoirs/82044">
+		<h2><B>séparation des pouvoirs.</B></h2>
+		<p>Principe de droit public, selon lequel les pouvoirs législatif, exécutif...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/socialisme/92317">
+		<h2><B>socialisme.</B></h2>
+		<p>Th&#xE9;orie visant &#xE0; transformer l'organisation sociale dans un but de justice...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/stalinisme/93645">
+		<h2><B>stalinisme.</B></h2>
+		<p>Théorie et ensemble de pratiques développées par Staline en URSS...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/divers/trait%C3%A9/98195">
+		<h2><B>trait&#xE9;</B><B>.</B></h2>
+		<p>Accord entre deux ou plusieurs sujets du droit international (&#xC9;tats, organisations internationales)...</p></a>
+	</article>
+	<article class="itemHidden"><a href="/encyclopedie/personnage/Max_Weber/138958">
+		<h2><B>Weber</B><B>.</B></h2>
+		<p>Max <B>Weber</B><B>.</B> Économiste, sociologue et philosophe allemand...</p></a>
+	</article>
+	<div id="btExpand" class="btPlus" onclick="onExpandDA()" runat="server">Voir <span class="iconPlus">plus</span>
+	</div>
+</div>
+            </div>
+			
+			
+			<div id="taboola-right-rail-encyclo-thumbnails" class="taboola"></div>
+			<!-- PUB PAVE 3 -->
+			<div class="pub-pave oasm3"></div>
+        </div>
+    </div>
+
+    <!-- FIXED MENU NAV (FLOATING) -->
+    <div id="floatNav" class="navbox-fixed">
+        <ul class="nav-menu">
+            <nav id="plan-31250" class="plan" role="contentinfo">
+	<h2>Plan</h2>
+	<ol>
+		<li><a href="#31250" class="n1">État</a>
+		</li>
+		<ol>
+			<li><a href="#912801" class="n2">1. Les formes de l’État</a>
+			</li>
+			
+			<li><a href="#912802" class="n2">2. Les fondements de l'État</a>
+			</li>
+			
+			<li><a href="#912803" class="n2">3. Les défis de l’État dans le monde contemporain</a>
+			</li>
+			
+			<li><a href="#912812" class="n2">4. L'État-nation face à la balkanisation</a>
+			</li>
+			
+			<li><a href="#912813" class="n2">5. La souveraineté de l’État face à la supranationalité</a>
+			</li>
+			
+			<li><a href="#912814" class="n2">6. L'État en mutation</a>
+			</li>
+			
+		</ol>
+	</ol>
+</nav>
+        </ul> 
+        <div class="nav-btn nav-open" onclick="openNavMenu();">+</div>
+        <div class="nav-btn nav-close" onclick="closeNavMenu();">&#xe833;</div>
+    </div>
+
+
+         
+    </div>
+
+        
+
+        <!-- BANIERE(730 x 90) PUB BOTTOM -->
+        <div class="pub-bottom oasb">
+            
+        </div>
+        
+        <!-- ## SOCIAL PANEL ## -->
+        <!-- ################## -->
+        
+
+        <!-- ####### FOOTER ####### -->
+        <div id="footer" class="footer">
+            <span class="footer-left">
+                <a href="/contenu/applications/applications_mobiles">Applications mobiles</a>
+                <a href="/index">Index</a>
+                
+                <a href="/infos/credits">Mentions légales et crédits</a>
+                <a href="/infos/cgu">CGU</a>
+                <a href="/infos/cgv">CGV</a>
+                <a href="/infos/confidentialite">Charte de confidentialité</a>
+                
+                           
+                <a class="optanon-show-settings">Cookies</a>          
+                
+                <a href="/infos/contact">Contact</a>
+                <a href="/articles/">À la une</a>   
+            </span>
+            <span class="footer-right">
+                <span>&copy; Larousse</span>
+                
+            </span>   
+        </div>
+        <!-- ####### FOOTER ####### -->
+
+     </div>
+</body>
+     
+<!-- JS Bootstrap core JavaScript -->
+<!-- <script type="text/javascript" src="/library-web/bootstrap/js/bootstrap.min.js"></script> -->  <!-- src="/library-web/bootstrap/js/bootstrap.js" -->
+<!-- CDN=[cdn.jsdelivr.net]: bootstrap@4.6.0 [JS] -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script> -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+<!-- JS MDB core JavaScript -->
+<!-- <script type="text/javascript" src="/library-web/mdb/js/mdb.min.js"></script> -->              <!-- src="/library-web/mdb/js/mdb.js" -->
+<!-- JS SLICK core JavaScript -->
+<script type="text/javascript" src="/library-web/slick/slick.min.js"></script>                      <!-- src="/library-web/slick/slick.js" -->
+
+
+<!-- RegisPUB & [OneTrust] (Params, Habillage(body,oast,oasm,...)) -->   
+<!-- ############################################################# --> 
+<!-- [OneTrust] CATEGORY-1: Cookies strictement nécessaires -->
+<script type="text/plain" class="optanon-category-1">
+        //alert("CATEGORY-1: OK \nCookies strictement nécessaires"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        // --- Gestion OneTrust & POOOL ---
+        ///////////////////////////////////
+        //alert("optanon(CAT-1|START) : Consent[NO]");
+        // cookies POOOL consent [enable: false (by default)]
+        if(access){
+            access.config('cookies_enabled', false);
+        }
+        // show Paywall (by default)
+        setCookie('spwpoool_', 'true', 1);
+</script> 
+<!-- [OneTrust] CATEGORY-2: Cookies de performance -->
+<script type="text/plain" class="optanon-category-2">
+        //alert("CATEGORY-2: OK \nCookies de performance ");  
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");  
+        //
+        //googleAnalytics(); 
+        //alert("googleAnalytics(): OK");
+</script>
+<!-- [OneTrust] CATEGORY-3: Cookies de fonctionnalité -->   
+<script type="text/plain" class="optanon-category-3">
+        //alert("CATEGORY-3: OK \nCookies de fonctionnalité"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]"); 
+        //
+</script>
+<!-- [OneTrust] CATEGORY-4: Cookies pour une publicité ciblée -->
+<script type="text/plain" class="optanon-category-4">
+        //alert("CATEGORY-4: OK \nCookies pour une publicité ciblée"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //initSAStrigger();   // regispub: trigger Pub (body, etc...) via smartadserver
+        //ads();              // regispub: themoneytizer
+        //AdsEx();            // regispub: quantx(elasticad), Teads
+        //alert("ads()-quantxAds(): OK"); 
+        //
+        // --- Gestion OneTrust & POOOL ---
+        ///////////////////////////////////
+        //alert("optanon(CAT-4|PUB) : Consent[OK]");
+        // consentement oneTrust: [OK]  (optanon(CAT-4|PUB))
+        //alert("setCookie : laruserconsent_[true]");
+        setCookie('laruserconsent_', 'true', 1);
+        //
+        // cookies POOOL consent [enable: true (OK)]
+        if(access){
+            access.config('cookies_enabled', true);
+        }
+        //
+        disablePaywall(false);  // userSubscribe:NO => [bRelease:false]
+</script>
+<!-- [OneTrust] CATEGORY-8: Cookies « réseaux sociaux » -->
+<script type="text/plain" class="optanon-category-8">
+        //alert("CATEGORY-8: OK \nCookies réseaux sociaux");
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //twitter();      // Box Twitter
+        //facebook();     // Box facebook
+        //googleplus();   // Box Google Plus
+        //alert("twitter()-facebook()-googleplus(): OK");    
+</script>  
+<!-- ########## FIN CNIL(RGPD) ##########  -->
+
+<!-- POOOL [payWall & subscription] (access.js & subscribe.js) -->   
+<!-- ######################################################### --> 
+<!-- -------------- intégration [audit.js] ----------------- --> 
+<script src="https://assets.poool.fr/audit.min.js"></script>
+<script>
+    //var audit = null;     //-> const
+    //alert("gestion Audit POOOL");
+    // Poool v.PROD
+    const audit = Audit.init('ILD4S-2S1MH-UGZ3J-1SEEH').sendEvent('page-view', { type: 'premium' });
+    // Poool v.RECE
+    //const audit = Audit.init('5Y16cvWJidLpcch2Vz0IxqXKctgoMPmPniMvai5hcvwJ22qMwQ7HEYM8Xg2Mc0lj');
+    //
+    if (window.location.toString().indexOf("pedagogique") > 0) {
+        audit.config({ context: 'pedagogique' });
+        audit.sendEvent('page-view', { type: 'premium' });
+        //alert("audit-config => context: 'pedagogique' + sendEvent");
+    }
+    
+    //alert("Audit.init(): [OK]");
+</script>
+<!-- -------------- intégration [access.js] ----------------- --> 
+<script id="poool-access" src="https://assets.poool.fr/access.min.js" async></script>
+<script>
+    const script_access = document.getElementById('poool-access');
+    //
+    var access = null;    // global => const ???
+    //
+    script_access.addEventListener('load', function () {
+        //alert("spwpoool_[" + spwpoool_+"]: \n   - createPaywall \n   - poool-widget=show() + wrapper=blur(3) \n   - event(Poool+oneTrust)");
+
+        // Poool v.PROD
+        access = Access.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+        // Poool v.RECE
+        //access = Access.init('5Y16cvWJidLpcch2Vz0IxqXKctgoMPmPniMvai5hcvwJ22qMwQ7HEYM8Xg2Mc0lj');
+        //
+        // v.Debug (consolog)
+        access.config({ debug: false });    // true|false
+
+        // Event Lock & Release
+        access.on('lock', () => {
+            //alert("LOCK! => paywall");
+        });
+        access.on('release', event => {
+            //alert('RELEASE: => widget ' + event.widget + (event.actionName ? ' nommé ' + event.actionName : ''));
+            //
+            disablePaywall(true);   // eventRelease => [bRelease:true]
+        });
+
+        // event back consent
+        access.on('consent', function () {
+            //alert("access.on('consent')");
+
+            // change Consent (accept All Cookie)
+            /////////////////////////////////////
+            //OneTrust.AllowAll();              // => [OK]
+
+            // Display Banner OneTrust (!niveau 2:setting!)
+            ///////////////////////////////////////////////
+            OneTrust.ToggleInfoDisplay();       // => [OK]
+            OneTrust.OnConsentChanged(function () {
+                //alert("OneTrust.OnConsentChanged => Value: [" + OnetrustActiveGroups + "]");
+                if (OnetrustActiveGroups.match(/,4,/) != null) {
+                    // cookies consent [enable: true (OK)]
+                    access.config('cookies_enabled', true);
+                    //
+                    // consentement oneTrust: [OK]  (OnetrustActiveGroups == 4)
+                    setCookie('laruserconsent_', 'true', 1);
+                    //alert("setCookie : laruserconsent_[true]");
+                }else{
+                    // consentement oneTrust: [KO]  (OnetrustActiveGroups != 4)
+                    // (ré)activation paywall POOOL
+                    enablePaywall();
+                }
+            });
+        });
+
+        //  pageInfos(footer) => !!! no Paywall !!!
+        if (window.location.toString().indexOf("/infos/") > 0) return;       
+
+        // TAG(context): pedagogique
+        if (isPremium()) {
+            access.config({ context: 'pedagogique' });
+            //alert("access-config => context: 'pedagogique' ");
+        } 
+
+        //
+        var spwpoool_ = getCookie('spwpoool_');
+        if (spwpoool_ == null || spwpoool_ == 'true') {
+            enablePaywall();
+        }
+
+    });
+
+    //
+    function enablePaywall() {
+        //alert("enablePaywall: access.createPaywal + blur");
+
+        access.createPaywall({
+            target: '#poool-widget',
+            content: '[data-poool]',
+            mode: 'excerpt',
+            percent: 80,
+            pageType: 'premium',
+        });
+        // Hide <#poool-widget>  
+        $("#poool-widget").show();
+        // wrapper -> blur(3) >>> flou
+        $('.wrapper').css({
+                    'filter'         : 'blur(3px)',
+            '-webkit-filter' : 'blur(3px)',
+            '-moz-filter'    : 'blur(3px)',
+            '-o-filter'      : 'blur(3px)',
+            '-ms-filter'     : 'blur(3px)'
+        });
+        //
+        // Set cookie [show payWall] (default value)
+        //alert("spwpoool_ = true (default value)");
+        setCookie('spwpoool_', 'true', 1);
+    }
+
+    //
+    function disablePaywall(bRelease){
+        //alert("disablePaywall(): \n   - destroyPaywall(?) \n   - poool-widget=hide() + wrapper=blur(0) \n   - cookie spwpoool_: false");
+
+        // gestion Subscribe/Release & pedagogique
+        if (isPremium() && !bRelease ) {
+            return;
+        }
+            
+        //alert("disablePaywall:  access.destroy + noBlur");
+        //
+        // Destroy Paywall (?)
+        if (access) { 
+            //alert("access != null : destroyPaywall");
+            access.destroy();
+        }
+        //
+        //alert("- <div poool-widget>: hide() \n- <div wrapper>: blur(0)");
+        // Hide <#poool-widget>  
+        $("#poool-widget").hide();
+        
+        // wrapper -> blur(0) >>> ok
+        $('.wrapper').css({
+            'filter'         : 'none',
+            '-webkit-filter' : 'none',
+            '-moz-filter'    : 'none',
+            '-o-filter'      : 'none',
+            '-ms-filter'     : 'none'
+        });
+        //
+        // Set cookie [hide payWall]
+        //alert("cookie spwpoool_: false");
+        setCookie('spwpoool_', 'false', 1);
+    }
+
+    function isPremium() {
+        var currentURL = window.location.toString();
+        //
+        if (currentURL.indexOf("/dictionnaires/pedagogique") > 0
+            || currentURL.indexOf("/dictionnaires/junior") > 0
+            || currentURL.indexOf("/dictionnaires/college") > 0
+            || currentURL.indexOf("/dictionnaires/memo") > 0
+            || currentURL.indexOf("/dictionnaires/chronologie") > 0) {
+            return true;
+        } else
+            return false;
+    }
+</script>
+
+<!-- ------------- intégration [subscribe.js] ---------------- --> 
+<script id="poool-subscribe" src="https://assets.poool-subscribe.fr/subscribe.js" async></script>
+<script>
+    const script_subscribe = document.getElementById('poool-subscribe');
+    script_subscribe.addEventListener('load', function () {
+        // Poool v.PROD
+        subscribe = Subscribe.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+        // Poool v.RECE
+        //subscribe = Subscribe.init('5Y16cvWJidLpcch2Vz0IxqXKctgoMPmPniMvai5hcvwJ22qMwQ7HEYM8Xg2Mc0lj');
+        //
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-topbar'
+        });
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-menuburger'
+        });
+        //subscribe.config('debug', true);
+
+        // Appel ( async / await)
+        /////////////////////////
+        async function getUserDatas() {
+            const user = await subscribe.getUser();         //[KO] user => undefined
+            //alert("user info: " + user 
+            //                        + "\nid_subscription: " + user.subscription.subscriptionId
+            //                        + "\nstatus: " + user.subscription.status
+            //                        + "\ncreatedAt: " + user.subscription.createdAt);
+            if(user != undefined 
+                    && user.subscription != null
+                    && user.subscription.status == "active"){
+                //alert("status == active : subscribe[OK]");
+                $("#auth-widget-topbar").css("margin-top", "12px");   // alignement infoUSer (topbar)
+                disablePaywall(true);   // userSubscribe:YES => [bRelease:true] 
+            }else{
+                //
+                //alert("access[null] OR subscribe[KO]: keepContext");
+                if (isPremium()) {
+                    enablePaywall();
+                } 
+            }
+        }
+        getUserDatas();
+    });  
+</script>
+<!-- ############# FIN PAYWALL(Pool) #############  -->
+
+<!-- JS larousse-Masterpage -->
+<script type="text/javascript" src="/library-web/larcom/masterpage/js/masterpage.js"></script>                  <!-- src="[module]/assets/js/masterpage.js" -->
+</html>
