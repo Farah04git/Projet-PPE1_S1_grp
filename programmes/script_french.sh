@@ -1,20 +1,26 @@
 #!/bin/bash
 
-FICHIER_URLS=$1
+URL_FILE=$1
+
+DIR_ASPI="./aspirations"
+DIR_CONTXT="./contextes"
+DIR_DUMP="./dumps-text"
+DIR_CONCORD="./concordances"
+
+
 
 numero_ligne=0
 
+# Vérification arguments 
 if [ $# -ne 1 ]
 then
-	echo "Ce programme nécessite un (1) argument "
+	echo "Usage : ce programme nécessite 1 argument : urls.txt"
 	exit 1
-else
-	echo "Démarrage du processus"
 fi
 
-if [ ! -f "$FICHIER_URLS" ]
+if [ ! -f "$URL_FILE" ]
 then
-    echo "Erreur : le fichier '$FICHIER_URLS' n'a pas été trouvé"
+    echo "Erreur : le fichier '$URL_FILE' n'a pas été trouvé"
     exit 1
 fi
 
@@ -38,8 +44,10 @@ echo "<html>
 
 
 
+
 while read -r URL 
 do
+
 	numero_ligne=$((numero_ligne + 1))
     
     onlyRequest=$(curl -sS "$URL")
@@ -56,7 +64,7 @@ do
         	<td>$nb_mots</td>
    		 </tr>"
 
-done < "$FICHIER_URLS"
+done < "$URL_FIL"
 
 echo "</table>	
 	</body>
