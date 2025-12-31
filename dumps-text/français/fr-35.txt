@@ -35,10 +35,11 @@
    (BUTTON)
    Dans l'actualité en ce moment
      * Ukraine : 4 année de guerre
+     * Les mystères du vol MH370
      * Ukraine-Russie : en marge des négociations, des attaques
      * Les refus d'obtempérer au coeur de la controverse
-     * Les mystères du vol MH370
-     * Brigitte Bardot est décédée à l'âge de 91 ans
+     * Avec l'instabilité politique, la France aura-t-elle un budget 2026
+       ?
      * Tous les sujets
 
    (BUTTON)
@@ -460,9 +461,9 @@ Nouvel An 2026 : les images du feu d'artifice de Sydney (nouvelle fenêtre)
        Publié aujourd'hui à 15h31
     5. 5
 
-Attaque présumée sur la résidence de Poutine : "Aucune image vidéo ne permet
-de confirmer qu'un drone ukrainien a été abattu dans la zone" (nouvelle
-fenêtre)
+Attaque sur la résidence de Poutine : "Aucune image vidéo ne permet de
+confirmer qu'un drone ukrainien a été abattu dans la zone de la résidence"
+(nouvelle fenêtre)
        [Vidéo]
        Publié aujourd'hui à 15h27
     6. 6

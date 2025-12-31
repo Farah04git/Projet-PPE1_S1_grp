@@ -1,10 +1,14 @@
 #!/bin/bash
 
 # voir encodage
+## TODO :
+# Corriger occurences : le regex ne marche pas ?
+# Convertir ceux qui ne sont pas UTF-8 pour les convertir
+# centrer colonnes
 
 URL_FILE=$1
 ID=1
-REGEX="\b([eéèêÉÈÊ][tT][aA][tT]s?)\b(?:[-‑][A-Za-zàâéèêîôùûç]+)?"
+REGEX="\b([eéèêÉÈÊ][tT][aA][tT]s?)\b(?:[-][A-Za-zàâéèêîôùûç]+)?"
 
 DIR_ASPI="./aspirations/français"
 DIR_CONTXT="./contextes"
@@ -125,8 +129,8 @@ while read -r URL ; do
 	echo "<td>" "$http_code" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$encoding" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$total_occurences" "</td>" >> "$DIR_HTML_OUT"
-	echo "<td>" "<a href=\".$filename_html\" >html</a>" "</td>" >> "$DIR_HTML_OUT"
-	echo "<td>" "<a href=\".$filename_dump\" >html</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_html\" >HTML brute</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_dump\" >Dump</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "</tr>" >> "$DIR_HTML_OUT"
 	
 	((ID++))
