@@ -183,7 +183,7 @@ Les fins de non-recevoir et le Juge de la Mise en Etat.
 
 Par Claire Dewerdt, Avocat.
 
-   75291 lectures 1re Parution: 6 octobre 2020 4.65  /5
+   75293 lectures 1re Parution: 6 octobre 2020 4.65  /5
    Niveau Expert 2
 
    Explorer : # fin de non-recevoir # juge de la mise en état # procédure
@@ -477,7 +477,7 @@ Par Claire Dewerdt, Avocat.
    étudiants... y trouvent services, informations, contacts et peuvent
    échanger et recruter. *
 
-   Aujourd'hui: 157 342 membres, 29362 articles, 127 409 messages sur les
+   Aujourd'hui: 157 342 membres, 29363 articles, 127 409 messages sur les
    forums, 2 120 annonces d'emploi et stage... et 1 400 000 visites du
    site par mois en moyenne. *
 
@@ -490,6 +490,9 @@ Par Claire Dewerdt, Avocat.
    du droit.
 
    Tous les Articles publiés
+   31/12 Jugement non avenu, signification irrégulière et contrôle du
+   titre exécutoire : le juge de l'exécution de La Rochelle rappelle les
+   règles.
    31/12 Petit guide de survie du renvoi après cassation.
    31/12 Marchés publics 2026 : vers une simplification historique pour
    les PME et les acheteurs locaux !
@@ -505,28 +508,43 @@ Par Claire Dewerdt, Avocat.
    digitale pour les professionnels du droit.
    30/12 L'Algérie face à l'arbitrage international : pathologies et
    traitements.
-   30/12 La portée restrictive de l'article 10 bis de la loi électorale :
-   cas spécifique de la cooptation des chefs coutumiers en droit électoral
-   congolais.
 
    Populaires en ce moment
    Management toxique : le harcèlement moral peut être retenu même si les
    méthodes de gestion ne concernent pas un salarié determiné. 100
    Grand excès de vitesse : la fin des contraventions, place au tribunal
-   correctionnel ? 96
+   correctionnel ? 100
    La communication de pièces par lien de téléchargement est-elle
-   régulière ? 50
+   régulière ? 61
    L'IA peut-elle simplifier et améliorer la recherche juridique ? Ce
-   qu'en pensent les juristes... 38
+   qu'en pensent les juristes... 42
    Licenciement résultant d'informations obtenues par l'employeur du
    médecin traitant d'un salarié = motif contaminant rendant nul et de nul
-   effet le licenciement. 36
-   Discrimination syndicale et production de preuves en 2026. 27
-   Le décret Rivage : une réforme controversée du filtrage des appels. 26
-   Loi Letchimy et indivision successorale : quand la procédure devient
-   l'enjeu central. 25
+   effet le licenciement. 38
+   Discrimination syndicale et production de preuves en 2026. 29
+   Le décret Rivage : une réforme controversée du filtrage des appels. 29
+   Marchés publics 2026 : vers une simplification historique pour les PME
+   et les acheteurs locaux ! 27
 
    Annonces d'Emploi
+
+   15:54 Stage Corporate - M&A - Private Equity
+
+   15:34 Stage en Contentieux des affaires (H/F) (6 mois) - juil. / dec.
+   2026
+
+   15:33 Stage en Droit immobilier - Contentieux des affaires (H/F) -
+   juill. / dec 2026
+
+   15:33 Stage en Droit Social - Droit du travail - juill. à déc. 2026
+
+   15:33 Stage en Droit commercial / Propriété intellectuelle - juill. /
+   dec 2026 (H/F)
+
+   15:33 Stage en Droit Social - Droit du travail - janv. à juill. 2026
+
+   15:33 Stage en Droit immobilier - Contentieux des affaires - janv. /
+   juin 2026
 
    11:32 Paralegal-Legal Ops (H/F)
 
@@ -549,20 +567,6 @@ Par Claire Dewerdt, Avocat.
    09:36 Stage droit social
 
    09:36 Stage concurrence & droit européen de juillet à décembre 2026
-
-   09:36 Stage Contentieux de juillet 2026 à décembre 2026
-
-   08:58 Stage en Corporate, M&A et private equity - début 01/06/2025
-
-   08:30 Assistant Juridique H/F
-
-   08:25 Juriste Contentieux Recouvrement/Secteur Immobilier H/F
-
-   08:12 Juriste Immobilier Confirmé/Baux Commerciaux H/F
-
-   08:12 Notaire-Assistant(e) H/F en Droit de la Famille
-
-   Hier 21:45 Avocat collaborateur en droit de la santé (H/F)
 
    Forum
    30/12 Management, échanges professionnels o Sanction disciplinaire ou
@@ -601,10 +605,8 @@ Par Claire Dewerdt, Avocat.
 
    PROFESSIONNELS DU DROIT
    Previous Next
-   Réseau de cabinets d'avocats indépendants
 
 
-   Réseau de cabinets d'avocats indépendants
    Bien plus que du droit.
 
 
@@ -613,20 +615,18 @@ Par Claire Dewerdt, Avocat.
 
 
    Réseau de professionnels du Droit
-   Procédure d'appel, procédure civile, conseil, contentieux, modes
-   amiables
-
-
-   Procédure d'appel, procédure civile, conseil, contentieux, modes
-   amiables
-   Association pour la prévention positive des cyberviolences
-
-
-   Association pour la prévention positive des cyberviolences
    Cabinet d'avocat
 
 
    Cabinet d'avocat
+   Réseau de cabinets d'avocats indépendants
+
+
+   Réseau de cabinets d'avocats indépendants
+   Association pour la prévention positive des cyberviolences
+
+
+   Association pour la prévention positive des cyberviolences
    Facilite l'accès aux professions du Droit
 
 
@@ -635,42 +635,49 @@ Par Claire Dewerdt, Avocat.
 
 
    Cabinet d'Avocats
-
-
    Collectif d'avocats et de médiateurs
 
 
    Collectif d'avocats et de médiateurs
+   Procédure d'appel, procédure civile, conseil, contentieux, modes
+   amiables
+
+
+   Procédure d'appel, procédure civile, conseil, contentieux, modes
+   amiables
 
    Solutions
    Previous Next
 
 
-   Offres pour les métiers du droit
-
-
-   Solutions d'informations pour professionnels du droit.
-
-
-   Traducteurs assermentés
-
-
-   Lettre recommandée électronique
-
-
-   Editeur juridique
-
-
-   Editeur juridique et de solutions de gestion pour les métiers du droit
-
-
-   Destruction et recyclage de documents confidentiels
+   Créateur de confiance juridique
 
 
    1er service entièrement en ligne pour externaliser vos appels
 
 
-   Créateur de confiance juridique
+   Lettre recommandée électronique
+
+
+   AI-powered Contract Management
+
+
+   Destruction et recyclage de documents confidentiels
+
+
+   Maintenance informatique spécialisée pour les professionnels du droit
+
+
+   Logiciels pour professionnels du droit.
+
+
+   Offres pour les métiers du droit
+
+
+   Editeur juridique et de solutions de gestion pour les métiers du droit
+
+
+   Editeur juridique
 
 
    Aides et Conseils à l'installation des avocats.
@@ -679,51 +686,48 @@ Par Claire Dewerdt, Avocat.
    Logiciels de conformité, risques et éthique
 
 
-   Maintenance informatique spécialisée pour les professionnels du droit
+   Traducteurs assermentés
 
 
    Association de gestion et de comptabilité pour Avocats
 
 
-   Logiciels pour professionnels du droit.
-
-
-   AI-powered Contract Management
+   Solutions d'informations pour professionnels du droit.
 
    Formateurs
    Previous Next
-   Se former est une chance !
-
-
-   Se former est une chance !
-   Des formations spécialisées
-
-
-   Des formations spécialisées
-   Cabinet juridique et organisme de formation
-
-
-   Cabinet juridique et organisme de formation
    Formation, recherche et innovation
 
 
    Formation, recherche et innovation
+   Cabinet juridique et organisme de formation
+
+
+   Cabinet juridique et organisme de formation
+   Se former est une chance !
+
+
+   Se former est une chance !
    Formations courtes ou longues à destination des professionnels du droit
 
 
    Formations courtes ou longues à destination des professionnels du droit
-   Se former aux métiers du Droit
+   Des formations spécialisées
 
 
-   Se former aux métiers du Droit
-   La Compétence juridique se recrute !
-
-
-   La Compétence juridique se recrute !
+   Des formations spécialisées
    L'école des nouveaux juristes !
 
 
    L'école des nouveaux juristes !
+   La Compétence juridique se recrute !
+
+
+   La Compétence juridique se recrute !
+   Se former aux métiers du Droit
+
+
+   Se former aux métiers du Droit
 
    Nouveautés Édition juridique
    Nouveauté Livre
@@ -796,8 +800,8 @@ Au sommaire de cet article :
    Parmi les sujets juridiques très actifs en ce moment:
 
    - intelligence artificielle - droit du travail - droit pénal -
-   propriété intellectuelle - médiation - protection des données
-   personnelles - procédure civile - copropriété - responsabilité civile -
+   propriété intellectuelle - protection des données personnelles -
+   médiation - copropriété - responsabilité civile - procédure civile -
    preuve - protection des données - licenciement - responsabilité
    bancaire - formation professionnelle - prescription - sécurité
    juridique - procédure pénale - contentieux administratif - contrat de

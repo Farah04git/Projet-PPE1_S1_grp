@@ -545,11 +545,12 @@ Mots proches
    QUIZ
      __________________________________________________________________
 
-   Parmi ces noms se finissant par le son [xion], lequel est mal écrit ?
+   Dans la locution « îles [britanniques] », faut-il mettre une majuscule
+   à l'adjectif « britanniques » ?
      *
-          + (*) réflexion
-          + ( ) détection
-          + ( ) connection
+          + (*) oui
+          + ( ) non
+          + ( ) seulement s'il s'agit du pays
 
    Applications mobiles Index Mentions légales et crédits CGU CGV Charte
    de confidentialité Cookies Contact À la une © Larousse

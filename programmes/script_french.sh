@@ -4,6 +4,7 @@
 
 URL_FILE=$1
 ID=1
+REGEX="\b([eéèêÉÈÊ][tT][aA][tT]s?)\b(?:[-‑][A-Za-zàâéèêîôùûç]+)?"
 
 DIR_ASPI="./aspirations/français"
 DIR_CONTXT="./contextes"
@@ -75,14 +76,17 @@ while read -r URL ; do
 	# Toute la réponse HTTP (header + body), pour éviter trop de curl
 	full_response=$(curl -s -i -L -A "$USER_AGENT" "$URL")
 
+
 	# Code HTTP
 	http_code=$(echo "$full_response" | head -n 1 | cut -d ' ' -f 2)
+
 
 	# Vérification HTTP
 	if [[ "$http_code" != "200" ]] ; then
 		echo "Erreur : $URL non traité (!=200)"
 		continue
 	fi
+
 	
 	# HTML + écriture dans fichiers aspiration
 	html_full=$(echo "$full_response" | sed -n '/^[[:space:]]*</,$p')
@@ -90,9 +94,12 @@ while read -r URL ; do
 
 	echo "$html_full" > "$filename_aspiration"
 
+
 	# Détection encodage UTF-8
 	encoding=$(echo "$html_full" | grep -i -o 'UTF-8' | head -1)
 	
+
+
 	if [[ -n "$encoding" ]]; then
 		#echo "Encodage détecté : $encoding"
 
@@ -106,6 +113,16 @@ while read -r URL ; do
 		
 	fi
 
+
+	# Comptage mots dump
+	total_words=$(egrep "\b[[:alnum:]]+\b" -o < "$filename_dump" | wc -l)
+	echo "$total_words"
+
+	# Comptage occurences dump
+	total_occurences=$(grep -Eio "$REGEX" "$filename_dump" | wc -l)
+	echo "$total_occurences"
+	
+
 	((ID++))
 
 	
@@ -113,21 +130,3 @@ while read -r URL ; do
 
 
 done < "$URL_FILE" 
-
-
-
-
-
-
-
-
-
-#fichier_temp=$(mktemp) #fichier temporaire
-
-
-
-
-
-
-#rm ${temp_file} # supression fichier temporaire
-
