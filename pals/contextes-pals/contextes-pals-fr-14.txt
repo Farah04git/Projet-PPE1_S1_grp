@@ -6,11 +6,7 @@ les
 articles
 de
 dictionnaire
-
-
 état
-
-
 etɑ
 n
 
@@ -32,59 +28,35 @@ d
 être
 d
 une
-
-
 État
-
-
 de
 tristesse
 d
 accablement
 
-
-
 État
-
-
 de
 veille
 de
 sommeil
 
-
-
 État
-
-
 second
 
 Être
 en
-
-
 état
-
-
 d
 ébriété
 en
-
-
 état
-
-
 d
 ivresse
 
 Être
 en
 piteux
-
-
 état
-
-
 
 il
 se
@@ -108,11 +80,7 @@ la
 gravité
 de
 son
-
-
 état
-
-
 A
 
 Bessette
@@ -124,21 +92,13 @@ mettre
 dans
 tous
 ses
-
-
 états
-
-
 être
 se
 mettre
 dans
 un
-
-
 état
-
-
 d
 agitation
 extrême
@@ -162,11 +122,7 @@ garçon
 dans
 tous
 ses
-
-
 états
-
-
 S
 
 Kokis
@@ -177,11 +133,7 @@ pas
 être
 dans
 son
-
-
 état
-
-
 normal
 agir
 d
@@ -214,11 +166,7 @@ est
 pas
 dans
 son
-
-
 état
-
-
 normal
 qu
 elle
@@ -239,11 +187,7 @@ Laberge
 
 méd
 
-
-
 État
-
-
 de
 choc
 
@@ -254,11 +198,7 @@ grammaire
 traditionnelle
 Verbe
 d
-
-
 état
-
-
 
 par
 ext
@@ -270,11 +210,7 @@ une
 personne
 
 conditionsituation
-
-
 État
-
-
 de
 misère
 de
@@ -282,11 +218,7 @@ dépendance
 
 Être
 en
-
-
 état
-
-
 d
 accusation
 d
@@ -297,11 +229,7 @@ peur
 nous
 met
 en
-
-
 état
-
-
 de
 légitime
 défense
@@ -317,11 +245,7 @@ verb
 
 être
 en
-
-
 état
-
-
 de
 inf
 
@@ -339,11 +263,7 @@ de
 Es
 tu
 en
-
-
 état
-
-
 de
 conduire
 Ni
@@ -356,11 +276,7 @@ nous
 n
 étions
 en
-
-
 état
-
-
 de
 parler
 L
@@ -371,11 +287,7 @@ Conan
 être
 hors
 d
-
-
 état
-
-
 de
 
 Être
@@ -409,11 +321,7 @@ pour
 toutes
 hors
 d
-
-
 état
-
-
 de
 nuire
 je
@@ -436,27 +344,15 @@ d
 une
 économie
 
-
-
 État
-
-
 des
 routes
 
-
-
 État
-
-
 de
 siège
 
-
-
 État
-
-
 d
 une
 toiture
@@ -464,22 +360,14 @@ d
 une
 construction
 
-
-
 État
-
-
 d
 urgence
 
 Marchandise
 en
 parfait
-
-
 état
-
-
 de
 conservation
 
@@ -488,19 +376,11 @@ en
 bon
 en
 mauvais
-
-
 état
-
-
 
 phys
 
-
-
 État
-
-
 solide
 liquide
 gazeux
@@ -509,17 +389,9 @@ Remettre
 qqch
 
 en
-
-
 état
 
-
-
-
-
 État
-
-
 de
 s
 choses
@@ -549,11 +421,7 @@ et
 accepter
 simplement
 un
-
-
 état
-
-
 de
 choses
 contre
@@ -567,11 +435,7 @@ Fr
 Loranger
 
 
-
-
 État
-
-
 de
 la
 question
@@ -594,11 +458,7 @@ précis
 Une
 fois
 l
-
-
 état
-
-
 de
 la
 question
@@ -617,11 +477,7 @@ Le
 Devoir
 
 
-
-
 État
-
-
 s
 de
 service
@@ -641,11 +497,7 @@ Son
 expérience
 et
 ses
-
-
 états
-
-
 de
 service
 lui
@@ -666,21 +518,13 @@ Commerce
 
 à
 l
-
-
 état
-
-
 adj
 
 ou
 à
 l
-
-
 état
-
-
 de
 nom
 
@@ -699,28 +543,16 @@ de
 
 À
 l
-
-
 état
-
-
 pur
 
 À
 l
-
-
 état
-
-
 larvaire
 à
 l
-
-
 état
-
-
 de
 larve
 
@@ -728,11 +560,7 @@ Une
 plante
 à
 l
-
-
 état
-
-
 sauvage
 
 le
@@ -763,11 +591,7 @@ encore
 qu
 à
 l
-
-
 état
-
-
 de
 projet
 dans
@@ -783,11 +607,7 @@ Neil
 
 
 faire
-
-
 état
-
-
 de
 
 Mettre
@@ -809,11 +629,7 @@ l
 occasion
 de
 faire
-
-
 état
-
-
 de
 nos
 liens
@@ -829,11 +645,7 @@ Adv
 complexeGT
 en
 tout
-
-
 état
-
-
 de
 cause
 
@@ -852,11 +664,7 @@ cas
 
 En
 tout
-
-
 état
-
-
 de
 cause
 l
@@ -882,11 +690,7 @@ Constat
 écrit
 d
 un
-
-
 état
-
-
 de
 choses
 en
@@ -899,11 +703,7 @@ moment
 donnés
 
 constat
-
-
 États
-
-
 des
 revenus
 des
@@ -918,11 +718,7 @@ le
 gouvernement
 publie
 ses
-
-
 états
-
-
 financiers
 en
 cumulant
@@ -935,11 +731,7 @@ Le
 Devoir
 
 
-
-
 état
-
-
 des
 lieux
 inventaire
@@ -961,11 +753,7 @@ l
 ordre
 social
 
-
-
 état
-
-
 matrimonial
 situation
 légale
@@ -979,11 +767,7 @@ etc
 
 
 
-
-
 état
-
-
 civil
 ensemble
 des
@@ -1010,11 +794,7 @@ la
 nationalité
 et
 l
-
-
 état
-
-
 matrimonial
 service
 public
@@ -1036,21 +816,13 @@ authentifiant
 
 Actes
 d
-
-
 état
-
-
 civil
 
 Directeur
 de
 l
-
-
 état
-
-
 civil
 du
 Québec
@@ -1058,28 +830,16 @@ Québec
 Officier
 de
 l
-
-
 état
-
-
 civil
 d
-
-
 état
-
-
 civil
 
 Registre
 de
 l
-
-
 état
-
-
 civil
 
 Scott
@@ -1097,11 +857,7 @@ as
 même
 pas
 d
-
-
 état
-
-
 civil
 J
 
@@ -1131,11 +887,7 @@ rang
 Vivre
 selon
 son
-
-
 état
-
-
 
 Il
 n
@@ -1152,11 +904,7 @@ que
 leur
 inspirait
 son
-
-
 état
-
-
 de
 grand
 bourgeois
@@ -1172,11 +920,7 @@ de
 vanité
 de
 cet
-
-
 état
-
-
 qu
 il
 se
@@ -1214,11 +958,7 @@ Dupont
 ingénieur
 de
 son
-
-
 état
-
-
 A
 
 Parizeau
@@ -1253,17 +993,9 @@ noblesse
 et
 le
 tiers
-
-
 état
 
-
-
-
-
 États
-
-
 généraux
 assemblée
 convoquée
@@ -1282,11 +1014,7 @@ corps
 social
 
 tiers
-
-
 état
-
-
 partie
 de
 la
@@ -1310,11 +1038,7 @@ etc
 
 Le
 tiers
-
-
 état
-
-
 ou
 pour
 mieux
@@ -1353,11 +1077,7 @@ Staël
 
 mod
 
-
-
 états
-
-
 généraux
 réunion
 plénière
@@ -1376,11 +1096,7 @@ donné
 
 in
 GDT
-
-
 États
-
-
 généraux
 de
 l
@@ -1388,11 +1104,7 @@ l
 
 Tenir
 des
-
-
 états
-
-
 généraux
 
 III
@@ -1402,237 +1114,101 @@ majusc
 
 polit
 
-
-
 État
-
-
 
 REM
 
 Le
 mot
-
-
 État
-
-
 s
 écrit
 avec
-
-
 état
-
-
 singulier
 pluriel
-
-
 état
-
-
-
-
 états
-
-
 affaire
 d
-
-
 État
-
-
 à
 l
-
-
-état
-
-pur
+étatpur
 à
 l
-
-
 état
-
-
 adj
 
 à
 l
-
-
 état
-
-
 de
 nom
 conseild
-
-
 État
-
-
 domainede
 l
-
-
 État
-
-
 en
 tout
-
-
 état
-
-
 de
 cause
-
-
 État
-
-
 providence
-
-
-État
-
-policier
-
-
-états
-
-econd
-
-
-État
-
-tampon
-
-
+Étatpolicier
+étatsecond
+Étattampon
 état
-
-
 civil
-
-
 état
-
-
 d
 âme
-
-
 état
-
-
 d
 urgence
-
-
 État
-
-
 dans
 l
-
-
 État
-
-
-
-
 état
-
-
 dechoc
-
-
 état
-
-
 degrâce
-
-
 état
-
-
 demanque
-
-
 état
-
-
 desiège
-
-
 État
-
-
 de
 droit
-
-
 état
-
-
 de
 la
 question
 d
 une
 question
-
-
 état
-
-
 de
 s
 choses
-
-
 état
-
-
 des
 lieux
-
-
 état
-
-
 matrimonial
-
-
 État
 nation
-
-
-
-
 état
-
-
 s
 de
 service
 de
 qqn
-
-
-États
-
-pontificaux
-
-
+Étatspontificaux
 états
-
-
 généraux
 être
 se
@@ -1640,167 +1216,75 @@ mettre
 dans
 tous
 ses
-
-
 états
-
-
 être
 en
-
-
 état
-
-
 de
 inf
 
 être
 hors
 d
-
-
 état
-
-
 de
 faire
-
-
 état
-
-
 de
 femme
 homme
 d
-
-
 État
-
-
 ministred
-
-
 État
-
-
 ne
 pas
 être
 dans
 son
-
-
 état
-
-
 normal
 officierde
 l
-
-
 état
-
-
 civil
 d
-
-
 état
-
-
 civil
 raisond
-
-
 État
-
-
 registrede
 l
-
-
 état
-
-
 civil
 remettreqqch
 
 en
-
-
 état
-
-
 secretd
-
-
 État
-
-
 télévisiond
-
-
 État
-
-
 tiers
-
-
 état
-
-
 verbed
-
-
 état
-
-
 Afficher
 plus
 de
 sous
 entrées
 Voisinage
-
-
 État
-
-
 providence
-
-
 état
-
-
-
-
 état
 major
-
-
-
-
 État
 nation
-
-
-
-
-état
-
-ique
-
-
-état
-
-isation
-
-
-état
-
-iser
+étatique
+étatisation
+étatiser
 Auteurs
 Hélène
 Cajolet

@@ -1,11 +1,7 @@
 
 
 Les
-
-
 états
-
-
 de
 choc
 sont
@@ -47,20 +43,12 @@ hyperlactatémie
 Le
 diagnostic
 d
-
-
 état
-
-
 de
 choc
 ou
 d
-
-
 état
-
-
 moins
 grave
 dit
@@ -99,11 +87,7 @@ charge
 initiale
 de
 tout
-
-
 état
-
-
 de
 choc
 
@@ -121,11 +105,7 @@ nécessaires
 Les
 objectifs
 L
-
-
 état
-
-
 de
 choc
 circulatoire
@@ -148,11 +128,7 @@ insuffisance
 circulatoire
 d
 un
-
-
 état
-
-
 de
 choc
 est
@@ -172,11 +148,7 @@ oxygène
 responsable
 d
 un
-
-
 état
-
-
 de
 dysoxie
 cellulaire
@@ -210,11 +182,7 @@ TaO
 peuvent
 induire
 un
-
-
 état
-
-
 de
 dysoxie
 et
@@ -225,11 +193,7 @@ des
 malades
 
 Ces
-
-
 états
-
-
 de
 choc
 sont
@@ -255,11 +219,7 @@ supérieure
 à
 dans
 les
-
-
 états
-
-
 de
 choc
 septique
@@ -295,21 +255,13 @@ le
 traitement
 précoces
 des
-
-
 états
-
-
 de
 choc
 mais
 aussi
 des
-
-
 états
-
-
 de
 pré
 choc
@@ -343,11 +295,7 @@ plus
 précoce
 possible
 des
-
-
 états
-
-
 de
 choc
 en
@@ -355,11 +303,7 @@ service
 conventionnel
 
 Les
-
-
 états
-
-
 de
 choc
 représentent
@@ -385,11 +329,7 @@ Fig
 
 
 Les
-
-
 états
-
-
 de
 choc
 dits
@@ -416,19 +356,11 @@ et
 surveillance
 initiale
 des
-
-
 états
-
-
 de
 choc
 Tout
-
-
 état
-
-
 de
 choc
 est
@@ -459,11 +391,7 @@ critères
 diagnostiques
 hétérogènes
 des
-
-
 états
-
-
 de
 choc
 circulatoire
@@ -474,11 +402,7 @@ diagnostic
 précis
 d
 un
-
-
 état
-
-
 de
 choc
 dépend
@@ -493,11 +417,7 @@ charge
 thérapeutique
 initiale
 des
-
-
 états
-
-
 de
 pré
 choc
@@ -508,11 +428,7 @@ Le
 traitement
 d
 un
-
-
 état
-
-
 de
 pré
 choc
@@ -554,11 +470,7 @@ la
 simple
 suspicion
 d
-
-
 état
-
-
 de
 choc
 ou
@@ -579,11 +491,7 @@ des
 principales
 causes
 d
-
-
 état
-
-
 de
 choc
 sont
@@ -601,11 +509,7 @@ charge
 initiale
 d
 un
-
-
 état
-
-
 de
 choc
 demeure
@@ -621,11 +525,7 @@ une
 pression
 de
 L
-
-
 état
-
-
 de
 choc
 est
@@ -640,11 +540,7 @@ L
 identification
 précoce
 des
-
-
 états
-
-
 de
 pré
 choc
@@ -684,11 +580,7 @@ d
 un
 patient
 en
-
-
 état
-
-
 de
 choc
 cardiogénique

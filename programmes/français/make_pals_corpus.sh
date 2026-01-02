@@ -23,11 +23,13 @@ while read -r URL; do
     echo "" > "$FOLDER/dump-pals/dump-pals-fr-$N.txt"
     echo "" > "$FOLDER/contextes-pals/contextes-pals-fr-$N.txt"
 
+    
     # Dumps
     tr -cs "[:alpha:]." "\n" < dumps-text/français/fr-$N.txt | sed 's/\./\n/g'  >> "$FOLDER/dump-pals/dump-pals-fr-$N.txt"
 
-    # Contextes
-    tr -cs "[:alpha:]." "\n" < contextes/français/contxt_fr-$N.txt | sed 's/\./\n/g' >> "$FOLDER/contextes-pals/contextes-pals-fr-$N.txt"
+    # Contextes + Retrait marqueurs autour ..état.. dans contextes
+   sed 's/\.\.\([^.]*\)\.\./\1/g' contextes/français/contxt_fr-$N.txt \
+  | tr -cs "[:alpha:]." "\n" | sed 's/\./\n/g' >> "$FOLDER/contextes-pals/contextes-pals-fr-$N.txt"
 
     ((N++))
 
