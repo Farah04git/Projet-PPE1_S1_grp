@@ -4,7 +4,7 @@ DUMP_DIR="./dumps-text/français"
 OUTPUT_PATH="./concordances/français"
 CONTEXT=5
 
-REGEX="[eéèêËE][tT][aàAÀ][tT]s?([-][A-Za-zàâäéèêëïîôöùûüÿçÀÂÄÉÈÊËÏÎÔÖÙÛÜŸÇ]+)?"
+REGEX='[eéèêEÉÈÊ][tT][aàAÀ][tT]s?(-[A-Za-zàâäéèêëïîôöùûüÿçÀÂÄÉÈÊËÏÎÔÖÙÛÜŸÇ]+)?'
 
 
 # Traiter tous les fichiers dumps
@@ -39,39 +39,29 @@ for file in "$DUMP_DIR"/*.txt; do
 
     echo "$TAB_CONC" > "$OUT_HTML"
 
+    # Lecture de tt dans une seule variable
+    line=$(tr '\n' ' ' < "$file")
 
+    while [[ $line =~ $REGEX ]]; do
+        mot_etat="${BASH_REMATCH[0]}"
 
-    while read -r line; do
-
-        # Trouve toues les occurences
-        while [[ $line =~ $REGEX ]]; do
-                mot_etat="${BASH_REMATCH[0]}"
-
-            # Sépare gauche et droite
-            left_part="${line%%$mot_etat*}"  # tout avant le mot
-            right_part="${line#*$mot_etat}"  # tout après le mot
+        # Sépare gauche et droite
+        left_part="${line%%$mot_etat*}"  # tt avant le mot
+        right_part="${line#*$mot_etat}"  # tt après le mot
 
 
 
-            # Champs gauche et droite
-            left=$(echo "$left_part" | awk -v n=$CONTEXT '{
-                start = NF - n + 1
-                if(start < 1) start = 1
-                for(i=start;i<=NF;i++) printf "%s ", $i
-            }')
-            right=$(echo "$right_part" | awk -v n=$CONTEXT '{
-                end = (NF < n ? NF : n)
-                for(i=1;i<=end;i++) printf "%s ", $i
-            }')
+        # Champs gauche et droite
+        left=$(echo "$left_part" | awk -v n=$CONTEXT '{start=NF-n+1; if(start<1) start=1; for(i=start;i<=NF;i++) printf "%s ", $i}')
+        right=$(echo "$right_part" | awk -v n=$CONTEXT '{end=(NF<n?NF:n); for(i=1;i<=end;i++) printf "%s ", $i}')
 
-            # Ajout de la ligne au tableau
-            echo "<tr><td>${left}</td><td><strong>${mot_etat}</strong></td><td>${right}</td></tr>" >> "$OUT_HTML"
+        # Ajout de la ligne au tableau
+        echo "<tr><td>${left}</td><td><strong>${mot_etat}</strong></td><td>${right}</td></tr>" >> "$OUT_HTML"
 
-            # eviter boucle : supprime première occurence
-            line="${line#*$mot_etat}"
-        
-        done
-    done < "$file"
+
+        # eviter boucle : supprime première occurence
+        line="${line#*$mot_etat}"
+    done
 
     # Fin HTML
     echo '</tbody>' >> "$OUT_HTML"

@@ -4,176 +4,176 @@
    [ ] Menu principal
    Menu principal
    Navigation
-     * Page d’accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+      Page d’accueil
+      Portails thématiques
+      Article au hasard
+      Contact
    Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+      Débuter sur Wikipédia
+      Aide
+      Communauté
+      Pages spéciales
+      Modifications récentes
    [IMG] Wikipédia l'encyclopédie libre
    Rechercher
-   _____________________
+   ______________
    Rechercher
    [ ] Apparence
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+      Faire un don
+      Créer un compte
+      Se connecter
    [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+      Faire un don
+      Créer un compte
+      Se connecter
 
 Sommaire
 
-     * Début
-     * 1 Définition et usage
-          * 1.1 Opposition ou gradation entre les notions d'État de droit et
+      Début
+      1 Définition et usage
+           1.1 Opposition ou gradation entre les notions d'État de droit et
             d'État policier
-          * 1.2 Usage des nouvelles technologies
-          * 1.3 Disparition ou démantèlement
-     * 2 Étymologie
-     * 3 Régimes policiers historiques jusqu'à la fin du XIX^e siècle
-          * 3.1 États policiers primitifs
-          * 3.2 Royaume de Prusse
-          * 3.3 Autriche sous Joseph II
-          * 3.4 En France sous la Révolution, le Premier Empire et le Second
+           1.2 Usage des nouvelles technologies
+           1.3 Disparition ou démantèlement
+      2 Étymologie
+      3 Régimes policiers historiques jusqu'à la fin du XIX^e siècle
+           3.1 États policiers primitifs
+           3.2 Royaume de Prusse
+           3.3 Autriche sous Joseph II
+           3.4 En France sous la Révolution, le Premier Empire et le Second
             Empire
-     * 4 États policiers du XX^e siècle
-          * 4.1 Empire du Japon (1911 - 1945)
-          * 4.2 Italie fasciste (1922 - 1943)
-          * 4.3 Troisième Reich (1933 - 1945) et régimes affiliés
-               * 4.3.1 Régime de Vichy (1940 - 1944)
-          * 4.4 Union des républiques socialistes soviétiques (1922 - 1991)
-          * 4.5 Pays du bloc de l'Est
-               * 4.5.1 Roumanie (1948 - 1989)
-               * 4.5.2 République démocratique allemande (1949 - 1990)
-          * 4.6 Dictature militaire d'Augusto Pinochet (1973 - 1990)
-          * 4.7 Régime d'apartheid en Afrique du Sud (1948 - 1991)
-     * 5 Régimes policiers actuels
-          * 5.1 République de Cuba
-          * 5.2 Asie de l'Est
-               * 5.2.1 République populaire de Chine
-               * 5.2.2 Corée du Nord
-          * 5.3 Asie du Sud-Est
-               * 5.3.1 Thaïlande
-               * 5.3.2 République socialiste du Viêt Nam
-               * 5.3.3 République démocratique populaire lao
-          * 5.4 Afrique
-               * 5.4.1 Égypte
-               * 5.4.2 Érythrée
-               * 5.4.3 République d'Angola
-          * 5.5 Pays du Maghreb
-               * 5.5.1 Maroc
-               * 5.5.2 Algérie
-               * 5.5.3 Tunisie
-          * 5.6 Turquie
-          * 5.7 Iran
-          * 5.8 Pays post-soviétiques
-               * 5.8.1 Biélorussie
-               * 5.8.2 Ouzbékistan
-               * 5.8.3 Turkménistan
-     * 6 Controverses sur l'émergence d'États policiers parmi les démocraties
+      4 États policiers du XX^e siècle
+           4.1 Empire du Japon (1911  1945)
+           4.2 Italie fasciste (1922  1943)
+           4.3 Troisième Reich (1933  1945) et régimes affiliés
+                4.3.1 Régime de Vichy (1940  1944)
+           4.4 Union des républiques socialistes soviétiques (1922  1991)
+           4.5 Pays du bloc de l'Est
+                4.5.1 Roumanie (1948  1989)
+                4.5.2 République démocratique allemande (1949  1990)
+           4.6 Dictature militaire d'Augusto Pinochet (1973  1990)
+           4.7 Régime d'apartheid en Afrique du Sud (1948  1991)
+      5 Régimes policiers actuels
+           5.1 République de Cuba
+           5.2 Asie de l'Est
+                5.2.1 République populaire de Chine
+                5.2.2 Corée du Nord
+           5.3 Asie du Sud-Est
+                5.3.1 Thaïlande
+                5.3.2 République socialiste du Viêt Nam
+                5.3.3 République démocratique populaire lao
+           5.4 Afrique
+                5.4.1 Égypte
+                5.4.2 Érythrée
+                5.4.3 République d'Angola
+           5.5 Pays du Maghreb
+                5.5.1 Maroc
+                5.5.2 Algérie
+                5.5.3 Tunisie
+           5.6 Turquie
+           5.7 Iran
+           5.8 Pays post-soviétiques
+                5.8.1 Biélorussie
+                5.8.2 Ouzbékistan
+                5.8.3 Turkménistan
+      6 Controverses sur l'émergence d'États policiers parmi les démocraties
        occidentales
-          * 6.1 Aux États-Unis
-          * 6.2 Au Canada
-          * 6.3 En Belgique
-          * 6.4 En France
-          * 6.5 En Hongrie et en Pologne
-          * 6.6 En Australie
-     * 7 États policiers dans la fiction
-          * 7.1 Dans la littérature et le cinéma de science-fiction
-          * 7.2 Dans le roman policier et le roman noir
-          * 7.3 Dans la bande dessinée et le manga
-     * 8 Notes et références
-     * 9 Voir aussi
-          * 9.1 Articles connexes
-          * 9.2 Bibliographie
-               * 9.2.1 Articles
-          * 9.3 Liens externes
+           6.1 Aux États-Unis
+           6.2 Au Canada
+           6.3 En Belgique
+           6.4 En France
+           6.5 En Hongrie et en Pologne
+           6.6 En Australie
+      7 États policiers dans la fiction
+           7.1 Dans la littérature et le cinéma de science-fiction
+           7.2 Dans le roman policier et le roman noir
+           7.3 Dans la bande dessinée et le manga
+      8 Notes et références
+      9 Voir aussi
+           9.1 Articles connexes
+           9.2 Bibliographie
+                9.2.1 Articles
+           9.3 Liens externes
    [ ] Basculer la table des matières
 
                                  État policier
 
    [ ] 45 langues
-     * العربية
-     * مصرى
-     * Asturianu
-     * Български
-     * বাংলা
-     * Català
-     * Čeština
-     * Dansk
-     * Deutsch
-     * Ελληνικά
-     * English
-     * Esperanto
-     * Español
-     * Euskara
-     * فارسی
-     * Suomi
-     * עברית
-     * Hrvatski
-     * Bahasa Indonesia
-     * Italiano
-     * 日本語
-     * ქართული
-     * 한국어
-     * Lombard
-     * Lietuvių
-     * Bahasa Melayu
-     * Nederlands
-     * Norsk bokmål
-     * Polski
-     * Português
-     * Русский
-     * Srpskohrvatski / српскохрватски
-     * Simple English
-     * Slovenčina
-     * Slovenščina
-     * Српски / srpski
-     * Svenska
-     * தமிழ்
-     * Tagalog
-     * Türkçe
-     * Українська
-     * Oʻzbekcha / ўзбекча
-     * Tiếng Việt
-     * 中文
-     * 粵語
+      العربية
+      مصرى
+      Asturianu
+      Български
+      বাংলা
+      Català
+      Čeština
+      Dansk
+      Deutsch
+      Ελληνικά
+      English
+      Esperanto
+      Español
+      Euskara
+      فارسی
+      Suomi
+      עברית
+      Hrvatski
+      Bahasa Indonesia
+      Italiano
+      日本語
+      ქართული
+      한국어
+      Lombard
+      Lietuvių
+      Bahasa Melayu
+      Nederlands
+      Norsk bokmål
+      Polski
+      Português
+      Русский
+      Srpskohrvatski  српскохрватски
+      Simple English
+      Slovenčina
+      Slovenščina
+      Српски  srpski
+      Svenska
+      தமிழ்
+      Tagalog
+      Türkçe
+      Українська
+      Oʻzbekcha  ўзбекча
+      Tiếng Việt
+      中文
+      粵語
    Modifier les liens
-     * Article
-     * Discussion
+      Article
+      Discussion
    [ ] français
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+      Lire
+      Modifier
+      Modifier le code
+      Voir l’historique
    [ ] Outils
    Outils
    Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+      Lire
+      Modifier
+      Modifier le code
+      Voir l’historique
    Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
+      Pages liées
+      Suivi des pages liées
+      Téléverser un fichier
+      Lien permanent
+      Informations sur la page
+      Citer cette page
+      Obtenir l'URL raccourcie
+      Télécharger le code QR
+   Imprimer  exporter
+      Créer un livre
+      Télécharger comme PDF
+      Version imprimable
    Dans d’autres projets
-     * Élément Wikidata
+      Élément Wikidata
    Apparence
    Un article de Wikipédia, l'encyclopédie libre.
    [IMG]Banderole à Bangkok, le 30 juin 2014 pendant le coup d'État de 2014
@@ -225,7 +225,7 @@ Sommaire
 
 Définition et usage
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    L'État policier est un concept des sciences politiques^[1]. À l'origine,
    un État policier est un État régi par une administration civile. Dès
@@ -233,7 +233,7 @@ Définition et usage
    et des forces de maintien de l'ordre sont chargées de la faire
    respecter^[2]. Pour le philosophe français Michel Foucault, qui traite
    abondamment du rôle de la police dans son ouvrage Sécurité, Territoire,
-   Population (1978-1979)^[3], « l'État de police, c’est un gouvernement qui
+   Population (19781979)^[3], « l'État de police, c’est un gouvernement qui
    se confond avec l'administration, un gouvernement qui est entièrement
    administratif et une administration qui a pour elle, derrière elle, le
    poids intégral d’une gouvernementalité »^[4]. Depuis le début du
@@ -264,11 +264,11 @@ Définition et usage
    en 1973, les quatre caractéristiques suivantes comme propres aux États
    policiers^[12] :
 
-     * le policier a toujours raison et jouit de l'impunité ;
-     * la police a un pouvoir très grand, qui n'est pas un pouvoir de droit
+      le policier a toujours raison et jouit de l'impunité ;
+      la police a un pouvoir très grand, qui n'est pas un pouvoir de droit
        mais un pouvoir de fait ;
-     * la police tend à servir davantage le pouvoir politique que l'État ;
-     * tous les citoyens tendent à se transformer eux-mêmes en policiers.
+      la police tend à servir davantage le pouvoir politique que l'État ;
+      tous les citoyens tendent à se transformer eux-mêmes en policiers.
 
    En termes de fonctionnement, un État policier se rapproche d'un État sous
    loi martiale^[11]. Une démocratie peut ainsi revêtir le fonctionnement
@@ -279,8 +279,8 @@ Définition et usage
 
   Opposition ou gradation entre les notions d'État de droit et d'État policier
 
-   [modifier | modifier le code]
-   [IMG]Robert von Mohl (1799 - 1875), qui a introduit la notion d'État de
+   [modifier  modifier le code]
+   [IMG]Robert von Mohl (1799  1875), qui a introduit la notion d'État de
    droit et celle d'État policier.
    Article connexe : État de droit.
 
@@ -328,7 +328,7 @@ Définition et usage
 
   Usage des nouvelles technologies
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Un État policier de l'information est un État dans lequel le gouvernement
    utilise de manière agressive les nouvelles technologies de l'information
@@ -374,7 +374,7 @@ Définition et usage
 
   Disparition ou démantèlement
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Joseph Fouché, ministre français de la Police sous le Directoire, le
    Consulat et l'Empire.
 
@@ -412,7 +412,7 @@ Définition et usage
 
 Étymologie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    L’Oxford English Dictionary retrace l'origine de l'expression Polizeistaat
    (en français : « État policier ») dès 1851, en référence au recours à une
@@ -426,7 +426,7 @@ Définition et usage
 
 Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Dans son ouvrage de référence Police State (1971), Brian Chapman décrit
    trois formes d'États policiers : traditionnel, moderne, et
@@ -441,7 +441,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
   États policiers primitifs
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Habitants de l'Opritchnina fuyant le massacre, décor d'Apollinaire
    Vasniétsoff pour l'opéra de Tchaïkovski L'Opritchnik.
 
@@ -467,7 +467,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
    Un modèle d'État policier à prédominance ecclésiastique existe avec le
    régiment de la police ecclésiastique (kirchliche Polizeiregiment) en
-   Bavière sous Maximilien I^er (1596-1651)^[39]. Conseillé par les Jésuites
+   Bavière sous Maximilien I^er (15961651)^[39]. Conseillé par les Jésuites
    dans le cadre de la Contre-Réforme, Maximilien I^er établit les lois et
    les règles de l'Église catholique selon le Concile de Trente, avec de très
    dures sanctions, dont la peine de mort^[39]. Il fait aussi ordonner une
@@ -482,7 +482,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
   Royaume de Prusse
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Royaume de Prusse.
    [IMG]Répression de l'insurrection de Francfort par l'armée prussienne, le
    18 septembre 1848, d'après L'Illustration (1848).
@@ -493,7 +493,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    concept^[34]. Ces réformes visant la discipline, la rigueur, et
    l'autosuffisance économique, font suite à la guerre de Trente Ans^[34].
    Les premières réformes en ce sens sont conduites par Frédéric-Guillaume
-   Ier de Brandebourg (1620-1688), et poursuivies par ses successeurs, qui
+   Ier de Brandebourg (16201688), et poursuivies par ses successeurs, qui
    bâtissent un appareil d'État bureaucratique très hiérarchisé^[41], dans un
    contexte de menace de guerre permanente^[34]. L'armée prussienne,
    renforcée, est chargée de protéger l'intégrité de l'État et les intérêts
@@ -514,11 +514,11 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
   Autriche sous Joseph II
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Selon Chapman, la première réelle tentative de bâtir un État entièrement
    basé sur l'usage extensif des forces de police par le pouvoir en place
-   revient à Joseph II d'Autriche (1741-1790), qui s'inspire directement de
+   revient à Joseph II d'Autriche (17411790), qui s'inspire directement de
    Frédéric II de Prusse, notamment en définissant l'État comme chargé de
    maintenir le bien-être du peuple^[46]. Joseph II considère que
    l'acceptation de son régime par le peuple est extrêmement importante^[46].
@@ -529,7 +529,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
   En France sous la Révolution, le Premier Empire et le Second Empire
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Joseph II inspire à son tour Joseph Fouché, qui applique des méthodes très
    similaires en France après la Révolution française et sous l'Empire^[46].
@@ -543,12 +543,12 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
 États policiers du XX^e siècle
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Les deux exemples canons d'États policiers, les plus souvent cités, sont
    deux régimes totalitaires : le Troisième Reich dirigé par Adolf Hitler
-   (1933-1945), et l'Union des républiques socialistes soviétiques (URSS)
-   sous la direction de Joseph Staline (1929-1953)^[11]. Brian Chapman
+   (19331945), et l'Union des républiques socialistes soviétiques (URSS)
+   sous la direction de Joseph Staline (19291953)^[11]. Brian Chapman
    examine leur évolution et leur passage du statut d'États policiers
    modernes à celui d'États policiers totalitaires^[50]. La plupart des
    études sur les États policiers portent sur la répression, et les groupes
@@ -572,9 +572,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    pauvres, alors que les États qui la composent répriment sévèrement les
    actes terroristes commis par certains individus ou groupes ciblés^[56].
 
-  Empire du Japon (1911 - 1945)
+  Empire du Japon (1911  1945)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Tokkō.
 
    D'après l'historienne du Japon Elise Tipton, l'empire du Japon, et plus
@@ -590,9 +590,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    marquée par un recul de la liberté d'expression et de la liberté de la
    presse^[58].
 
-  Italie fasciste (1922 - 1943)
+  Italie fasciste (1922  1943)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Portrait de Benito Mussolini.
    Article connexe : Histoire de l'Italie fasciste.
 
@@ -615,9 +615,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    réforme-clé de la police dans les années 1980, qui fait réellement de
    l'Italie un État de droit^[61].
 
-  Troisième Reich (1933 - 1945) et régimes affiliés
+  Troisième Reich (1933  1945) et régimes affiliés
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Portrait d'Adolf Hitler daté du 20 avril 1937.
    Articles détaillés : Troisième Reich, Schutzstaffel et Gestapo.
 
@@ -649,9 +649,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    la population à partir des années 1930^[62]. Enfin, une propagande d'État
    intense est mobilisée^[62].
 
-    Régime de Vichy (1940 - 1944)
+    Régime de Vichy (1940  1944)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article détaillé : Régime de Vichy.
 
    En France, le régime de Vichy succède à la Troisième République après le
@@ -678,9 +678,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    plus « forte »^[67], le régime « finissa[n]t en État policier, et
    cruellement policier », analyse l'historien Jean-Pierre Azéma^[68].
 
-  Union des républiques socialistes soviétiques (1922 - 1991)
+  Union des républiques socialistes soviétiques (1922  1991)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Portrait de Joseph Staline en juillet 1941.
    Article connexe : Union des républiques socialistes soviétiques.
 
@@ -720,7 +720,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
   Pays du bloc de l'Est
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Après la fin de la Seconde guerre mondiale, les pays européens du bloc de
    l'Est, situés à l'Est du rideau de fer, passent sous le contrôle plus ou
@@ -740,9 +740,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    également reconnue pour en être un^[77], pratiquant la délation et
    l'espionnage de ses citoyens^[78].
 
-    Roumanie (1948 - 1989)
+    Roumanie (1948  1989)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Securitate.
 
    D'après l'historien de la Roumanie Dennis Deletant (en), de toutes les
@@ -753,7 +753,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    Une grande partie de son succès s'appuie sur le sentiment de terreur
    qu'elle inspire aux citoyens roumains^[79]. La Securitate protège les
    intérêts des dirigeants roumains sous la République populaire roumaine
-   (1947 - 1965), puis sous la république socialiste de Roumanie (1965 -
+   (1947  1965), puis sous la république socialiste de Roumanie (1965 -
    1989)^[80].
 
    Les effectifs de la Securitate sont moins importants que le mythe
@@ -761,9 +761,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    14 259 en 1989, au moment de la chute du régime de Nicolae Ceaușescu^[79].
    La Securitate s'appuie sur des dizaines de milliers d'informateurs^[79].
 
-    République démocratique allemande (1949 - 1990)
+    République démocratique allemande (1949  1990)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Articles connexes : République démocratique allemande et Ministère de la
    Sécurité d'État.
    [IMG]Blason de la Stasi.
@@ -786,9 +786,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    informateurs, à la fin des années 1980, la Stasi mobilise un citoyen
    est-allemand sur 200^[52].
 
-  Dictature militaire d'Augusto Pinochet (1973 - 1990)
+  Dictature militaire d'Augusto Pinochet (1973  1990)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article détaillé : Dictature militaire d'Augusto Pinochet.
 
    La dictature militaire d'Augusto Pinochet, au Chili, opère en État
@@ -818,9 +818,9 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
    abandonner les dispositifs de contrôle de la population auxquels il peut
    faire appel en cas d'état d'urgence^[86].
 
-  Régime d'apartheid en Afrique du Sud (1948 - 1991)
+  Régime d'apartheid en Afrique du Sud (1948  1991)
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article détaillé : Apartheid.
    [IMG]Manifestants anti-apartheid en Afrique du Sud dans les années 1980.
 
@@ -845,7 +845,7 @@ Régimes policiers historiques jusqu'à la fin du XIX^e siècle
 
 Régimes policiers actuels
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Des États policiers perdurent au XXI^e siècle, dans un contexte de
    prééminence du libéralisme économique. D'après le philosophe français
@@ -866,7 +866,7 @@ Régimes policiers actuels
 
   République de Cuba
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Selon Maxime Michault (Université de Strasbourg), Cuba revêt les
    caractéristiques d'un État policier en conséquence des tentatives
@@ -884,18 +884,18 @@ Régimes policiers actuels
 
   Asie de l'Est
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
     République populaire de Chine
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    D'après le rapport de Michel Destot, les membres du Parti communiste
    chinois ont longtemps été divisés (notamment à la suite des manifestations
    de la place Tian'anmen en 1989) sur la forme de gouvernance à privilégier
    en Chine : marxisme renouvelé, nationalisme, conservatisme, ou État
    policier^[99]. Le pouvoir policier est renforcé sous Jiang Zemin
-   (1993-2003)^[100]. Selon Guo Xuezhi, la Chine ne s'est jamais développée
+   (19932003)^[100]. Selon Guo Xuezhi, la Chine ne s'est jamais développée
    comme un État policier, même sous Mao Zedong, car sa police est sous le
    contrôle du parti, et non d'un individu unique^[101]. À l'inverse, pour
    l'écrivain et journaliste français Olivier Guez, l'héritage que laisse
@@ -932,7 +932,7 @@ Régimes policiers actuels
 
     Corée du Nord
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Parade militaire en Corée du Nord.
 
    La Corée du Nord répond à la définition d'un État policier à plusieurs
@@ -951,13 +951,13 @@ Régimes policiers actuels
 
   Asie du Sud-Est
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    La plupart des régimes politiques d'Asie du Sud-Est sont autoritaires.
 
     Thaïlande
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    En Thaïlande, le régime du général Phao (fin des années 1940 et années
    1950) a été qualifié de policier par plusieurs écrivains originaires du
@@ -972,7 +972,7 @@ Régimes policiers actuels
 
     République socialiste du Viêt Nam
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Dans le Nord du Viêt Nam, Hô Chi Minh a instauré un État policier contrôlé
    par le PCI^[116], appuyé par une police efficace et un réseau
@@ -992,7 +992,7 @@ Régimes policiers actuels
 
     République démocratique populaire lao
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    D'après le professeur de géographie Ian G. Baird, depuis la prise de
    contrôle du Laos en 1975, le Parti révolutionnaire populaire lao, parti
@@ -1010,11 +1010,11 @@ Régimes policiers actuels
 
   Afrique
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
     Égypte
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Barrage de chars M1 des forces armées égyptiennes, le 4 février 2011.
 
    Depuis les années 1990, en Égypte, le président Hosni Moubarak a renforcé
@@ -1046,7 +1046,7 @@ Régimes policiers actuels
 
     Érythrée
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    L'Érythrée est considérée, notamment selon Human Rights Watch, comme l'un
    des pays les plus répressifs au monde^[132]. Il est aussi l'un des plus
@@ -1065,7 +1065,7 @@ Régimes policiers actuels
 
     République d'Angola
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    L'Angola, un pays très riche en hydrocarbures et pierres précieuses, a été
    victime d'une longue guerre civile sous la présidence de José Eduardo dos
@@ -1093,7 +1093,7 @@ Régimes policiers actuels
 
   Pays du Maghreb
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    La plupart des pays du Maghreb (Algérie, Maroc, Tunisie et Mauritanie)
    étaient des protectorats ou des colonies de la France jusqu'au milieu du
@@ -1104,7 +1104,7 @@ Régimes policiers actuels
 
     Maroc
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Selon Didier Le Saout et Marguerite Rollinde (1999), « le perfectionnement
    des appareils répressifs au Maroc fut quelque peu laborieux », mais « la
@@ -1115,7 +1115,7 @@ Régimes policiers actuels
 
     Algérie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Citoyens algériens manifestant malgré une interdiction officielle, le
    13 février 2011.
 
@@ -1128,11 +1128,11 @@ Régimes policiers actuels
 
     Tunisie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    D'après Sophie Bessis, le Président Zine el-Abidine Ben Ali a transformé
    la Tunisie d'État autoritaire à État policier, gouverné par sa police
-   (1987-2011)^[147]. Cependant, Béatrice Hibou la qualifie d'« État de
+   (19872011)^[147]. Cependant, Béatrice Hibou la qualifie d'« État de
    police » plutôt que d'« État policier », au sens foulcadien du terme, en
    raison de l'adhésion et de l'intériorisation de cet état de fait par une
    partie des Tunisiens^[148]. Ben Ali n'a rien inventé. Son prédécesseur,
@@ -1154,7 +1154,7 @@ Régimes policiers actuels
 
   Turquie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    En 1998, lors de débats du conseil de l'Europe, M. Vis déclare que l'« on
    pourrait être amené à se demander si la Turquie est une dictature
@@ -1175,7 +1175,7 @@ Régimes policiers actuels
 
   Iran
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Politique en Iran.
 
    Le régime précédant la révolution de 1979, celui du Shah d'Iran, était
@@ -1190,7 +1190,7 @@ Régimes policiers actuels
 
   Pays post-soviétiques
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Démocrature.
    [IMG]Camion militaire au Tadjikistan.
 
@@ -1206,7 +1206,7 @@ Régimes policiers actuels
 
     Biélorussie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Action policière en Biélorussie en 2017.
 
    La Biélorussie prend la forme d'un État policier, avec une limitation
@@ -1235,7 +1235,7 @@ Régimes policiers actuels
 
     Ouzbékistan
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Pour renforcer son contrôle de la population et assurer sa stabilité, le
    pouvoir ouzbek a fait évoluer le pays vers un État policier^[169]. D'après
@@ -1258,7 +1258,7 @@ Régimes policiers actuels
 
     Turkménistan
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Véhicule de la police turkmène.
 
    Le Turkménistan, présidé par Saparmyrat Nyýazow de 1991 à 2006, est une
@@ -1291,7 +1291,7 @@ Régimes policiers actuels
 Controverses sur l'émergence d'États policiers parmi les démocraties
 occidentales
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Bien que les démocraties ne soient pas en principe, structurellement, des
    États policiers, elles peuvent adopter temporairement un fonctionnement
@@ -1332,7 +1332,7 @@ occidentales
 
   Aux États-Unis
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Deux F-16 de la garde nationale de Californie patrouillants au-dessus
    de San Francisco en mars 2004.
 
@@ -1367,7 +1367,7 @@ occidentales
 
   Au Canada
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    En 1994, l'Université de l'Alberta publie Police Powers in Canada: The
    Evolution and Practice of Authority (Pouvoirs de la police au Canada :
@@ -1396,7 +1396,7 @@ occidentales
 
   En Belgique
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Hélicoptère de police belge.
 
    Jean-Claude Paye décrit une évolution vers un État policier en Belgique
@@ -1423,7 +1423,7 @@ occidentales
 
   En France
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Manifestants du mouvement des Gilets jaunes face aux forces de
    l'ordre à Rouen, le 5 janvier 2019.
 
@@ -1470,7 +1470,7 @@ occidentales
 
   En Hongrie et en Pologne
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Viktor Orbán en 2017.
    Article connexe : Illibéralisme.
 
@@ -1487,7 +1487,7 @@ occidentales
    Le premier ministre hongrois Viktor Orbán, qui dispose de la majorité
    absolue depuis 2010, revendique ouvertement un État fort^[214] ainsi que
    la notion d'illibéralisme ; il entreprend une série de réformes qui,
-   d'après Júlia Mink (professeure assistante au WJLF - collège théologique
+   d'après Júlia Mink (professeure assistante au WJLF  collège théologique
    de John Wesley à Budapest), « œuvre[nt], lentement mais sûrement, au recul
    de l'État de droit en Hongrie. Constitution, système électoral, médias,
    justice… Rares sont les domaines qui ne font pas l’objet de réformes
@@ -1509,7 +1509,7 @@ occidentales
 
   En Australie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    D'après la poétesse Anna Couani (en), qui s'exprime lors d'une table ronde
    en 2004, les conséquences des attentats américains de 2001 en Australie se
@@ -1528,11 +1528,11 @@ occidentales
 
 États policiers dans la fiction
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
   Dans la littérature et le cinéma de science-fiction
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]Big Brother.
 
    La littérature de science-fiction décrit de nombreuses formes d'États
@@ -1601,7 +1601,7 @@ occidentales
 
   Dans le roman policier et le roman noir
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Un autre type d’œuvre mettant naturellement cette organisation en scène
    est le roman policier : l'université Queen's de Belfast organise en juin
@@ -1613,7 +1613,7 @@ occidentales
 
   Dans la bande dessinée et le manga
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    On retrouve les thèmes d'anticipation et de science-fiction pour décrire
    des états policiers dans la bande dessinée. Alejandro Jodorowsky, via
@@ -1639,32 +1639,32 @@ occidentales
 
 Notes et références
 
-   [modifier | modifier le code]
-     * (en) Cet article est partiellement ou en totalité issu de l’article de
+   [modifier  modifier le code]
+      (en) Cet article est partiellement ou en totalité issu de l’article de
        Wikipédia en anglais intitulé « Police state » (voir la liste des
        auteurs).
     1. ↑ Chapman 1971, p. Voir collection et résumé de l'ouvrage.
-    2. ↑ Chapman 1971, p. 11-14.
+    2. ↑ Chapman 1971, p. 1114.
     3. ↑ ^a b et c Villani Tiziana, « 9 : Michel Foucault et le territoire :
        gouvernement et biopolitique », dans : Thierry Paquot éd., Le
        territoire des philosophes. Paris, La Découverte, « Recherches »,
-       2009, p. 161-176. [[ lire en ligne]].
+       2009, p. 161176. [[ lire en ligne]].
     4. ↑ Michel Foucault, Naissance de la biopolitique, cours au Collège de
-       France. 1978-1979, Gallimard-Seuil, Paris, 2004, Leçon du 17 janvier
+       France. 19781979, Gallimard-Seuil, Paris, 2004, Leçon du 17 janvier
        1979, p. 39.
     5. ↑ Tipton 2013, p. 14.
     6. ↑ ^a et b (en) Samuel G. Chapman, « Police State. By Brian Chapman.
        (New York: Praeger Publishers, 1970. Pp. 150. $5.00.) », American
        Political Science Review, vol. 67, n^o 3,‎ septembre 1973,
-       p. 1045–1046 (ISSN 0003-0554 et 1537-5943, DOI 10.2307/1958698, lire
+       p. 1045–1046 (ISSN 00030554 et 15375943, DOI 10.23071958698, lire
        en ligne, consulté le 9 mai 2020).
     7. ↑ Jean-Paul Brodeur, Les visages de la police : pratiques et
        perceptions, Montréal, Presses de l'Université de Montréal, 2003,
-       392 p. (ISBN 2-7606-1865-X et 978-2-7606-1865-7, OCLC 51496471),
+       392 p. (ISBN 276061865-X et 9782-760618657, OCLC 51496471),
        p. 345.
     8. ↑ ^a et b Chapman 1971, p. 11.
     9. ↑ ^a et b Chapman 1968, p. 429.
-   10. ↑ (en) A Dictionary of World History, Market House Books - Oxford
+   10. ↑ (en) A Dictionary of World History, Market House Books  Oxford
        University Press, 2000.
    11. ↑ ^a b c d e f g h i j k et l Greene 2007, p. 1004.
    12. ↑ ^a et b Carmel Sammut, « Michel Levine, Affaires non classées : [sur
@@ -1676,7 +1676,7 @@ Notes et références
    14. ↑ ^a b et c Michel Senellart, « La question de l’État de droit chez
        Michel Foucault », dans Libertés et libéralismes : Formation et
        circulation des concepts, ENS Éditions, coll. « Gouvernement en
-       question(s) », 23 janvier 2015 (ISBN 978-2-84788-610-8, lire en
+       question(s) », 23 janvier 2015 (ISBN 9782-847886108, lire en
        ligne), p. 297–314.
    15. ↑ Lackner 2013.
    16. ↑ ^a et b Jacques Chevallier, « Le droit administratif entre science
@@ -1686,11 +1686,11 @@ Notes et références
    17. ↑ ^a et b Chapman 1968, p. 430.
    18. ↑ Raymond Carré de Malberg, Contribution à la théorie générale de
        l'État, Paris, Librairie de la Société du Recueil Sirey, 1920, p. 488.
-   19. ↑ Berthelet 2015, p. 649-650.
+   19. ↑ Berthelet 2015, p. 649650.
    20. ↑ Paye 2000, p. 149.
    21. ↑ Chapman 1971.
    22. ↑ (en) « Police Checkpoints on the Information Highway », Computer
-       underground Digest, vol. 6, n^o 72,‎ 14 août 1994 (ISSN 1066-632X,
+       underground Digest, vol. 6, n^o 72,‎ 14 août 1994 (ISSN 1066632X,
        lire en ligne) :
 
          « The so-called 'electronic frontier' is quickly turning into an
@@ -1700,44 +1700,44 @@ Notes et références
    23. ↑ Jonathan Logan, « The Electronic Police State: 2008 National
        Rankings », Cryptohippie USA.
    24. ↑ ^a et b Christian Aghroum, Identification et surveillance des
-       individus. Quels enjeux pour nos démocraties ?, Éditions de la
+       individus. Quels enjeux pour nos démocraties , Éditions de la
        Bibliothèque publique d'information, 2013, 96 p.
-       (ISBN 978-2-84246-180-5 et 2-84246-180-0, OCLC 960809658), Voir
-       introduction, et p. 43-44.
+       (ISBN 9782-842461805 et 2842461800, OCLC 960809658), Voir
+       introduction, et p. 4344.
    25. ↑ Molly K. Land et Jay D. Aronson, New technologies for human rights
        law and practice, Cambridge University Press, 2018, 328 p.
-       (ISBN 978-1-107-17963-9, 1-107-17963-7 et 978-1-316-63141-6,
+       (ISBN 9781-107179639, 1107179637 et 9781-316631416,
        OCLC 1004636136), p. 220.
    26. ↑ (en) David Simpson, Jim Love et Jim Walker, The Challenge of New
-       Technology, Routledge, 11 juillet 2019 (DOI 10.4324/9780429309380,
+       Technology, Routledge, 11 juillet 2019 (DOI 10.43249780429309380,
        lire en ligne), chap. 9 (« Gouvernment and societies »).
    27. ↑ ^a b et c « Surveillance de masse », Cour européenne des droits de
        l'homme, septembre 2019.
    28. ↑ Jus Gentium, Hélène Tran et Patrick Wachsmann, Les obligations de
        vigilance des États parties à la Convention européenne des droits de
-       l'homme, Primento, 2013, 426 p. (ISBN 978-2-8027-4149-7 et
-       2-8027-4149-7, lire en ligne), xxviii.
+       l'homme, Primento, 2013, 426 p. (ISBN 9782-802741497 et
+       2802741497, lire en ligne), xxviii.
    29. ↑ Georges-André Euloge, Histoire de la police et de la gendarmerie :
-       des origines à 1940, Paris, Plon, 1985, 376 p. (ISBN 2-259-01360-0 et
-       978-2-259-01360-4, OCLC 241623253), rech. État policier.
+       des origines à 1940, Paris, Plon, 1985, 376 p. (ISBN 2259013600 et
+       9782-259013604, OCLC 241623253), rech. État policier.
    30. ↑ ^a b et c (en) Maria Łoś et Andrzej Zybertowicz, « Privatizing the
        Police-State », dans Privatizing the Police-State: The Case of Poland,
-       Palgrave Macmillan UK, 2000 (ISBN 978-0-230-51169-9,
-       DOI 10.1057/9780230511699_8, lire en ligne), p. 154–185
+       Palgrave Macmillan UK, 2000 (ISBN 9780-230511699,
+       DOI 10.105797802305116998, lire en ligne), p. 154–185
    31. ↑ Canoy 2007, p. Résumé du livre.
    32. ↑ (en) Oxford English Dictionary, janvier 2009, 3^e éd.
    33. ↑ Dubber et Valverde 2006, p. 35.
    34. ↑ ^a b c d e et f Chapman 1968, p. 428.
    35. ↑ Canoy 2007, p. 290.
-   36. ↑ (en) Charles K. Rowley et Carol Bin Wu, Britannia 1066-1884 : From
+   36. ↑ (en) Charles K. Rowley et Carol Bin Wu, Britannia 10661884 : From
        Medieval Absolutism to the Birth of Freedom under Constitutional
        Monarchy, Limited Suffrage, and The Rule of Law, Springer,
        coll. « Studies in Public Choice » (n^o 30), 2014
-       (ISBN 978-3-319-04683-9), « The Tudor Dynasty : Perfecting Absolutism
+       (ISBN 9783-319046839), « The Tudor Dynasty : Perfecting Absolutism
        in the Era of Renaissance and Reformation, 1485–1603 », p. 31.
    37. ↑ (en) Aleksander Gella, Development of Class Structure in Eastern
        Europe : Poland and Her Southern Neighbors, SUNY Press, 1989, 326 p.
-       (ISBN 978-0-88706-833-1, lire en ligne), p. 217
+       (ISBN 9780-887068331, lire en ligne), p. 217
 
          « Oprichnina was originally a band of faithful servants organized by
          Ivan IV into a police force; they were used by the tsar to crush not
@@ -1747,28 +1747,28 @@ Notes et références
 
    38. ↑ Alexander Matejko, « Richard Pipes, Russia Under the Old Regime
        [compte-rendu] », Revue d'études comparatives Est-Ouest, Paris,
-       Éditions du CNRS, vol. 7, n^o 3,‎ 1976, p. 262-267 (lire en ligne).
+       Éditions du CNRS, vol. 7, n^o 3,‎ 1976, p. 262267 (lire en ligne).
    39. ↑ ^a b et c (de) Felix Stieve, Das kirchliche Polizeiregiment in
        Baiern unter Maximilian I, Munich, Verlag Nabu Press, 2010 (1^re éd.
-       1876) (ISBN 978-1-147-52879-4), p. 57.
+       1876) (ISBN 9781-147528794), p. 57.
    40. ↑ ^a et b Chapman 1971, p. 15.
-   41. ↑ Chapman 1971, p. 16-17.
+   41. ↑ Chapman 1971, p. 1617.
    42. ↑ Chapman 1971, p. 17.
    43. ↑ Chapman 1971, p. 18.
-   44. ↑ Chapman 1968, p. 428-429.
-   45. ↑ Chapman 1971, p. 18-19.
+   44. ↑ Chapman 1968, p. 428429.
+   45. ↑ Chapman 1971, p. 1819.
    46. ↑ ^a b c et d Chapman 1971, p. 20.
    47. ↑ (en) Helmut Kuzmics (trad. de l'allemand), Authority, state and
        national character : the civilizing process in Austria and England,
-       1700-1900, Aldershot, GB/Burlington, USA, Ashgate, 2007, 363 p.
-       (ISBN 978-0-7546-3560-4 et 0-7546-3560-0, OCLC 64442907), p. 98.
+       17001900, Aldershot, GB/Burlington, USA, Ashgate, 2007, 363 p.
+       (ISBN 9780-754635604 et 0754635600, OCLC 64442907), p. 98.
    48. ↑ (it) Michael Broers, « La denuncia come strumento di polizia
        nell'Italia napoleonica », dans La polizia in Italia e in Europa:
        punto sugli studi e prospettive di ricerca : seminario di studi, Somma
-       Lombardo, 29-30 novembre 2002, Rubbettino, 2006.
-   49. ↑ L'État et sa police en France, 1789-1914, vol. 33 de Hautes études
+       Lombardo, 2930 novembre 2002, Rubbettino, 2006.
+   49. ↑ L'État et sa police en France, 17891914, vol. 33 de Hautes études
        médiévales et modernes, Librairie Droz, 1979, 214 p.
-       (ISBN 2-600-03382-3 et 9782600033824, lire en ligne), p. 88.
+       (ISBN 2600033823 et 9782600033824, lire en ligne), p. 88.
    50. ↑ Canoy 2007, p. 7.
    51. ↑ ^a b c d et e (en) David G. Egler, « TIPTON, "Japanese Police State:
        Tokko in Interwar Japan" (Book Review) », Journal of Asian Studies,
@@ -1777,14 +1777,14 @@ Notes et références
    52. ↑ ^a b c et d Whitaker 2001, p. 32.
    53. ↑ Jean-Pierre Rioux et Jean-François Sirinelli, La Guerre d'Algérie et
        les intellectuels français, Bruxelles/Évry, Éditions Complexe, 1991,
-       405 p. (ISBN 2-87027-377-0 et 978-2-87027-377-7, OCLC 23863084),
+       405 p. (ISBN 2870273770 et 9782-870273777, OCLC 23863084),
        p. 393.
    54. ↑ Jim House (trad. de l'anglais), Paris 1961 : les Algériens, la
        terreur d'État et la mémoire, Paris, Éditions Tallandier, 2008, 538 p.
-       (ISBN 978-2-84734-491-2 et 2-84734-491-8, OCLC 314130041).
+       (ISBN 9782-847344912 et 2847344918, OCLC 314130041).
    55. ↑ Emmanuel Blanchard, « Police judiciaire et pratiques d'exception
        pendant la guerre d'Algérie », Vingtième Siècle. Revue d'histoire,
-       vol. 90, n^o 2,‎ 2006, p. 61 (ISSN 0294-1759 et 1950-6678,
+       vol. 90, n^o 2,‎ 2006, p. 61 (ISSN 02941759 et 19506678,
        DOI 10.3917/ving.090.0061, lire en ligne, consulté le 2 mai 2020).
    56. ↑ José Echeverria, « Pillage du tiers-monde et crimes d'État », sur Le
        Monde diplomatique, 1^er février 1980 (consulté le 3 mai 2020).
@@ -1792,71 +1792,71 @@ Notes et références
    58. ↑ Tipton 2013, p. 3.
    59. ↑ ^a b c et d Jackson J. Spielvogel, Western Civilization : A Brief
        History, Volume II : Since 1500, Cengage Learning, 2016, 9^e éd.,
-       560 p. (ISBN 978-1-305-88843-2 et 1-305-88843-X, lire en ligne),
+       560 p. (ISBN 9781-305888432 et 130588843-X, lire en ligne),
        p. 461.
    60. ↑ (en) Alessio Ponzio, « L'Impero Fascista. Italia ed Etiopia
        (1935–1941) », Journal of Modern Italian Studies, vol. 16, n^o 4,‎
-       1^er septembre 2011, p. 560–562 (ISSN 1354-571X,
-       DOI 10.1080/1354571X.2011.593779, lire en ligne, consulté le 9 mai
+       1^er septembre 2011, p. 560–562 (ISSN 1354571X,
+       DOI 10.10801354571X.2011.593779, lire en ligne, consulté le 9 mai
        2020)
    61. ↑ ^a et b (en) Chiara Fonio et Stefano Agnoletto, « Surveillance,
        Repression and the Welfare State: Aspects of Continuity and
        Discontinuity in post-Fascist Italy », Surveillance & Society,
-       vol. 11, n^os 1/2,‎ 27 mai 2013, p. 74–86 (ISSN 1477-7487,
-       DOI 10.24908/ss.v11i1/2.4449, lire en ligne, consulté le 9 mai 2020)
-   62. ↑ ^a b c et d (en) « Third Reich - The totalitarian police state »,
+       vol. 11, n^os 12,‎ 27 mai 2013, p. 74–86 (ISSN 14777487,
+       DOI 10.24908/ss.v11i12.4449, lire en ligne, consulté le 9 mai 2020)
+   62. ↑ ^a b c et d (en) « Third Reich  The totalitarian police state »,
        sur Encyclopedia Britannica (consulté le 28 avril 2020).
    63. ↑ ^a b c et d Karl Dietrich Bracher, et Alfred Grosser (trad. de
        l'allemand), Hitler et la dictature allemande : naissance, structure
        et conséquences du national-socialisme, Bruxelles/Paris, Ed. Complexe,
-       1995, 681 p. (ISBN 2-87027-569-2 et 978-2-87027-569-6, OCLC 34066015),
+       1995, 681 p. (ISBN 2870275692 et 9782-870275696, OCLC 34066015),
        p. 259 ; 474.
    64. ↑ ^a b et c Peter Longerich (trad. Tilman Chazal), Hitler, Héloïse
-       d'Ormesson, 2017, 1412 p. (ISBN 978-2-35087-432-6 et 2-35087-432-X,
+       d'Ormesson, 2017, 1412 p. (ISBN 9782-350874326 et 235087432-X,
        lire en ligne).
    65. ↑ ^a b c d e et f Henry Rousso, « La violence d'état », dans Le Régime
        de Vichy, Paris, Presses universitaires de France, coll. « Que
-       sais-je ? », 2012, 63-82 p. (lire en ligne).
+       sais-je  », 2012, 6382 p. (lire en ligne).
    66. ↑ Philippe Bernard, Nouvelle Histoire de la France contemporaine,
        Éditions du Seuil, coll. « Points. Série Histoire », 1972, p. 305.
    67. ↑ Pierre Pédron, La Prison sous Vichy, Paris, Éditions de l'Atelier,
-       coll. « Champs pénitentiaires », 1993, 237 p. (ISBN 2-7082-2984-2 et
-       9782708229846, lire en ligne), p. 169-170.
+       coll. « Champs pénitentiaires », 1993, 237 p. (ISBN 2708229842 et
+       9782708229846, lire en ligne), p. 169170.
    68. ↑ Jean-Pierre Azéma, Nouvelle Histoire de la France contemporaine,
-       vol. 14 : De Munich à la Libération, 1938-1944, Paris, Éditions du
+       vol. 14 : De Munich à la Libération, 19381944, Paris, Éditions du
        Seuil, coll. « Points. Histoire » (n^o 114), 1979, 412 p.
-       (ISBN 2-02-005215-6, présentation en ligne), p. 305.
+       (ISBN 2020052156, présentation en ligne), p. 305.
    69. ↑ ^a et b Whitaker 2001, p. 31.
    70. ↑ François-Xavier Nérard, « Les organes du contrôle d’État et les
        journaux dans l’URSS de Staline : des auxiliaires de la police
-       politique ? », Cahiers du monde russe. Russie - Empire russe - Union
-       soviétique et États indépendants, vol. 42, n^os 42/2-4,‎ 1^er avril
-       2001, p. 263–278 (ISSN 1252-6576, DOI 10.4000/monderusse.8453, lire en
+       politique  », Cahiers du monde russe. Russie  Empire russe  Union
+       soviétique et États indépendants, vol. 42, n^os 422-4,‎ 1^er avril
+       2001, p. 263–278 (ISSN 12526576, DOI 10.4000/monderusse.8453, lire en
        ligne, consulté le 1^er mai 2020)
    71. ↑ Andrea Graziosi, Terry Martin et Jutta Scherrer, La police politique
-       en Union soviétique, 1918-1953, vol. 42, 2-4, Ẻd. de l'Ẻcole des
-       hautes études en sciences sociales, 2002 (ISBN 2-7132-1398-3 et
-       978-2-7132-1398-4, OCLC 490780827).
+       en Union soviétique, 19181953, vol. 42, 24, Ẻd. de l'Ẻcole des
+       hautes études en sciences sociales, 2002 (ISBN 2713213983 et
+       9782-713213984, OCLC 490780827).
    72. ↑ « " Le peuple russe souffre sous la dictature soviétique " déclare
        M. Foster Dulles », Le Monde.fr,‎ 20 juin 1947 (lire en ligne,
        consulté le 1^er mai 2020).
    73. ↑ (de) Mikhaïl Voslenski, Das Geheime wird offenbar. Moskauer Archive
-       erzählen. 1917–1991, Munich, Langen Müller, 1995 (ISBN 3-7844-2536-4).
+       erzählen. 1917–1991, Munich, Langen Müller, 1995 (ISBN 3784425364).
    74. ↑ Emmanuel Droit, Les polices politiques du bloc de l'Est : à la
-       recherche de l'Internationale tchékiste 1955-1989, Paris/61-Lonrai,
-       Éditions Gallimard, 21 novembre 2019, 288 p. (ISBN 978-2-07-282847-8
-       et 2-07-282847-3, OCLC 1129119294).
+       recherche de l'Internationale tchékiste 19551989, Paris/61-Lonrai,
+       Éditions Gallimard, 21 novembre 2019, 288 p. (ISBN 9782-072828478
+       et 2072828473, OCLC 1129119294).
    75. ↑ « Les polices politiques du bloc de l’Est ont servi à éradiquer
        toute forme d’opposition », sur Le Courrier d'Europe centrale, 9
        janvier 2020 (consulté le 28 mai 2020).
    76. ↑ Anne Dulphy, Robert Frank, Marie-Anne Matard-Bonucci, Pascal Ory,
        Les relations culturelles internationales au XXe siècle : de la
        diplomatie culturelle à l'acculturation, Bruxelles, Peter Lang, 2010,
-       693 p. (ISBN 978-90-5201-661-0 et 90-5201-661-5, lire en ligne),
+       693 p. (ISBN 9789052016610 et 9052016615, lire en ligne),
        p. 91.
    77. ↑ Pierre Buhler, Histoire de la Pologne communiste : autopsie d'une
        imposture, Paris, KARTHALA Editions, coll. « Hommes et sociétés »,
-       1997, 808 p. (ISBN 2-86537-770-9 et 9782865377701, lire en ligne),
+       1997, 808 p. (ISBN 2865377709 et 9782865377701, lire en ligne),
        p. 700.
    78. ↑ ^a et b Geneviève Duché, Catherine Peyroux et Olivier Torrès, La
        Pologne : ses transformations économiques et institutionnelles et le
@@ -1866,20 +1866,20 @@ Notes et références
        2002, 2^e éd., 617 p., p. 22.
    79. ↑ ^a b c d et e (en) Dennis Deletant, « The securitate and the police
        state in Romania: 1948–64 », Intelligence and National Security,
-       vol. 8, n^o 4,‎ 1^er octobre 1993, p. 1–25 (ISSN 0268-4527,
-       DOI 10.1080/02684529308432223, lire en ligne, consulté le 7 mai 2020).
+       vol. 8, n^o 4,‎ 1^er octobre 1993, p. 1–25 (ISSN 02684527,
+       DOI 10.108002684529308432223, lire en ligne, consulté le 7 mai 2020).
    80. ↑ (en) Dennis Deletant, « The Securitate and the police state in
        Romania, 1964–89 », Intelligence and National Security,‎ 2 janvier
-       2008 (DOI 10.1080/02684529408432238, lire en ligne, consulté le 7 mai
+       2008 (DOI 10.108002684529408432238, lire en ligne, consulté le 7 mai
        2020).
    81. ↑ ^a b et c Whitaker 2001, p. 253.
    82. ↑ (en) Paul J. Zwier, Principled Negotiation and Mediation in the
        International Arena : Talking with Evil, Cambridge University Press,
-       2013 (ISBN 978-1-107-34558-4, 1-107-34558-8 et 978-1-139-20868-0,
+       2013 (ISBN 9781-107345584, 1107345588 et 9781-139208680,
        OCLC 833768505).
    83. ↑ (en) Pablo González Casanova, Latin America today, United Nations
-       University Press, 1993, 347 p. (ISBN 92-808-0819-2 et
-       978-92-808-0819-3, OCLC 29377692).
+       University Press, 1993, 347 p. (ISBN 9280808192 et
+       9789280808193, OCLC 29377692).
    84. ↑ ^a et b Cecilia Casassus-Montero, Travail et travailleurs au Chili,
        La Découverte, 1984, 128 p., chap. L'État policier.
    85. ↑ (en) Human Rights in Argentina, Chile, Paraguay, and Uruguay :
@@ -1889,36 +1889,36 @@ Notes et références
        First Session, October 4 and 21, 1983, U.S. Government Printing
        Office, 1984, 184 p., p. 118.
    86. ↑ ^a et b Bruno Patino, Pinochet s'en va : la transition démocratique
-       au Chili, 1988-1994, IHEAL, 2000 (lire en ligne).
+       au Chili, 19881994, IHEAL, 2000 (lire en ligne).
    87. ↑ (en) Frederick Cooper, Africa Since 1940 : The Past of the Present,
        Cambridge University Press, 10 octobre 2002, 216 p.
-       (ISBN 978-0-521-77600-4, lire en ligne), p. 149.
+       (ISBN 9780-521776004, lire en ligne), p. 149.
    88. ↑ ^a b et c François-Xavier Fauvelle-Aymar, Histoire de l'Afrique du
        Sud, Paris, Seuil, 2006, (ISBN 2020480034) p. 385.
    89. ↑ Pierre Haski, l'Afrique blanche, 1987, p. 159.
    90. ↑ Denis Collin, La longueur de la chaîne : Essai sur la liberté au
        XXIe siècle : Essais : documents, Max Milo, 2011, 288 p.
-       (ISBN 978-2-315-00326-6 et 2-315-00326-1, lire en ligne), rech. Etat
+       (ISBN 9782-315003266 et 2315003261, lire en ligne), rech. Etat
        policier.
    91. ↑ Jacques Ellul et Yves Chevalier, Israël, chance de civilisation :
-       articles de journaux et de revues, 1967-1992, Paris, Première partie,
-       dl 2008, 411 p. (ISBN 978-2-916539-21-8 et 2-916539-21-2,
+       articles de journaux et de revues, 19671992, Paris, Première partie,
+       dl 2008, 411 p. (ISBN 9782-916539218 et 2916539212,
        OCLC 470582785).
    92. ↑ Céline Lebrun, Julien Salingue et Mireille Fanon-Mendès-France,
-       Israël, un État d'apartheid ? : enjeux juridiques et politiques,
-       Paris, Éditions L'Harmattan, 2013, 266 p. (ISBN 978-2-343-00034-3 et
-       2-343-00034-4, OCLC 842458340).
+       Israël, un État d'apartheid  : enjeux juridiques et politiques,
+       Paris, Éditions L'Harmattan, 2013, 266 p. (ISBN 9782-343000343 et
+       2343000344, OCLC 842458340).
    93. ↑ « Israel », Afrique-Asie, Société d'éditions Afrique, Asie, Amérique
        Latine, n^os 165 à 177,‎ 1978, p. 10.
    94. ↑ [vidéo] « Report on Chile crisis describes multiple police
        violations and calls for reforms », sur YouTube.
    95. ↑ Maxime Michault, Cuba : l'encadrement ideologique et social,
-       Éditions L'Harmattan, 2013 (ISBN 978-2-296-14596-2 et 2-296-14596-5,
+       Éditions L'Harmattan, 2013 (ISBN 9782-296145962 et 2296145965,
        OCLC 1100842617), p. 16.
    96. ↑ Pierre Rigoulot, Coucher de soleil sur La Havane. La Cuba de Castro,
        Flammarion, coll. « Doc, témoignages, essais », 2010, 524 p.
-       (ISBN 978-2-08-123374-4 et 2-08-123374-6, lire en ligne), Chap.
-       Réformes ou Révolutions ?.
+       (ISBN 9782-081233744 et 2081233746, lire en ligne), Chap.
+       Réformes ou Révolutions .
    97. ↑ « Le pouvoir cubain envoie sa police politique aux avocats
        indépendants », Le Monde.fr,‎ 16 février 2018 (lire en ligne, consulté
        le 1^er mai 2020)
@@ -1928,17 +1928,17 @@ Notes et références
        nationale, 2013 (lire en ligne).
    100. ↑ Sophie Boisseau du Rocher et Emmanuel Dubois de Prisque, La Chine
         e(s)t le monde : Essai sur la sino-mondialisation, Éditions Odile
-        Jacob, 2019, 300 p. (ISBN 978-2-7381-4655-7 et 2-7381-4655-4, lire en
+        Jacob, 2019, 300 p. (ISBN 9782-738146557 et 2738146554, lire en
         ligne).
    101. ↑ Xuezhi Guo, China's security state : philosophy, evolution, and
-        politics, Cambridge University Press, 2012 (ISBN 978-1-139-52864-1,
-        1-139-52864-5 et 978-1-139-52625-8, OCLC 804664891), p. 156.
+        politics, Cambridge University Press, 2012 (ISBN 9781-139528641,
+        1139528645 et 9781-139526258, OCLC 804664891), p. 156.
    102. ↑ ^a et b Olivier Guez, Le siècle des dictateurs, Place des éditeurs,
-        2019, 456 p. (ISBN 978-2-262-08142-3 et 2-262-08142-5, lire en
+        2019, 456 p. (ISBN 9782-262081423 et 2262081425, lire en
         ligne).
    103. ↑ (en) William A. Joseph, Politics in China : an introduction, Oxford
-        University Press, 2019, 3^e éd. (ISBN 978-0-19-087072-0,
-        0-19-087072-9 et 978-0-19-087073-7, OCLC 1057731381), p. 505 ; 515.
+        University Press, 2019, 3^e éd. (ISBN 9780-190870720,
+        0190870729 et 9780-190870737, OCLC 1057731381), p. 505 ; 515.
    104. ↑ (en) Tara Francis Chan, « How a Chinese region that accounts for
         just 1.5% of the population became one of the most intrusive police
         states in the world », sur Business Insider France, 1^er août 2018
@@ -1946,15 +1946,15 @@ Notes et références
    105. ↑ (en-GB) « China seeks DNA for Xinjiang passports », BBC News,‎ 7
         juin 2016 (lire en ligne, consulté le 8 mai 2020).
    106. ↑ « Chine: au Xinjiang, jackpot pour les firmes au service de l'État
-        policier », La Croix,‎ 27 juin 2018 (ISSN 0242-6056, lire en ligne,
+        policier », La Croix,‎ 27 juin 2018 (ISSN 02426056, lire en ligne,
         consulté le 9 mai 2020).
    107. ↑ (en) Shelly Bhoil et Enrique Galvan-Alvarez, Tibetan subjectivities
         on the global stage : negotiating dispossession, Rowman &
-        Littlefield,, 2018, 274 p. (ISBN 978-1-4985-5238-7 et 1-4985-5238-2,
+        Littlefield,, 2018, 274 p. (ISBN 9781-498552387 et 1498552382,
         OCLC 1065773095), p. 32.
    108. ↑ (en) A. Scobell, « China’s rise: How peaceful? », dans The
         Routledge Handbook of Asian Security Studies, Routledge, 2009,
-        27-38 p..
+        2738 p..
    109. ↑ « Coronavirus : en Chine, les moyens de l’État policier au service
         de la lutte contre l’épidémie », Le Monde.fr,‎ 21 février 2020 (lire
         en ligne, consulté le 28 avril 2020).
@@ -1966,62 +1966,62 @@ Notes et références
         2020).
    112. ↑ ^a et b (en) Jasper Becker, Rogue Regime : Kim Jong Il and the
         Looming Threat of North Korea, Oxford University Press, 2005, 328 p.
-        (ISBN 978-0-19-803810-8, lire en ligne), 74.
+        (ISBN 9780-198038108, lire en ligne), 74.
    113. ↑ ^a et b Pascal Dayez-Burgeon, « La corée du Nord entre terreur et
         servitude volontaire », sur archives.politiqueinternationale.com,
         2015 (consulté le 28 avril 2020).
    114. ↑ (en) Thak Chaloemtiarana, Thailand, the politics of despotic
         paternalism, Southeast Asia Program Publications, Southeast Asia
-        Program, Cornell University, 2007, 284 p. (ISBN 978-1-5017-2110-6 et
-        1-5017-2110-0, OCLC 608378074), p. 56-58.
+        Program, Cornell University, 2007, 284 p. (ISBN 9781-501721106 et
+        1501721100, OCLC 608378074), p. 5658.
    115. ↑ (en) Michael Jerryson, « Appropriating a space for violence: State
         Buddhism in southern Thailand », Journal of Southeast Asian Studies,
-        vol. 40, n^o 1,‎ février 2009, p. 33–57 (ISSN 0022-4634 et 1474-0680,
+        vol. 40, n^o 1,‎ février 2009, p. 33–57 (ISSN 00224634 et 14740680,
         DOI 10.1017/S0022463409000034, lire en ligne, consulté le 8 mai
         2020).
    116. ↑ Christopher E. Goscha et Benoît de Tréglodé, Naissance d'un
         Etat-parti : le Viêt Nam depuis 1945, Paris, Les Indes savantes,
-        2004, 463 p. (ISBN 2-84654-064-0 et 978-2-84654-064-3,
+        2004, 463 p. (ISBN 2846540640 et 9782-846540643,
         OCLC 57414661), p. 212.
    117. ↑ Association d'études et d'informations politiques internationales,
         Institut d'histoire sociale, Est & Ouest, 1986, p. 4.
    118. ↑ ^a et b « La République socialiste du Vietnam est-elle
-        autoritaire ? — Géoconfluences », sur geoconfluences.ens-lyon.fr
+        autoritaire  — Géoconfluences », sur geoconfluences.ens-lyon.fr
         (consulté le 8 mai 2020).
    119. ↑ Benoît de Tréglodé, « Viêt Nam, le Parti, l’armée et le peuple :
         maintenir l’emprise politique à l’heure de l’ouverture », Hérodote,
-        vol. 157, n^o 2,‎ 2015, p. 9 (ISSN 0338-487X et 1776-2987,
+        vol. 157, n^o 2,‎ 2015, p. 9 (ISSN 0338487X et 17762987,
         DOI 10.3917/her.157.0009, lire en ligne, consulté le 8 mai 2020).
    120. ↑ ^a et b (en) Ian G. Baird, « Party, State and the Control of
         Information in the Lao People’s Democratic Republic: Secrecy,
         Falsification and Denial », Journal of Contemporary Asia, vol. 48,
-        n^o 5,‎ 20 octobre 2018, p. 739–760 (ISSN 0047-2336,
-        DOI 10.1080/00472336.2018.1451552, lire en ligne, consulté le 7 mai
+        n^o 5,‎ 20 octobre 2018, p. 739–760 (ISSN 00472336,
+        DOI 10.108000472336.2018.1451552, lire en ligne, consulté le 7 mai
         2020).
    121. ↑ (en) Jane Hamilton-Merritt, Tragic mountains : the Hmong, the
-        Americans, and the secret wars for Laos, 1942-1992, Indiana Univ.
-        Press, 1999, 580 p. (ISBN 0-253-20756-8, 978-0-253-20756-2 et
-        0-253-32731-8, OCLC 917189728), p. XIX-XXI.
+        Americans, and the secret wars for Laos, 19421992, Indiana Univ.
+        Press, 1999, 580 p. (ISBN 0253207568, 9780-253207562 et
+        0253327318, OCLC 917189728), p. XIX-XXI.
    122. ↑ Deuve, J., Histoire de la Police nationale du Laos, Paris/Montréal
-        (Québec), Harmattan, 1998, 190 p. (ISBN 2-7384-7016-5 et
-        978-2-7384-7016-4, OCLC 40481408), p. 22-23.
+        (Québec), Harmattan, 1998, 190 p. (ISBN 2738470165 et
+        9782-738470164, OCLC 40481408), p. 2223.
    123. ↑ ^a b et c Baudouin Long, L'Égypte de Moubarak à Sissi : luttes de
         pouvoir et recompositions politiques, Le Caire/Paris/91-Courtabœuf,
-        CEDEJ et Karthala éditions, 2018, 374 p. (ISBN 978-2-8111-2560-8 et
-        2-8111-2560-4, OCLC 1085122393), p. 30-31
-   124. ↑ « Baudoin Long reçoit le prix Bourdarie 2019 », sur CEDEJ - Egypte
+        CEDEJ et Karthala éditions, 2018, 374 p. (ISBN 9782-811125608 et
+        2811125604, OCLC 1085122393), p. 3031
+   124. ↑ « Baudoin Long reçoit le prix Bourdarie 2019 », sur CEDEJ  Egypte
         (consulté le 2 mai 2020)
    125. ↑ « En Égypte, la persistance d'un "État policier" », Le Monde.fr,‎ 8
         février 2013 (lire en ligne, consulté le 1^er mai 2020)
    126. ↑ ^a et b « Égypte, révolution An III du 24 janvier 2014 », sur
         franceinter.fr (consulté le 1^er mai 2020)
-   127. ↑ (en-US) Sara Khorshid, « Opinion | Egypt’s New Police State », The
-        New York Times,‎ 16 novembre 2014 (ISSN 0362-4331, lire en ligne,
+   127. ↑ (en-US) Sara Khorshid, « Opinion  Egypt’s New Police State », The
+        New York Times,‎ 16 novembre 2014 (ISSN 03624331, lire en ligne,
         consulté le 1^er mai 2020)
    128. ↑ (en) Andrew Hammond, « Egypt: The Revolutionary Police State », sur
         POLITICO Magazine (consulté le 1^er mai 2020).
    129. ↑ « Le retour de l’Etat policier en Egypte », Le Temps,‎ 28 juillet
-        2013 (ISSN 1423-3967, lire en ligne, consulté le 1^er mai 2020)
+        2013 (ISSN 14233967, lire en ligne, consulté le 1^er mai 2020)
    130. ↑ « Le mythe de la stabilité égyptienne : la sécurité ne peut se
         bâtir sur des violations flagrantes des droits humains », sur
         www.amnesty.org (consulté le 1^er mai 2020).
@@ -2033,8 +2033,8 @@ Notes et références
         2009.
    133. ↑ ^a b c d et e David Bozzini, « Surveillance, répression et
         construction collective de l'insécurité en Érythrée », Politique
-        africaine, vol. 135, n^o 3,‎ 2014, p. 137 (ISSN 0244-7827 et
-        2264-5047, DOI 10.3917/polaf.135.0137, lire en ligne, consulté le 13
+        africaine, vol. 135, n^o 3,‎ 2014, p. 137 (ISSN 02447827 et
+        22645047, DOI 10.3917/polaf.135.0137, lire en ligne, consulté le 13
         mai 2020).
    134. ↑ « Angola, chronologie », sur universalis.fr
    135. ↑ (en) « Angola, Foreign Influences », sur country-data.com, février
@@ -2042,7 +2042,7 @@ Notes et références
    136. ↑ Pierre Malet, « Le football africain et ses ballons sanglants »,
         sur slate.fr, 15 janvier 2010
    137. ↑ « Le scandale dos Santos », sur slateafrique.com, 25 janvier 2020
-   138. ↑ « L’Atlas 2000 des conflits », Le monde diplomatique - « Manière de
+   138. ↑ « L’Atlas 2000 des conflits », Le monde diplomatique  « Manière de
         voir » #49,‎ janvier-février 2000 (lire en ligne)
    139. ↑ Antonio Setas, « un énigmatique coup-d etat en angola », sur
         lemonde.fr, 2 juillet 2015
@@ -2051,26 +2051,26 @@ Notes et références
         2018
    142. ↑ « Angola. Des témoins racontent », sur amnesty.org, 25 août 2020
    143. ↑ Jean-Marie Domenach, « La France deviendra-t-elle un État
-        policier ? », Esprit, n^o 199 (2),‎ 1953, p. 177–179 (ISSN 0014-0759,
+        policier  », Esprit, n^o 199 (2),‎ 1953, p. 177–179 (ISSN 00140759,
         lire en ligne, consulté le 10 mai 2020).
    144. ↑ Marguerite Rollinde et Didier Le Saoult, Émeutes et mouvements
         sociaux au Maghreb : perspective comparée, Institut Maghreb-Europe,
-        1999 (OCLC 1044614598), p. 25-26.
+        1999 (OCLC 1044614598), p. 2526.
    145. ↑ Lyes Laribi, L'Algérie des généraux : Essais : documents, Max Milo,
-        2007, 256 pages (ISBN 978-2-315-00188-0, lire en ligne), Chronologie
+        2007, 256 pages (ISBN 9782-315001880, lire en ligne), Chronologie
    146. ↑ Thomas Serres, L'Algérie face à la catastrophe suspendue : Gérer la
-        crise et blâmer le peuple sous Bouteflika (1999-2014), Karthala
+        crise et blâmer le peuple sous Bouteflika (19992014), Karthala
         Éditions, coll. « Hommes et sociétés », 2019, 312 p.
-        (ISBN 978-2-8111-2627-8 et 2-8111-2627-9, lire en ligne), p. 180.
+        (ISBN 9782-811126278 et 2811126279, lire en ligne), p. 180.
    147. ↑ Sophie Bessis, Histoire de la Tunisie : De Carthage à nos jours,
-        Tallandier, 2019, 528 p. (ISBN 979-10-210-2143-3, lire en ligne).
+        Tallandier, 2019, 528 p. (ISBN 9791021021433, lire en ligne).
    148. ↑ Michel Camau, L'exception tunisienne. : Variations sur un mythe,
         Karthala éditions, coll. « Hommes et sociétés », 2018, 254 p.
-        (ISBN 978-2-8111-2527-1, lire en ligne), p. 78-79.
+        (ISBN 9782-811125271, lire en ligne), p. 7879.
    149. ↑ Sophie Bessis et Souhayr Belhassen, Bourguiba, Tunis, Elyzad, 2012,
         p. 10.
    150. ↑ Martine Gozlan, Tunisie, Algérie, Maroc : La colère des peuples,
-        L'Archipel, 2011, 140 p. (ISBN 978-2-8098-0533-8, lire en ligne),
+        L'Archipel, 2011, 140 p. (ISBN 9782-809805338, lire en ligne),
         rech. "Etat policier".
    151. ↑ Amna Guellali, « Un risque de retour à un Etat policier en
         Tunisie », sur Human Rights Watch, 24 juillet 2017 (consulté le 3 mai
@@ -2079,32 +2079,32 @@ Notes et références
         redevenir un Etat-policier» », sur Le Figaro.fr, 7 mai 2019 (consulté
         le 3 mai 2020).
    153. ↑ Conseil de l'Europe. Assemblée parlementaire. Session ordinaire,
-        Compte rendu des débats, Council of Europe, 1998 (ISBN 92-871-3747-1
+        Compte rendu des débats, Council of Europe, 1998 (ISBN 9287137471
         et 9789287137470), p. 749.
    154. ↑ ^a et b (en) Ayşegül Kars Kaynar, « Withering constitutional
         state?: Recent “police state” discussions in Turkey », Research and
         Policy on Turkey, vol. 3, n^o 1,‎ 2 janvier 2018, p. 90–102
-        (ISSN 2376-0818 et 2376-0826, DOI 10.1080/23760818.2018.1445235, lire
+        (ISSN 23760818 et 23760826, DOI 10.108023760818.2018.1445235, lire
         en ligne, consulté le 3 mai 2020).
    155. ↑ (en) M. Akgül et M. Kırlıdoğ, « Internet censorship in Turkey »,
         Internet Policy Review, vol. 4, n^o 2,‎ 2015, p. 1–22
-        (ISSN 2197-6775, DOI 10.14763/2015.2.366, lire en ligne, consulté le
+        (ISSN 21976775, DOI 10.147632015.2.366, lire en ligne, consulté le
         3 mai 2020).
    156. ↑ Marc Aymes, Benjamin Gourisse et Élise Massicard, L'art de l'État
         en Turquie : arrangements de l'action publique de la fin de l'Empire
         ottoman à nos jours, Paris, Éditions Karthala, 2014, 428 p.
-        (ISBN 978-2-8111-1025-3 et 2-8111-1025-9, OCLC 871203012), p. 167.
+        (ISBN 9782-811110253 et 2811110259, OCLC 871203012), p. 167.
    157. ↑ (en) Ervand Abrahamian, « Iran in Revolution: The Opposition
-        Forces », MERIP Reports, n^os 75/76,‎ mars 1979, p. 3
-        (DOI 10.2307/3012310, lire en ligne, consulté le 7 mai 2020)
+        Forces », MERIP Reports, n^os 7576,‎ mars 1979, p. 3
+        (DOI 10.23073012310, lire en ligne, consulté le 7 mai 2020)
    158. ↑ (en) Cyrus Schayegh, « “SEEING LIKE A STATE”: AN ESSAY ON THE
         HISTORIOGRAPHY OF MODERN IRAN », International Journal of Middle East
-        Studies, vol. 42, n^o 1,‎ février 2010, p. 37–61 (ISSN 1471-6380 et
-        0020-7438, DOI 10.1017/S0020743809990523, lire en ligne, consulté le
+        Studies, vol. 42, n^o 1,‎ février 2010, p. 37–61 (ISSN 14716380 et
+        00207438, DOI 10.1017/S0020743809990523, lire en ligne, consulté le
         7 mai 2020)
    159. ↑ (en) Jared Cohen, « Iran's Young Opposition: Youth in
         Post-Revolutionary Iran », SAIS Review of International Affairs,
-        vol. 26, n^o 2,‎ 2006, p. 3–16 (ISSN 1945-4724,
+        vol. 26, n^o 2,‎ 2006, p. 3–16 (ISSN 19454724,
         DOI 10.1353/sais.2006.0031, lire en ligne, consulté le 7 mai 2020)
    160. ↑ ^a et b (en) Reza Afshari, « A Historic Moment in Iran », Human
         Rights Quarterly, vol. 31,‎ 2009, p. 839 (lire en ligne, consulté le
@@ -2113,9 +2113,9 @@ Notes et références
         d'Est », Politique étrangère, vol. 55, n^o 2,‎ 1990, p. 431–432 (lire
         en ligne, consulté le 9 mai 2020).
    162. ↑ (en) Mushfig Bayram, « Tajikistan : State control of Islam
-        increasing », Forum 18,‎ 3 mars 2014 (ISSN 1504-2855, lire en ligne).
+        increasing », Forum 18,‎ 3 mars 2014 (ISSN 15042855, lire en ligne).
    163. ↑ Violette Rey, Europes orientales, Russie, Asie centrale, Belin,
-        1996 (ISBN 2-7011-1673-2 et 978-2-7011-1673-0, OCLC 35821947),
+        1996 (ISBN 2701116732 et 9782-701116730, OCLC 35821947),
         p. 395.
    164. ↑ « Biélorussie, une si jolie petite dictature », sur Books.fr, 27
         avril 2011 (consulté le 28 avril 2020).
@@ -2124,65 +2124,65 @@ Notes et références
         2020).
    166. ↑ ^a b c d et e François Dépelteau, Le Bélarus : l'état de
         l'exception, Sainte-Foy (Québec), Presses de l'Université de Laval,
-        2003, 387 p. (ISBN 2-7637-7972-7 et 978-2-7637-7972-0,
-        OCLC 882750951), p. 97-98 ; 151-155.
+        2003, 387 p. (ISBN 2763779727 et 9782-763779720,
+        OCLC 882750951), p. 9798 ; 151155.
    167. ↑ « Vague d'arrestations au Bélarus pour préparation de "troubles
         massifs" », sur Le Point, 23 mars 2017 (consulté le 28 avril 2020).
    168. ↑ « La répréssion se durcit en Biélorussie », sur Le Point, 25 mars
         2017 (consulté le 28 avril 2020).
    169. ↑ Meryem Kirimli, « Uzbekistan in the new world order∗ », Central
-        Asian Survey, vol. 16, n^o 1,‎ mars 1997, p. 53–64 (ISSN 0263-4937 et
-        1465-3354, DOI 10.1080/02634939708400969, lire en ligne, consulté le
+        Asian Survey, vol. 16, n^o 1,‎ mars 1997, p. 53–64 (ISSN 02634937 et
+        14653354, DOI 10.108002634939708400969, lire en ligne, consulté le
         2 mai 2020).
    170. ↑ Nate Schenkkan, « Comment Karimov a façonné un État policier
         post-soviétique », Slate,‎ 2 septembre 2016 (lire en ligne).
    171. ↑ Alain Woodrow, Les médias : quatrième pouvoir ou cinquième
-        colonne ?, Paris, Éd. du Félin, 1996, 257 p. (BNF 35858074), rech.
+        colonne , Paris, Éd. du Félin, 1996, 257 p. (BNF 35858074), rech.
         Etat policier.
    172. ↑ Pierre Calame et Alexandra Trzeciak-Duval (trad. de l'anglais),
         L'État en quête de légitimité : sortir collectivement des situations
         de fragilité, Paris, Ch. L. Mayer, 2010, 111 p.
-        (ISBN 978-2-84377-153-8 et 2-84377-153-6, OCLC 690428528), p. 45-46.
+        (ISBN 9782-843771538 et 2843771536, OCLC 690428528), p. 4546.
    173. ↑ Bakhtyar Babadjanov, « Islam officiel contre islam politique en
         Ouzbékistan aujourd'hui : la Direction des Musulmans et les groupes
         non-hanafî », Revue d’études comparatives Est-Ouest, vol. 31, n^o 3,‎
-        2000, p. 151–164 (ISSN 0338-0599, DOI 10.3406/receo.2000.3043, lire
+        2000, p. 151–164 (ISSN 03380599, DOI 10.3406/receo.2000.3043, lire
         en ligne, consulté le 2 mai 2020).
    174. ↑ (en) Rustamjon Urinboyev et Måns Svensson, « Living law, legal
         pluralism, and corruption in post-Soviet Uzbekistan », The Journal of
         Legal Pluralism and Unofficial Law, vol. 45, n^o 3,‎ novembre 2013,
-        p. 372–390 (ISSN 0732-9113 et 2305-9931,
-        DOI 10.1080/07329113.2014.867752, lire en ligne, consulté le 2 mai
+        p. 372–390 (ISSN 07329113 et 23059931,
+        DOI 10.108007329113.2014.867752, lire en ligne, consulté le 2 mai
         2020)
    175. ↑ Laurent Vinatier, L'islamisme en Asie centrale, Armand Colin, 2002,
-        256 p. (ISBN 978-2-200-35625-5, lire en ligne), rech. Etat policier.
+        256 p. (ISBN 9782-200356255, lire en ligne), rech. Etat policier.
    176. ↑ ^a b et c (en) A. Bohr, « Turkmenistan », dans Nations in Transit,
-        2008, 607-630 p. (lire en ligne).
+        2008, 607630 p. (lire en ligne).
    177. ↑ ^a et b Jean-Baptiste Jeangène Vilmer, Turkménistan, Paris, CNRS
-        Éditions, coll. « Réseau Asie », 2010, 480 p. (ISBN 978-2-271-06970-2
-        et 2-271-06970-X), p. 9 ; 398.
+        Éditions, coll. « Réseau Asie », 2010, 480 p. (ISBN 9782-271069702
+        et 227106970-X), p. 9 ; 398.
    178. ↑ Colombe Camus, « La lutte contre le terrorisme dans les démocraties
         occidentales : État de droit et exceptionnalisme », Revue
         internationale et stratégique, vol. 66, n^o 2,‎ 2007, p. 9
-        (ISSN 1287-1672 et 2104-3876, DOI 10.3917/ris.066.0009, lire en
+        (ISSN 12871672 et 21043876, DOI 10.3917/ris.066.0009, lire en
         ligne, consulté le 28 avril 2020).
    179. ↑ ^a et b Didier Bigo, « Les modalités des dispositifs d’état
         d’urgence. Introduction », Cultures et Conflits, n^o 113,‎ 2019,
-        p. 7-15 (lire en ligne).
+        p. 715 (lire en ligne).
    180. ↑ « Giorgio Agamben : « De l’Etat de droit à l’Etat de sécurité » »,
         Le Monde.fr,‎ 23 décembre 2015 (lire en ligne, consulté le 9 mai
         2020).
    181. ↑ Jean Claude Paye, « Lutte antiterroriste et contrôle de la vie
-        privée », Multitudes, vol. 11, n^o 1,‎ 2003, p. 91 (ISSN 0292-0107 et
-        1777-5841, DOI 10.3917/mult.011.0091, lire en ligne, consulté le 30
+        privée », Multitudes, vol. 11, n^o 1,‎ 2003, p. 91 (ISSN 02920107 et
+        17775841, DOI 10.3917/mult.011.0091, lire en ligne, consulté le 30
         avril 2020).
    182. ↑ ^a et b Paye 2000, p. 15.
    183. ↑ Whitehead 2013, p. Introduction.
    184. ↑ (en) Matthew Bolton et Victoria Measles, « barricades dot net:
         Post-Fordist Policing in Occupied New York City », dans Occupying
         Political Science: The Occupy Wall Street Movement from New York to
-        the World, Palgrave Macmillan US, 2013 (ISBN 978-1-137-27740-4,
-        DOI 10.1057/9781137277404_7, lire en ligne), p. 163–190.
+        the World, Palgrave Macmillan US, 2013 (ISBN 9781-137277404,
+        DOI 10.105797811372774047, lire en ligne), p. 163–190.
    185. ↑ « Ferguson, produit d'une longue histoire de brutalités
         policières », sur Le Monde, 21 août 2014
    186. ↑
@@ -2205,47 +2205,47 @@ Notes et références
    194. ↑ R. C. Macleod et David Schneiderman, Police powers in Canada : the
         evolution and practice of authority, Centre for Constitutional
         Studies, University of Alberta, University of Toronto Press, 1994
-        (ISBN 978-1-4426-7858-3, 1-4426-7858-5 et 1-282-01173-1,
+        (ISBN 9781-442678583, 1442678585 et 1282011731,
         OCLC 244764667), p. 284.
    195. ↑ ^a et b Francis Dupuis-Déri, « Émergence de la notion de
         « profilage politique » : répression policière et mouvements sociaux
         au Québec », Politique et Sociétés, vol. 33, n^o 3,‎ 2014, p. 31–56
-        (ISSN 1203-9438 et 1703-8480, DOI https://doi.org/10.7202/1027939ar,
+        (ISSN 12039438 et 17038480, DOI https:/doi.org/10.72021027939ar,
         lire en ligne, consulté le 27 mai 2020).
-   196. ↑ « État de droit ou État policier ? », sur Le Droit, 29 mars 2011
+   196. ↑ « État de droit ou État policier  », sur Le Droit, 29 mars 2011
         (consulté le 6 mai 2020).
    197. ↑ Dominic Desroches, « La Loi spéciale 78 : un pas de plus vers un
         État québécois antidémocratique : ou la Loi sur les mesures de guerre
         au « printemps québécois » », Sens Public,‎ 2012
-        (DOI https://doi.org/10.7202/1062886ar, lire en ligne, consulté le 27
+        (DOI https:/doi.org/10.72021062886ar, lire en ligne, consulté le 27
         mai 2020).
    198. ↑ Michel Gourd, « Quand l'arbitraire policier s'impose au Canada »,
-        Le Monde diplomatique,‎ février 2005, p. 12-13 (OCLC 914212541).
+        Le Monde diplomatique,‎ février 2005, p. 1213 (OCLC 914212541).
    199. ↑ « Canada: la naissance d'un État policier », sur Le Soleil, 24 juin
         2015 (consulté le 6 mai 2020).
-   200. ↑ Sergio Carrozzo, « Vers un État policier en Belgique ? », sur Le
+   200. ↑ Sergio Carrozzo, « Vers un État policier en Belgique  », sur Le
         Monde diplomatique, 1^er avril 2001 (consulté le 28 avril 2020).
-   201. ↑ Jean-Claude Paye, « Vers un Etat policier en Belgique ? », sur Le
+   201. ↑ Jean-Claude Paye, « Vers un Etat policier en Belgique  », sur Le
         Monde diplomatique, 1^er novembre 1999 (consulté le 30 avril 2020).
    202. ↑ Paye 2000, p. 18.
-   203. ↑ « Vers un Etat policier ? », Imagine, n^o 40,‎ juin-juillet-août
+   203. ↑ « Vers un Etat policier  », Imagine, n^o 40,‎ juin-juillet-août
         2003 (lire en ligne, consulté le 30 avril 2020).
-   204. ↑ Hervé Hamon et Patrick Rotman, Les années de poudre (1968-1975),
-        Paris, Seuil, 1988, 694 p. (ISBN 978-2-02-097102-7, lire en ligne)
+   204. ↑ Hervé Hamon et Patrick Rotman, Les années de poudre (19681975),
+        Paris, Seuil, 1988, 694 p. (ISBN 9782-020971027, lire en ligne)
    205. ↑ Jean-Louis Loubet del Bayle, « Le sociologue et le policier. Un
         difficile dialogue », Cahiers de la sécurité, Institut national des
         Hautes Études de la Sécurité et de la Justice, n^o 20,‎ 2012,
-        p. 147-156 (lire en ligne).
+        p. 147156 (lire en ligne).
    206. ↑ Fabien Jobard, « Le nouveau mandat policier : faire la police dans
         les zones dites de « non-droit » », Criminologie, vol. 38, n^o 2,‎
-        2005, p. 103–121 (ISSN 0316-0041 et 1492-1367,
-        DOI https://doi.org/10.7202/012664ar, lire en ligne, consulté le 29
+        2005, p. 103–121 (ISSN 03160041 et 14921367,
+        DOI https:/doi.org/10.7202012664ar, lire en ligne, consulté le 29
         avril 2020).
    207. ↑ Cédric Moreau de Bellaing et Grégory Salle, « Être ou ne pas être
         un « État de droit ». Les dispositifs de contrôle des institutions
         coercitives en France », Éthique publique. Revue internationale
         d’éthique sociétale et gouvernementale, vol. 9, n^o 2,‎ 1^er janvier
-        2007 (ISSN 1488-0946, DOI 10.4000/ethiquepublique.1764, lire en
+        2007 (ISSN 14880946, DOI 10.4000/ethiquepublique.1764, lire en
         ligne, consulté le 10 mai 2020).
    208. ↑ (en) Fraser McQueen, « Inside Emmanuel Macron’s draconian
         anti-terrorism law », The Conversation,‎ 11 septembre 2017 (lire en
@@ -2253,29 +2253,29 @@ Notes et références
    209. ↑ (en) Gabriel Bristow, « Yellow fever: populist pangs in France:
         Reflections on the gilets jaunes movement and the nature of its
         populism », Soundings: A journal of politics and culture, Lawrence &
-        Wishart, n^o 72,‎ 2019, p. 65-78.
+        Wishart, n^o 72,‎ 2019, p. 6578.
    210. ↑ (en) Alan Greene, « Alternatives to constitutionnal states of
         Emergency », dans Permanent States of Emergency and the Rule of Law :
         Constitutions in an Age of Crisis, Hart Publishing, 2020
-        (ISBN 978-1-5099-0615-4, lire en ligne)).
+        (ISBN 9781-509906154, lire en ligne)).
    211. ↑ Marc Loriol, « Violences policières, violences de policiers ou
-        répression du mouvement social ? », Les Mondes du travail, n^o 1,‎ 12
+        répression du mouvement social  », Les Mondes du travail, n^o 1,‎ 12
         février 2020 (lire en ligne, consulté le 24 mai 2020).
    212. ↑ (en) Sébastien Platon, « Le respect de l'État de droit dans l'Union
         européenne : la Cour de justice de l'Union européenne à la rescousse
-        -(Protecting the Rule of law in the European Union: the Court of
+        (Protecting the Rule of law in the European Union: the Court of
         Justice of the European Union to the Rescue) », Revue des droits et
         libertés fondamentaux, Social Science Research Network, n^o ID
         3458278,‎ 14 mai 2019 (lire en ligne, consulté le 27 mai 2020).
    213. ↑ Chronique de l'année 1989, Chronique, 2013, 128 p.
-        (ISBN 978-2-36602-025-0 et 2-36602-025-2, lire en ligne), p. 15 mars.
+        (ISBN 9782-366020250 et 2366020252, lire en ligne), p. 15 mars.
    214. ↑ ^a et b (en) András Bozóki, « Occupy the State: The Orbán Regime in
         Hungary », Debatte: Journal of Contemporary Central and Eastern
         Europe, vol. 19, n^o 3,‎ 1^er décembre 2011, p. 649–663
-        (ISSN 0965-156X, DOI 10.1080/0965156X.2012.703415, lire en ligne,
+        (ISSN 0965156X, DOI 10.10800965156X.2012.703415, lire en ligne,
         consulté le 10 mai 2020).
    215. ↑ Júlia Mink, « Hongrie: l’Etat de droit menacé », Hommes & Libertés,
-        n^o 168,‎ décembre 2014, p. 26-29.
+        n^o 168,‎ décembre 2014, p. 2629.
    216. ↑ Kim Lane Scheppele, « Orbán's Police State. Hungary's Crackdown on
         Refugees is Shredding the Values of Democracy », Politico, n^o 14,‎
         2015.
@@ -2285,20 +2285,20 @@ Notes et références
    218. ↑ Bénédicte Jeannerod, « Le gouvernement Orban a fait de son pays la
         première non-démocratie de l’Union européenne » », Le Monde.fr,‎ 3
         avril 2020 (lire en ligne, consulté le 10 mai 2020).
-   219. ↑ « L’État de droit en Pologne, et PiS quoi encore ? », sur
+   219. ↑ « L’État de droit en Pologne, et PiS quoi encore  », sur
         dalloz-actualite.fr (consulté le 27 mai 2020).
    220. ↑ Raphaël Hasenknopf, « L’état de droit mis à mal en Pologne », La
-        Croix,‎ 26 juin 2018 (ISSN 0242-6056, lire en ligne, consulté le 27
+        Croix,‎ 26 juin 2018 (ISSN 02426056, lire en ligne, consulté le 27
         mai 2020).
    221. ↑ Anna Couani, « September 11 and Its Aftermath: A Roundtable: From
         Penal Colony to Police State? », Signs: Journal of Women in Culture
         and Society, vol. 29, n^o 2,‎ 1^er janvier 2004, p. 579–582
-        (ISSN 0097-9740, DOI 10.1086/378544, lire en ligne, consulté le 24
+        (ISSN 00979740, DOI 10.1086378544, lire en ligne, consulté le 24
         mai 2020).
    222. ↑ (en-US) Greg Martin, « No Worries? Yes Worries! How New South Wales
         is Creeping towards a Police State », Alternative Law Journal,
-        vol. 35, n^o 3,‎ septembre 2010, p. 163–167 (ISSN 1037-969X et
-        2398-9084, DOI 10.1177/1037969x1003500307, lire en ligne, consulté le
+        vol. 35, n^o 3,‎ septembre 2010, p. 163–167 (ISSN 1037969X et
+        23989084, DOI 10.11771037969x1003500307, lire en ligne, consulté le
         24 mai 2020).
    223. ↑ (en-US) « Redaction: Mainstream Media Censorship & Self-Censorship
         in Pre-Police-State Australia », sur Crime and power, 26 octobre 2019
@@ -2307,7 +2307,7 @@ Notes et références
         n’est presque jamais solidaire, pacifique et collectif », Le
         Monde.fr,‎ 21 avril 2020 (lire en ligne, consulté le 6 mai 2020).
    225. ↑ Thomas Michaud, Télécommunications et science-fiction, Paris,
-        Marsisme, 2008, 648 p. (ISBN 978-2-9532573-8-0 et 2-9532573-8-1, lire
+        Marsisme, 2008, 648 p. (ISBN 9782-95325738-0 et 295325738-1, lire
         en ligne), p. 545.
    226. ↑ « 1984 retraduit : rendre la terreur de Big Brother “dans toute son
         immédiateté” », sur ActuaLitté (consulté le 30 avril 2020).
@@ -2317,162 +2317,162 @@ Notes et références
    228. ↑ Whitaker 2001, p. 41.
    229. ↑ (en) John Rodden, George Orwell : The Politics of Literary
         Reputation, Transaction Publishers, 31 décembre 2001, 510 p.
-        (ISBN 978-1-4128-2453-8, lire en ligne), p. 204.
+        (ISBN 9781-412824538, lire en ligne), p. 204.
    230. ↑ Jacqueline Lahana, Les mondes parallèles de la science-fiction
         soviétique, L'Âge d'Homme, coll. « Outrepart », 1979, 176 p., p. 87.
    231. ↑ Anke Bosse et Atinati Mamatsashvili, Littérature et totalitarisme.
         I, Écrire pour témoigner, Namur, Presses universitaires de Namur,
-        2014, 139 p. (ISBN 978-2-87037-787-1 et 2-87037-787-8,
+        2014, 139 p. (ISBN 9782-870377871 et 2870377878,
         OCLC 903647224), p. 12.
    232. ↑ « Les Furtifs : Alain Damasio, ou l'avenir à la lumière du
         présent », sur actualitte.com (consulté le 29 mai 2020).
    233. ↑ Thomas Michaud, L'innovation entre science et science-fiction,
-        Londres, ISTE group, 2017, 137 p. (ISBN 978-1-78405-319-2 et
-        1-78405-319-8, OCLC 1018308142), p. 80.
+        Londres, ISTE group, 2017, 137 p. (ISBN 9781-784053192 et
+        1784053198, OCLC 1018308142), p. 80.
    234. ↑ (en) Mark Brake, The science of Star Wars : the scientific facts
         behind the force, space travel, and more!, Simon and Schuster, 2016,
-        272 p. (ISBN 978-1-944686-28-4, 1-944686-28-2 et 978-1-63158-259-2,
+        272 p. (ISBN 9781-944686284, 1944686282 et 9781-631582592,
         OCLC 962352313), rech. "Police state"
    235. ↑ (en) Jason Fry, Star wars : the essential guide to warfare, Titan
-        Books, 2012, 246 p. (ISBN 978-1-78116-140-1 et 1-78116-140-2,
+        Books, 2012, 246 p. (ISBN 9781-781161401 et 1781161402,
         OCLC 794967343), p. 106
    236. ↑ (en) Annette Kuhn et Director of Graduate Studies Institute for
         Cultural Research Annette Kuhn, Alien Zone : Cultural Theory and
         Contemporary Science Fiction Cinema, Verso, 1990, 231 p.
-        (ISBN 978-0-86091-278-1, lire en ligne), p. 22
+        (ISBN 9780-860912781, lire en ligne), p. 22
    237. ↑ (en) Paul A. Cantor, Gilligan unbound : pop culture in the age of
-        globalization, Rowman & Littlefield, 2003, 255 p. (ISBN 0-7425-0779-3
-        et 978-0-7425-0779-1, OCLC 52455432), p. 179.
+        globalization, Rowman & Littlefield, 2003, 255 p. (ISBN 0742507793
+        et 9780-742507791, OCLC 52455432), p. 179.
    238. ↑ (en) « Riverdale Is a Changed Town After Midseason Finale », sur E!
         News, wed dec 12 18:00:00 pst 2018 (consulté le 3 mai 2020).
    239. ↑ « États policiers : l'État dans le roman policier et le roman
         noir », sur calenda.org (consulté le 27 mai 2020).
    240. ↑ Audrey Cavaillé et Valérie Arrault, « L’Incal, une fiction
         métaphorique », Entrelacs. Cinéma et audiovisuel, n^o 16,‎ 29 août
-        2019 (ISSN 1266-7188, DOI 10.4000/entrelacs.5658, lire en ligne,
+        2019 (ISSN 12667188, DOI 10.4000/entrelacs.5658, lire en ligne,
         consulté le 5 juin 2020).
    241. ↑ (en) « What is cyberpunk? », sur polygon.com.
    242. ↑ « MANGA et SF le choc des cultures », sur cafardcosmique.com
    243. ↑ (en) David Hughes, Comic Book Movies : Virgin Film, Random House,
-        2012, 368 p. (ISBN 978-1-4481-3279-9 et 1-4481-3279-7, lire en
+        2012, 368 p. (ISBN 9781-448132799 et 1448132797, lire en
         ligne), chap. "Ghost in the Shell".
 
 Voir aussi
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Sur les autres projets Wikimedia :
 
-     * État policier, sur le Wiktionnaire
+      État policier, sur le Wiktionnaire
 
   Articles connexes
 
-   [modifier | modifier le code]
-     * État légal
-     * État de droit
-     * Dictature
-     * Totalitarisme
-     * Police en civil
+   [modifier  modifier le code]
+      État légal
+      État de droit
+      Dictature
+      Totalitarisme
+      Police en civil
 
   Bibliographie
 
-   [modifier | modifier le code]
-     * [Berthelet 2015] Pierre Berthelet, Crimes et châtiments dans l'État de
+   [modifier  modifier le code]
+      [Berthelet 2015] Pierre Berthelet, Crimes et châtiments dans l'État de
        sécurité : traité de criminologie politique, Paris, Éditions Publibook
-       université, 2015, 904 p. (ISBN 978-2-342-03392-2 et 2-342-03392-3,
+       université, 2015, 904 p. (ISBN 9782-342033922 et 2342033923,
        OCLC 1134651671).
-     * [Chapman 1971] (en) Brian Chapman, Police State, Londres, Macmillan,
+      [Chapman 1971] (en) Brian Chapman, Police State, Londres, Macmillan,
        coll. « Key Concepts in Political Science », 1971, 145 p.
-       (ISBN 1-349-00944-X et 978-1-349-00944-2, lire en ligne).
-     * [Canoy 2007] (en) Jose Raymund Canoy, The discreet charm of the police
-       state : the Landpolizei and the transformation of Bavaria, 1945-1965,
-       Brill, 2007, 352 p. (ISBN 978-90-474-1933-4, 90-474-1933-2 et
-       1-281-92133-5, OCLC 306967745).
-     * [Chumley 2014] (en) Cheryl K. Chumley, Police State USA : How Orwell's
+       (ISBN 134900944-X et 9781-349009442, lire en ligne).
+      [Canoy 2007] (en) Jose Raymund Canoy, The discreet charm of the police
+       state : the Landpolizei and the transformation of Bavaria, 19451965,
+       Brill, 2007, 352 p. (ISBN 9789047419334, 9047419332 et
+       1281921335, OCLC 306967745).
+      [Chumley 2014] (en) Cheryl K. Chumley, Police State USA : How Orwell's
        Nightmare Is Becoming Our Reality, WND Books, 2014, 240 p.
-       (ISBN 978-1-936488-14-8 et 1-936488-14-0, OCLC 871684452).
-     * [Dubber et Valverde 2006] (en) Markus Dirk Dubber et Mariana Valverde,
+       (ISBN 9781-936488148 et 1936488140, OCLC 871684452).
+      [Dubber et Valverde 2006] (en) Markus Dirk Dubber et Mariana Valverde,
        The New Police Science : The Police Power in Domestic and
        International Governance, Stanford University Press, coll. « Critical
-       perspectives on crime and law », 2006, 308 p. (ISBN 0-8047-5392-X et
+       perspectives on crime and law », 2006, 308 p. (ISBN 080475392-X et
        9780804753920, lire en ligne).
-     * [Greene 2007] (en) Jack R. Greene, « Police states », dans The
-       encyclopedia of police science, Routledge, 2007 (ISBN 0-415-97000-8,
-       978-0-415-97000-6 et 978-0-415-64223-1, OCLC 71241846), p. 1004-1005.
-     * [Lackner 2013] (de) Tanja E. Lackner, Polizeistaat versus Rechtsstaat,
-       Grin Verlag, 2013, 28 p. (ISBN 978-3-640-67432-9 et 3-640-67432-4,
+      [Greene 2007] (en) Jack R. Greene, « Police states », dans The
+       encyclopedia of police science, Routledge, 2007 (ISBN 0415970008,
+       9780-415970006 et 9780-415642231, OCLC 71241846), p. 10041005.
+      [Lackner 2013] (de) Tanja E. Lackner, Polizeistaat versus Rechtsstaat,
+       Grin Verlag, 2013, 28 p. (ISBN 9783-640674329 et 3640674324,
        OCLC 923742787)
-     * [Paye 2000] Jean-Claude Paye, Vers un État policier en Belgique ?,
-       Éditions Aden, 2000, 159 p. (ISBN 2-87262-180-6 et 9782872621804, lire
+      [Paye 2000] Jean-Claude Paye, Vers un État policier en Belgique ,
+       Éditions Aden, 2000, 159 p. (ISBN 2872621806 et 9782872621804, lire
        en ligne).
-     * [Paye 2004] Jean-Claude Paye, La fin de l'État de droit : la lutte
+      [Paye 2004] Jean-Claude Paye, La fin de l'État de droit : la lutte
        antiterroriste, de l'état d'exception à la dictature, Paris, Éditions
-       La Dispute, 2004, 214 p. (ISBN 978-2-84303-096-3 et 2-84303-096-X,
+       La Dispute, 2004, 214 p. (ISBN 9782-843030963 et 284303096-X,
        OCLC 300864195).
-     * [Tipton 2013] (en) Elise K. Tipton, The Japanese Police State : Tokko
+      [Tipton 2013] (en) Elise K. Tipton, The Japanese Police State : Tokko
        in Interwar Japan, A&C Black, 17 décembre 2013, 14–
-       (ISBN 978-1-78093-974-2, lire en ligne).
-     * [Whitaker 2001] Reginald Whitaker (trad. de l'anglais), Big
+       (ISBN 9781-780939742, lire en ligne).
+      [Whitaker 2001] Reginald Whitaker (trad. de l'anglais), Big
        Brother.com : la vie privée sous surveillance, Laval, Presses de
-       l'Université de Laval, 2001, 282 p. (ISBN 2-7637-7759-7 et
-       978-2-7637-7759-7, OCLC 48076501).
-     * [Whitehead 2013] (en) John W. Whitehead, A Government of Wolves : The
+       l'Université de Laval, 2001, 282 p. (ISBN 2763777597 et
+       9782-763777597, OCLC 48076501).
+      [Whitehead 2013] (en) John W. Whitehead, A Government of Wolves : The
        Emerging American Police State, SelectBooks, Inc., 2013, 304 p.
-       (ISBN 978-1-59079-983-3 et 1-59079-983-6, lire en ligne).
+       (ISBN 9781-590799833 et 1590799836, lire en ligne).
 
     Articles
 
-   [modifier | modifier le code]
-     * [Chapman 1968] (en) Brian Chapman, « The Police-State* », Government
-       and Opposition, vol. 3, n^o 4,‎ 1968, p. 428–440 (ISSN 1477-7053,
-       DOI 10.1111/j.1477-7053.1968.tb01341.x, lire en ligne, consulté le 28
+   [modifier  modifier le code]
+      [Chapman 1968] (en) Brian Chapman, « The Police-State* », Government
+       and Opposition, vol. 3, n^o 4,‎ 1968, p. 428–440 (ISSN 14777053,
+       DOI 10.1111/j.14777053.1968.tb01341.x, lire en ligne, consulté le 28
        avril 2020).
 
   Liens externes
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
-     * * * Notices dans des dictionnaires ou encyclopédies généralistesVoir
+      *  Notices dans des dictionnaires ou encyclopédies généralistesVoir
        et modifier les données sur Wikidata :
-          * Den Store Danske Encyklopædi
-          * Dizionario di Storia
-          * Gran Enciclopèdia Catalana
-     * Notices d'autoritéVoir et modifier les données sur Wikidata :
-          * LCCN
-          * GND
-          * Israël
-     * icône décorative Portail de la politique
-     * icône décorative Portail du droit
-     * icône décorative Portail de la sociologie
-     * icône décorative Portail de la science-fiction
+           Den Store Danske Encyklopædi
+           Dizionario di Storia
+           Gran Enciclopèdia Catalana
+      Notices d'autoritéVoir et modifier les données sur Wikidata :
+           LCCN
+           GND
+           Israël
+      icône décorative Portail de la politique
+      icône décorative Portail du droit
+      icône décorative Portail de la sociologie
+      icône décorative Portail de la science-fiction
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=État_policier&oldid=230686287 ».
+   « https:/fr.wikipedia.org/w/index.php?title=État_policier&oldid=230686287 ».
    Catégories :
-     * Régime politique
-     * Police
-     * État
-     * Péjoratif politique par type de gouvernement
+      Régime politique
+      Police
+      État
+      Péjoratif politique par type de gouvernement
    Catégories cachées :
-     * Article contenant un appel à traduction en espagnol
-     * Article contenant un appel à traduction en polonais
-     * Article contenant un appel à traduction en anglais
-     * Page avec un oldid invalide
-     * Page utilisant un modèle Bases inactif
-     * Page utilisant P8313
-     * Page utilisant P6404
-     * Page utilisant P1296
-     * Page pointant vers des bases externes
-     * Page pointant vers des dictionnaires ou encyclopédies généralistes
-     * Article de Wikipédia avec notice d'autorité
-     * Portail:Politique/Articles liés
-     * Portail:Droit/Articles liés
-     * Portail:Société/Articles liés
-     * Portail:Sociologie/Articles liés
-     * Portail:Sciences humaines et sociales/Articles liés
-     * Portail:Science-fiction/Articles liés
-     * La dernière modification de cette page a été faite le 16 novembre 2025
+      Article contenant un appel à traduction en espagnol
+      Article contenant un appel à traduction en polonais
+      Article contenant un appel à traduction en anglais
+      Page avec un oldid invalide
+      Page utilisant un modèle Bases inactif
+      Page utilisant P8313
+      Page utilisant P6404
+      Page utilisant P1296
+      Page pointant vers des bases externes
+      Page pointant vers des dictionnaires ou encyclopédies généralistes
+      Article de Wikipédia avec notice d'autorité
+      Portail:Politique/Articles liés
+      Portail:Droit/Articles liés
+      Portail:Société/Articles liés
+      Portail:Sociologie/Articles liés
+      Portail:Sciences humaines et sociales/Articles liés
+      Portail:Science-fiction/Articles liés
+      La dernière modification de cette page a été faite le 16 novembre 2025
        à 11:18.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
+      Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
        pour plus de détails, ainsi que les crédits graphiques. En cas de
@@ -2481,20 +2481,20 @@ Voir aussi
        Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
        organisation de bienfaisance régie par le paragraphe 501(c)(3) du code
        fiscal des États-Unis.
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Contacts juridiques & sécurité
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+      Politique de confidentialité
+      À propos de Wikipédia
+      Avertissements
+      Contact
+      Contacts juridiques & sécurité
+      Code de conduite
+      Développeurs
+      Statistiques
+      Déclaration sur les témoins (cookies)
+      Version mobile
+      Wikimedia Foundation
+      Powered by MediaWiki
    Rechercher
-   _____________________
+   ______________
    Rechercher
    [ ] Basculer la table des matières
    État policier

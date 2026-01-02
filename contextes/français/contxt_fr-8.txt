@@ -22,11 +22,11 @@
 
 --
 
-   I - les éléments constitutifs du groupement “ ..Etat.. ”
-   II - le pouvoir confère au groupement “ ..Etat.. ” : la souveraineté
+   I  les éléments constitutifs du groupement “ ..Etat.. ”
+   II  le pouvoir confère au groupement “ ..Etat.. ” : la souveraineté
    Inicio de página
 --
-     * 1  G. Burdeau, Traité de science politique, 3^e éd., Paris, 1969,
+      1  G. Burdeau, Traité de science politique, 3^e éd., Paris, 1969,
        t. 2, L’..Etat..,
        p. 169 ; Cl. Leclercq, (...)
 --
@@ -56,10 +56,10 @@
    peut exister sans l’autre, mais il importe d’être bien conscient de celui
 --
 
-     * 2  H. Kelsen, “ Aperçu d’une théorie générale de l’..Etat.. ”, RDP, 1926,
+      2  H. Kelsen, “ Aperçu d’une théorie générale de l’..Etat.. ”, RDP, 1926,
        p. 561 et ss.
-     * 3  G. Wicker, Personne morale, Rép. civ. Dalloz, Paris, 1998, p. 2.
-     * 4  G. Burdeau, L’..Etat.., Paris, 1970, p. 7. Pour le même auteur,
+      3  G. Wicker, Personne morale, Rép. civ. Dalloz, Paris, 1998, p. 2.
+      4  G. Burdeau, L’..Etat.., Paris, 1970, p. 7. Pour le même auteur,
        Traité..., op. cit., t. 2, L’..Etat.., p.  (...)
 
    5A l’évidence donc, les définitions de l’..Etat.. qui négligent le territoire
@@ -72,10 +72,10 @@
    sont les trois éléments constitutifs d’UN ..Etat... Kelsen réduit abusivement
    sa définition du mot “ ..Etat.. ” à celle de l’..Etat... En droit privé, une
    personne morale est un groupement de personnes et de biens3. Pourquoi en
-   serait-il autrement en droit public ? “ Personne n’a jamais vu l’..Etat.. ”
+   serait-il autrement en droit public  “ Personne n’a jamais vu l’..Etat.. ”
    écrit G. Burdeau4. Bien au contraire, chaque Français le voit
 --
-     * 5  Ph. Sueur, Histoire du droit public français, XV^e-XVII^e siècle,
+      5  Ph. Sueur, Histoire du droit public français, XV^e-XVII^e siècle,
        “ La genèse de l’..Etat.. contemporain (...)
 
    6Aussi ne peut-on qu’approuver le souci de Ph. Sueur de donner du mot
@@ -89,21 +89,21 @@
    démocratiques, le droit, et singulièrement les droits de l’homme. Pour
    eux, la notion d’..Etat.. se réduit donc à celle d’..Etat.. de droit.
 
-     * 6  Voir M. Troper, “ Y a-t-il un ..Etat.. nazi ? ”, in Pour une théorie
+      6  Voir M. Troper, “ Y a-t-il un ..Etat.. nazi  ”, in Pour une théorie
        juridique de l’..Etat.., Paris, 1994, (...)
-     * 7  J. Bodin, Les six livres de la République, 10^e ed., 1593, L 1^er,
+      7  J. Bodin, Les six livres de la République, 10^e ed., 1593, L 1^er,
        ch 1. On constatera par la suite (...)
-     * 8  Cité par H. Thierry, “ L’..Etat.. et l’organisation de la société
+      8  Cité par H. Thierry, “ L’..Etat.. et l’organisation de la société
        internationale ”, in L’..Etat.. souverai (...)
-     * 9  L’Europe est à cet égard un club plus fermé que l’ONU. Elle n’admet
+      9  L’Europe est à cet égard un club plus fermé que l’ONU. Elle n’admet
        en son sein que des ..Etats.. de d (...)
 
 --
    XVIII^e siècles, époque où le mot abonde dans la législation comme dans
-   les écrits des théoriciens, n’aurait pas été un ..Etat.. ? Et la France
-   napoléonienne ? Ou, plus près de nous, l’Allemagne hitlérienne6,
-   l’URSS... ? Ou encore, en l’an 2000, les nombreux pays membres de l’ONU
-   quoique gouvernés plus ou moins tyranniquement ? En réalité, l’..Etat.. de
+   les écrits des théoriciens, n’aurait pas été un ..Etat..  Et la France
+   napoléonienne  Ou, plus près de nous, l’Allemagne hitlérienne6,
+   l’URSS...  Ou encore, en l’an 2000, les nombreux pays membres de l’ONU
+   quoique gouvernés plus ou moins tyranniquement  En réalité, l’..Etat.. de
    droit parfait n’existe pas et n’existera jamais parce que la notion et
    singulièrement sa composante principale, les droits de l’homme, évolue
    sans cesse, et que l’..Etat.. de droit du moment a toujours un temps de retard
@@ -112,7 +112,7 @@
    démocratie idéale à la tyrannie la plus brutale. Lorsque J. Bodin qualifie
 --
    n’exclut que les troupes de brigands7. Pour lui, l’Empire perse était un
-   ..Etat... Cette conception serait-elle dépassée ? Il ne semble pas puisque la
+   ..Etat... Cette conception serait-elle dépassée  Il ne semble pas puisque la
    Conférence pour la sécurité et la coopération en Europe déclarait en 1990
    que “ la démocratie est un élément inhérent à l’..Etat.. de droit ”8, à l’..Etat..
    de droit, et non pas à l’..Etat.. en général9.
@@ -132,7 +132,7 @@
    cesser d’être rigoureuse : Une personne morale regroupant une population
 --
 
-     * 12  Th. Michalon, “ Les sociétés non-industrialisées et l’..Etat.. de
+      12  Th. Michalon, “ Les sociétés non-industrialisées et l’..Etat.. de
        droit ”, in Mélange en hommage à Ber (...)
 --
    territoire – doté de la souveraineté est une personne morale qualifiée
@@ -144,7 +144,7 @@
    le rend indépendant, la souveraineté (II). Les idées développées seront
 --
 
-              I - les éléments constitutifs du groupement “ ..Etat.. ”
+              I  les éléments constitutifs du groupement “ ..Etat.. ”
 
 --
    qu’ils en sont dépourvus, les vrais peuples nomades, tels les Romani, ne
@@ -209,7 +209,7 @@
 
 --
    proclamé et mis en œuvre le droit d’ingérence. Que reste-t-il alors de la
-   souveraineté de ces ..Etats.. ? Certains pays, en Amérique du sud, en
+   souveraineté de ces ..Etats..  Certains pays, en Amérique du sud, en
    Extrême-Orient, compensent leurs défaillances économiques par la
 --
    dans un pays développé, l’insuffisance de l’économie d’une partie du
@@ -231,13 +231,13 @@
    désintéressée des pays riches. Et ce ne peut être en aucun cas un ..Etat.. de
    droit, même si l’ordre y règne, comme en Irak ou à Cuba. A partir de quel
    degré d’auto-suffisance un pays sous-développé peut-il être considéré
-   comme un ..Etat.. ? Il n’y a évidemment pas de réponse chiffrée à cette
+   comme un ..Etat..  Il n’y a évidemment pas de réponse chiffrée à cette
    question. Tout est affaire de cas particuliers. Cuba est un ..Etat.., la
    Somalie, non. C’est la raison pour laquelle il n’est pas possible
    d’introduire dans la définition de l’..Etat.. donnée ci-dessus une expression
    concrétisant l’exigence d’un minimum de ressources. Mais celle-ci est,
 --
-     * 22  Les échanges régionaux, que ce soit avec la Guadeloupe ou les îles
+      22  Les échanges régionaux, que ce soit avec la Guadeloupe ou les îles
        et ..Etats.. continentaux de la Car (...)
 
 --
@@ -259,9 +259,9 @@
    ressources. Soit sans domaine d’exercice ni titulaire(s) de la
    souveraineté au nom de laquelle l’..Etat.. gouverne et représente UN ..Etat...
 
-        II - le pouvoir confère au groupement “ ..Etat.. ” : la souveraineté
+        II  le pouvoir confère au groupement “ ..Etat.. ” : la souveraineté
 
-     * 33  Sur la notion de souveraineté, voir B. Vonglis, “ L’..Etat.., c’était
+      33  Sur la notion de souveraineté, voir B. Vonglis, “ L’..Etat.., c’était
        bien lui ”, Essai sur la monarch (...)
 --
    mains d’une même personne physique ou morale. La souveraineté appartient à
@@ -353,9 +353,9 @@
    à la réalité, soit pour soutenir que “ l’indivisibilité de l’..Etat.. n’est
    pas juridiquement opposée à la délégation normative ”, tout en
 --
-     * 47  Contrairement à ce qu’écrit O. Audeoud, “ Les collectivités
+      47  Contrairement à ce qu’écrit O. Audeoud, “ Les collectivités
        infra-..état..iques dans la vie internatio (...)
-     * 48  L’opinion contraire exprimée par J.Y. Faberon, “ La
+      48  L’opinion contraire exprimée par J.Y. Faberon, “ La
 --
    l’appui de cette thèse les exemples de l’Espagne et de l’Italie.
    L’indivisibilité de l’..Etat.. se réduirait à exclure “ l’autonomie
@@ -377,7 +377,7 @@
    collectivités inorganisées la qualité d’..Etat.. qui les met théoriquement à
    l’abri de toute ingérence, dans l’espoir que cet avantage leur permettra
 --
-     * 55  Pour atteindre ce but, Th. Michalon, “ A la recherche de la
+      55  Pour atteindre ce but, Th. Michalon, “ A la recherche de la
        légitimité de l’..Etat.. ”, RFDC, n° 24, 1 (...)
 
 --
@@ -386,7 +386,7 @@
    maladie, les massacres interethniques, attachées à leurs modes de vie
 --
 
-   76Etonnante souplesse ? Non. Redoutable dureté de la notion d’..Etat.....
+   76Etonnante souplesse  Non. Redoutable dureté de la notion d’..Etat.....
 
 --
    1  G. Burdeau, Traité de science politique, 3^e éd., Paris, 1969, t. 2,
@@ -416,7 +416,7 @@
    genèse de l’..Etat.. contemporain ”, t. 1, La constitution monarchique, Paris,
    1989, p. 71.
 
-   6  Voir M. Troper, “ Y a-t-il un ..Etat.. nazi ? ”, in Pour une théorie
+   6  Voir M. Troper, “ Y a-t-il un ..Etat.. nazi  ”, in Pour une théorie
    juridique de l’..Etat.., Paris, 1994, p. 177 et ss, qui après avoir fait une
    analyse à juste titre sévère des conditions de fonctionnement de
    l’Allemagne à cette époque, semble, si nous l’avons bien compris, finir
@@ -455,7 +455,7 @@
    sont en effet concurrentes et non pas complémentaires.
 --
    la Martinique, ibid., in fine. “ Pourquoi la société martiniquaise
-   a-t-elle tant de mal à assimiler l’..Etat.. de droit ? ” demande l’auteur à
+   a-t-elle tant de mal à assimiler l’..Etat.. de droit  ” demande l’auteur à
    qui, dans son introduction, p. 22, notre collègue Justin Daniel reproche
 --
    répréhensible de ceux qui sont chargés du maintien de l’ordre, il
@@ -464,15 +464,15 @@
 --
 
    33  Sur la notion de souveraineté, voir B. Vonglis, “ L’..Etat.., c’était bien
-   lui ”, Essai sur la monarchie absolue, Paris, 1997, p. 60-70 et la
+   lui ”, Essai sur la monarchie absolue, Paris, 1997, p. 6070 et la
 --
-   régionale a-t-elle un avenir économique ? “ La commission de Bruxelles et
+   régionale a-t-elle un avenir économique  “ La commission de Bruxelles et
    les ..Etats.. recentralisent en douceur... L’..Etat-nation.. a encore de beaux
    jours devant lui... Le traité de Maastricht, à travers la recentralisation
 --
    47  Contrairement à ce qu’écrit O. Audeoud, “ Les collectivités
    infra-..état..iques dans la vie internationale ”, in L’..Etat.. souverain...
-   op. cit., p. 153-154, fédéralisme et décentralisation ne conduisent pas à
+   op. cit., p. 153154, fédéralisme et décentralisation ne conduisent pas à
 --
    raison d’écrire qu’il y a toute une gamme de situations possibles entre
    ..Etat.. unitaire et ..Etat.. fédéral, le critère du pouvoir législatif – partagé
@@ -489,13 +489,13 @@
    transférées, la Nouvelle-Calédonie va, comme les DOM, s’habituer à vivre
 --
    55  Pour atteindre ce but, Th. Michalon, “ A la recherche de la légitimité
-   de l’..Etat.. ”, RFDC, n° 24, 1998, p. 297-298, propose de “ fonder des
+   de l’..Etat.. ”, RFDC, n° 24, 1998, p. 297298, propose de “ fonder des
    institutions renouvelées sur les solidarités existantes ”.
 --
 
    Bernard Vonglis, «« ..Etat.. » : définitions et réalités», Pouvoirs dans la
-   Caraïbe, 12 | 2000, 27-57.
+   Caraïbe, 12  2000, 2757.
 --
 
    Bernard Vonglis, «« ..Etat.. » : définitions et réalités», Pouvoirs dans la
-   Caraïbe [En línea], 12 | 2000, Publicado el 14 marzo 2011, consultado el
+   Caraïbe [En línea], 12  2000, Publicado el 14 marzo 2011, consultado el

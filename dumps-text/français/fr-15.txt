@@ -1,77 +1,77 @@
    Link: canonical
-     * Contenu
-     * Pied de page
+      Contenu
+      Pied de page
    [IMG]
-   _____________________
+   ______________
    Se connecter [IMG]
    Menu précédent  ...  Accueil
-     * Salons
-     * Orientation 
+      Salons
+      Orientation 
        Fermer 
        Orientation Voir tout
        Collège 
        Collège Voir tout
-          * Tests d’orientation
+           Tests d’orientation
 
             Test
 
-          * Trouvez votre collège
-          * Réussir au collège
-          * Stage de 3ème
-          * Classement des collèges
+           Trouvez votre collège
+           Réussir au collège
+           Stage de 3ème
+           Classement des collèges
        Lycée 
        Lycée Voir tout
-          * Tests d’orientation
+           Tests d’orientation
 
             Test
 
-          * Filière Générale et Technologique
-          * Lycée Pro : Bac pro – CAP
-          * Spécialités du lycée
-          * Simulateur des spécialités
-          * Classement des lycées (séries générales et technologiques)
-          * Classement des lycées professionnels
-          * Annuaire des lycées
+           Filière Générale et Technologique
+           Lycée Pro : Bac pro – CAP
+           Spécialités du lycée
+           Simulateur des spécialités
+           Classement des lycées (séries générales et technologiques)
+           Classement des lycées professionnels
+           Annuaire des lycées
        Parcoursup 
        Parcoursup Voir tout
-          * Réussir Parcoursup
-          * Guide Parcoursup
-          * Lettres de motivation et CV Parcoursup
-          * Réorientation
+           Réussir Parcoursup
+           Guide Parcoursup
+           Lettres de motivation et CV Parcoursup
+           Réorientation
        Études supérieures 
        Études supérieures Voir tout
-          * Tous les domaines d'études
-          * BTS - BUT
-          * Classes prépas (CPGE)
-          * Écoles d'ingénieurs
-          * Écoles de commerce
-          * Études d'art
-          * Master / MBA / Mastère
-          * Médecine / Santé
-          * Université - Licences
-          * Sciences po - IEP
-          * Alternance
-          * Étudier à l'étranger
-          * Autres formations
+           Tous les domaines d'études
+           BTS  BUT
+           Classes prépas (CPGE)
+           Écoles d'ingénieurs
+           Écoles de commerce
+           Études d'art
+           Master  MBA  Mastère
+           Médecine  Santé
+           Université  Licences
+           Sciences po  IEP
+           Alternance
+           Étudier à l'étranger
+           Autres formations
        Nos outils d'orientation 
        Nos outils d'orientation
-          * Pour quels métiers êtes-vous fait ?
+           Pour quels métiers êtes-vous fait ?
 
             Test
 
-          * Quelles études pour vous ?
+           Quelles études pour vous ?
 
             Test
 
-          * Nos guides d'orientation
-          * Tous les domaines d’études
-          * Nos classements
-          * Découvrir les diplômes
-          * Annuaire des formations
-          * Annuaire des établissements
-          * Schéma des études supérieures
-          * Les écoles se présentent
-          * Coaching en orientation par l'Etudiant
+           Nos guides d'orientation
+           Tous les domaines d’études
+           Nos classements
+           Découvrir les diplômes
+           Annuaire des formations
+           Annuaire des établissements
+           Schéma des études supérieures
+           Les écoles se présentent
+           Coaching en orientation par l'Etudiant
 
   Pour quels métiers êtes-vous fait ?
 
@@ -79,70 +79,70 @@
 
   Discutez avec un conseiller gratuitement
 
-     * Testez Ori  
-     * Révisions / Examens 
+      Testez Ori  
+      Révisions  Examens 
        Fermer 
 
-       Révisions / Examens
+       Révisions  Examens
 
        Brevet 2026 
        Brevet 2026
-          * Réussir le brevet
-          * Simulateur du brevet
-          * Quiz de révision du brevet
+           Réussir le brevet
+           Simulateur du brevet
+           Quiz de révision du brevet
 
             Quiz
 
-          * Sujets et corrigés du brevet 2025
-          * Annales du brevet
-          * Fiches méthode, conseils et révisions
-          * Résultats du brevet 2025
+           Sujets et corrigés du brevet 2025
+           Annales du brevet
+           Fiches méthode, conseils et révisions
+           Résultats du brevet 2025
        Bac 2026 
        Bac 2026 Voir tout
-          * Simulateur de moyenne au bac
-          * Quiz de révision du bac
+           Simulateur de moyenne au bac
+           Quiz de révision du bac
 
             Quiz
 
-          * Sujets et corrigés du bac 2025
-          * Annales du bac
-          * Révisions du bac
-          * Dates du bac
-          * Coefficients par matières au bac
-          * Bac professionnel
-          * Fiches méthode, conseils et révisions
-          * Résultats du bac 2025
+           Sujets et corrigés du bac 2025
+           Annales du bac
+           Révisions du bac
+           Dates du bac
+           Coefficients par matières au bac
+           Bac professionnel
+           Fiches méthode, conseils et révisions
+           Résultats du bac 2025
        Concours 
        Concours
-          * Concours écoles de commerce
-          * Concours écoles d'ingénieurs
-          * Concours école fonction publique
-          * Concours Sciences po
-          * Quiz de préparation aux concours
+           Concours écoles de commerce
+           Concours écoles d'ingénieurs
+           Concours école fonction publique
+           Concours Sciences po
+           Quiz de préparation aux concours
 
             Quiz
 
        Autres examens 
        Autres examens
-          * Partiels
-          * Tests et examens de langues
+           Partiels
+           Tests et examens de langues
 
             Quiz
 
-          * Quiz de langues
+           Quiz de langues
 
             Quiz
 
-     * Métiers 
+      Métiers 
        Fermer 
        Métiers Voir tout
        Découverte des métiers 
        Découverte des métiers
-          * Les métiers par secteur
-          * Les fiches métiers
+           Les métiers par secteur
+           Les fiches métiers
        Inspiration & Témoignages 
        Inspiration & Témoignages
-          * Portraits de pros
+           Portraits de pros
 
   Quel métier est fait pour moi ?
 
@@ -152,49 +152,49 @@
 
   Tests d'orientation métiers
 
-     * Vie étudiante 
+      Vie étudiante 
        Fermer 
        Vie étudiante Voir tout
        Conseils & actu 
        Conseils & actu
-          * Bourses & Prêts étudiants
-          * Logement étudiant
-          * Santé étudiante
-          * Engagement et vie associative
+           Bourses & Prêts étudiants
+           Logement étudiant
+           Santé étudiante
+           Engagement et vie associative
        Tests et quiz 
        Tests et quiz
-          * Tests de personnalité
+           Tests de personnalité
 
             Test
 
-          * Quiz de culture générale
+           Quiz de culture générale
 
             Quiz
 
   Classement des villes
 
-  Vacances scolaires 2025-2026
+  Vacances scolaires 20252026
 
   Trendy par l'Etudiant
 
-     * Jobs, stages, alternance 
+      Jobs, stages, alternance 
        Fermer 
        Jobs, stages, alternance Voir tout
        Conseils 
        Conseils
-          * Tests emploi et carrière
+           Tests emploi et carrière
 
             Test
 
-          * Cv, lettres de motivation et entretiens d'embauche
-          * Stages : nos conseils
-          * Actu et conseils emploi
+           Cv, lettres de motivation et entretiens d'embauche
+           Stages : nos conseils
+           Actu et conseils emploi
        Rechercher une offre 
        Rechercher une offre
-          * Rechercher un premier emploi
-          * Rechercher un stage
-          * Rechercher un job étudiant
-          * Rechercher une alternance
+           Rechercher un premier emploi
+           Rechercher un stage
+           Rechercher un job étudiant
+           Rechercher une alternance
 
   Les entreprises qui recrutent
 
@@ -204,7 +204,7 @@
 
   Service Civique
 
-     * Testez Ori 
+      Testez Ori 
    [IMG] Nom d'utilisateur Mot de passe, sécurité, informations personnelles
    et préférences
    Se connecter
@@ -243,12 +243,12 @@
 
    Partager
 
-     * Partager sur Bluesky 
-     * Partager sur Linkedin 
-     * Partager sur Messenger 
-     * Partager sur Whatsapp 
-     * Partager sur Facebook 
-     * Copié
+      Partager sur Bluesky 
+      Partager sur Linkedin 
+      Partager sur Messenger 
+      Partager sur Whatsapp 
+      Partager sur Facebook 
+      Copié
        Copier le lien
    Avec une majuscule, "État" adopte le sens politique de "autorité
    souveraine s’exerçant sur l’ensemble d’un peuple et d’un territoire
@@ -273,7 +273,7 @@ Avec une minuscule : une manière d’être
 
 Avec une majuscule : un sens politique
 
-   Comment est-on passé de "état" à "État" ? Sans doute par le biais du verbe
+   Comment est-on passé de "état" à "État"  Sans doute par le biais du verbe
    latin stare, "se tenir debout", "tenir bon", l’État se devant d’être
    durable (encore cette idée !), fort, solide…
 
@@ -283,7 +283,7 @@ Avec une majuscule : un sens politique
 
    Publicité
 
-   Exemples : un homme / une femme d’État, un coup d’État, un·e chef·fe
+   Exemples : un homme  une femme d’État, un coup d’État, un·e chef·fe
    d’État, le Conseil d’État, un diplôme d’État, un secret (et un·e
    secrétaire !) d’État, une affaire d’État...
 
@@ -312,12 +312,12 @@ Avec une majuscule : un sens politique
 
    Partager
 
-     * Partager sur Bluesky 
-     * Partager sur Linkedin 
-     * Partager sur Messenger 
-     * Partager sur Whatsapp 
-     * Partager sur Facebook 
-     * Copié
+      Partager sur Bluesky 
+      Partager sur Linkedin 
+      Partager sur Messenger 
+      Partager sur Whatsapp 
+      Partager sur Facebook 
+      Copié
        Copier le lien
    Ajouter aux favoris
    Partager
@@ -327,8 +327,8 @@ Avec une majuscule : un sens politique
 
 Sur le même thème
 
-     * Orthographe
-     * Projet Voltaire
+      Orthographe
+      Projet Voltaire
 
 Tous nos outils
 
@@ -341,7 +341,7 @@ Tous nos outils
 
    Voir plus  Voir moins
 
-  Les salons 2025-2026
+  Les salons 20252026
 
    Trouvez votre formation
 
@@ -477,118 +477,118 @@ Contenus supplémentaires
 
    Collège
 
-     * Collège
-     * Brevet
-     * Annuaire des collèges
-     * Résultats Brevet
-     * Simulateur note brevet
+      Collège
+      Brevet
+      Annuaire des collèges
+      Résultats Brevet
+      Simulateur note brevet
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    Métiers
 
-     * Test d'orientation métier : quel métier est fait pour moi ?
-     * Métiers
-     * Les métiers par secteur
-     * Fiches métiers
-     * Métiers - Portraits de pros
-     * Tests d'orientation métiers
+      Test d'orientation métier : quel métier est fait pour moi ?
+      Métiers
+      Les métiers par secteur
+      Fiches métiers
+      Métiers  Portraits de pros
+      Tests d'orientation métiers
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    Vie étudiante
 
-     * Tests de personnalité
-     * Quiz de culture générale
-     * Bourses
-     * Logement
-     * Santé
-     * Nos jeux concours
-     * Vie associative
+      Tests de personnalité
+      Quiz de culture générale
+      Bourses
+      Logement
+      Santé
+      Nos jeux concours
+      Vie associative
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    Lycée
 
-     * Terminale
-     * Lycée Pro - Bac pro – CAP
-     * Spécialités au lycée
-     * Simulateur de spécialités
-     * Parcoursup
-     * Bac
-     * Dates du bac
-     * Coefficients bac par matière et série
-     * Révisions du bac
-     * Corrigés du bac
-     * Bac professionnel
-     * Simulateur de moyenne au bac
-     * Cours et Méthodologie
-     * Annuaire des lycées
-     * Résultats du bac
+      Terminale
+      Lycée Pro  Bac pro – CAP
+      Spécialités au lycée
+      Simulateur de spécialités
+      Parcoursup
+      Bac
+      Dates du bac
+      Coefficients bac par matière et série
+      Révisions du bac
+      Corrigés du bac
+      Bac professionnel
+      Simulateur de moyenne au bac
+      Cours et Méthodologie
+      Annuaire des lycées
+      Résultats du bac
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    Jobs, stages, alternance
 
-     * Jobs, stages
-     * Cv, lettres de motivation et entretiens d'embauche
-     * Simulateur de qualité
-     * Actu et conseils emploi
-     * Stages : nos conseils
-     * Jobs étudiants
-     * Stages étudiants
-     * Offres en Alternance
-     * Premier emploi
-     * Tests emploi et carrière
+      Jobs, stages
+      Cv, lettres de motivation et entretiens d'embauche
+      Simulateur de qualité
+      Actu et conseils emploi
+      Stages : nos conseils
+      Jobs étudiants
+      Stages étudiants
+      Offres en Alternance
+      Premier emploi
+      Tests emploi et carrière
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    Supérieur
 
-     * Résultats des examens
-     * Résultats des BTS
-     * BTS-BUT
-     * Université
-     * Classement des licences
-     * Classes prépas (CPGE)
-     * Classement des prépas
-     * Écoles d'ingénieurs
-     * Classement des écoles d'ingénieurs
-     * Écoles de commerce
-     * Classement des écoles de commerce
-     * Écoles spécialisées
-     * Master / MBA / Mastère
-     * Classement des masters
-     * International - Étudier à l'étranger
-     * Médecine / Santé
-     * Études d'art et de la création
-     * Alternance
-     * Sciences po - IEP
-     * Les études par région
-     * Nos fiches diplômes
+      Résultats des examens
+      Résultats des BTS
+      BTS-BUT
+      Université
+      Classement des licences
+      Classes prépas (CPGE)
+      Classement des prépas
+      Écoles d'ingénieurs
+      Classement des écoles d'ingénieurs
+      Écoles de commerce
+      Classement des écoles de commerce
+      Écoles spécialisées
+      Master  MBA  Mastère
+      Classement des masters
+      International  Étudier à l'étranger
+      Médecine  Santé
+      Études d'art et de la création
+      Alternance
+      Sciences po  IEP
+      Les études par région
+      Nos fiches diplômes
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    [IMG]
-     * TikTok 
-     * Instagram 
-     * Facebook 
-     * YouTube 
-     * LinkedIn 
-     * Bluesky 
-     * WhatsApp
-     * [IMG]
-     * [IMG]
-     * [IMG]
-     * [IMG]
-     * Nous contacter
-     * * Devenir annonceur
-     * * Nous rejoindre
-     * * Mentions légales
-     * * CGU
-     * * Cookies
-     * * Charte de protection des données
-     * * Accessibilité : partiellement conforme
-     * * Charte responsabilité sociétale d'entreprise
-     * * RGESN : partiellement conforme
-     * Votre navigation sur le site émet environ : 0,5g CO2e / visite
+      TikTok 
+      Instagram 
+      Facebook 
+      YouTube 
+      LinkedIn 
+      Bluesky 
+      WhatsApp
+      [IMG]
+      [IMG]
+      [IMG]
+      [IMG]
+      Nous contacter
+      * Devenir annonceur
+      * Nous rejoindre
+      * Mentions légales
+      * CGU
+      * Cookies
+      * Charte de protection des données
+      * Accessibilité : partiellement conforme
+      * Charte responsabilité sociétale d'entreprise
+      * RGESN : partiellement conforme
+      Votre navigation sur le site émet environ : 0,5g CO2e  visite

@@ -1,55 +1,55 @@
    Link: canonical
-     * Contenu principal
-     * Recherche
-     * Pied de page
+      Contenu principal
+      Recherche
+      Pied de page
    Aller au Journal
    Le Club de Mediapart : Participez au débat
-     * Nous contacter
-     * Se connecter
-     * Journal
-     * Rechercher
-     * Menu
+      Nous contacter
+      Se connecter
+      Journal
+      Rechercher
+      Menu
    Menu
    Rechercher
-     * À la Une du Club
-     * Depuis 48h
-     * Les blogs
-     * Les éditions
-     * L’agenda
-     * La charte
-     * Participer
+      À la Une du Club
+      Depuis 48h
+      Les blogs
+      Les éditions
+      L’agenda
+      La charte
+      Participer
    Titre du logo Journal Mediapart
    Fermer
    S’abonner au journal Se connecter
-     * À la Une
+      À la Une
        Édition du soir
-     * Vidéos
-     * Enquêtes
-     * Dossiers
-     * Séries
-     * Rubriques 
-          * International
-          * Écologie
-          * Économie et social
-          * France
-          * Politique
-          * Culture et idées
-     * Fil d’actualité
-     * Multimédia 
-          * Podcasts
-          * Portfolios
-          * Panoramiques
-          * Vidéos
-          * Documentaires
-     * Le Club de Mediapart
+      Vidéos
+      Enquêtes
+      Dossiers
+      Séries
+      Rubriques 
+           International
+           Écologie
+           Économie et social
+           France
+           Politique
+           Culture et idées
+      Fil d’actualité
+      Multimédia 
+           Podcasts
+           Portfolios
+           Panoramiques
+           Vidéos
+           Documentaires
+      Le Club de Mediapart
        Participez au débat
-          * À la Une du Club
-          * Depuis 48h
-          * Les blogs
-          * Les éditions
-          * L’agenda
-          * La charte
-          * Participer
+           À la Une du Club
+           Depuis 48h
+           Les blogs
+           Les éditions
+           L’agenda
+           La charte
+           Participer
    Rechercher
    [IMG]
 
@@ -69,20 +69,20 @@
 
    Toutes les plateformes pour suivre et écouter Mediapart
 
-     * Informer la rédaction
-     * Contacter le service abonné·es
-     * Abonnements professionnels & collectifs
+      Informer la rédaction
+      Contacter le service abonné·es
+      Abonnements professionnels & collectifs
    Éditions
    Éditions anglaise et espagnole
-     * English
-     * Español
-     * La Rédaction de Mediapart
-     * Notre impact
-     * Mentions légales
-     * Charte de déontologie
-     * Charte de participation
-     * CGV
-     * Confidentialité
+      English
+      Español
+      La Rédaction de Mediapart
+      Notre impact
+      Mentions légales
+      Charte de déontologie
+      Charte de participation
+      CGV
+      Confidentialité
 
    Saul Tresauren
 
@@ -266,85 +266,59 @@ Agrandissement : Illustration 1
 
    Les articles les plus lus
 
-     * Médias
+      Médias
 
        L’Arcom tance CNews pour des propos discriminatoires à l’égard des
        personnes musulmanes ou d’origine immigrée
 
-     * Habitat — Reportage
+      Habitat — Reportage
 
        « Dormir dans le froid glace le sang » : les personnes sans abri
        errent dans Paris en quête d’un toit
 
-     * Extrême droite
-
-       Fan de Dieudonné et proche de l’extrême droite radicale, le candidat
-       du RN à la mairie de Saint-Malo jette déjà l’éponge
-
-     * Transparence et probité
+      Transparence et probité
 
        Condamnation et démission du président de la Métropole de Lille,
        Damien Castelain : la sévérité des juges, la mansuétude des élus
 
-     * Europe
+      Extrême droite
+
+       Fan de Dieudonné et proche de l’extrême droite radicale, le candidat
+       du RN à la mairie de Saint-Malo jette déjà l’éponge
+
+      Europe
 
        Derrière l’effort de guerre russe en Ukraine, des dizaines de millions
        de dollars de fibre optique chinoise
 
    Recommandés par nos abonné·es
 
-     * Tribune
+      Tribune
 
-       Entre politique et poétique. - À propos d’un colloque international
+       Entre politique et poétique.  À propos d’un colloque international
        sur Gaza au Collège de France
 
-     * Billet de blog
+      Billet de blog
 
        Comment Bardot a dévoré Saint-Tropez
 
-     * Billet de blog
+      Billet de blog
 
-       En hommage à Mohammed Harbi (1933-2026)
+       En hommage à Mohammed Harbi (19332026)
 
    À la Une de Mediapart
 
-     * Proche et Moyen-Orient
+      L’échappée — Vidéo
 
-       En Iran, la population défie à nouveau le régime
+       L’aventure lumineuse de Felwine Sarr
 
-       Parti du grand bazar de Téhéran, le soulèvement contre la vie chère et
-       le marasme économique a rapidement gagné les universités, puis
-       l’ensemble du pays, dont la plupart des grandes villes. Après
-       l’annonce des premières victimes, Donald Trump a menacé d’intervenir.
+       Figure intellectuelle du continent africain, l’universitaire et
+       écrivain sénégalais refuse que les ombres gagnent. Depuis la Cité
+       internationale des arts à Paris, voici son message d’espérance.
 
-       par Jean-Pierre Perrin
+       par Edwy Plenel
 
-     * Agriculture et alimentation
-
-       Six mégabassines en Charente-Maritime : la crainte d’un gouffre
-       écologique et économique
-
-       Le Syres 17, syndicat public de gestion de l’eau, prépare la
-       construction d’une demi-douzaine de réserves de substitution. En plus
-       de menacer l’écologie des cours d’eau, le projet repose sur un modèle
-       économique risqué pour les agriculteurs et coûteux pour les finances
-       publiques.
-
-       par Gilles Caprais
-
-     * Idées — Entretien
-
-       Sandra Guimarães : « L’antispécisme est un outil de décolonisation »
-
-       Pour la militante et cheffe végane, la frontière entre les espèces ne
-       sert pas qu’à exploiter les animaux non humains. Elle permet aussi
-       d’animaliser les personnes et les groupes minorisés, et de justifier
-       la violence contre elles et eux, comme le prônent les leaders de la
-       nouvelle internationale réactionnaire.
-
-       par Jade Lindgaard
-
-     * Europe
+      Europe
 
        Les bons comptes de Christine Lagarde, qui gagne bien plus que ce que
        la BCE mentionne
@@ -357,9 +331,34 @@ Agrandissement : Illustration 1
 
        par Romaric Godin
 
+      Proche et Moyen-Orient
+
+       « Cette année sera celle du sang » : en Iran, la population défie à
+       nouveau le régime
+
+       Parti du grand bazar de Téhéran, le soulèvement contre la vie chère et
+       le marasme économique a rapidement gagné les universités, puis
+       l’ensemble du pays, dont la plupart des grandes villes. Après
+       l’annonce des premières victimes, Donald Trump a menacé d’intervenir.
+
+       par Jean-Pierre Perrin
+
+      Europe — Dépêche
+
+       Incendie d’un bar en Suisse : 40 morts et 119 blessés, l’enquête et
+       l’identification des victimes progressent
+
+       Selon la police du canton du Valais, l’identification des victimes se
+       poursuit et « tous ces chiffres peuvent évoluer ». Beaucoup de blessés
+       ont été hospitalisés dans des pays frontaliers. « Aucune
+       responsabilité pénale n’a été établie » pour l’instant, selon la
+       procureure générale.
+
+       par Agence France-Presse
+
    La sélection du Club
 
-     * Billet de blog
+      Billet de blog
 
        Plus de 100 victoires contre les industriels du photovoltaïque sur les
        espaces naturels
@@ -374,7 +373,7 @@ Agrandissement : Illustration 1
 
        par loic.santiago
 
-     * Billet de blog
+      Billet de blog
 
        Tour de France : « Nos montagnes ne sont pas des stades ! »
 
@@ -387,18 +386,7 @@ Agrandissement : Illustration 1
 
        par Matthieu Stelvio
 
-     * Billet de blog
-
-       Le malaimé des forêts : lecture antispéciste de la pub d’Intermarché
-
-       Le conte de Noël publicitaire d'Intermarché mettant en scène un loup
-       « végétarien » semble avoir ému. Mais certains discours suscités par
-       la publicité, ou qui l’ont accompagnée, méritent qu’on s’y attarde ;
-       et le fond de la vidéo d’être interrogé.
-
-       par Julia Soudanas
-
-     * Billet de blog
+      Billet de blog
 
        L'A154 est un nouveau symbole de gaspillage et de mépris pour notre
        territoire
@@ -413,58 +401,69 @@ Agrandissement : Illustration 1
 
        par Les invités de Mediapart
 
+      Billet de blog
+
+       Le malaimé des forêts : lecture antispéciste de la pub d’Intermarché
+
+       Le conte de Noël publicitaire d'Intermarché mettant en scène un loup
+       « végétarien » semble avoir ému. Mais certains discours suscités par
+       la publicité, ou qui l’ont accompagnée, méritent qu’on s’y attarde ;
+       et le fond de la vidéo d’être interrogé.
+
+       par Julia Soudanas
+
    Suivez Mediapart :
 
-     * Newsletters
+      Newsletters
        Recevez chaque jour les titres à la Une
-     * Nous suivre
+      Nous suivre
        Suivez notre activité sur les réseaux sociaux
    Le Journal
-     * International
-     * Écologie
-     * Économie et social
-     * France
-     * Politique
-     * Culture et idées
-     * Dossiers
-     * Fil d’actualités
+      International
+      Écologie
+      Économie et social
+      France
+      Politique
+      Culture et idées
+      Dossiers
+      Fil d’actualités
    Le Studio
-     * Vidéos
-     * Podcasts
-     * Documentaires
-     * Portfolios
-     * Panoramiques
+      Vidéos
+      Podcasts
+      Documentaires
+      Portfolios
+      Panoramiques
    Le Club
-     * Depuis 48 heures
-     * Les blogs
-     * Les éditions
-     * L’agenda
-     * La charte
-     * Participez
+      Depuis 48 heures
+      Les blogs
+      Les éditions
+      L’agenda
+      La charte
+      Participez
    À Propos
-     * Qui sommes-nous ?
-     * Notre impact
-     * Besoin d’aide ?
-     * Nous contacter
-     * Partager des documents
-     * Abonnements pros
-     * Plan du site
-     * Recrutement
-     * Disponible sur Google Play - Téléchargez l’application sur votre
+      Qui sommes-nous ?
+      Notre impact
+      Besoin d’aide ?
+      Nous contacter
+      Partager des documents
+      Abonnements pros
+      Plan du site
+      Recrutement
+      Disponible sur Google Play  Téléchargez l’application sur votre
        appareil Android
-     * Disponible dans l'App Store - Téléchargez l’application sur votre
+      Disponible dans l'App Store  Téléchargez l’application sur votre
        iPhone ou votre iPad
    Mediapart sur mobile
-     * Mentions légales
-     * Charte de déontologie
-     * Charte de participation
-     * CGV
-     * Confidentialité
-     * Gestion des cookies
+      Mentions légales
+      Charte de déontologie
+      Charte de participation
+      CGV
+      Confidentialité
+      Gestion des cookies
 
-   Le journal MEDIAPART est édité par la Société Editrice de Mediapart - 127
+   Le journal MEDIAPART est édité par la Société Editrice de Mediapart  127
    avenue Ledru-Rollin, 75011 Paris.
-   RCS Paris 500 631 932. Numéro de CPPAP : 1224Y90071 - Directeur de la
+   RCS Paris 500 631 932. Numéro de CPPAP : 1224Y90071  Directeur de la
    publication : Carine Fouteau
 
    Votre choix pour vos données
@@ -519,9 +518,9 @@ Agrandissement : Illustration 1
    Voici les différents cookies et technologies similaires compris dans cette
    catégorie :
 
-     * Cookies d’authentification : connexion des abonné·es.
-     * AT Internet : mesure d’audience anonymisée
-     * Affichage de contenus éditoriaux multimédias : vidéos (YouTube,
+      Cookies d’authentification : connexion des abonné·es.
+      AT Internet : mesure d’audience anonymisée
+      Affichage de contenus éditoriaux multimédias : vidéos (YouTube,
        Dailymotion, Vimeo, INA), réseaux sociaux (Facebook, Instagram,
        Pinterest, Twitter), documents (Scribd, Document Cloud, Slideshare),
        sons (SoundCloud, Spotify, Deezer), cartes (Google Maps, Mapbox,
@@ -529,17 +528,17 @@ Agrandissement : Illustration 1
        Flourish, Infogram, ThingLink, jQuery, Google Fonts, Bootstrap), live
        blogs (24liveblog, CoverItLive), aide à l’intégration de média dans
        les publications Journal et Club (Embedly).
-     * Typeform : questionnaires facultatifs pour recueillir les avis des
+      Typeform : questionnaires facultatifs pour recueillir les avis des
        lecteurs sur nos produits numériques.
-     * Datadog (uniquement sur le site web) : indicateurs techniques et
+      Datadog (uniquement sur le site web) : indicateurs techniques et
        équilibrage de charge.
-     * Selligent (uniquement sur le site web) : communication avec
+      Selligent (uniquement sur le site web) : communication avec
        l’abonné·e, mise en avant des services, offres et avantages.
-     * Batch (uniquement sur l’application) : envoi de notifications push et
+      Batch (uniquement sur l’application) : envoi de notifications push et
        de messages in-app.
-     * Firebase Cloud Messaging (uniquement sur l’application) : nécessaire
+      Firebase Cloud Messaging (uniquement sur l’application) : nécessaire
        au fonctionnement des notifications push sur Android.
-     * Microsoft App Center (uniquement sur l’application) : système de mise
+      Microsoft App Center (uniquement sur l’application) : système de mise
        à jour et de suivi des pannes de l’application.
 
    Statistiques
@@ -554,11 +553,11 @@ Agrandissement : Illustration 1
 
    Voici les outils tiers compris dans cette catégorie :
 
-     * AT Internet : mesure d’audience reliée à l’identifiant d’abonné·e.
-     * CrazyEggs (uniquement sur le site web) : analyse de parcours client.
-     * Nonli (uniquement sur le site web) : permet à notre équipe des réseaux
+      AT Internet : mesure d’audience reliée à l’identifiant d’abonné·e.
+      CrazyEggs (uniquement sur le site web) : analyse de parcours client.
+      Nonli (uniquement sur le site web) : permet à notre équipe des réseaux
        sociaux de publier les contenus Mediapart sur les réseaux sociaux.
-     * Qiota (uniquement sur le site web) : gestion du système de datawall.
+      Qiota (uniquement sur le site web) : gestion du système de datawall.
 
    Reciblage publicitaire
 
@@ -573,7 +572,7 @@ Agrandissement : Illustration 1
 
    Voici les outils tiers compris dans cette catégorie :
 
-     * Facebook (uniquement sur le site web) : ciblage d’audience sur les
+      Facebook (uniquement sur le site web) : ciblage d’audience sur les
        réseaux sociaux pour faire la promotion de Mediapart.
 
    Gestion de l’accès aux contenus

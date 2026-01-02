@@ -8,13 +8,13 @@
 --
 
    Explorer : # fin de non-recevoir # juge de la mise en ..état.. # procédure
-   civile # décret n°2019-1333
+   civile # décret n°20191333
 --
 
      Le Juge de la Mise en ..Etat.. est désormais seul compétent pour statuer sur
      les fins de non-recevoir, y compris lorsque cela implique de trancher
 --
-   Le Décret n°2019-1333 du 11 décembre 2019 réformant la procédure civile a
+   Le Décret n°20191333 du 11 décembre 2019 réformant la procédure civile a
    considérablement accru les pouvoirs octroyés au Juge de la Mise en ..Etat...
 
 --
@@ -26,7 +26,7 @@
    tout ..état.. de cause, c’est-à-dire devant le Tribunal et même pour la
    première fois en cause d’appel.
 --
-   issues du Décret n°2019-1333 du 11 décembre 2019 prévoit désormais que les
+   issues du Décret n°20191333 du 11 décembre 2019 prévoit désormais que les
    fins de non-recevoir peuvent être proposées en tout ..état.. de cause, « à
    moins qu’il n’en soit disposé autrement ».
 --
@@ -92,4 +92,4 @@
 --
 
    Explorer : # fin de non-recevoir # juge de la mise en ..état.. # procédure
-   civile # décret n°2019-1333
+   civile # décret n°20191333

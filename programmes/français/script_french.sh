@@ -4,7 +4,8 @@
 # centrer colonnes
 # script pour arboressence
 
-
+export LANG=C.UTF-8
+export LC_ALL=C.UTF-8
 
 URL_FILE=$1
 ID=1
@@ -96,7 +97,7 @@ while read -r URL ; do
 	# links (!= lynx) pour dump
 	filename_dump="$DIR_DUMP/fr-$ID.txt"
 	links -dump "$filename_aspiration" > "$filename_dump"
-	sed -i 's/\([^[:alpha:]]\)[\/<>|*?_-]\([^[:alpha:]]\)/\1\2/g' "$filename_dump" # suprresion caractères spéciaux
+	sed -i '' "s/\([^[:alpha:]]\)[\/<>|*?_-]\([^[:alpha:]]\)/\1\2/g" "$filename_dump" # suprresion caractères spéciaux
 	
 
 	# debug######

@@ -17,101 +17,101 @@
 
    LogoNGP
    Lien
-   http://notairesdugrandparis.fr
+   http:/notairesdugrandparis.fr
    Instagram
-   http://instagram.com/chambrenotairesparis/
+   http:/instagram.com/chambrenotairesparis/
    Linkedin
-   https://fr.linkedin.com/company/chambre-des-notaires-de-paris
+   https:/fr.linkedin.com/company/chambre-des-notaires-de-paris
    Youtube
-   http://www.youtube.com/user/ParisNotairesInfoMag
+   http:/www.youtube.com/user/ParisNotairesInfoMag
    Facebook
-   https://www.facebook.com/ChambredesNotairesdeParis/
+   https:/www.facebook.com/ChambredesNotairesdeParis/
    Twitter
-   https://twitter.com/notairesdeparis
+   https:/twitter.com/notairesdeparis
    Accueil
-   _____________________________________________________________
+   _________________________________________
    Ok
    Toggle navigation
 
 Menu Principal 75
 
-     * Actualités
-     * La Chambre
-          * Histoire de la Chambre et du Notariat de Paris
-               * Les notaires du Châtelet
-               * L'histoire de la Chambre
-               * Les symboles du notariat
-          * Rapport d'activité
-          * Organisation et rôles
-          * Certification de la Chambre
-          * L'immeuble de la Place du Châtelet
-          * L'action internationale de la Chambre
-               * L'Europe
-          * Composition de la Chambre et de la Compagnie
-          * Égalité femmes-hommes
-          * L'invité(e) de la Chambre des notaires de Paris
-     * Services pour les particuliers
-          * CLAP
-          * Modalités d'accès au droit
-          * VIDOC : consultation des déclarations foncières de la Ville de
+      Actualités
+      La Chambre
+           Histoire de la Chambre et du Notariat de Paris
+                Les notaires du Châtelet
+                L'histoire de la Chambre
+                Les symboles du notariat
+           Rapport d'activité
+           Organisation et rôles
+           Certification de la Chambre
+           L'immeuble de la Place du Châtelet
+           L'action internationale de la Chambre
+                L'Europe
+           Composition de la Chambre et de la Compagnie
+           Égalité femmes-hommes
+           L'invité(e) de la Chambre des notaires de Paris
+      Services pour les particuliers
+           CLAP
+           Modalités d'accès au droit
+           VIDOC : consultation des déclarations foncières de la Ville de
             Paris
-          * Centre de Médiation et d'Arbitrage des Notaires de Paris
+           Centre de Médiation et d'Arbitrage des Notaires de Paris
             (CMANOT-Paris)
-          * Les réclamations concernant un notaire
-          * Les ventes aux enchères
-          * Divorce - Liquidation des intérêts patrimoniaux
-          * Les expertises immobilières
-     * Les métiers du notariat
-          * Notaire
-          * Juriste
-          * Assistant(e) ou secrétaire juridique
-          * Caissier - comptable
-          * Formaliste
-     * Presse
-          * Communication immobilière mensuelle
-          * Communiqué de presse
-          * Focus immobilier
-     * Outils & Services
-          * Annuaire
-               * Trouver un notaire en exercice
-               * Trouver un ancien notaire
-          * Newsletter
-               * Inscription à la Newsletter
-          * Carte des prix
-               * Prix de l’immobilier en Ile-de-France
-               * Prix de l’immobilier à Paris
-               * Immo Notaires Argus
-               * Prix au m² au 4e trimestre 2024 (IFI)
-          * Lexiques
-               * Lexique juridique
-               * Lexique du patrimoine
-          * Contacts
-               * Centre de médiation des notaires de Paris
-               * Le Club Notarial de l'Immobilier
-               * Problème technique
-               * Recherche de Notaire en charge d'une succession
-               * Relations Presse
-               * Réclamations concernant un notaire
-               * Club du Châtelet
-               * Demande de fiche de révision foncière
-          * Publications
-               * Copropriété : le guide
-               * Dépliants
-               * Flyers
-               * Infographies
-               * Votre notaire vous informe
-          * Evénements
-               * Conférence de Presse
-               * Conférences
-               * Evénements
-               * Permanence / Consultation
-          * Simulateurs
-               * Calcul des frais d'achat
-               * Calcul des frais de mainlevée
-               * Calcul des plus-values
-               * Calcul des droits de succession
-          * Charte de la confraternité
-          * Règlement de la Chambre
+           Les réclamations concernant un notaire
+           Les ventes aux enchères
+           Divorce  Liquidation des intérêts patrimoniaux
+           Les expertises immobilières
+      Les métiers du notariat
+           Notaire
+           Juriste
+           Assistant(e) ou secrétaire juridique
+           Caissier  comptable
+           Formaliste
+      Presse
+           Communication immobilière mensuelle
+           Communiqué de presse
+           Focus immobilier
+      Outils & Services
+           Annuaire
+                Trouver un notaire en exercice
+                Trouver un ancien notaire
+           Newsletter
+                Inscription à la Newsletter
+           Carte des prix
+                Prix de l’immobilier en Ile-de-France
+                Prix de l’immobilier à Paris
+                Immo Notaires Argus
+                Prix au m² au 4e trimestre 2024 (IFI)
+           Lexiques
+                Lexique juridique
+                Lexique du patrimoine
+           Contacts
+                Centre de médiation des notaires de Paris
+                Le Club Notarial de l'Immobilier
+                Problème technique
+                Recherche de Notaire en charge d'une succession
+                Relations Presse
+                Réclamations concernant un notaire
+                Club du Châtelet
+                Demande de fiche de révision foncière
+           Publications
+                Copropriété : le guide
+                Dépliants
+                Flyers
+                Infographies
+                Votre notaire vous informe
+           Evénements
+                Conférence de Presse
+                Conférences
+                Evénements
+                Permanence  Consultation
+           Simulateurs
+                Calcul des frais d'achat
+                Calcul des frais de mainlevée
+                Calcul des plus-values
+                Calcul des droits de succession
+           Charte de la confraternité
+           Règlement de la Chambre
     1. Accueil
     2. Actualités
     3. Tout savoir sur l’état des lieux locatif
@@ -119,12 +119,12 @@ Menu Principal 75
                     Tout savoir sur l’état des lieux locatif
 
    Publié le
-   31/05/2017
+   31052017
    mis à jour le
-   31/05/2017
-   Qu’est-ce qu’un état des lieux ? Que se passe-t-il en cas d’absence d’état
-   des lieux ? Quel est le contenu minimum de l’état des lieux locatif ?
-   Quelles formes doit revêtir l’état des lieux locatif ? Combien coûte un
+   31052017
+   Qu’est-ce qu’un état des lieux  Que se passe-t-il en cas d’absence d’état
+   des lieux  Quel est le contenu minimum de l’état des lieux locatif ?
+   Quelles formes doit revêtir l’état des lieux locatif  Combien coûte un
    état des lieux ?
 
   Qu’est-ce qu’un état des lieux ?
@@ -157,27 +157,27 @@ Menu Principal 75
    L'état des lieux doit décrire le logement et son état de conservation. Il
    comporte au moins les informations suivantes :
    A l'entrée et à la sortie du logement :
-     * le type d'état des lieux (d'entrée ou de sortie) ;
-     * sa date d'établissement ;
-     * la localisation du logement ;
-     * le nom ou la dénomination des parties et le domicile ou le siège
+      le type d'état des lieux (d'entrée ou de sortie) ;
+      sa date d'établissement ;
+      la localisation du logement ;
+      le nom ou la dénomination des parties et le domicile ou le siège
        social du bailleur ;
-     * le cas échéant, le nom ou la dénomination et le domicile ou le siège
+      le cas échéant, le nom ou la dénomination et le domicile ou le siège
        social des personnes mandatées pour réaliser l'état des lieux ;
-     * le cas échéant, les relevés des compteurs individuels de consommation
+      le cas échéant, les relevés des compteurs individuels de consommation
        d'eau ou d'énergie ;
-     * le détail et la destination des clés (quelles portes elles ouvrent) ou
+      le détail et la destination des clés (quelles portes elles ouvrent) ou
        de tout autre moyen d'accès aux locaux à usage privatif ou commun ;
-     * pour chaque pièce et partie du logement, la description précise de
+      pour chaque pièce et partie du logement, la description précise de
        l'état des revêtements des sols, murs et plafonds, des équipements et
        des éléments du logement (il peut être complété d'observations ou de
        réserves et illustré d'images) ;
-     * la signature des parties ou des personnes mandatées pour réaliser
+      la signature des parties ou des personnes mandatées pour réaliser
        l'état des lieux.
    A la sortie du logement :
-     * l'adresse du nouveau domicile ou du lieu d'hébergement du locataire ;
-     * la date de réalisation de l'état des lieux d'entrée ;
-     * éventuellement, les évolutions de l'état de chaque pièce et partie du
+      l'adresse du nouveau domicile ou du lieu d'hébergement du locataire ;
+      la date de réalisation de l'état des lieux d'entrée ;
+      éventuellement, les évolutions de l'état de chaque pièce et partie du
        logement constatées depuis l'établissement de l'état des lieux
        d'entrée.
 
@@ -195,7 +195,7 @@ Menu Principal 75
    locataire, il n’y a pas de frais.
    Des honoraires peuvent être demandées si l’état des lieux est fait par un
    professionnel (exemple : agent immobilier). Dans ce cas, le décret
-   n°2014-890 du 1er août 2014 dispose que l’état des lieux est à régler
+   n°2014890 du 1er août 2014 dispose que l’état des lieux est à régler
    conjointement par le bailleur et le locataire. Le montant des honoraires
    payés par le locataire ne peut excéder celui payé par le bailleur et doit
    être inférieur ou égal à 3 € par mètre carré de surface habitable.
@@ -265,13 +265,13 @@ Plus-values
 
 Immo Notaires Argus
 
-   https://www.immonotairesargus.com
+   https:/www.immonotairesargus.com
 
 Lettre d'information
 
    Inscrivez-vous pour recevoir régulièrement notre lettre d’information ou
    les dates des prochaines ventes aux enchères.
-   Courriel _____________________________________________________________
+   Courriel _________________________________________
    [ ] J'accepte de recevoir des communications de la Chambre des Notaires de
    Paris.
    Voir un exemple
@@ -289,15 +289,15 @@ Lettre d'information
    Flux RSS
    /fr/publication/rss.xml
    Instagram
-   http://instagram.com/chambrenotairesparis/
+   http:/instagram.com/chambrenotairesparis/
    Linkedin
-   https://fr.linkedin.com/company/chambre-des-notaires-de-paris/
+   https:/fr.linkedin.com/company/chambre-des-notaires-de-paris/
    Facebook
-   https://www.facebook.com/NotairesdeParisIDF/
+   https:/www.facebook.com/NotairesdeParisIDF/
    Youtube
-   http://www.youtube.com/user/ParisNotairesInfoMag
+   http:/www.youtube.com/user/ParisNotairesInfoMag
    Twitter
-   https://twitter.com/GdParisNotaires
+   https:/twitter.com/GdParisNotaires
 
    Chambre des Notaires de Paris
 

@@ -76,5 +76,5 @@ de choc
    de la pression artérielle et de la lactatémie est essentielle pour initier
 --
        L. Rosales-Rosales, …, P. Hernandez-Cortés
-     * Prise en charge d’un patient en ..état.. de choc cardiogénique : résultats de
+      Prise en charge d’un patient en ..état.. de choc cardiogénique : résultats de
   l’enquête de pratique franco-belge

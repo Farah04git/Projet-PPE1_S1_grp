@@ -1,17 +1,17 @@
    Link: canonical
    [ Submit ]
-     * Menu principal
-     * Moteur de recherche Rechercher _____________________ [ Submit ]
-     * Menu principal
-     * Vie pratique
-     * Forum
-     * Associations
-     * Assurances
-     * Automobile
-     * Consommation
-     * Santé
-     * SOS Avocat
-   Moteur de recherche Rechercher _____________________ [ Submit ]
+      Menu principal
+      Moteur de recherche Rechercher ______________ [ Submit ]
+      Menu principal
+      Vie pratique
+      Forum
+      Associations
+      Assurances
+      Automobile
+      Consommation
+      Santé
+      SOS Avocat
+   Moteur de recherche Rechercher ______________ [ Submit ]
    Connexion  Posez votre question
    Immobilier Patrimoine Impôts Famille Salariés Vie pratique Justice
    Entreprise Forum Forum Associations Assurances Automobile Consommation
@@ -36,7 +36,7 @@
    Réagir
 
    Les frais de remise en l'état d'un logement sont une cause fréquente de
-   litige locatif. L'article 7 de la loi n° 89-462 du 6 juillet 1989 impose
+   litige locatif. L'article 7 de la loi n° 89462 du 6 juillet 1989 impose
    plusieurs obligations au locataire sur ce point. Il doit ainsi répondre
    des dégradations et pertes qui surviennent pendant la durée du contrat de
    bail. Le preneur doit en outre prendre à sa charge l'entretien courant du
@@ -49,9 +49,9 @@
    Le propriétaire est en droit de faire prendre en charge les réparations
    par son locataire lorsque celles-ci sont constatées dans l'état des lieux
    de sortie. Mais dans un arrêt du 16 novembre 2023, la 3e chambre civile de
-   la Cour de Cassation (arrêt n° 22-19422) a rappelé une condition
+   la Cour de Cassation (arrêt n° 2219422) a rappelé une condition
    fondamentale pour que le bailleur puisse mettre en cause la responsabilité
-   de son locataire lorsque cette situation - très fréquente - se présente.
+   de son locataire lorsque cette situation  très fréquente  se présente.
 
    Dans cette affaire, le litige portait sur un défaut d'entretien du jardin
    par le locataire. Le bailleur reprochait ainsi à ce dernier de ne pas
@@ -73,12 +73,12 @@
    d'établir lui-même l'état des lieux. Quitte à rédiger un document n'ayant
    aucune valeur probante...
 
-     * [IMG]
+      [IMG]
 
   Succession : voici le montant qu'un héritier devra payer aux impôts en
   2026 selon sa part d'héritage
 
-     * [IMG]
+      [IMG]
 
   Les virements des retraites de janvier arrivent sur les comptes, voici les
   dates de versement annoncées
@@ -108,28 +108,28 @@
    Il y a 5 jours Des grands-parents font valoir leur droit de visite pour
    voir leurs petits-enfants, mais la justice le leur refuse
    Focus
-     * Succession : voici le montant qu'un héritier devra payer aux impôts en
+      Succession : voici le montant qu'un héritier devra payer aux impôts en
        2026 selon sa part d'héritage
-     * Les virements des retraites de janvier arrivent sur les comptes, voici
+      Les virements des retraites de janvier arrivent sur les comptes, voici
        les dates de versement annoncées
-     * LEP : en ayant placé 6000 € cette année, voici les intérêts qu'un
+      LEP : en ayant placé 6000 € cette année, voici les intérêts qu'un
        livret d'épargne populaire rapportera en janvier
-     * Mauvaise nouvelle pour les seniors : voici ce qu'un retraité devra
+      Mauvaise nouvelle pour les seniors : voici ce qu'un retraité devra
        payer en plus dans quelques jours
-     * Qui sommes-nous ?
-     * Inscrivez-vous
-     * Conditions générales
-     * Société
-     * Publicité
-     * Recrutement
-     * Politique de confidentialité
-     * Paramétrer les cookies
-     * Contact
-     * Charte
-     * Formation
-     * Annonceurs
-     * Groupe Figaro
-     * © 2025 CCM Benchmark
+      Qui sommes-nous ?
+      Inscrivez-vous
+      Conditions générales
+      Société
+      Publicité
+      Recrutement
+      Politique de confidentialité
+      Paramétrer les cookies
+      Contact
+      Charte
+      Formation
+      Annonceurs
+      Groupe Figaro
+      © 2025 CCM Benchmark
    CCM Benchmark Group
    Journal des femmes Journal Du Net Linternaute CCM Copains d'avant Viadeo
    JDN Ariase Phonandroid

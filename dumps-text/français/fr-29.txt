@@ -7,10 +7,10 @@
 
    Primary Navigation
 
-     * Home
-     * Read
-     * Sign in
-     * Search in book: _____________________  Search
+      Home
+      Read
+      Sign in
+      Search in book: ______________  Search
 
    Want to create or adapt books like this? Learn more about how Pressbooks
    supports open publishing practices.
@@ -63,12 +63,12 @@
 
                         Qu’est-ce qu’un état d'esprit ?
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    « Les états d’esprit sont des croyances, à propos de vous et de vos
    qualités et capacités de base. » (1)
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
    Qu’est-ce qu’un état d’esprit en évolution ?
 
@@ -108,7 +108,7 @@
 
     
 
-   Que faire si vous avez un état d’esprit fixe ? Cette vidéo (en anglais
+   Que faire si vous avez un état d’esprit fixe  Cette vidéo (en anglais
    seulement) peut vous aider ! (4)
 
     
@@ -171,9 +171,9 @@
 
    Idéalement, vous serez en mesure d’accomplir les actions suivantes :
 
-     * Accepter pleinement de relever le défi
-     * Apprendre de vos revers et réessayer
-     * Écouter la critique et y donner suite
+      Accepter pleinement de relever le défi
+      Apprendre de vos revers et réessayer
+      Écouter la critique et y donner suite
 
    Exercez-vous à écouter les deux et à donner suite à celle de l’état
    d’esprit en évolution. Évaluez comment cela peut fonctionner pour vous. Au
@@ -269,6 +269,6 @@ Share This Book
 
    Powered by Pressbooks
 
-     * Pressbooks User Guide
-     * |Pressbooks Directory
+      Pressbooks User Guide
+      |Pressbooks Directory
    Pressbooks on YouTube  Pressbooks on LinkedIn

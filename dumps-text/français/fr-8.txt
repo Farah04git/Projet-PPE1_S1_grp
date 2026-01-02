@@ -6,19 +6,19 @@
 
    InicioNuméros12L'Etat« Etat » : définitions et réalités
 
-   _____________________ Buscar
+   ______________ Buscar
 
-   Índice - Documento anterior - Documento siguiente
-   12 | 2000
+   Índice  Documento anterior  Documento siguiente
+   12  2000
    L’État
    L'Etat
 
                        « Etat » : définitions et réalités
 
    Bernard Vonglis
-   p. 27-57
-   https://doi.org/10.4000/plc.321
-   Resumen | Índice | Plano | Texto | Notas | Cita | Autor
+   p. 2757
+   https:/doi.org/10.4000/plc.321
+   Resumen  Índice  Plano  Texto  Notas  Cita  Autor
 
 Resúmenes
 
@@ -63,8 +63,8 @@ Entradas del índice
 
 Plano
 
-   I - les éléments constitutifs du groupement “ Etat ”
-   II - le pouvoir confère au groupement “ Etat ” : la souveraineté
+   I  les éléments constitutifs du groupement “ Etat ”
+   II  le pouvoir confère au groupement “ Etat ” : la souveraineté
    Inicio de página
 
 Texto completo
@@ -76,7 +76,7 @@ Texto completo
 
    Javolenus, jurisconsulte romain
 
-     * 1  G. Burdeau, Traité de science politique, 3^e éd., Paris, 1969,
+      1  G. Burdeau, Traité de science politique, 3^e éd., Paris, 1969,
        t. 2, L’Etat,
        p. 169 ; Cl. Leclercq, (...)
 
@@ -117,10 +117,10 @@ Texto completo
    peut exister sans l’autre, mais il importe d’être bien conscient de celui
    auquel on se réfère quand on traite de cette notion.
 
-     * 2  H. Kelsen, “ Aperçu d’une théorie générale de l’Etat ”, RDP, 1926,
+      2  H. Kelsen, “ Aperçu d’une théorie générale de l’Etat ”, RDP, 1926,
        p. 561 et ss.
-     * 3  G. Wicker, Personne morale, Rép. civ. Dalloz, Paris, 1998, p. 2.
-     * 4  G. Burdeau, L’Etat, Paris, 1970, p. 7. Pour le même auteur,
+      3  G. Wicker, Personne morale, Rép. civ. Dalloz, Paris, 1998, p. 2.
+      4  G. Burdeau, L’Etat, Paris, 1970, p. 7. Pour le même auteur,
        Traité..., op. cit., t. 2, L’Etat, p.  (...)
 
    5A l’évidence donc, les définitions de l’Etat qui négligent le territoire
@@ -133,7 +133,7 @@ Texto completo
    sont les trois éléments constitutifs d’UN Etat. Kelsen réduit abusivement
    sa définition du mot “ Etat ” à celle de l’Etat. En droit privé, une
    personne morale est un groupement de personnes et de biens3. Pourquoi en
-   serait-il autrement en droit public ? “ Personne n’a jamais vu l’Etat ”
+   serait-il autrement en droit public  “ Personne n’a jamais vu l’Etat ”
    écrit G. Burdeau4. Bien au contraire, chaque Français le voit
    quotidiennement : il vit sur un territoire occupé depuis des millénaires
    et maintenant bien délimité, où il est entouré en majorité de Français ;
@@ -141,7 +141,7 @@ Texto completo
    parlement... ; dans la rue ou dans son bureau, le gendarme, le douanier,
    le percepteur...
 
-     * 5  Ph. Sueur, Histoire du droit public français, XV^e-XVII^e siècle,
+      5  Ph. Sueur, Histoire du droit public français, XV^e-XVII^e siècle,
        “ La genèse de l’Etat contemporain (...)
 
    6Aussi ne peut-on qu’approuver le souci de Ph. Sueur de donner du mot
@@ -162,21 +162,21 @@ Texto completo
    démocratiques, le droit, et singulièrement les droits de l’homme. Pour
    eux, la notion d’Etat se réduit donc à celle d’Etat de droit.
 
-     * 6  Voir M. Troper, “ Y a-t-il un Etat nazi ? ”, in Pour une théorie
+      6  Voir M. Troper, “ Y a-t-il un Etat nazi  ”, in Pour une théorie
        juridique de l’Etat, Paris, 1994, (...)
-     * 7  J. Bodin, Les six livres de la République, 10^e ed., 1593, L 1^er,
+      7  J. Bodin, Les six livres de la République, 10^e ed., 1593, L 1^er,
        ch 1. On constatera par la suite (...)
-     * 8  Cité par H. Thierry, “ L’Etat et l’organisation de la société
+      8  Cité par H. Thierry, “ L’Etat et l’organisation de la société
        internationale ”, in L’Etat souverai (...)
-     * 9  L’Europe est à cet égard un club plus fermé que l’ONU. Elle n’admet
+      9  L’Europe est à cet égard un club plus fermé que l’ONU. Elle n’admet
        en son sein que des Etats de d (...)
 
    9Ces restrictions paraissent devoir être écartées. La France des XVII^e et
    XVIII^e siècles, époque où le mot abonde dans la législation comme dans
-   les écrits des théoriciens, n’aurait pas été un Etat ? Et la France
-   napoléonienne ? Ou, plus près de nous, l’Allemagne hitlérienne6,
-   l’URSS... ? Ou encore, en l’an 2000, les nombreux pays membres de l’ONU
-   quoique gouvernés plus ou moins tyranniquement ? En réalité, l’Etat de
+   les écrits des théoriciens, n’aurait pas été un Etat  Et la France
+   napoléonienne  Ou, plus près de nous, l’Allemagne hitlérienne6,
+   l’URSS...  Ou encore, en l’an 2000, les nombreux pays membres de l’ONU
+   quoique gouvernés plus ou moins tyranniquement  En réalité, l’Etat de
    droit parfait n’existe pas et n’existera jamais parce que la notion et
    singulièrement sa composante principale, les droits de l’homme, évolue
    sans cesse, et que l’Etat de droit du moment a toujours un temps de retard
@@ -185,14 +185,14 @@ Texto completo
    démocratie idéale à la tyrannie la plus brutale. Lorsque J. Bodin qualifie
    la République de “ droit gouvernement ”, il précise que cette exigence
    n’exclut que les troupes de brigands7. Pour lui, l’Empire perse était un
-   Etat. Cette conception serait-elle dépassée ? Il ne semble pas puisque la
+   Etat. Cette conception serait-elle dépassée  Il ne semble pas puisque la
    Conférence pour la sécurité et la coopération en Europe déclarait en 1990
    que “ la démocratie est un élément inhérent à l’Etat de droit ”8, à l’Etat
    de droit, et non pas à l’Etat en général9.
 
-     * 10  Sur cette question, voir B. Vonglis, “ Souveraineté de la nation
+      10  Sur cette question, voir B. Vonglis, “ Souveraineté de la nation
        et souveraineté du peuple ”, in N (...)
-     * 11  G. Burdeau, Traité..., op. cit., t. 2, p. 47, n. 98.
+      11  G. Burdeau, Traité..., op. cit., t. 2, p. 47, n. 98.
 
    10Quant à l’institutionnalisation du pouvoir, ce n’est qu’une illusion.
    L’histoire le prouve, la souveraineté est nécessairement personnifiée par
@@ -204,7 +204,7 @@ Texto completo
    accuser G. Burdeau de faire preuve de cynisme lorsqu’il écrit : “ L’Etat
    est l’artifice qui permet de voir dans la puissance publique autre chose
    que la volonté propre des gouvernants... le fondement neutre de la
-   puissance de domination ”11 ? Non, l’éminent politologue ne fait que
+   puissance de domination ”11  Non, l’éminent politologue ne fait que
    constater une réalité que chaque citoyen peut vérifier quotidiennement.
 
    11Institutionnalisation du pouvoir, République et démocratie conviennent à
@@ -217,7 +217,7 @@ Texto completo
    cesser d’être rigoureuse : Une personne morale regroupant une population
    et un territoire stables et dotée de la souveraineté.
 
-     * 12  Th. Michalon, “ Les sociétés non-industrialisées et l’Etat de
+      12  Th. Michalon, “ Les sociétés non-industrialisées et l’Etat de
        droit ”, in Mélange en hommage à Ber (...)
 
    13Il paraît superflu d’insister sur la notion purement juridique de
@@ -239,7 +239,7 @@ Texto completo
    politique du monde contemporain. Une place particulière sera faite à
    l’évolution possible du statut de la Martinique.
 
-              I - les éléments constitutifs du groupement “ Etat ”
+              I  les éléments constitutifs du groupement “ Etat ”
 
    15Ils sont donc au nombre de deux : le territoire et la collectivité
    humaine installée à demeure sur celui-ci. On remarquera que ces deux
@@ -249,7 +249,7 @@ Texto completo
    Or aucune définition ne tient compte de la question des ressources. Il
    convient de se demander pourquoi.
 
-     * 13  Décision du Tribunal arbitral mixte germano-polonais, 1^er août
+      13  Décision du Tribunal arbitral mixte germano-polonais, 1^er août
        1929, citée par J.-D. Mouton, op. c (...)
 
    16Il y a peu à dire concernant le territoire. Il doit exister. Parce
@@ -265,7 +265,7 @@ Texto completo
    en particulier. La Martinique remplit donc sans aucun doute la première
    condition exigée pour former un Etat.
 
-     * 14  Cf. B. Vonglis, op. cit.
+      14  Cf. B. Vonglis, op. cit.
 
    18Il reste en revanche beaucoup à dire concernant le second élément, la
    collectivité humaine. L’emploi de ce terme imprécis est justifié par le
@@ -293,17 +293,17 @@ Texto completo
    20En prenant l’exemple français, on propose donc de respecter la
    terminologie suivante :
 
-     * Nation, ensemble des Français passés, actuels et à venir ;
+      Nation, ensemble des Français passés, actuels et à venir ;
 
-     * nation, partie de la population du territoire français possédant la
+      nation, partie de la population du territoire français possédant la
        nationalité française, ce qui exclut les étrangers admis à résider
        avec des droits inférieurs (à Athènes, les Métèques) ainsi que les
        clandestins (sans papiers).
 
-     * Peuple, corps électoral, mais l’ancienneté de la confusion avec l’idée
+      Peuple, corps électoral, mais l’ancienneté de la confusion avec l’idée
        de nationalité ou de religion – les peuples germaniques,
 
-     * le peuple juif – fait qu’il est difficile de ne pas s’y soumettre, –
+      le peuple juif – fait qu’il est difficile de ne pas s’y soumettre, –
        en dehors du domaine électoral proprement dit.
 
    21Si le terme de nation, avec ou sans majuscule, inspire la peur en raison
@@ -323,7 +323,7 @@ Texto completo
    l’un d’eux d’entrer aux îles Fidji sur présentation de son passeport…
    cybernational.
 
-     * 15  J. Bodin, op. cit., L. 1^er, ch. 2.
+      15  J. Bodin, op. cit., L. 1^er, ch. 2.
 
    23Le nombre des habitants n’est pas en cause. Comme pour le territoire,
    aucun minimum n’est exigé. Très logiquement, Bodin le fixait à trois
@@ -390,10 +390,10 @@ Texto completo
    l’enseignement à assurer l’égalité et l’intégration des minorités
    ethniques.
 
-     * 16  J. Yang-Ting, Le mouvement indépendantiste martiniquais,
+      16  J. Yang-Ting, Le mouvement indépendantiste martiniquais,
        présentation du Marie-Jeannisme, Petit-Bo (...)
 
-   31Les Martiniquais forment-ils une nation ? A cette question Aimé Césaire
+   31Les Martiniquais forment-ils une nation  A cette question Aimé Césaire
    a dès longtemps répondu par l’affirmative. Telle est également l’opinion
    d’Alfred Marie-Jeanne présentée par Jeanne Yang-Ting16. Cette nation
    existe depuis l’abolition de l’esclavage en 1848 et les Martiniquais en
@@ -414,13 +414,13 @@ Texto completo
    Le tout avec un inconvénient inévitable à cette époque : la
    centralisation, depuis peu nettement réduite.
 
-     * 17  De même qu’il existe un peuple ou une nation corse, en dépit de la
+      17  De même qu’il existe un peuple ou une nation corse, en dépit de la
        dénégation implicitement conten (...)
-     * 18  Pour avoir une idée du mépris dans lequel étaient tenus les
+      18  Pour avoir une idée du mépris dans lequel étaient tenus les
        Coolies à la fin du XIX^e siècle, voir (...)
-     * 19  Contrairement à ce qu’on entend dire parfois, il n’a guère mieux
+      19  Contrairement à ce qu’on entend dire parfois, il n’a guère mieux
        fonctionné à Maurice et à la Réun (...)
-     * 20  Sur cette question, voir J.-Cl. William, Compère lapin et compère
+      20  Sur cette question, voir J.-Cl. William, Compère lapin et compère
        mulet : métissage et comportemen (...)
 
    32Oui, le peuple martiniquais, toutes couleurs de peau mêlées, forme une
@@ -468,7 +468,7 @@ Texto completo
    Celles-ci dépendent à la fois de l’étendue et de la richesse du
    territoire, ainsi que de la densité de la population qui y vit.
 
-     * 21  Voir A. Le Sausse, Que faire pour développer la Martinique ?,
+      21  Voir A. Le Sausse, Que faire pour développer la Martinique ,
        Fort-de-France, 1974 ; F. Célimène e (...)
 
    36Le point de vue de l’ONU à cet égard est clairement énoncé dans la
@@ -503,10 +503,10 @@ Texto completo
    de nourriture une partie de la population et ruinent l’agriculture. Les
    conséquences en sont parfois si graves que les pays occidentaux ont
    proclamé et mis en œuvre le droit d’ingérence. Que reste-t-il alors de la
-   souveraineté de ces Etats ? Certains pays, en Amérique du sud, en
+   souveraineté de ces Etats  Certains pays, en Amérique du sud, en
    Extrême-Orient, compensent leurs défaillances économiques par la
    production et l’exportation de stupéfiants. Sait-on que le chiffre
-   d’affaires global ainsi réalisé est supérieur à celui du pétrole ? Même
+   d’affaires global ainsi réalisé est supérieur à celui du pétrole  Même
    dans un pays développé, l’insuffisance de l’économie d’une partie du
    territoire risque de provoquer le démembrement de l’Etat : certains, en
    Italie du Nord, région prospère, envisagent de se libérer du boulet,
@@ -530,7 +530,7 @@ Texto completo
    désintéressée des pays riches. Et ce ne peut être en aucun cas un Etat de
    droit, même si l’ordre y règne, comme en Irak ou à Cuba. A partir de quel
    degré d’auto-suffisance un pays sous-développé peut-il être considéré
-   comme un Etat ? Il n’y a évidemment pas de réponse chiffrée à cette
+   comme un Etat  Il n’y a évidemment pas de réponse chiffrée à cette
    question. Tout est affaire de cas particuliers. Cuba est un Etat, la
    Somalie, non. C’est la raison pour laquelle il n’est pas possible
    d’introduire dans la définition de l’Etat donnée ci-dessus une expression
@@ -538,10 +538,10 @@ Texto completo
    comme on l’a déjà laissé entendre, implicitement contenue dans l’impératif
    de souveraineté.
 
-     * 22  Les échanges régionaux, que ce soit avec la Guadeloupe ou les îles
+      22  Les échanges régionaux, que ce soit avec la Guadeloupe ou les îles
        et Etats continentaux de la Car (...)
 
-   41Et la Martinique ? Force est bien de reconnaître qu’elle est de ce point
+   41Et la Martinique  Force est bien de reconnaître qu’elle est de ce point
    de vue très défavorisée, comme le reconnaissent les spécialistes^21. Par
    sa position géographique d’abord qui la tient à l’écart des grands
    courants d’échanges22, celui de la drogue excepté. Par sa vocation à
@@ -552,10 +552,10 @@ Texto completo
    l’ensemble des Martiniquais, les habitudes de consommation prises au fil
    des ans.
 
-     * 23  Dans sa conférence du 23 mars 2000, Serge Baret déclarait qu’une
+      23  Dans sa conférence du 23 mars 2000, Serge Baret déclarait qu’une
        commission de réflexion créée apr (...)
-     * 24  J. Mariette, La sociale démocratie locale, modèle politique pour
-       la Guadeloupe et la Martinique ?, (...)
+      24  J. Mariette, La sociale démocratie locale, modèle politique pour
+       la Guadeloupe et la Martinique , (...)
 
    42Enfin, la Martinique souffre de l’absence de tout plan crédible –
    c’est-à-dire réaliste et concret – de prise en main de la vie économique
@@ -567,12 +567,12 @@ Texto completo
    grands travaux, l’exploitation de la terre et des richesses de la mer,
    réduction ou partage du temps de travail, soutien public aux petites et
    moyennes entreprises – est d’une évidence troublante. Les buts sont fixés.
-   Mais quid de la méthode et des moyens ? A propos de l’exemple de la pêche,
+   Mais quid de la méthode et des moyens  A propos de l’exemple de la pêche,
    E. Mariette montre clairement les obstacles intérieurs et extérieurs
    auxquels se heurte toute tentative en ce domaine24.
 
-     * 25  Op. cit., p. 179.
-     * 26  F. Célimène et P. Watson, op. cit., “ :... le soi-disant marché
+      25  Op. cit., p. 179.
+      26  F. Célimène et P. Watson, op. cit., “ :... le soi-disant marché
        “ ethnique ” dont la base est la c (...)
 
    43La situation économique actuelle de la Martinique est clairement posée
@@ -580,8 +580,8 @@ Texto completo
    beaucoup ; devenue riche, elle n’exporte que très peu. Le problème est
    donc double. Il faut, d’une part, augmenter la production et, d’autre
    part, trouver le moyen de la vendre à l’extérieur. Augmenter la production
-   de sucre ? Oui, à la condition d’investir largement. Augmenter celle des
-   bananes ? Oui, mais sous la réserve, également valable pour le sucre, de
+   de sucre  Oui, à la condition d’investir largement. Augmenter celle des
+   bananes  Oui, mais sous la réserve, également valable pour le sucre, de
    réduire les coûts de production, c’est-à-dire de diminuer les salaires.
    Les deux filières ne subsistent que grâce aux subventions européennes que
    réprouve l’OMC. Reste la production de fruits, légumes et viandes. Dans ce
@@ -612,11 +612,11 @@ Texto completo
    sérieuses à suivre pour responsabiliser les élus et redresser une
    situation économique bien compromise.
 
-     * 27  Op. cit., passim.
-     * 28  Diversifier l’agriculture martiniquaise, c’est un vœu pieux depuis
+      27  Op. cit., passim.
+      28  Diversifier l’agriculture martiniquaise, c’est un vœu pieux depuis
        la 2^e moitié du XVII^e siècle ou (...)
-     * 29  Op. cit., passim.
-     * 30  Pessimiste également J. Nosel, “ Appréciation de l’impact
+      29  Op. cit., passim.
+      30  Pessimiste également J. Nosel, “ Appréciation de l’impact
        économique de la départementalisation à (...)
 
    45Un projet modeste, certes. Il en existe de plus ambitieux. C’était déjà
@@ -641,8 +641,8 @@ Texto completo
    auteurs prévoient qu’elle se heurtera à la résistance des travailleurs ;
    de développer le tourisme, moteur de la croissance.
 
-     * 31  E. Moutoussamy, Inventer l’emploi en Outre-mer, Paris, 1997.
-     * 32  Sur cette question, voir A.-M. Le Pourhiet, La perception du droit
+      31  E. Moutoussamy, Inventer l’emploi en Outre-mer, Paris, 1997.
+      32  Sur cette question, voir A.-M. Le Pourhiet, La perception du droit
        à la Martinique, ibid., in fine (...)
 
    46Un mot vient à l’esprit à la lecture de ces projets : volontarisme. Les
@@ -663,7 +663,7 @@ Texto completo
    jeunesse oisive et délinquante, que l’on initiera également aux sports. Il
    sera donc nécessaires de créer des milliers d’emplois d’animateurs
    professionnels et sportifs, plus 5 à 7 000 postes dans l’enseignement.
-   Programme intéressant, on en conviendra, mais qui paiera ? L’Union
+   Programme intéressant, on en conviendra, mais qui paiera  L’Union
    européenne, en créant au profit des Antilles un statut
    d’ultrapériphéricité, et, bien sûr, l’Etat, mais sous une forme qui ne
    devrait pas lui coûter plus qu’il ne verse actuellement. Partant de la
@@ -683,19 +683,19 @@ Texto completo
    ressources. Soit sans domaine d’exercice ni titulaire(s) de la
    souveraineté au nom de laquelle l’Etat gouverne et représente UN Etat.
 
-        II - le pouvoir confère au groupement “ Etat ” : la souveraineté
+        II  le pouvoir confère au groupement “ Etat ” : la souveraineté
 
-     * 33  Sur la notion de souveraineté, voir B. Vonglis, “ L’Etat, c’était
+      33  Sur la notion de souveraineté, voir B. Vonglis, “ L’Etat, c’était
        bien lui ”, Essai sur la monarch (...)
 
    49Juristes, politistes et philosophes ont tant glosé sur cette notion,
    elle est devenue si extensive et floue, qu’il est indispensable de
    commencer par la définir33.
 
-     * 34  J. Bodin, op. cit., L. 1^er, ch. 10, Première marque de
+      34  J. Bodin, op. cit., L. 1^er, ch. 10, Première marque de
        souveraineté.
-     * 35  C. Le Bret, De la souveraineté du Roy, Paris, 1632.
-     * 36  Ch. Loyseau, Des seigneuries, Paris, 1613, III, 5.
+      35  C. Le Bret, De la souveraineté du Roy, Paris, 1632.
+      36  Ch. Loyseau, Des seigneuries, Paris, 1613, III, 5.
 
    50La souveraineté est une notion française. Sa définition et ses rapports
    avec son ou ses titulaires ont été établis, au tournant des XVI^e et
@@ -755,13 +755,13 @@ Texto completo
    et de gouverner sans contrainte extérieure et, conséquemment, sa qualité
    d’Etat.
 
-     * 37  JO. AN. CR., 6 mai 1992, p. 845.
-     * 38  LC n° 92-554 du 25 juin 1992, art. 5.
+      37  JO. AN. CR., 6 mai 1992, p. 845.
+      38  LC n° 92554 du 25 juin 1992, art. 5.
 
    54En 1992, le Garde des sceaux déclarait encore, selon la doctrine
    traditionnelle, que la souveraineté ne peut être ni aliénée ni
-   transférée37. Quelle conclusion en a tirée le gouvernement d’alors ? Que
-   la France devait sortir de l’Union Economique et Monétaire ? Non, il a
+   transférée37. Quelle conclusion en a tirée le gouvernement d’alors  Que
+   la France devait sortir de l’Union Economique et Monétaire  Non, il a
    fait réviser l’art. 88.2 de la Constitution, qualifiant la perte d’un
    droit régalien de “ transfert de compétences ”38. Toujours la rhétorique,
    la magie du verbe, l’innocence des mots, pour masquer une réalité cruelle.
@@ -772,11 +772,11 @@ Texto completo
    l’être, c’est seulement sous réserve que la délégation puisse être
    reprise, ce qui n’est pas le cas.
 
-     * 39  O. Beaud, “ Fédéralisme et souveraineté ”, RDP, 1998, 1,
-       p. 83-122.
+      39  O. Beaud, “ Fédéralisme et souveraineté ”, RDP, 1998, 1,
+       p. 83122.
 
    55Une question se pose d’ailleurs à ce propos : qui est souverain en
-   Europe communautaire puisque celle-ci ne l’est pas encore ? Si, comme il
+   Europe communautaire puisque celle-ci ne l’est pas encore  Si, comme il
    est probable, elle devient fédérale, toute souveraineté disparaîtra sur le
    territoire qu’elle recouvre, car, notre collègue Olivier Beaud l’a
    démontré, cette notion est incompatible avec ce type de constitution39.
@@ -784,8 +784,8 @@ Texto completo
    montre l’exemple des Etats-Unis, mais il n’en demeurera pas moins que la
    France aura perdu sa souveraineté.
 
-     * 40  I. Smets, “ Le Comité des régions : une réforme en trompe
-       l’œil ? ”, in De Maastricht à Amsterdam…(...)
+      40  I. Smets, “ Le Comité des régions : une réforme en trompe
+       l’œil  ”, in De Maastricht à Amsterdam…(...)
 
    56Mais il y a plus grave : l’Etat français se vide de sa souveraineté non
    seulement par le haut, au profit des instances européennes, mais aussi par
@@ -820,11 +820,11 @@ Texto completo
    n’est-il pas une invitation à sauter dès que possible l’échelon
    intermédiaire de l’Etat ?
 
-     * 41  Espoirs exprimés dans sa conférence du 24 février 2000. Claude
+      41  Espoirs exprimés dans sa conférence du 24 février 2000. Claude
        Lise est président du Conseil génér (...)
-     * 42  Voir S. Marti, in Le Monde, Economie, 12 sept. 2000 : L’autonomie
+      42  Voir S. Marti, in Le Monde, Economie, 12 sept. 2000 : L’autonomie
        régionale a-t-elle un avenir éco (...)
-     * 43  I. Smets, op. cit., p. 129 : “ Les Lander sont arrivés à la
+      43  I. Smets, op. cit., p. 129 : “ Les Lander sont arrivés à la
        conclusion que leurs intérêts pouvaien (...)
 
    57Affaire à suivre... Mais il est très probableque, décevant les espoirs
@@ -888,7 +888,7 @@ Texto completo
    l’indépendance qu’UN Etat peut opposer aux autres. Mais, comme ce mot est
    encore d’un usage courant, il paraît opportun d’y avoir recours pour poser
    une dernière question : la France peut-elle renoncer à la souveraineté
-   qu’elle détient sur la Corse et les DOM ? Sa constitution le lui
+   qu’elle détient sur la Corse et les DOM  Sa constitution le lui
    permet-elle ?
 
    65Comme toujours lorsqu’une hypothèse n’a pas été expressément prévue par
@@ -911,9 +911,9 @@ Texto completo
    par la Nouvelle-Calédonie et la Corse, pour argumenter en faveur de la
    solution qu’eux-mêmes préconisent pour les DOM.
 
-     * 44  Elle est apparue dans la constitution de 1791 qui déclare le
+      44  Elle est apparue dans la constitution de 1791 qui déclare le
        royaume “ un et indivisible ” (art. 1(...)
-     * 45  G. Rossinyol, “ Les accords de Nouméa du 5 mai 1998 : un nouveau
+      45  G. Rossinyol, “ Les accords de Nouméa du 5 mai 1998 : un nouveau
        statut pour la Nouvelle-Calédonie (...)
 
    66Le verrou à faire sauter d’abord est celui, apparemment indestructible,
@@ -931,12 +931,12 @@ Texto completo
    reconnaissant plus loin que l’autonomie politique ainsi concédée est une
    “ antichambre de l’indépendance ”45.
 
-     * 46  Op. cit., p. 477.
-     * 47  Contrairement à ce qu’écrit O. Audeoud, “ Les collectivités
+      46  Op. cit., p. 477.
+      47  Contrairement à ce qu’écrit O. Audeoud, “ Les collectivités
        infra-étatiques dans la vie internatio (...)
-     * 48  L’opinion contraire exprimée par J.Y. Faberon, “ La
+      48  L’opinion contraire exprimée par J.Y. Faberon, “ La
        Nouvelle-Calédonie, pays à souveraineté partag (...)
-     * 49  A.-M. Le Pourhiet, “ Nouvelle-Calédonie : la nouvelle mésaventure
+      49  A.-M. Le Pourhiet, “ Nouvelle-Calédonie : la nouvelle mésaventure
        du positivisme ”, RDP, 1999, n°  (...)
 
    67On fait aussi valoir dans le même but que la décentralisation
@@ -959,9 +959,9 @@ Texto completo
    “ l’autonomie assistée et le fédéralisme parasitaire ” ne soient “ les
    meilleurs garants ” du recul devant le dernier pas à franchir49.
 
-     * 50  La constitution, introduite et commentée par G. Carcassonne, 3^e
+      50  La constitution, introduite et commentée par G. Carcassonne, 3^e
        éd., 1999, p. 314.
-     * 51  Dispositions transitoires relatives à la Nouvelle-Calédonie. Ne
+      51  Dispositions transitoires relatives à la Nouvelle-Calédonie. Ne
        peut non plus être invoquée comme (...)
 
    68Quant aux textes constituant le siège de la matière, ceux relatifs aux
@@ -1009,20 +1009,20 @@ Texto completo
    de ce veto provoquerait un mécontentement comparable a celui qui entraîna
    jadis la destitution de Louis XVI.
 
-     * 52  La mode est d’employer à ce propos le mot “ assistanat ”. A tort,
+      52  La mode est d’employer à ce propos le mot “ assistanat ”. A tort,
        ce mot désigne exclusivement la (...)
-     * 53  Propos de Tony Delsham, couverture d’Antilla, n° 891, 3 juin 2000.
+      53  Propos de Tony Delsham, couverture d’Antilla, n° 891, 3 juin 2000.
 
    73Les Martiniquais souhaitent-ils connaître la rigueur politique et
    économique cubaine ou conserver leur confort en substituant à
    l’assistance52 française celle de l’Europe, qui risque d’être nettement
-   plus directive ? Il ne semble pas pour l’instant et sans doute la classe
+   plus directive  Il ne semble pas pour l’instant et sans doute la classe
    politique locale dansera-t-elle encore longtemps la valse-hésitation qui
    fait clamer à tel ou tel son “ ras le bol des révolutionnaires sans
    révolution, des poseurs de bombes sans bombe, des indépendantistes dans le
    cadre de la république française ”53.
 
-     * 54  Propos de M. Virally, cités par J.-D. Moutons, op. cit., p. 92.
+      54  Propos de M. Virally, cités par J.-D. Moutons, op. cit., p. 92.
 
    74Quant à la notion d’Etat, on ne saurait partager l’opinion des juristes
    qui louent son “ étonnante souplesse ”54. Il s’agit en réalité d’une
@@ -1034,7 +1034,7 @@ Texto completo
    tel. On peut toujours l’espérer, mais le moins que l’on doive dire est
    qu’elles n’en prennent pas le chemin.
 
-     * 55  Pour atteindre ce but, Th. Michalon, “ A la recherche de la
+      55  Pour atteindre ce but, Th. Michalon, “ A la recherche de la
        légitimité de l’Etat ”, RFDC, n° 24, 1 (...)
 
    75Il faut le reconnaître franchement et sans condescendance aucune : il
@@ -1051,7 +1051,7 @@ Texto completo
    apporter exactement la dose de progrès qui convient à leur situation, sans
    leur imposer le modèle occidental55.
 
-   76Etonnante souplesse ? Non. Redoutable dureté de la notion d’Etat...
+   76Etonnante souplesse  Non. Redoutable dureté de la notion d’Etat...
 
    Inicio de página
 
@@ -1088,7 +1088,7 @@ Notas
    genèse de l’Etat contemporain ”, t. 1, La constitution monarchique, Paris,
    1989, p. 71.
 
-   6  Voir M. Troper, “ Y a-t-il un Etat nazi ? ”, in Pour une théorie
+   6  Voir M. Troper, “ Y a-t-il un Etat nazi  ”, in Pour une théorie
    juridique de l’Etat, Paris, 1994, p. 177 et ss, qui après avoir fait une
    analyse à juste titre sévère des conditions de fonctionnement de
    l’Allemagne à cette époque, semble, si nous l’avons bien compris, finir
@@ -1120,7 +1120,7 @@ Notas
 
    10  Sur cette question, voir B. Vonglis, “ Souveraineté de la nation et
    souveraineté du peuple ”, in Nonagesimo anno, Mélanges en hommage à J.
-   Gaudemet, Paris, 1999, p. 710-712 et la bibliographie citée.
+   Gaudemet, Paris, 1999, p. 710712 et la bibliographie citée.
 
    11  G. Burdeau, Traité..., op. cit., t. 2, p. 47, n. 98.
 
@@ -1135,7 +1135,7 @@ Notas
    15  J. Bodin, op. cit., L. 1^er, ch. 2.
 
    16  J. Yang-Ting, Le mouvement indépendantiste martiniquais, présentation
-   du Marie-Jeannisme, Petit-Bourg (Guadeloupe), 2000, p. 65-75.
+   du Marie-Jeannisme, Petit-Bourg (Guadeloupe), 2000, p. 6575.
 
    17  De même qu’il existe un peuple ou une nation corse, en dépit de la
    dénégation implicitement contenue dans la constitution de 1958 et
@@ -1149,12 +1149,12 @@ Notas
    nation martiniquaise, voir E. Jos, “ Identité culturelle et identité
    politique, le cas martiniquais ”, in Cinquante ans de départementalisation
    outre-mer, ss la dir. de F. Constant et J. Daniel, Paris, 1997,
-   p. 338-353.
+   p. 338353.
 
    18  Pour avoir une idée du mépris dans lequel étaient tenus les Coolies à
    la fin du XIX^e siècle, voir A.-Ph. Blerald, “ La citoyenneté française
    aux Antilles et ses paradoxes ”, in Cinquante ans...., op. cit.,
-   p. 195-196.
+   p. 195196.
 
    19  Contrairement à ce qu’on entend dire parfois, il n’a guère mieux
    fonctionné à Maurice et à la Réunion où le rapport de mépris est inversé.
@@ -1172,9 +1172,9 @@ Notas
    mulet : métissage et comportement socio-politique à la Martinique, thèse
    sc. pol. multigr., Paris IX, 1988 ; “ Réflexions sur la périodisation de
    l’histoire de la Martinique ”, in Mélanges... Vonglis, op. cit.,
-   p. 363-372.
+   p. 363372.
 
-   21  Voir A. Le Sausse, Que faire pour développer la Martinique ?,
+   21  Voir A. Le Sausse, Que faire pour développer la Martinique ,
    Fort-de-France, 1974 ; F. Célimène et P. Watson, Economie politique
    caribéenne, Paris, 1991.
 
@@ -1189,7 +1189,7 @@ Notas
    celui des poissons d’aquarium.
 
    24  J. Mariette, La sociale démocratie locale, modèle politique pour la
-   Guadeloupe et la Martinique ?, Petit-Bourg (Guadeloupe), 2000, p. 183-184.
+   Guadeloupe et la Martinique , Petit-Bourg (Guadeloupe), 2000, p. 183184.
    En dépit du soutien financier du Conseil régional et du programme de
    développement mis en place par les autorités communautaires, la pêche
    martiniquaise ne couvre que 40 % de la consommation.
@@ -1218,22 +1218,22 @@ Notas
    29  Op. cit., passim.
 
    30  Pessimiste également J. Nosel, “ Appréciation de l’impact économique
-   de la départementalisation à la Martinique ”, in 1946-1996, Cinquante
-   ans..., op. cit., p. 66-67.
+   de la départementalisation à la Martinique ”, in 19461996, Cinquante
+   ans..., op. cit., p. 6667.
 
    31  E. Moutoussamy, Inventer l’emploi en Outre-mer, Paris, 1997.
 
    32  Sur cette question, voir A.-M. Le Pourhiet, La perception du droit à
    la Martinique, ibid., in fine. “ Pourquoi la société martiniquaise
-   a-t-elle tant de mal à assimiler l’Etat de droit ? ” demande l’auteur à
+   a-t-elle tant de mal à assimiler l’Etat de droit  ” demande l’auteur à
    qui, dans son introduction, p. 22, notre collègue Justin Daniel reproche
    de récuser “ a priori toute tension entre l’universalisme de la règle de
    droit et les particularismes culturels ”. La réponse étant ainsi donnée au
-   “ pourquoi ? ”, il reste à préciser les conséquences pratiques de cette
+   “ pourquoi  ”, il reste à préciser les conséquences pratiques de cette
    tension. Faut-il admettre qu’il y ait des sociétés développées où il soit
    définitivement impossible de faire respecter le droit communément admis,
    en matière de circulation par exemple, compte tenu de l’intérêt bien
-   compris des fraudeurs eux-mêmes ? Quant au comportement parfois
+   compris des fraudeurs eux-mêmes  Quant au comportement parfois
    répréhensible de ceux qui sont chargés du maintien de l’ordre, il
    constitue l’un des obstacles majeurs à l’effectivité d’un Etat de droit
    dont les pays démocratiques se réclament en principe. Qu’on se rappelle
@@ -1243,7 +1243,7 @@ Notas
    fermaient les yeux sur cette fraude.
 
    33  Sur la notion de souveraineté, voir B. Vonglis, “ L’Etat, c’était bien
-   lui ”, Essai sur la monarchie absolue, Paris, 1997, p. 60-70 et la
+   lui ”, Essai sur la monarchie absolue, Paris, 1997, p. 6070 et la
    bibliographie citée.
 
    34  J. Bodin, op. cit., L. 1^er, ch. 10, Première marque de souveraineté.
@@ -1254,18 +1254,18 @@ Notas
 
    37  JO. AN. CR., 6 mai 1992, p. 845.
 
-   38  LC n° 92-554 du 25 juin 1992, art. 5.
+   38  LC n° 92554 du 25 juin 1992, art. 5.
 
-   39  O. Beaud, “ Fédéralisme et souveraineté ”, RDP, 1998, 1, p. 83-122.
+   39  O. Beaud, “ Fédéralisme et souveraineté ”, RDP, 1998, 1, p. 83122.
 
-   40  I. Smets, “ Le Comité des régions : une réforme en trompe l’œil ? ”,
-   in De Maastricht à Amsterdam…, op. cit., p. 127-131.
+   40  I. Smets, “ Le Comité des régions : une réforme en trompe l’œil  ”,
+   in De Maastricht à Amsterdam…, op. cit., p. 127131.
 
    41  Espoirs exprimés dans sa conférence du 24 février 2000. Claude Lise
    est président du Conseil général de la Martinique.
 
    42  Voir S. Marti, in Le Monde, Economie, 12 sept. 2000 : L’autonomie
-   régionale a-t-elle un avenir économique ? “ La commission de Bruxelles et
+   régionale a-t-elle un avenir économique  “ La commission de Bruxelles et
    les Etats recentralisent en douceur... L’Etat-nation a encore de beaux
    jours devant lui... Le traité de Maastricht, à travers la recentralisation
    à Bruxelles et Francfort d’importantes prérogatives nationales est plutôt
@@ -1294,13 +1294,13 @@ Notas
 
    45  G. Rossinyol, “ Les accords de Nouméa du 5 mai 1998 : un nouveau
    statut pour la Nouvelle-Calédonie ”, in RDP, 2000, n° 2, p. 477 et
-   483-485.
+   483485.
 
    46  Op. cit., p. 477.
 
    47  Contrairement à ce qu’écrit O. Audeoud, “ Les collectivités
    infra-étatiques dans la vie internationale ”, in L’Etat souverain...
-   op. cit., p. 153-154, fédéralisme et décentralisation ne conduisent pas à
+   op. cit., p. 153154, fédéralisme et décentralisation ne conduisent pas à
    une “ distribution de compétence similaires ”. Dans le fédéralisme, à
    défaut de la souveraineté, le pouvoir législatif est partagé. Il ne l’est
    pas dans la décentralisation. Et si L. Favoreu, cité par l’auteur, a
@@ -1317,7 +1317,7 @@ Notas
 
    48  L’opinion contraire exprimée par J.Y. Faberon, “ La
    Nouvelle-Calédonie, pays à souveraineté partagée ”, in RDP, 1998, n° 3,
-   p. 645-648 repose sur une conception erronée de la souveraineté.
+   p. 645648 repose sur une conception erronée de la souveraineté.
 
    49  A.-M. Le Pourhiet, “ Nouvelle-Calédonie : la nouvelle mésaventure du
    positivisme ”, RDP, 1999, n° 4, p. 1019. Avec raison, l’auteur fait
@@ -1346,7 +1346,7 @@ Notas
    54  Propos de M. Virally, cités par J.-D. Moutons, op. cit., p. 92.
 
    55  Pour atteindre ce but, Th. Michalon, “ A la recherche de la légitimité
-   de l’Etat ”, RFDC, n° 24, 1998, p. 297-298, propose de “ fonder des
+   de l’Etat ”, RFDC, n° 24, 1998, p. 297298, propose de “ fonder des
    institutions renouvelées sur les solidarités existantes ”.
 
    Inicio de página
@@ -1356,14 +1356,14 @@ Para citar este artículo
   Referencia en papel
 
    Bernard Vonglis, «« Etat » : définitions et réalités», Pouvoirs dans la
-   Caraïbe, 12 | 2000, 27-57.
+   Caraïbe, 12  2000, 2757.
 
   Referencia electrónica
 
    Bernard Vonglis, «« Etat » : définitions et réalités», Pouvoirs dans la
-   Caraïbe [En línea], 12 | 2000, Publicado el 14 marzo 2011, consultado el
-   02 enero 2026. URL: http://journals.openedition.org/plc/321; DOI:
-   https://doi.org/10.4000/plc.321
+   Caraïbe [En línea], 12  2000, Publicado el 14 marzo 2011, consultado el
+   02 enero 2026. URL: http:/journals.openedition.org/plc/321; DOI:
+   https:/doi.org/10.4000/plc.321
 
    Inicio de página
 
@@ -1371,10 +1371,10 @@ Autor
 
   Bernard Vonglis
 
-     * IDREF : https://idref.fr/027190196
-     * VIAF : http://viaf.org/viaf/51697203
-     * ISNI : https://isni.org/isni/0000000081297395
-     * BNF : http://data.bnf.fr/ark:/12148/cb11928677f
+      IDREF : https:/idref.fr/027190196
+      VIAF : http:/viaf.org/viaf/51697203
+      ISNI : https:/isni.org/isni/0000000081297395
+      BNF : http:/data.bnf.fr/ark:12148/cb11928677f
    Inicio de página
 
 Derechos de autor
@@ -1383,61 +1383,61 @@ Derechos de autor
    archivos adicionales importados) son "Todos los derechos reservados".
 
    Inicio de página
-   Índice - Documento anterior - Documento siguiente
+   Índice  Documento anterior  Documento siguiente
 
                                    Navegación
 
 Índice
 
-     * Auteurs
-     * Indice de palabras clave
-     * Índice geográfico
+      Auteurs
+      Indice de palabras clave
+      Índice geográfico
 
 Números en texto completo
 
-     * 17 | 2012
+      17  2012
        Genre et violences interpersonnelles en Martinique
-     * 16 | 2010
-     * 15 | 2007
+      16  2010
+      15  2007
        Le vote de tous les paradoxes
-     * 14 | 2004
+      14  2004
        Identité et politique dans la Caraïbe insulaire
-     * 13 | 2002
-     * 12 | 2000
+      13  2002
+      12  2000
        L’État
-     * 11 | 1999
+      11  1999
        Cuba
-     * 10 | 1998
+      10  1998
        Haïti : l’oraison démocratique
-     * Spécial | 1997
+      Spécial  1997
        Sciences sociales et Caraïbe
 
 Todos los números
 
 La revue
 
-     * La revue
-     * Notes aux auteurs
+      La revue
+      Notes aux auteurs
 
 Informaciones
 
-     * Contacts
-     * Crédits
-     * Publishing policies
+      Contacts
+      Crédits
+      Publishing policies
 
 Síganos
 
-     * Flujo RSS Flujo RSS
+      Flujo RSS Flujo RSS
 
 Boletines de información
 
-     * Boletín de OpenEdition
+      Boletín de OpenEdition
 
 Afiliaciones/socios
 
-     * OpenEdition Journals
+      OpenEdition Journals
 
-   ISSN electrónico 2117-5209
+   ISSN electrónico 21175209
 
    Referir-se a la nota en el catálogo OpenEdition 
 
@@ -1452,24 +1452,24 @@ Afiliaciones/socios
 
    Se le redirigirá a OpenEdition Search
 
-   _____________________
+   ______________
    [ ] En todo OpenEdition
    [ ] En Pouvoirs dans la Caraïbe
    Buscar
-     * Español
-          * Français
-          * English
-     * Compartir 
-          * Facebook
-          * Twitter
+      Español
+           Français
+           English
+      Compartir 
+           Facebook
+           Twitter
    ">
-     * Inicio
-     * Catálogo de 668 revistas
+      Inicio
+      Catálogo de 668 revistas
    OpenEdition Search
    Todo OpenEdition
    Español
-     * Français
-     * English
+      Français
+      English
    Portal de recursos electrónicos de ciencias sociales y humanidades
    OpenEdition
    Nuestras plataformas

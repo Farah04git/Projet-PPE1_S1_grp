@@ -1,8 +1,8 @@
-   _____________________
+   ______________
 
    Historique
 
-   Accueil / Tous les articles de dictionnaire /
+   Accueil  Tous les articles de dictionnaire /
    état  [etɑ]  n.  m.
     I Manière d'être d’une personne, d’une chose.   1 Manière d’être d’une
    personne, sur les plans physique, psychique ou affectif.  État alarmant,
@@ -121,7 +121,7 @@
    Finances, dettes de l'État.  Socialisme  d'État.  Société  d'État. 
    Télévision  d'État.  « on s'est débarrassé du dictateur  [...]  mais on a
    gardé la police, les officiers, l'appareil d'État, le système économique »
-   (L’actualité,  2000).  ‒  État(-)providence :  État qui intervient dans
+   (L’actualité,  2000).  ‒  État()providence :  État qui intervient dans
    les domaines économiques et sociaux en instaurant des programmes de prises
    en charge de certains secteurs avec l'objectif de répartir les richesses. 
    ◈  Nation, pays, puissance;  spécialt  nation dotée d'un gouvernement
@@ -138,117 +138,117 @@
    gouvernement; administration d'une société ».  
    ORTHOGRAPHE
 
-   +----------------------------+
-   |        | nom masculin      |
-   |--------+-------------------|
-   | état^* | singulier pluriel |
-   |        | état      états   |
-   +----------------------------+
+   +------------------+
+            nom masculin      |
+   ------+------------|
+    état^ | singulier pluriel |
+            état      états   |
+   +------------------+
 
    ^*VOIR l'emploi de la majuscule initiale dans l'article.
-     * * *  *  *  orthographe
-   MEQ - 5^e
+      *       orthographe
+   MEQ  5^e
    étymologie Synonymes
-     * ⇒ circonstance
-     * ⇒ condition
-     * ⇒ nation
-     * ⇒ pays
-     * ⇒ profession
-     * ⇒ situation
-     * ⇒ tâche
-     * ⇒ travail
+      ⇒ circonstance
+      ⇒ condition
+      ⇒ nation
+      ⇒ pays
+      ⇒ profession
+      ⇒ situation
+      ⇒ tâche
+      ⇒ travail
    Afficher plus de synonymes Mots apparentés
-     * ⇓ compte
-     * ⇓ dominion
-     * ⇓ mal-être
-     * ⇓ nationalité
-     * ⇓ phase
-     * ⇓ pronunciamiento
-     * ⇓ république
-     * ⇓ version
-     * ⇓ vice-royauté
-     * ⇒ putsch, au sens de coup d'État
-     * ⇑ constat
-     * ⇑ nation
-     * ⇑ puissance
+      ⇓ compte
+      ⇓ dominion
+      ⇓ mal-être
+      ⇓ nationalité
+      ⇓ phase
+      ⇓ pronunciamiento
+      ⇓ république
+      ⇓ version
+      ⇓ vice-royauté
+      ⇒ putsch, au sens de coup d'État
+      ⇑ constat
+      ⇑ nation
+      ⇑ puissance
    Afficher plus de mots apparentés Sous-entrées
-     * affaire d'État
-     * à l'étatpur
-     * à l'état+ adj.
-     * à l'état de+ nom
-     * conseild'État
-     * coup d'État
-     * départementd'État
-     * domainede l'État
-     * en tout état de cause
-     * État(-)providence
-     * État
-     * Étatfédéral
-     * Étatpolicier
-     * étatsecond
-     * Étattampon
-     * état civil
-     * état d'âme
-     * état d'urgence
-     * État dans l’État
-     * état dechoc
-     * état degrâce
-     * état demanque
-     * état desiège
-     * État de droit
-     * état de la question, d'une question
-     * état de(s) choses
-     * état des lieux
-     * état matrimonial
-     * État-nation
-     * état(s) de service de qqn
-     * Étatspontificaux
-     * états généraux
-     * être, se mettre dans tous ses états
-     * être en état de+ inf.
-     * être hors d'état de
-     * faire état de
-     * femme, homme d’État
-     * lescaissesde l'État
-     * lescoffresde l'État
-     * les grandscommisde l'État
-     * ministred'État
-     * ne pas être dans son état normal
-     * officierde l'état civil, d'état civil
-     * raisond'État
-     * registrede l'état civil
-     * remettreqqch. en état
-     * secretd'État
-     * secrétaired'État
-     * socialismed'État
-     * sociétéd'État
-     * télévisiond'État
-     * tiers état
-     * verbed'état
+      affaire d'État
+      à l'étatpur
+      à l'état+ adj.
+      à l'état de+ nom
+      conseild'État
+      coup d'État
+      départementd'État
+      domainede l'État
+      en tout état de cause
+      État()providence
+      État
+      Étatfédéral
+      Étatpolicier
+      étatsecond
+      Étattampon
+      état civil
+      état d'âme
+      état d'urgence
+      État dans l’État
+      état dechoc
+      état degrâce
+      état demanque
+      état desiège
+      État de droit
+      état de la question, d'une question
+      état de(s) choses
+      état des lieux
+      état matrimonial
+      État-nation
+      état(s) de service de qqn
+      Étatspontificaux
+      états généraux
+      être, se mettre dans tous ses états
+      être en état de+ inf.
+      être hors d'état de
+      faire état de
+      femme, homme d’État
+      lescaissesde l'État
+      lescoffresde l'État
+      les grandscommisde l'État
+      ministred'État
+      ne pas être dans son état normal
+      officierde l'état civil, d'état civil
+      raisond'État
+      registrede l'état civil
+      remettreqqch. en état
+      secretd'État
+      secrétaired'État
+      socialismed'État
+      sociétéd'État
+      télévisiond'État
+      tiers état
+      verbed'état
    Afficher plus de sous-entrées Voisinage
-     * étang
-     * étant donné
-     * étape
-     * étasunien
-     * État(-)providence
-     * état
-     * état-major
-     * État-nation
-     * étatique
-     * étatisation
-     * étatiser
+      étang
+      étant donné
+      étape
+      étasunien
+      État()providence
+      état
+      état-major
+      État-nation
+      étatique
+      étatisation
+      étatiser
    Auteurs : Hélène Cajolet-Laganière, Pierre Martel et Chantal‑Édith Masson,
    avec le concours de Louis Mercier et Nadine Vincent, professeurs,
    Université de Sherbrooke
-   Direction lexicographique : Serge D’Amico - Direction informatique :
+   Direction lexicographique : Serge D’Amico  Direction informatique :
    Benoit Mercier
    Professeurs collaborateurs : feu Jean-Claude Boulanger, Université Laval,
    feu Michel Théoret, Université de Sherbrooke
-   Qu’est-ce que le dictionnaire Usito ? | Contactez-nous | Conditions
-   d’utilisation | Paramètres des témoins
+   Qu’est-ce que le dictionnaire Usito  | Contactez-nous  Conditions
+   d’utilisation  Paramètres des témoins
 
-   Tous droits réservés © Université de Sherbrooke | 3.0.32 - Dernière mise à
-   jour du contenu : 2025-12-09
+   Tous droits réservés © Université de Sherbrooke  3.0.32  Dernière mise à
+   jour du contenu : 20251209
 
   Paramètres des témoins
 
@@ -295,10 +295,10 @@
       Usito
 
    Partager
-     * Le lien suivant a été copié dans le presse-papiers :
+      Le lien suivant a été copié dans le presse-papiers :
 
    url
-   MEQ - #liste#
+   MEQ  #liste#
 
       Ministère de l’Éducation et de l'Enseignement supérieur
       #listeNomComplet#
@@ -323,12 +323,12 @@
    Définition du sens
 
    ⇒
-     * indicateur lien vers synonyme
+      indicateur lien vers synonyme
 
    VOIR lien vers article
    Historique
-     * un mot
-     * un mot
+      un mot
+      un mot
    Effacer
    Message
 
@@ -338,5 +338,5 @@ Pas d'Usito!
    [ ] Ne plus afficher ce message
    Fermer
    Suggestions :
-     * ...
+      ...
    38 résultats trouvés

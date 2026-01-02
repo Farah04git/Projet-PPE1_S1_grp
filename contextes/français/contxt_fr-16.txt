@@ -12,7 +12,7 @@
    Le devenir d'une pluie est très différent selon la période de l'année et
    l'..état.. de la surface sur laquelle elle tombe. Traditionnellement, la
    période de recharge des nappes s'étend du début de l'automne (septembre -
-   octobre) au début du printemps (mars - avril), semestre durant lequel la
+   octobre) au début du printemps (mars  avril), semestre durant lequel la
    vég..état..ion est en sommeil (avec une évapotranspiration faible) et les
    précipitations sont en principe plus abondantes. Si l'hiver est sec, la
 --

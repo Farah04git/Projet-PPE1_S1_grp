@@ -1,9 +1,9 @@
    Refresh:
-   https://www.workshoppratique.ch/blogue/detail/article/un-..etat-desprit..-un-..etat-desprit..-statique-ou-dynamique/?PageSpeed=noscript
+   https:/www.workshoppratique.ch/blogue/detail/article/un-..etat-desprit..-un-..etat-desprit..-statique-ou-dynamique/?PageSpeed=noscript
    Link: canonical
 --
-     * Blogue
-     * Un ..etat.. d'esprit: Un ..etat.. d'esprit statique ou dynamique
+      Blogue
+      Un ..etat.. d'esprit: Un ..etat.. d'esprit statique ou dynamique
    Partager
 --
 

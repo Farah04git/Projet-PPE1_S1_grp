@@ -4,105 +4,105 @@
    [ ] Menu principal
    Menu principal
    Navigation
-     * Page d’accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+      Page d’accueil
+      Portails thématiques
+      Article au hasard
+      Contact
    Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+      Débuter sur Wikipédia
+      Aide
+      Communauté
+      Pages spéciales
+      Modifications récentes
    [IMG] Wikipédia l'encyclopédie libre
    Rechercher
-   _____________________
+   ______________
    Rechercher
    [ ] Apparence
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+      Faire un don
+      Créer un compte
+      Se connecter
    [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+      Faire un don
+      Créer un compte
+      Se connecter
 
 Sommaire
 
-     * Début
-     * 1 Historique de la recherche
-     * 2 En politique
-     * 3 Dans la pensée systémique
-     * 4 Collectif
-     * 5 Notes et références
+      Début
+      1 Historique de la recherche
+      2 En politique
+      3 Dans la pensée systémique
+      4 Collectif
+      5 Notes et références
    [ ] Basculer la table des matières
 
                                  État d'esprit
 
    [ ] 33 langues
-     * العربية
-     * Azərbaycanca
-     * Беларуская
-     * Беларуская (тарашкевіца)
-     * Čeština
-     * Deutsch
-     * English
-     * Español
-     * فارسی
-     * Suomi
-     * עברית
-     * हिन्दी
-     * Hrvatski
-     * Bahasa Indonesia
-     * Italiano
-     * Қазақша
-     * 한국어
-     * Кыргызча
-     * Bahasa Melayu
-     * Nederlands
-     * Polski
-     * Português
-     * Русский
-     * Srpskohrvatski / српскохрватски
-     * Simple English
-     * Slovenčina
-     * Shqip
-     * Српски / srpski
-     * Svenska
-     * தமிழ்
-     * Українська
-     * Oʻzbekcha / ўзбекча
-     * Tiếng Việt
+      العربية
+      Azərbaycanca
+      Беларуская
+      Беларуская (тарашкевіца)
+      Čeština
+      Deutsch
+      English
+      Español
+      فارسی
+      Suomi
+      עברית
+      हिन्दी
+      Hrvatski
+      Bahasa Indonesia
+      Italiano
+      Қазақша
+      한국어
+      Кыргызча
+      Bahasa Melayu
+      Nederlands
+      Polski
+      Português
+      Русский
+      Srpskohrvatski  српскохрватски
+      Simple English
+      Slovenčina
+      Shqip
+      Српски  srpski
+      Svenska
+      தமிழ்
+      Українська
+      Oʻzbekcha  ўзбекча
+      Tiếng Việt
    Modifier les liens
-     * Article
-     * Discussion
+      Article
+      Discussion
    [ ] français
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+      Lire
+      Modifier
+      Modifier le code
+      Voir l’historique
    [ ] Outils
    Outils
    Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+      Lire
+      Modifier
+      Modifier le code
+      Voir l’historique
    Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
+      Pages liées
+      Suivi des pages liées
+      Téléverser un fichier
+      Lien permanent
+      Informations sur la page
+      Citer cette page
+      Obtenir l'URL raccourcie
+      Télécharger le code QR
+   Imprimer  exporter
+      Créer un livre
+      Télécharger comme PDF
+      Version imprimable
    Dans d’autres projets
-     * Élément Wikidata
+      Élément Wikidata
    Apparence
    Un article de Wikipédia, l'encyclopédie libre.
    Page d’aide sur l’homonymie
@@ -125,7 +125,7 @@ Sommaire
    compléter l'article en donnant les références utiles à sa vérifiabilité et
    en les liant à la section « Notes et références ».
 
-   En pratique : Quelles sources sont attendues ? Comment ajouter mes
+   En pratique : Quelles sources sont attendues  Comment ajouter mes
    sources ?
    [IMG]Schéma d'une conceptualisation de l'esprit fixe et de l'esprit de
    croissance.
@@ -148,7 +148,7 @@ Sommaire
 
 Historique de la recherche
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Il semblerait que certaines des premières explorations empiriques de
    l'état d'esprit remontent au début des années 1900 (Gollwitzer 1990,
@@ -164,7 +164,7 @@ Historique de la recherche
 
 En politique
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Un exemple, dans une période bien connue de l'Histoire, est l'« état
    d'esprit de la Guerre froide » qui prévalait tant aux États-Unis qu'en
@@ -200,7 +200,7 @@ En politique
 
 Dans la pensée systémique
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    S'appuyant sur le concept de Mindscape de Magoroh Maruyama (en)^[3]^,^[4],
    la théorie du Mindset inclut des valeurs de type orientation culturelle et
@@ -211,7 +211,7 @@ Dans la pensée systémique
 
 Collectif
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Naturellement, la question de l'incarnation d'un état d'esprit collectif
    vient à l'esprit. L'analyse d'Erikson (1974) sur les identités de groupe
@@ -243,7 +243,7 @@ Collectif
    l'exploitation de la « sagesse des foules »^[7]^[réf. incomplète]) des
    parties prenantes. Zara note que la réflexion collective étant plus
    explicite, discursive et conversationnelle, elle a donc besoin d'un bon
-   ¿gestell (en)? - surtout lorsqu'il s'agit de technologies de l'information
+   ¿gestell (en) - surtout lorsqu'il s'agit de technologies de l'information
    et de la communication.
 
    La plupart des historiens utilisent le concept de mentalité ou d'état
@@ -257,39 +257,39 @@ Collectif
 
 Notes et références
 
-   [modifier | modifier le code]
-     * (en) Cet article est partiellement ou en totalité issu de l’article de
+   [modifier  modifier le code]
+      (en) Cet article est partiellement ou en totalité issu de l’article de
        Wikipédia en anglais intitulé « Mindset » (voir la liste des auteurs).
     1. ↑ (en) « mindset », sur dictionary.cambridge.org (consulté le 31
        juillet 2021)
     2. ↑ « What is a Worldview? », sur web.engr.oregonstate.edu (consulté le
        31 juillet 2021)
     3. ↑ Maruyama, M. (1980). Mindscapes and Science Theories, Current
-       Anthropology, Vol. 21, No. 5. (Oct., 1980), pp. 589-608
+       Anthropology, Vol. 21, No. 5. (Oct., 1980), pp. 589608
     4. ↑ M. Maruyama, Dynamics among Business Practice, Aesthetics, Science,
-       Politics and Religion. Cultural Dynamics 1988; 1; 309-335
+       Politics and Religion. Cultural Dynamics 1988; 1; 309335
     5. ↑ Yolles, M.I, Fink, G., 2014, Personality, pathology and mindsets:
-       part 1-3. Vol. 43 n.(1)
+       part 13. Vol. 43 n.(1)
     6. ↑ Par exemple Zara, 2004.
     7. ↑ Surowiecki, 2005.
     8. ↑ Michel Vovelle
     9. ↑ Hentschel, 2007.
-     * icône décorative Portail de la psychologie
+      icône décorative Portail de la psychologie
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=État_d%27esprit&oldid=226799804 ».
+   « https:/fr.wikipedia.org/w/index.php?title=État_d%27esprit&oldid=226799804 ».
    Catégorie :
-     * Biais cognitif
+      Biais cognitif
    Catégories cachées :
-     * Article manquant de références depuis juillet 2021
-     * Article manquant de références/Liste complète
-     * Article à référence nécessaire
-     * Article contenant un appel à traduction en anglais
-     * Portail:Psychologie/Articles liés
-     * Portail:Sciences humaines et sociales/Articles liés
-     * Portail:Sciences/Articles liés
-     * La dernière modification de cette page a été faite le 26 juin 2025 à
+      Article manquant de références depuis juillet 2021
+      Article manquant de références/Liste complète
+      Article à référence nécessaire
+      Article contenant un appel à traduction en anglais
+      Portail:Psychologie/Articles liés
+      Portail:Sciences humaines et sociales/Articles liés
+      Portail:Sciences/Articles liés
+      La dernière modification de cette page a été faite le 26 juin 2025 à
        10:15.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
+      Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
        pour plus de détails, ainsi que les crédits graphiques. En cas de
@@ -298,20 +298,20 @@ Notes et références
        Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
        organisation de bienfaisance régie par le paragraphe 501(c)(3) du code
        fiscal des États-Unis.
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Contacts juridiques & sécurité
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+      Politique de confidentialité
+      À propos de Wikipédia
+      Avertissements
+      Contact
+      Contacts juridiques & sécurité
+      Code de conduite
+      Développeurs
+      Statistiques
+      Déclaration sur les témoins (cookies)
+      Version mobile
+      Wikimedia Foundation
+      Powered by MediaWiki
    Rechercher
-   _____________________
+   ______________
    Rechercher
    [ ] Basculer la table des matières
    État d'esprit

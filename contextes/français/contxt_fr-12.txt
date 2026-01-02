@@ -1,6 +1,6 @@
-     * ..État..
-     * ..état.. civil
-     * nation
+      ..État..
+      ..état.. civil
+      nation
 --
    L'..État.. fédéral est représenté sur tous les continents ; c’est par exemple
    la forme ..état..ique de l'Allemagne, de la Belgique, de la Suisse

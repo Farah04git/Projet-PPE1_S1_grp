@@ -21,7 +21,7 @@
 
 --
 
-   Comment est-on passé de "..état.." à "..État.." ? Sans doute par le biais du verbe
+   Comment est-on passé de "..état.." à "..État.."  Sans doute par le biais du verbe
    latin stare, "se tenir debout", "tenir bon", l’..État.. se devant d’être
 --
 

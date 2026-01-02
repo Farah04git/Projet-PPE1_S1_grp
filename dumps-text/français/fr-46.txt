@@ -6,320 +6,320 @@
    Connexion
    Je fais un don
    Je m'abonne
-     * Actualité [ Submit ]
+      Actualité [ Submit ]
        À la une
-          * Incendie d'un bar en Suisse
-          * Rétrospective année
-          * Budget collectivités et État
-          * Gaza
-          * Crise agricole
-          * Mercosur
-          * Parcoursup
-          * Extrême droite en France
-          * Sécurité sociale
-          * Laïcité
-          * Chine
-          * Emmanuel Macron
-          * Catholicisme
-          * Guerre en Ukraine
+           Incendie d'un bar en Suisse
+           Rétrospective année
+           Budget collectivités et État
+           Gaza
+           Crise agricole
+           Mercosur
+           Parcoursup
+           Extrême droite en France
+           Sécurité sociale
+           Laïcité
+           Chine
+           Emmanuel Macron
+           Catholicisme
+           Guerre en Ukraine
        Rubriques
-          * International
-          * Société
-          * Politique
-          * Santé
-          * Économie
-          * Sciences
-          * Sport
+           International
+           Société
+           Politique
+           Santé
+           Économie
+           Sciences
+           Sport
        Podcasts
-          * [IMG] Urgence climatique, dix ans pour agir
-          * [IMG] C'est ça l'Amérique
-          * [IMG] Croire
-          * [IMG] L'envers du récit
-          * + de podcasts
+           [IMG] Urgence climatique, dix ans pour agir
+           [IMG] C'est ça l'Amérique
+           [IMG] Croire
+           [IMG] L'envers du récit
+           + de podcasts
        Newsletters
-          * [IMG] L’essentiel ce matin Tous les matins
-          * [IMG] International Tous les jeudis
-          * [IMG] Le journal Tous les soirs
-          * + de newsletters
-     * Religion [ Submit ]
+           [IMG] L’essentiel ce matin Tous les matins
+           [IMG] International Tous les jeudis
+           [IMG] Le journal Tous les soirs
+           + de newsletters
+      Religion [ Submit ]
        À la une
-          * Avent
-          * Voyage du pape Léon XIV
-          * Léon XIV
-          * L'Église face aux abus sexuels
-          * Dilexi te (exhortation apostolique)
-          * Traditionalistes
-          * Femmes dans l'Église
-          * Commentaire biblique du jour
+           Avent
+           Voyage du pape Léon XIV
+           Léon XIV
+           L'Église face aux abus sexuels
+           Dilexi te (exhortation apostolique)
+           Traditionalistes
+           Femmes dans l'Église
+           Commentaire biblique du jour
        Rubriques
-          * Catholicisme
-          * Protestantisme
-          * Orthodoxie
-          * Judaïsme
-          * Islam
-          * Bouddhisme
+           Catholicisme
+           Protestantisme
+           Orthodoxie
+           Judaïsme
+           Islam
+           Bouddhisme
        Foi et spiritualité
-          * Spiritualité
-          * Saints et figures spirituelles
-          * Question de foi
-          * Fêtes religieuses
-          * Bible
-          * Prière et méditation
+           Spiritualité
+           Saints et figures spirituelles
+           Question de foi
+           Fêtes religieuses
+           Bible
+           Prière et méditation
        Newsletters
-          * [IMG] Religion Chaque jour
-          * [IMG] Spiritualité Tous les samedis
-          * + de newsletters
-     * Planète [ Submit ]
+           [IMG] Religion Chaque jour
+           [IMG] Spiritualité Tous les samedis
+           + de newsletters
+      Planète [ Submit ]
        À la une
-          * COP - Conférence climat
-          * Énergie renouvelable
-          * Inondation et crue
-          * Pesticide
+           COP  Conférence climat
+           Énergie renouvelable
+           Inondation et crue
+           Pesticide
        Rubriques
-          * Climat
-          * Biodiversité
-          * Transition énergétique
-          * Transport
-          * Agriculture
-          * Pollution
+           Climat
+           Biodiversité
+           Transition énergétique
+           Transport
+           Agriculture
+           Pollution
        Dossiers
-          * [IMG] Réchauffement climatique Solutions climat
-          * [IMG] Climat Jeunes et écologie
-          * [IMG] Climat Écologie et santé
+           [IMG] Réchauffement climatique Solutions climat
+           [IMG] Climat Jeunes et écologie
+           [IMG] Climat Écologie et santé
        Newsletters
-          * [IMG] Planète Tous les mercredis
-          * [IMG] Éco & transition Tous les lundis
-          * + de newsletters
-     * Culture [ Submit ]
+           [IMG] Planète Tous les mercredis
+           [IMG] Éco & transition Tous les lundis
+           + de newsletters
+      Culture [ Submit ]
        À la une
-          * Prix littéraire
-          * Patrimoine
-          * Série TV
-          * Chanson
+           Prix littéraire
+           Patrimoine
+           Série TV
+           Chanson
        Rubriques
-          * Cinéma
-          * Théâtre
-          * Musique
-          * Expositions
-          * Livres et BD
-          * Programmes et critiques TV
+           Cinéma
+           Théâtre
+           Musique
+           Expositions
+           Livres et BD
+           Programmes et critiques TV
        Newsletters
-          * [IMG] Culture Tous les vendredis
-          * [IMG] Livres et idées Tous les jeudis
-          * + de newsletters
+           [IMG] Culture Tous les vendredis
+           [IMG] Livres et idées Tous les jeudis
+           + de newsletters
        Loisirs
-          * Jeux
-          * Art de vivre
-          * Jardin
-          * Recettes de cuisine
-          * Voyages
-     * À vif [ Submit ]
+           Jeux
+           Art de vivre
+           Jardin
+           Recettes de cuisine
+           Voyages
+      À vif [ Submit ]
        À la une
-          * Faut qu'on parle
-          * Donald Trump
-          * Intelligence artificielle (IA)
-          * Laïcité
+           Faut qu'on parle
+           Donald Trump
+           Intelligence artificielle (IA)
+           Laïcité
        Rubriques
-          * Éditorial
-          * Chroniques
-          * Opinions
-          * La question qui fâche
-          * Le cas de conscience
-          * La Croix et vous
+           Éditorial
+           Chroniques
+           Opinions
+           La question qui fâche
+           Le cas de conscience
+           La Croix et vous
        Signatures
-          * [IMG] Jean de Saint-Cheron Écrivain, chroniqueur pour La Croix
-          * [IMG] Geneviève Jurgensen Journaliste et écrivain
-          * [IMG] Estelle-Sarah Bulle Écrivaine et chroniqueuse pour La Croix
-          * [IMG] Marie Grand Professeure de philosophie et chroniqueuse à La
+           [IMG] Jean de Saint-Cheron Écrivain, chroniqueur pour La Croix
+           [IMG] Geneviève Jurgensen Journaliste et écrivain
+           [IMG] Estelle-Sarah Bulle Écrivaine et chroniqueuse pour La Croix
+           [IMG] Marie Grand Professeure de philosophie et chroniqueuse à La
             Croix
-          * [IMG] Frédéric Boyer Écrivain et traducteur
-          * [IMG] Joséphine Lebard Autrice et journaliste, chroniqueuse pour
+           [IMG] Frédéric Boyer Écrivain et traducteur
+           [IMG] Joséphine Lebard Autrice et journaliste, chroniqueuse pour
             La Croix
        [IMG] Une rencontre, un dialogue, un pas vers l’autre Voir tous les
        articles
    Menu [IMG]
-   _____________________
-     * Journal
-     * Podcasts
-     * Jeux
-     * Newsletters
-     * Vidéos
+   ______________
+      Journal
+      Podcasts
+      Jeux
+      Newsletters
+      Vidéos
    À la Une
-     * Incendie d'un bar en Suisse
-     * Rétrospective année
-     * Budget collectivités et État
-     * Gaza
-     * Crise agricole
-     * Mercosur
-     * Parcoursup
-     * Extrême droite en France
-     * Sécurité sociale
-     * Laïcité
-     * Chine
-     * Emmanuel Macron
-     * Catholicisme
-     * Guerre en Ukraine
-     * COP - Conférence climat
-     * Énergie renouvelable
-     * Inondation et crue
-     * Pesticide
-     * Avent
-     * Voyage du pape Léon XIV
-     * Léon XIV
-     * L'Église face aux abus sexuels
-     * Dilexi te (exhortation apostolique)
-     * Traditionalistes
-     * Femmes dans l'Église
-     * Commentaire biblique du jour
-     * Prix littéraire
-     * Patrimoine
-     * Série TV
-     * Chanson
-     * Faut qu'on parle
-     * Donald Trump
-     * Intelligence artificielle (IA)
-     * Laïcité
+      Incendie d'un bar en Suisse
+      Rétrospective année
+      Budget collectivités et État
+      Gaza
+      Crise agricole
+      Mercosur
+      Parcoursup
+      Extrême droite en France
+      Sécurité sociale
+      Laïcité
+      Chine
+      Emmanuel Macron
+      Catholicisme
+      Guerre en Ukraine
+      COP  Conférence climat
+      Énergie renouvelable
+      Inondation et crue
+      Pesticide
+      Avent
+      Voyage du pape Léon XIV
+      Léon XIV
+      L'Église face aux abus sexuels
+      Dilexi te (exhortation apostolique)
+      Traditionalistes
+      Femmes dans l'Église
+      Commentaire biblique du jour
+      Prix littéraire
+      Patrimoine
+      Série TV
+      Chanson
+      Faut qu'on parle
+      Donald Trump
+      Intelligence artificielle (IA)
+      Laïcité
    Voir plus de Tags
    International
-     * International
-     * Europe
-     * Asie
-     * Moyen-Orient
-     * Amériques
-     * Afrique
-     * Océanie
+      International
+      Europe
+      Asie
+      Moyen-Orient
+      Amériques
+      Afrique
+      Océanie
    Société
-     * Société
-     * Sécurité
-     * Immigration
-     * Solidarité
-     * Famille
-     * Éthique
-     * Justice
+      Société
+      Sécurité
+      Immigration
+      Solidarité
+      Famille
+      Éthique
+      Justice
    Politique
-     * Politique
-     * Partis politiques
-     * Institutions
-     * Lois et réformes
+      Politique
+      Partis politiques
+      Institutions
+      Lois et réformes
    Religion
-     * Religion
-     * Catholicisme
-     * Protestantisme
-     * Orthodoxie
-     * Judaïsme
-     * Islam
-     * Bouddhisme
-     * Spiritualité
-     * Saints et figures spirituelles
-     * Question de foi
-     * Fêtes religieuses
-     * Bible
-     * Prière et méditation
+      Religion
+      Catholicisme
+      Protestantisme
+      Orthodoxie
+      Judaïsme
+      Islam
+      Bouddhisme
+      Spiritualité
+      Saints et figures spirituelles
+      Question de foi
+      Fêtes religieuses
+      Bible
+      Prière et méditation
    Économie
-     * Économie
-     * Emploi et travail
-     * Social
-     * Économie et finance solidaire
-     * Entreprises
-     * Consommation
-     * Économie internationale
-     * Conjoncture
-     * Agriculture
+      Économie
+      Emploi et travail
+      Social
+      Économie et finance solidaire
+      Entreprises
+      Consommation
+      Économie internationale
+      Conjoncture
+      Agriculture
    Planète
-     * Planète
-     * Climat
-     * Biodiversité
-     * Transition énergétique
-     * Transport
-     * Agriculture
-     * Pollution
+      Planète
+      Climat
+      Biodiversité
+      Transition énergétique
+      Transport
+      Agriculture
+      Pollution
    Dossiers
-     * [IMG] Réchauffement climatique Solutions climat
-     * [IMG] Climat Jeunes et écologie
-     * [IMG] Climat Écologie et santé
+      [IMG] Réchauffement climatique Solutions climat
+      [IMG] Climat Jeunes et écologie
+      [IMG] Climat Écologie et santé
    Santé
-     * Santé
-     * Santé publique
-     * Médecine
-     * Maladies
-     * Médicaments et traitements
+      Santé
+      Santé publique
+      Médecine
+      Maladies
+      Médicaments et traitements
    Sciences Sport Culture
-     * Culture
-     * Cinéma
-     * Théâtre
-     * Musique
-     * Expositions
-     * Livres et BD
-     * Programmes et critiques TV
-     * Jeux
-     * Art de vivre
-     * Jardin
-     * Recettes de cuisine
-     * Voyages
+      Culture
+      Cinéma
+      Théâtre
+      Musique
+      Expositions
+      Livres et BD
+      Programmes et critiques TV
+      Jeux
+      Art de vivre
+      Jardin
+      Recettes de cuisine
+      Voyages
    À vif
-     * À vif
-     * Éditorial
-     * Chroniques
-     * Opinions
-     * La question qui fâche
-     * Le cas de conscience
-     * La Croix et vous
+      À vif
+      Éditorial
+      Chroniques
+      Opinions
+      La question qui fâche
+      Le cas de conscience
+      La Croix et vous
    La Croix L’Hebdo
    Faut qu’on parle
-     * Découvrir
-     * Le dossier
+      Découvrir
+      Le dossier
    Formats
-     * Séries
-     * Témoignages
-     * Reportages
-     * Enquêtes
-     * Portraits
-     * Entretiens
+      Séries
+      Témoignages
+      Reportages
+      Enquêtes
+      Portraits
+      Entretiens
    Jeux
-     * [IMG] Mots croisés
-     * [IMG] Sudoku
-     * [IMG] Mots coupés
-     * [IMG] Mot du jour
-     * [IMG] Quiz
+      [IMG] Mots croisés
+      [IMG] Sudoku
+      [IMG] Mots coupés
+      [IMG] Mot du jour
+      [IMG] Quiz
    Podcasts
-     * [IMG] Urgence climatique, dix ans pour agir
-     * [IMG] C'est ça l'Amérique
-     * [IMG] Croire
-     * [IMG] L'envers du récit
+      [IMG] Urgence climatique, dix ans pour agir
+      [IMG] C'est ça l'Amérique
+      [IMG] Croire
+      [IMG] L'envers du récit
    Newsletters
-     * [IMG] L’essentiel ce matin Tous les matins
-     * [IMG] International Tous les jeudis
-     * [IMG] Le journal Tous les soirs
-     * [IMG] Religion Chaque jour
-     * [IMG] Spiritualité Tous les samedis
-     * [IMG] Planète Tous les mercredis
-     * [IMG] Éco & transition Tous les lundis
-     * [IMG] Culture Tous les vendredis
-     * [IMG] Livres et idées Tous les jeudis
-     * [IMG] À vif Tous les samedis
-     * [IMG] Éthique Tous les jeudis
+      [IMG] L’essentiel ce matin Tous les matins
+      [IMG] International Tous les jeudis
+      [IMG] Le journal Tous les soirs
+      [IMG] Religion Chaque jour
+      [IMG] Spiritualité Tous les samedis
+      [IMG] Planète Tous les mercredis
+      [IMG] Éco & transition Tous les lundis
+      [IMG] Culture Tous les vendredis
+      [IMG] Livres et idées Tous les jeudis
+      [IMG] À vif Tous les samedis
+      [IMG] Éthique Tous les jeudis
    Voir plus de Newsletters
    Signatures
-     * [IMG] Jean de Saint-Cheron Écrivain, chroniqueur pour La Croix
-     * [IMG] Geneviève Jurgensen Journaliste et écrivain
-     * [IMG] Estelle-Sarah Bulle Écrivaine et chroniqueuse pour La Croix
-     * [IMG] Marie Grand Professeure de philosophie et chroniqueuse à La
+      [IMG] Jean de Saint-Cheron Écrivain, chroniqueur pour La Croix
+      [IMG] Geneviève Jurgensen Journaliste et écrivain
+      [IMG] Estelle-Sarah Bulle Écrivaine et chroniqueuse pour La Croix
+      [IMG] Marie Grand Professeure de philosophie et chroniqueuse à La
        Croix
-     * [IMG] Frédéric Boyer Écrivain et traducteur
-     * [IMG] Joséphine Lebard Autrice et journaliste, chroniqueuse pour La
+      [IMG] Frédéric Boyer Écrivain et traducteur
+      [IMG] Joséphine Lebard Autrice et journaliste, chroniqueuse pour La
        Croix
    Voir plus de Signatures
    Services
-     * Contenus sponsorisés
-     * Consulter les annonces légales
-     * Publier une annonce légale
+      Contenus sponsorisés
+      Consulter les annonces légales
+      Publier une annonce légale
    Soutenir la voix singulière de La Croix, c'est défendre le pluralisme de
    la presse
    [IMG] Je fais un don
-     * Actualité
-     * Dossiers monde
-     * Guerre, crise et conflit
-     * Coup d'État
+      Actualité
+      Dossiers monde
+      Guerre, crise et conflit
+      Coup d'État
 
                          Coup d’État : dernières actus
 
@@ -330,7 +330,7 @@
    d’État passés ou en cours.
 
    En savoir plus
-     * Présidentielle en Guinée : Mamadi Doumbouya sur la rampe de lancement
+      Présidentielle en Guinée : Mamadi Doumbouya sur la rampe de lancement
 
        Quatre ans après le coup d’État en Guinée qui avait signé l’arrivée au
        pouvoir de Mamadi Doumbouya, l’issue du scrutin présidentiel de ce
@@ -341,10 +341,10 @@
        28 déc. Portrait Un partisan du général Mamadi Doumbouya appuyé sur
        une pancarte à son effigie, lors du dernier meeting du président
        candidat, le 25 décembre 2025.
-     * « Coup d’État en France » : que sait-on de la fausse vidéo qui a fait
+      « Coup d’État en France » : que sait-on de la fausse vidéo qui a fait
        réagir Emmanuel Macron
 
-       Emmanuel Macron destitué par un coup d’État militaire ? Une fausse
+       Emmanuel Macron destitué par un coup d’État militaire  Une fausse
        vidéo, générée par l’intelligence artificielle et vue des millions de
        fois, a contraint le président à réagir publiquement, mardi
        16 décembre. Alertés, les services de l’Élysée ont sollicité Facebook
@@ -353,7 +353,7 @@
        17 déc. Emmanuel Macron s’est exprimé le 16 décembre 2025 à Marseille
        sur la fausse vidéo de coup d’État générée par l’intelligence
        artificielle.
-     * Bénin : une trentaine de personnes écrouées après la tentative de coup
+      Bénin : une trentaine de personnes écrouées après la tentative de coup
        d’État
 
        Au Bénin, une trentaine de personnes, majoritairement des militaires,
@@ -366,7 +366,7 @@
        2025, après la tentative de coup d’État déjouée au Bénin. Ici, un
        véhicule blindé dans une rue de Cotonou le 7 décembre, jour de la
        tentative de putsch.
-     * Coups d’État en Afrique de l’Ouest : le reflux démocratique est-il
+      Coups d’État en Afrique de l’Ouest : le reflux démocratique est-il
        inéluctable ?
 
        Depuis 2020, le continent a connu 14 coups d’État, dont trois depuis
@@ -377,7 +377,7 @@
        11 déc. Analyse Un rassemblement de soutien au président béninois
        Patrice Talon après une tentative de coup d’État, à Cotonou (Bénin),
        mercredi 10 décembre 2025.
-     * Bénin : les forces françaises spéciales sont intervenues pour déjouer
+      Bénin : les forces françaises spéciales sont intervenues pour déjouer
        le coup d’État
 
        Le chef de la garde républicaine béninoise a affirmé mercredi
@@ -389,7 +389,7 @@
        Tévoédjrè a affirmé mercredi 10 décembre 2025 que des forces spéciales
        françaises sont intervenues dimanche lors de la tentative déjouée de
        putsch au Bénin. Photo d’illustration des forces spéciales.
-     * Bénin : la France a apporté « un appui » aux forces loyalistes face
+      Bénin : la France a apporté « un appui » aux forces loyalistes face
        aux putschistes
 
        L’Élysée a déclaré mardi 9 décembre que la France avait apporté un
@@ -401,7 +401,7 @@
        9 déc. L’Élysée a déclaré mardi 9 décembre 2025 que la France avait
        apporté un « appui en termes de surveillance et d’observation et de
        soutien logistique » aux forces armées du Bénin.
-     * Bénin : après l’échec du coup d’État, la France au cœur de la
+      Bénin : après l’échec du coup d’État, la France au cœur de la
        désinformation
 
        Les néopanafricanistes et autres idéologues proches des juntes au
@@ -412,7 +412,7 @@
        9 déc. Analyse Le président Patrice Talon s’est exprimé dimanche
        7 décembre 2025 à la télévision nationale et a indiqué que la
        situation était « sous contrôle ».
-     * Après l’échec du putsch au Bénin, les États de la région se mobilisent
+      Après l’échec du putsch au Bénin, les États de la région se mobilisent
        pour soutenir le régime du président Talon
 
        Les autorités béninoises affirment avoir neutralisé les putschistes
@@ -423,7 +423,7 @@
 
        8 déc. Analyse Le président béninois Patrice Talon à Cotonou, le
        27 septembre 2025.
-     * Guinée-Bissau : le général Horta N’Tam, nouvel homme fort d’État
+      Guinée-Bissau : le général Horta N’Tam, nouvel homme fort d’État
        failli
 
        Le numéro un de la junte en Guinée-Bissau et nouvel homme fort du pays
@@ -434,7 +434,7 @@
        1 déc. Portrait Le général Horta N’Tam assiste à sa cérémonie
        d’investiture comme dirigeant de la transition et chef du Haut
        Commandement, à Bissau, le 27 novembre 2025.
-     * Coup d’État en Guinée-Bissau : un premier ministre issu du
+      Coup d’État en Guinée-Bissau : un premier ministre issu du
        gouvernement renversé
 
        Les militaires ayant pris le pouvoir en Guinée-Bissau ont nommé
@@ -448,7 +448,7 @@
        le président de la transition, le général Horta N’Tam (d), lors de la
        cérémonie de prestation de serment au palais présidentiel de Bissau,
        le 28 novembre 2025 en Guinée-Bissau.
-     * Guinée-Bissau : un général remplace le président démis par le coup
+      Guinée-Bissau : un général remplace le président démis par le coup
        d’État
 
        Après sa prise de pouvoir, la junte a nommé jeudi 26 novembre le
@@ -458,7 +458,7 @@
 
        28 nov. Capture d’écran du porte-parole de l’armée en Guinée-Bissau à
        la télévision nationale, le 26 novembre 2025.
-     * Pérou : l’ex-première ministre Betssy Chavez visée par un mandat
+      Pérou : l’ex-première ministre Betssy Chavez visée par un mandat
        d’arrêt international
 
        Au Pérou, la justice a émis vendredi 21 novembre un mandat d’arrêt
@@ -470,7 +470,7 @@
        21 nov. L’ancienne première ministre péruvienne Betssy Chavez, ici en
        mars, est visée par un mandat d’arrêt international émis ce vendredi
        21 novembre 2025 par la justice de son pays.
-     * Madagascar : « La Gen Z rappelle au pouvoir de transition qu’il n’a
+      Madagascar : « La Gen Z rappelle au pouvoir de transition qu’il n’a
        pas de chèque en blanc »
 
        Après la révolte de la Gen Z malgache, qui est parvenue à faire tomber
@@ -482,7 +482,7 @@
        Par Thierry Vircoulon 3 nov. Opinion Des manifestants sous le drapeau
        caractéristique des manifestations de la Gen Z, à la mairie
        d’Antananarivo, le 12 octobre 2025.
-     * À Madagascar, « un nouveau chapitre » s’ouvre sous l’égide de l’armée
+      À Madagascar, « un nouveau chapitre » s’ouvre sous l’égide de l’armée
 
        Devant un public compact et très militaire, le désormais nouveau
        président malgache Michaël Randrianirina a prêté serment ce vendredi
@@ -493,7 +493,7 @@
        président malgache, a prêté serment puis prononcé un discours devant
        les juges de la Haute Cour constitutionnelle, à Antananarivo, vendredi
        17 octobre 2025.
-     * À Madagascar, le jeu diplomatique trouble et périlleux de la France
+      À Madagascar, le jeu diplomatique trouble et périlleux de la France
 
        En pleine contestation sur sa gouvernance du pays, le président
        malgache Andry Rajoelina a été exfiltré par un avion militaire
@@ -505,7 +505,7 @@
        17 oct. Analyse L’ex-président malgache Andry Rajoelina et le
        président français Emmanuel Macron, lors de sa visite d’État, à
        Antananarivo, le 23 avril 2025.
-     * Madagascar : ce que l’on sait du colonel Randrianirina, le nouvel
+      Madagascar : ce que l’on sait du colonel Randrianirina, le nouvel
        homme fort de l’île
 
        Chef de file de l’insurrection militaire, le colonel Michael
@@ -518,7 +518,7 @@
        17 oct. Le colonel Michael Randrianirina doit être investi président,
        vendredi 17 octobre 2025, par la Haute Cour constitutionnelle qui le
        charge d’assurer la transition vers un pouvoir civil.
-     * Madagascar : après la prise du pouvoir par l’armée, la jeunesse monte
+      Madagascar : après la prise du pouvoir par l’armée, la jeunesse monte
        en grade
 
        La Gen Z était le point de départ des manifestations
@@ -531,7 +531,7 @@
        One Piece, devenu symbole des mouvements de la Génération Z, lors
        d’affrontements avec les forces de l’ordre à Antananarivo, le
        9 octobre.
-     * Madagascar : l’Union africaine suspend l’île de ses instances
+      Madagascar : l’Union africaine suspend l’île de ses instances
 
        Au lendemain de la prise de la prise de pouvoir par des militaires et
        du renversement du président Andry Rajoelina, le président de la
@@ -542,7 +542,7 @@
        Ali Youssouf (ici à l’ONU le 23 septembre 2025), a annoncé mercredi
        15 octobre 2025 avoir suspendu Madagascar des instances de
        l’organisation.
-     * Madagascar : les militaires prennent le pouvoir après un vote de
+      Madagascar : les militaires prennent le pouvoir après un vote de
        destitution du président
 
        L’unité militaire qui s’est ralliée au mouvement de contestation
@@ -554,7 +554,7 @@
        14 oct. Le colonel Michael Randrianirina (C), chef de l’unité CAPSAT
        qui a pris le pouvoir à Madagascar, devant le palais présidentiel le
        14 octobre 2025 à Antananarivo.
-     * Madagascar : « La rue était contre lui », le président Rajoelina sur
+      Madagascar : « La rue était contre lui », le président Rajoelina sur
        un siège éjectable
 
        Plus contesté que jamais depuis les manifestations du 25 septembre et
@@ -564,7 +564,7 @@
 
        13 oct. Analyse Le président malgache Andry Rajoelina, à Antananarivo,
        le 6 octobre.
-     * À Madagascar, des militaires rejoignent la contestation et font
+      À Madagascar, des militaires rejoignent la contestation et font
        vaciller le pouvoir
 
        Un corps d’élite a annoncé dimanche 12 octobre avoir pris le contrôle
@@ -574,7 +574,7 @@
 
        12 oct. Analyse Des membres de l’armée au milieu des manifestants dans
        la capitale, le samedi 11 octobre.
-     * Brésil : en plein procès Bolsonaro, une fête nationale de la désunion
+      Brésil : en plein procès Bolsonaro, une fête nationale de la désunion
 
        En marge du défilé militaire organisé par le gouvernement Lula pour la
        fête nationale du Brésil, des dizaines de milliers de militants
@@ -585,7 +585,7 @@
        8 sept. Reportage Des partisans de l’ancien président Jair Bolsonaro,
        jugé pour son rôle présumé dans une tentative de coup d’État, à São
        Paulo, au Brésil, dimanche 7 septembre.
-     * Brésil : de la défaite présidentielle au procès, les grandes dates de
+      Brésil : de la défaite présidentielle au procès, les grandes dates de
        l’affaire Bolsonaro
 
        La dernière phase du procès de Jair Bolsonaro et de sept anciens
@@ -597,7 +597,7 @@
        3 sept. La dernière phase du procès de Jair Bolsonaro et de sept
        anciens collaborateurs pour « coup d’État » s’ouvre ce mardi
        2 septembre à la Cour suprême du Brésil.
-     * Arménie : le premier ministre affirme qu’un coup d’État a été déjoué
+      Arménie : le premier ministre affirme qu’un coup d’État a été déjoué
 
        Une tentative de coup d’État a été déjouée par les forces de l’ordre,
        a annoncé le premier ministre arménien Nikol Pachinian, mercredi
@@ -609,7 +609,7 @@
        mercredi 15 juin 2025 que les forces de l’ordre avaient déjoué une
        présumée tentative de coup d’État. Des policiers à Erevan, capitale de
        l’Arménie, le 10 mai 2024.
-     * Au Brésil, Mauro Cid, ex-bras droit de Jair Bolsonaro, désormais
+      Au Brésil, Mauro Cid, ex-bras droit de Jair Bolsonaro, désormais
        témoin clé de son procès
 
        Aide de camp fidèle de Jair Bolsonaro durant son mandat, il est
@@ -621,7 +621,7 @@
        l’ancien président brésilien Jair Bolsonaro, devant une commission
        parlementaire enquêtant sur le présumé coup d’État du 8 janvier, le
        11 juillet 2023, à Brasilia.
-     * Brésil : l’ancien président Jair Bolsonaro inculpé pour un projet
+      Brésil : l’ancien président Jair Bolsonaro inculpé pour un projet
        présumé de « coup d’État »
 
        L’ex-président brésilien Jair Bolsonaro a été inculpé mardi 18 février
@@ -633,7 +633,7 @@
        19 févr. L’ex-président du Brésil Jair Bolsonaro arrive au Sénat à
        Brasilia pour déjeuner avec des dirigeants de l’opposition, le
        18 février 2025
-     * Turquie : Fethullah Gülen, ennemi numéro un d’Ankara, est décédé
+      Turquie : Fethullah Gülen, ennemi numéro un d’Ankara, est décédé
 
        Le gouvernement de Recep Tayyip Erdogan exigeait depuis 2016
        l’extradition de ce prédicateur à la tête de la confrérie religieuse,
@@ -642,7 +642,7 @@
 
        Portrait Fethullah Gülen dans sa maison en Pennsylvanie (États-Unis),
        en 2004.
-     * Birmanie : la junte militaire a perdu sa légitimité, mais pas le
+      Birmanie : la junte militaire a perdu sa légitimité, mais pas le
        pouvoir
 
        Depuis des mois, les militaires birmans enchaînent débâcle sur débâcle
@@ -656,7 +656,7 @@
        soutenue par la Chine, comme lors de la rencontre le 14 août entre le
        général Min Aung Hlaing et le ministre chinois des affaires
        étrangères.
-     * Niger : l’ex-président Mohamed Bazoum, le « bouclier encombrant » de
+      Niger : l’ex-président Mohamed Bazoum, le « bouclier encombrant » de
        la junte
 
        Déchu depuis le coup d’État au Niger en juillet 2023, l’ancien
@@ -669,7 +669,7 @@
 
        Analyse L’ancien président du Niger, Mohamed Bazoum, au palais
        présidentiel de Niamey, le 2 mai 2022.
-     * Mali : les militaires au pouvoir réautorisent les activités des partis
+      Mali : les militaires au pouvoir réautorisent les activités des partis
 
        La junte au pouvoir au Mali a décidé mercredi 10 juillet de « lever la
        mesure de suspension » des activités des partis politiques et des
@@ -680,7 +680,7 @@
        La junte au pouvoir au Mali, désormais dirigé par le colonel Assimi
        Goïta, a réautorisé mercredi 10 juillet 2024 les activités des partis
        politiques, suspendues en avril.
-     * En Bolivie, le président nie la thèse d’un « auto-coup d’État » pour
+      En Bolivie, le président nie la thèse d’un « auto-coup d’État » pour
        sortir de la crise
 
        Meneur de la tentative de putsch mercredi 26 juin en Bolivie, le
@@ -692,7 +692,7 @@
        Analyse Le président bolivien Luis Arce participe à une conférence de
        presse à la Casa Grande del Pueblo après une apparente tentative de
        coup d’État, à La Paz, en Bolivie, le 27 juin 2024.
-     * Bolivie : tentative de coup d’État, le chef de l’armée arrêté
+      Bolivie : tentative de coup d’État, le chef de l’armée arrêté
 
        Le chef des forces armées de Bolivie a été destitué et arrêté mercredi
        26 juin après avoir massé des hommes et des chars devant le siège de
@@ -702,7 +702,7 @@
 
        Un véhicule blindé de l’armée bolivienne sur la place Murillo à
        La Paz, le 26 juin 2024
-     * RD-Congo : ce que l’on sait du putsch avorté
+      RD-Congo : ce que l’on sait du putsch avorté
 
        L’armée de la République démocratique du Congo a déjoué une tentative
        de coup d’État dimanche 19 mai. Ce putsch avorté était dirigé par
@@ -711,7 +711,7 @@
        régime, confronté à une guérilla dans l’Est.
 
        Une rue vide de Kinshasa le 19 mai après le coup d’Etat avorté.
-     * Allemagne : qui sont les « Citoyens du Reich », jugés pour un projet
+      Allemagne : qui sont les « Citoyens du Reich », jugés pour un projet
        de coup d’État ?
 
        Neuf membres présumés d’un réseau armé comparaissent à partir de lundi
@@ -721,7 +721,7 @@
 
        Le premier des trois procès contre les « Reichsbürger » ou Citoyens du
        Reich s’ouvre lundi 29 avril à Stuttgart.
-     * Après la BBC et Voice Of America, le Burkina Faso suspend TV5 et
+      Après la BBC et Voice Of America, le Burkina Faso suspend TV5 et
        plusieurs sites d’information
 
        Après la BBC et Voice of America, le Burkina Faso a décidé de
@@ -733,7 +733,7 @@
        Le Burkina Faso a annoncé dimanche 28 avril suspendre la chaîne
        francophone TV5 Monde pour deux semaines, ainsi que plusieurs sites
        d’information étrangers.
-     * « D’or et de jungle » de Jean-Christophe Rufin : quelques clics pour
+      « D’or et de jungle » de Jean-Christophe Rufin : quelques clics pour
        un coup d’État
 
        Jean-Christophe Rufin imagine comment un paisible sultanat devient la
@@ -741,7 +741,7 @@
 
        Critique Portrait de l’écrivain Jean Christophe Rufin le 2 février
        2024 chez lui à Bourges.
-     * Mexique : des manifestants enfoncent la porte du palais présidentiel
+      Mexique : des manifestants enfoncent la porte du palais présidentiel
 
        Plusieurs dizaines de personnes qui manifestaient, mercredi 6 mars,
        ont enfoncé une des portes du palais présidentiel à Mexico, selon des
@@ -752,7 +752,7 @@
        Les proches des 43 étudiants disparus à Ayotzinapa protestent contre
        la libération de militaires liés à l’affaire, le 26 janvier 2024 à
        Mexico.
-     * Tchad : le principal opposant à la junte tué dans l’assaut de l’armée
+      Tchad : le principal opposant à la junte tué dans l’assaut de l’armée
        contre son parti
 
        Le porte-parole du gouvernement de la junte du général Mahamat Idriss
@@ -764,7 +764,7 @@
        été tué la veille dans l’assaut par l’armée du siège de son partii
        (photo : des soldats assistent à l’enterrement de l’ancien président
        Idriss Deby, en avril 2021).
-     * Sénégal : le président Sall laisse en suspens la date de l’élection
+      Sénégal : le président Sall laisse en suspens la date de l’élection
        présidentielle
 
        Le président du Sénégal Macky Sall a assuré jeudi 22 février qu’il
@@ -775,7 +775,7 @@
 
        Manifestation contre le report de la présidentielle au Sénégal, le
        17 février 2024 à Dakar.
-     * Chili : l’enquête pour élucider la mort de Pablo Neruda relancée
+      Chili : l’enquête pour élucider la mort de Pablo Neruda relancée
 
        Classées sans suite par la justice chilienne en septembre 2023, après
        une troisième expertise scientifique, les investigations sur les
@@ -785,7 +785,7 @@
 
        Analyse Pablo Neruda est mort le 23 septembre 1973, douze jours après
        le coup d’État d’Augusto Pinochet.
-     * Pérou : 34 ans de prison requis contre l’ancien président Pedro
+      Pérou : 34 ans de prison requis contre l’ancien président Pedro
        Castillo
 
        Un parquet spécialisé dans les poursuites contre des agents de l’État
@@ -797,7 +797,7 @@
        Le parquet péruvien spécialisé dans les poursuites contre des agents
        de l’État a réclamé vendredi 12 janvier une peine de 34 ans de prison
        contre l’ancien président Pedro Castillo.
-     * Au Niger, un Noël amer pour les Français après la fermeture de leur
+      Au Niger, un Noël amer pour les Français après la fermeture de leur
        ambassade
 
        Au Sahel, c’est la première fois que Paris décide de fermer une de ses
@@ -808,7 +808,7 @@
        Reportage Les derniers soldats français embarquent dans un avion
        militaire français pour quitter définitivement le Niger, à Niamey, le
        22 décembre 2023.
-     * Diplomatie : la France ferme son ambassade au Niger
+      Diplomatie : la France ferme son ambassade au Niger
 
        Alors que Niamey a récemment annoncé le départ de tous les soldats
        français déployés au Niger, la France a décidé de fermer son ambassade
@@ -819,7 +819,7 @@
        français déployés au Niger, la France a décidé de fermer son ambassade
        dans le pays (photo : les troupes françaises ont commencé à quitter le
        pays, en septembre 2023).
-     * En Guinée, l’évasion manquée de l’ancien dictateur fait des vagues
+      En Guinée, l’évasion manquée de l’ancien dictateur fait des vagues
 
        Un commando armé a libéré, samedi 4 novembre, quatre prévenus
        impliqués dans l’affaire du « massacre du 28 septembre », causant la
@@ -828,7 +828,7 @@
 
        Analyse Un convoi des forces de sécurité guinéennes dans les rues de
        Conakry, le samedi 4 novembre 2023.
-     * Birmanie : la junte perd une ville stratégique à la frontière chinoise
+      Birmanie : la junte perd une ville stratégique à la frontière chinoise
 
        Jeudi 2 novembre, la junte birmane a perdu le contrôle d’une ville
        stratégique à la frontière chinoise, à la suite des combats contre une
@@ -839,7 +839,7 @@
        Analyse Depuis le coup d’État militaire en 2021, l’Alliance
        démocratique nationale du Myanmar (ici dans le nord de l’État Shan, le
        27 octobre 2023) s’est associée avec d’autres groupes ethniques.
-     * Niger : le président Bazoum aurait essayé de s’évader, sans succès
+      Niger : le président Bazoum aurait essayé de s’évader, sans succès
 
        Le porte-parole de la junte au pouvoir au Niger a annoncé, dans la
        soirée du jeudi 19 octobre, que Mohamed Bazoum, le président déchu,
@@ -852,7 +852,7 @@
        2023, les avocats du président déchu du Niger, ont rejeté les
        accusations de la junte selon lesquelles Mohamed Bazoum aurait tenté
        de s'évader.
-     * Mali : la mission de l’ONU se retire de deux ses deux camps
+      Mali : la mission de l’ONU se retire de deux ses deux camps
 
        La mission de l’ONU au Mali a annoncé avoir commencé à se retirer de
        deux de ses camps situés dans la région de Kidal lundi 16 octobre,
@@ -863,7 +863,7 @@
        Un casque bleu de la mission multidimensionnelle intégrée des Nations
        Unies pour la stabilisation au Mali (Minusma) dans le quartier Djidara
        à Gao, le 23 juin 2018.  
-     * Niger : les opérations de retrait des soldats français commencent
+      Niger : les opérations de retrait des soldats français commencent
 
        Les opérations pour le retrait des soldats français présents au Niger
        vont commencer mardi 10 octobre, a annoncé le régime militaire arrivé
@@ -872,7 +872,7 @@
        Des gendarmes se tiennent à l’entrée de la base militaire de Niamey
        pendant une manifestation contre la présence militaire française, le
        16 septembre 2023.
-     * Gabon : un mois après le coup d’État, l’épouse d’Ali Bongo inculpée et
+      Gabon : un mois après le coup d’État, l’épouse d’Ali Bongo inculpée et
        assignée à résidence
 
        Sylvia Bongo Ondimba Valentin, l’épouse franco-gabonaise du président
@@ -884,7 +884,7 @@
        arrivent à l’abbaye de Westminster, à Londres (Angleterre), le 6 mai
        2023, avant le couronnement du roi Charles III et de la reine consort,
        son épouse Camilla.
-     * Burkina Faso : une « tentative de coup d’État » déjouée par le
+      Burkina Faso : une « tentative de coup d’État » déjouée par le
        gouvernement de transition
 
        Une « tentative de coup d’État » a été déjouée selon le gouvernement
@@ -895,7 +895,7 @@
        de transition du Burkina Faso, mercredi 27 septembre, près d’un an
        après l’arrivée au pouvoir du capitaine Ibrahima Traoré (photo) par un
        putsch.
-     * Brésil : lourdes peines pour les émeutiers de Brasilia
+      Brésil : lourdes peines pour les émeutiers de Brasilia
 
        Les procès des partisans de Jair Bolsonaro qui avaient attaqué la
        capitale brésilienne le 8 janvier 2023 se sont ouverts mercredi
@@ -907,7 +907,7 @@
        Analyse Reconnus coupables de tentative de coup d’État, trois
        partisans de Jair Bolsonaro ont été condamnés jeudi 14 septembre à des
        peines de 17 ou de 14 ans de prison.
-     * Au Chili, la fierté contrariée de l’Église pour les 50 ans du coup
+      Au Chili, la fierté contrariée de l’Église pour les 50 ans du coup
        d’État
 
        L’Église chilienne a joué un rôle fondamental auprès des familles des
@@ -922,7 +922,7 @@
        Pour le 50e anniversaire du coup d’État du 11 septembre 1973, les
        évêques chiliens appellent à « un mois de prière », insistant sur les
        droits de l’homme.
-     * Gabon : le général Oligui devient « président de la transition »
+      Gabon : le général Oligui devient « président de la transition »
 
        Le nouvel homme fort du Gabon doit être investi ce lundi 4 septembre.
        Il cherche à rassurer, moins d’une semaine après le coup d’État qui a
@@ -938,8 +938,8 @@
        Denis Sassou Nguesso of the Republic of Congo, was at the funeral with
        her husband Omar Bongo Ondimba, Africa's longest-serving ruler at 73,
        a day after the body was flown home to a capital in mourning. (Photo
-       by WILS YANICK MANIENGUI / AFP)
-     * Coup d’État au Gabon : l’hypothèse d’un règlement de comptes familial
+       by WILS YANICK MANIENGUI  AFP)
+      Coup d’État au Gabon : l’hypothèse d’un règlement de comptes familial
 
        À Libreville, le leader de l’opposition Albert Ondo Ossa dénonce « une
        révolution de palais ». D’après lui, le putsch qui a renversé Ali
@@ -949,7 +949,7 @@
        Analyse Les enfants du président gabonais Omar Bongo Ondimba, le
        ministre de la Défense Ali Ben Bongo, Omar Denis Junior, Yacine et
        Pascaline Bongo  le 15 juin 2009.
-     * Au Niger, le courage du président Bazoum
+      Au Niger, le courage du président Bazoum
 
        Le président nigérien est retenu en otage depuis plus de cinq semaines
        après un coup d’État militaire. Refusant de démissionner, il continue
@@ -959,7 +959,7 @@
        Jean-Christophe Ploquin, rédacteur en chef à La Croix.
 
        Par Jean-Christophe Ploquin Chronique Jean-Christophe Ploquin.
-     * L’Union africaine annonce la suspension du Gabon après le coup d’État
+      L’Union africaine annonce la suspension du Gabon après le coup d’État
 
        Suite au coup d’État intervenu mercredi, l’Union africaine a annoncé
        la suspension de la participation du Gabon à l’organisation, jeudi
@@ -967,7 +967,7 @@
        la prise du pouvoir par les putschistes.
 
        Des Gabonnais célèbrent le coup d’Etat militaire mercredi 30 août.
-     * Au Gabon, Brice Oligui Nguema, nouvel homme fort issu du clan Bongo
+      Au Gabon, Brice Oligui Nguema, nouvel homme fort issu du clan Bongo
 
        Brice Oligui Nguema, chef de la Garde républicaine, prêtera son
        serment de « président de la transition » lundi 4 septembre.
@@ -975,7 +975,7 @@
        Portrait Brice Oligui Nguema (photo non datée), prêtera serment en
        tant que « président de la transition » au Gabon, le 4 septembre, à la
        suite du coup d’Etat militaire ayant renversé le président Ali Bongo.
-     * Coup d’État au Gabon : ces chefs d’État africains qui s’éternisent au
+      Coup d’État au Gabon : ces chefs d’État africains qui s’éternisent au
        pouvoir
 
        Le président du Gabon, Ali Bongo, a été renversé mercredi 30 août,
@@ -988,7 +988,7 @@
        Cameroun, Idriss Déby du Tchad et Denis Sassou-Nguesso de la
        République du Congo lors du 17e sommet de l’Union africaine le 30 juin
        2011 près de Malabo en Guinée équatoriale.
-     * Gabon : une manne pétrolière en déclin, mais encore beaucoup de
+      Gabon : une manne pétrolière en déclin, mais encore beaucoup de
        ressources minières
 
        Le Gabon, où les militaires putschistes ont placé à leur tête le chef
@@ -1000,7 +1000,7 @@
 
        Analyse Une plateforme pétrolière au large de Port-Gentil, en 2017. Le
        pétrole représente 85% des exportations du Gabon.
-     * Le Gabon plongé dans la confusion après le renversement d’Ali Bongo
+      Le Gabon plongé dans la confusion après le renversement d’Ali Bongo
 
        Des militaires putschistes ont annoncé mercredi 30 août avoir mis
        « fin au régime en place » au Gabon, alors que la réélection du
@@ -1008,7 +1008,7 @@
 
        Analyse Rassemblement de partisans de l’administration militaire à
        Libreville, au Gabon, le 30 août 2023.
-     * Gabon : les Bongo, une dynastie politique depuis plus de cinquante ans
+      Gabon : les Bongo, une dynastie politique depuis plus de cinquante ans
 
        Des militaires ont annoncé mercredi 30 août l’annulation des élections
        qui donnaient vainqueur pour la troisième fois le président Ali Bongo.
@@ -1018,7 +1018,7 @@
 
        Une statue d’Omar Bongo dans un parc à Franceville au Gabon le 21 mai
        2019.
-     * Au Niger, de jeunes volontaires sur le pied de guerre aux côtés des
+      Au Niger, de jeunes volontaires sur le pied de guerre aux côtés des
        putschistes
 
        Des milliers de jeunes gens se mobilisent pour défendre la capitale
@@ -1029,7 +1029,7 @@
        Reportage De nombreux jeunes nigériens se sont rassemblés au stade
        Général-Seyni-Kountché, le 19 août, pour s’engager en faveur des
        putschistes.
-     * Gabon : des militaires annoncent mettre fin au régime en place après
+      Gabon : des militaires annoncent mettre fin au régime en place après
        la réélection d’Ali Bongo
 
        Quelques minutes après l’annonce de la victoire d’Ali Bongo, réélu
@@ -1041,7 +1041,7 @@
        Capture d’écran de la lecture du communiqué des militaires annonçant
        mercredi 30 août à la télévision gabonaise l’annulation des élections
        et la dissolution des institutions.
-     * « Si une guerre est déclenchée, le Niger sera détruit »
+      « Si une guerre est déclenchée, le Niger sera détruit »
 
        Alors que la Communauté économique des États de l’Afrique de l’Ouest
        (Cedeao) menace les putschistes nigériens d’une intervention militaire
@@ -1053,7 +1053,7 @@
        inquiétude face au risque d’une guerre au Niger. Pour rétablir l’ordre
        constitutionnel, la Cedeao menace les putschistes d’une intervention
        militaire.
-     * Crise au Niger : l’Union africaine suspend le pays de ses institutions
+      Crise au Niger : l’Union africaine suspend le pays de ses institutions
 
        Suite au coup d’État intervenu au Niger le 26 juillet dernier, l’Union
        africaine a décidé de suspendre le pays de ses institutions, mardi
@@ -1064,7 +1064,7 @@
        L’Union africaine a décidé de suspendre le Niger de ses institutions,
        mardi 22 août. (Photo  : les partisans de la junte militaire
        protestent contre les sanctions de la Cedeao, le 10 août.)
-     * Au Niger, le chef de la junte cherche à gagner du temps
+      Au Niger, le chef de la junte cherche à gagner du temps
 
        Après la visite d’une délégation de représentants des pays d’Afrique
        de l’Ouest, le général Tchiani, à la tête du Niger depuis le coup
@@ -1075,7 +1075,7 @@
        Le général Abdourahamane Tchiani, à la tête du Niger depuis le coup
        d’État du 26 juillet, lors d’une intervention à la télévision le 28
        juillet.
-     * Coup d’État au Niger : les États-Unis prennent leurs distances avec la
+      Coup d’État au Niger : les États-Unis prennent leurs distances avec la
        France
 
        Les États-Unis, qui ne veulent pas remettre en cause leur engagement
@@ -1087,7 +1087,7 @@
        Explication Le secrétaire d'État américain, Antony Blinken, avant de
        quitter le Niger à l'aéroport international Diori Hamani de Niamey, au
        Niger, le 17 mars 2023.
-     * Niger : le régime militaire veut poursuivre le président déchu pour
+      Niger : le régime militaire veut poursuivre le président déchu pour
        « haute trahison »
 
        Les militaires au pouvoir au Niger depuis le coup d’État ont déclaré
@@ -1097,7 +1097,7 @@
        Un jeune homme porte un drapeau nigérien décoré avec le portrait du
        général Abdourahamane Tiani, chef des militaires qui ont pris le
        pouvoir au Niger, le 13 août 2023 à Niamey.
-     * Niger : des appels à la prière et une tentative de médiation
+      Niger : des appels à la prière et une tentative de médiation
 
        Les évêques du Niger, en crise politique depuis le putsch du
        26 juillet, ont appelé les catholiques du pays à trois jours de prière
@@ -1108,7 +1108,7 @@
        d’État militaire à Niamey, Niger, 6 août 2023. Dans un communiqué du
        10 août, les évêques du Niger ont appelé les catholiques du pays à
        trois jours de prière, les 13, 14 et 15 août.
-     * Niger : la Cedao annonce vouloir mobiliser sa force d’intervention
+      Niger : la Cedao annonce vouloir mobiliser sa force d’intervention
 
        Les États d’Afrique de l’Ouest ont ordonné jeudi 10 août le
        déploiement de la force de la Cedeao pour restaurer l’ordre
@@ -1118,14 +1118,14 @@
 
        Le président du Nigeria, Bola Tinubu, et les dirigeants de la Cedeao à
        Abuja le 10 août 2023.
-     * Niger : inquiétudes sur le sort du président Mohamed Bazoum
+      Niger : inquiétudes sur le sort du président Mohamed Bazoum
 
        La junte assoit son emprise au Niger avec la nomination d’un nouveau
        gouvernement. La communauté internationale s’alarme des conditions
        « déplorables » de détention du président Bazoum.
 
        Mohamed Bazoum en juin 2023 en France.
-     * Niger : les jeunes veulent donner leur chance aux putschistes
+      Niger : les jeunes veulent donner leur chance aux putschistes
 
        Comme au Mali et au Burkina Faso voisins, la junte qui a pris le
        pouvoir, fin juillet, au Niger bénéficie d’un large soutien populaire.
@@ -1134,7 +1134,7 @@
 
        Analyse Des partisans de la junte au pouvoir au Niger manifestent à
        Niamey, le 6 août 2023.
-     * Crise au Niger : l’intervention militaire de la Cedeao s’éloigne
+      Crise au Niger : l’intervention militaire de la Cedeao s’éloigne
 
        Après avoir affiché une posture martiale au début de la crise, la
        Communauté économique des États de l’Afrique de l’Ouest (Cedeao)
@@ -1146,7 +1146,7 @@
        président du Nigeria Bola Tinubu, actuellement à la tête de la Cedeao,
        a assuré que la diplomatie était la « meilleure voie à suivre ». Ici à
        Abuja, le 30 juillet 2023.
-     * Crise au Niger : la diplomatie « est la meilleure voie à suivre »
+      Crise au Niger : la diplomatie « est la meilleure voie à suivre »
        selon la Cedeao
 
        Le président du Nigeria Bola Tinubu, à la tête de la Cedeao, estime
@@ -1158,7 +1158,7 @@
        Des dirigeants des pays de la Cédéao lors d’une réunion extraordinaire
        sur la situation politique au Niger, à Abuja au Nigéria, le 2 août
        2023.
-     * Le président de l’épiscopat du Nigeria s’oppose à une intervention
+      Le président de l’épiscopat du Nigeria s’oppose à une intervention
        militaire au Niger
 
        « Il vaut mieux dialoguer plutôt que d’entrer dans une guerre
@@ -1173,7 +1173,7 @@
        la Conférence des évêques catholiques du Nigeria, s’est opposé à
        l’option militaire brandie par la CEDEAO pour contraindre les
        putschistes du Niger à rétablir l’ordre constitutionnel.
-     * Niger : discussions « difficiles » entre une émissaire américaine et
+      Niger : discussions « difficiles » entre une émissaire américaine et
        les auteurs du coup d’État
 
        Au lendemain de l’expiration de l’ultimatum de la Cedeao, une
@@ -1183,7 +1183,7 @@
 
        Des carcasses de voitures brûlées devant le siège du parti du
        président nigérien déchu Mohamed Bazoum, le 7 août 2023 à Niamey.
-     * Niger : l’espace aérien fermé par les militaires à l’expiration de
+      Niger : l’espace aérien fermé par les militaires à l’expiration de
        l’ultimatum de la Cedeao
 
        À l’expiration de l’ultimatum adressé par la Communauté économique des
@@ -1194,7 +1194,7 @@
        Un partisan du Conseil national pour la sauvegarde de la patrie (CNSP)
        du Niger tient une pancarte lors d'une manifestation devant le Stade
        Général Seyni Kountche à Niamey, au Niger, le 6 août 2023.
-     * RFI, France 24 : dans quels pays d’Afrique les médias français
+      RFI, France 24 : dans quels pays d’Afrique les médias français
        sont-ils interdits ?
 
        Le Niger a suspendu la diffusion de RFI et France 24 sur son
@@ -1206,7 +1206,7 @@
        La chaîne de télévision France 24 et la radio RFI ont été interdites
        de diffusion au Niger, jeudi 3 août suite du coup d’État militaire
        survenu le 26 juillet. (Photo d’illustration)
-     * Niger : Bazoum appelle à l’aide, les putschistes menacent de riposter
+      Niger : Bazoum appelle à l’aide, les putschistes menacent de riposter
 
        Le président du Niger Mohamed Bazoum, séquestré depuis le coup d’État,
        a demandé jeudi 3 août « la restauration de l’ordre constitutionnel ».
@@ -1217,7 +1217,7 @@
 
        Des manifestants pro-junte lors d’un rassemblement à Niamey au Niger
        le 3 août 2023.
-     * Au Niger, « il suffit d’un rien pour se faire prendre »
+      Au Niger, « il suffit d’un rien pour se faire prendre »
 
        Jeudi 3 août, les partisans du coup d’État se sont réunis pour une
        manifestation à l’occasion de la fête nationale. La population
@@ -1229,7 +1229,7 @@
        Mohamed Bazoum, les commerçants ont augmenté le prix des denrées
        alimentaires de première nécessité (photo : manifestants à Niamey, au
        Niger, le 3 août 2023).
-     * Niger : qu’est-ce que le M62, le mouvement pro-putsch qui réclame le
+      Niger : qu’est-ce que le M62, le mouvement pro-putsch qui réclame le
        départ des Français ?
 
        Des milliers de manifestants ont répondu présent, jeudi 3 août, à
@@ -1240,7 +1240,7 @@
 
        Des manifestants devant l’ambassade de France à Niamey lors d’un
        rassemblement en soutien à la junte, le 30 juillet 2023.
-     * Niger : les Français « n’ont aucune raison objective de quitter le
+      Niger : les Français « n’ont aucune raison objective de quitter le
        pays », selon le général Tiani
 
        Le général putschiste Abdourahamane Tiani qui a renversé le président
@@ -1251,7 +1251,7 @@
        Un avion français atterrit au Niger dans le cadre de l'évacuation par
        Paris de ses ressortissants après le coup d'Etat, ici le 1er août
        2023.
-     * Au Niger, la Cedeao agite sa force armée contre les putschistes
+      Au Niger, la Cedeao agite sa force armée contre les putschistes
 
        Alors que l’ultimatum de la Cedeao prend fin dimanche 6 août et que
        celle-ci n’exclut pas, en dernier recours, l’usage de la force pour
@@ -1261,7 +1261,7 @@
        Analyse Des dirigeants d'Afrique de l'Ouest se sont réunis en urgence
        à Abuja au Nigeria, dimanche 30 juillet 2023, donnant un ultimatum aux
        putschistes nigériens.
-     * Niger : « La difficulté pour la France au Sahel est de devoir gérer
+      Niger : « La difficulté pour la France au Sahel est de devoir gérer
        l’urgence et l’histoire en même temps »
 
        Bakary Sambe est enseignant-chercheur à l’université Gaston-Berger de
@@ -1275,7 +1275,7 @@
        Niamey, capitale du Niger, le 30 juillet 2023, quelques jours après le
        renversement du président Mohamed Bazoum lors d’un coup d’État
        militaire le 26 juillet.
-     * Niger : qui sont les Français installés dans ce pays du Sahel ?
+      Niger : qui sont les Français installés dans ce pays du Sahel ?
 
        Face à la dégradation de la situation après le coup d’État au Niger,
        la France a commencé mardi 1er août à évacuer ses ressortissants.
@@ -1286,7 +1286,7 @@
        Des protestataires tiennent une pancarte de l’ambassade de France au
        Niger lors d’une manifestation à Niamey en soutien à la junte
        militaire, le 30 juillet 2023.
-     * Niger : les évacuations françaises devraient s’achever à la mi-journée
+      Niger : les évacuations françaises devraient s’achever à la mi-journée
 
        Les autorités françaises souhaitent clore mercredi 2 août à la
        mi-journée les opérations d’évacuation de leurs ressortissants du
@@ -1295,7 +1295,7 @@
 
        Des personnes évacuées du Niger arrivent à l'aéroport de Paris-Roissy
        Charles de Gaulle, le 2 août 2023
-     * Au Niger, l’évacuation des militaires français n’est « pas à l’ordre
+      Au Niger, l’évacuation des militaires français n’est « pas à l’ordre
        du jour »
 
        L’État-major des armées a annoncé mardi 1er août que l’évacuation des
@@ -1307,7 +1307,7 @@
        annoncé mardi 1er août, l’État-major français, après le coup d’État
        militaire. (Photo  : des militaires de l’opération Barkhane au Mali le
        30 octobre 2019
-     * Niger : la France va évacuer ses ressortissants
+      Niger : la France va évacuer ses ressortissants
 
        Le Quai d’Orsay a annoncé mardi 1er août qu’il allait commencer dès
        aujourd’hui à évacuer les ressortissants français du Niger. Une
@@ -1316,7 +1316,7 @@
 
        Manifestation de soutien aux putschistes devant l'Assemblée nationale
        du Niger, à Niamey, le 30 juillet 2023
-     * Niger : comment la Cedeao peut-elle peser sur le coup d’État ?
+      Niger : comment la Cedeao peut-elle peser sur le coup d’État ?
 
        Dimanche 30 juillet, la Communauté économique des États de l’Afrique
        de l’Ouest (Cedeao) a ordonné un blocus économique au Niger et surtout
@@ -1327,7 +1327,7 @@
        Débat Les présidents de la Communauté économique des États de
        l'Afrique de l'Ouest (CEDEAO) lors de la session extraordinaire des
        chefs d'État et de gouvernement à Abuja, le 30 juillet 2023.
-     * Coup d’État au Niger : les précédentes interventions françaises sur le
+      Coup d’État au Niger : les précédentes interventions françaises sur le
        sol africain
 
        La junte nigérienne parvenue au pouvoir après le putsch a accusé,
@@ -1337,7 +1337,7 @@
 
        Des soldats français patrouillent dans les rues du village de Guintou
        près de Gao au Mali, le 4 décembre 2021.
-     * Niger : Cedeao, Union africaine… Quelles sont les organisations
+      Niger : Cedeao, Union africaine… Quelles sont les organisations
        régionales en Afrique ?
 
        La Cedeao a menacé dimanche 30 juillet d’intervenir militairement au
@@ -1348,7 +1348,7 @@
 
        Explication Rencontre des chefs d’État membre de la Cedeao à Abuja, au
        Nigeria, dimanche 30 juillet, suite au coup d’État au Niger.
-     * Coup d'État au Niger : l’hostilité antifrançaise s’affiche à Niamey
+      Coup d'État au Niger : l’hostilité antifrançaise s’affiche à Niamey
 
        Des milliers de manifestants hostiles à Paris et solidaires avec les
        militaires putschistes se sont rassemblés devant l’ambassade de France
@@ -1358,18 +1358,18 @@
 
        Explication Des manifestants antifrançais protestent dans les rues de
        Niamey, au Niger, le jeudi 27 juillet 2023.
-     * Niger : réactions internationales, aide humanitaire... la pression
+      Niger : réactions internationales, aide humanitaire... la pression
        monte après le coup d’État militaire
 
        La condamnation internationale est unanime après le coup d’État monté
        jeudi 27 juillet par le général Abdourahamane Tchiani au Niger.
-       Plusieurs pays - dont les États-Unis - menacent de couper soutien au
+       Plusieurs pays  dont les États-Unis  menacent de couper soutien au
        développement et aide humanitaire.
 
        Explication Un supporter des putschistes lors d’une manifestation
        organisée jeudi 27 juillet devant l’Assemblée nationale à Niamey
        (Niger).
-     * Niger : le général Abdourahamane Tchiani, nouvel homme fort après le
+      Niger : le général Abdourahamane Tchiani, nouvel homme fort après le
        coup d’État
 
        Le général Abdourahamane Tchiani est apparu à la télévision vendredi
@@ -1380,7 +1380,7 @@
 
        Le général Adbourahamane Tchiani, nouvel homme fort du Niger, à la
        télévision nationale le 28 juillet 2023.
-     * Niger : tentative de coup d’État, le président Bazoum retenu
+      Niger : tentative de coup d’État, le président Bazoum retenu
 
        Une tentative de coup d’État est en cours mercredi 26 juillet au
        Niger. Le président Mohamed Bazoum est retenu par des membres de la
@@ -1388,7 +1388,7 @@
        de l’armée.
 
        Le président nigérien Mohamed Bazoum, le 15 juillet 2022 à Niamey
-     * De Rostov à Moscou, les Russes ont observé dans l’expectative « la
+      De Rostov à Moscou, les Russes ont observé dans l’expectative « la
        marche » de Prigojine
 
        Avant qu’il ne donne l’ordre à ses troupes de retourner dans leur
@@ -1398,14 +1398,14 @@
 
        Récit Un couple pose pour une photo à proximité de la Place Rouge à
        Moscou, samedi 24 juin, jour de la mutinerie de Evgueni Prigojine.
-     * Prigojine : le défi à Poutine
+      Prigojine : le défi à Poutine
 
        Une mutinerie lancée par l’une des principales milices russes engagées
        dans la guerre en Ukraine a déclenché la plus grave crise interne
        affrontée par Vladimir Poutine depuis qu’il est au pouvoir.
 
        Par Jean-Christophe Ploquin Éditorial [IMG]
-     * Soudan : des soubresauts sans fin depuis la révolution de 2019
+      Soudan : des soubresauts sans fin depuis la révolution de 2019
 
        Les combats meurtriers se poursuivent lundi 17 avril à Khartoum, au
        Soudan, entre l’armée sous les ordres du général Abdel Fattah Al
@@ -1416,7 +1416,7 @@
        De la fumée dans un quartier de Khartoum au Soudan, samedi 15 avril
        2023, durant des heurts entre l’armée et les puissantes forces
        paramilitaires, après des semaines de tension.
-     * En Allemagne, l’affaire du putsch raté rejaillit sur l’AfD
+      En Allemagne, l’affaire du putsch raté rejaillit sur l’AfD
 
        Une semaine après le démantèlement d’une cellule terroriste impliquant
        deux de ses membres, le parti d’extrême droite allemand AfD, sous le
@@ -1425,7 +1425,7 @@
        Analyse La députée fédérale Alice Weidel, coprésidente du parti
        d’extrême droite AfD, a minimisé la menace en parlant d’un « coup
        d’État en déambulateur », en référence à l’âge élevé des putschistes.
-     * Guinée : la junte accepte de rendre le pouvoir aux civils au bout de
+      Guinée : la junte accepte de rendre le pouvoir aux civils au bout de
        deux ans
 
        La junte militaire, au pouvoir en Guinée depuis le coup d’État du
@@ -1436,7 +1436,7 @@
        Le colonel Mamadi Dombouya, leader du coup d’État du 5 septembre 2021
        en Guinée, lors de sa cérémonie d’investiture comme président de
        transition du pays, en octobre 2021.
-     * Tchad : Mahamat Déby consolide son pouvoir à la tête du pays
+      Tchad : Mahamat Déby consolide son pouvoir à la tête du pays
 
        Le Dialogue national inclusif et souverain (DNIS), qui s’est achevé
        samedi 8 octobre à N'Djamena, a prolongé de deux ans la transition
@@ -1446,7 +1446,7 @@
 
        Analyse Mahamat Idriss Déby prêtant serment comme président de la
        République du Tchad, le 10 octobre 2022.
-     * Le capitaine Ibrahim Traoré, nouvel homme fort du Burkina Faso
+      Le capitaine Ibrahim Traoré, nouvel homme fort du Burkina Faso
 
        Ce jeune officier de 34 ans s’est emparé du pouvoir sans grande
        difficulté. Peu connu, il veut lutter contre tous les maux qui
@@ -1455,7 +1455,7 @@
 
        Portrait Le capitaine Ibrahim Traoré défile dans les rues de
        Ouagadougou, le 2 octobre 2022 (image tirée d’une vidéo AFPTV).
-     * En Afrique, la Russie cible et chasse la France
+      En Afrique, la Russie cible et chasse la France
 
        Hier en Centrafrique et au Mali, aujourd’hui au Burkina Faso, la
        France est victime d’attaques directes de groupes et de réseaux
@@ -1465,7 +1465,7 @@
        Analyse Des manifestants burkinabè se tiennent au sommet d'un véhicule
        blindé alors qu'ils manifestent en portant un drapeau russe, à
        Ouagadougou le 2 octobre 2022.
-     * Le spectre d’un nouveau coup d’État plane sur le Burkina Faso
+      Le spectre d’un nouveau coup d’État plane sur le Burkina Faso
 
        Des tirs ont été entendus et des soldats ont pris position, vendredi
        30 septembre, sur de grands axes de la capitale Ouagadougou. Le
@@ -1475,7 +1475,7 @@
 
        Analyse Des soldats burkinabés sont vus déployés à Ouagadougou, le 30
        septembre 2022.
-     * Assaut du Capitole : une commission d’enquête place Trump au centre
+      Assaut du Capitole : une commission d’enquête place Trump au centre
        d’une « tentative de coup d’État »
 
        Une commission d’enquête parlementaire a placé jeudi 9 juin, l’ancien
@@ -1485,7 +1485,7 @@
        Une vidéo de Donald Trump est diffusée alors que la vice-présidente
        Liz Cheney du Wyoming prononce son discours lors de la commission
        d'enquête sur l'attaque du 6 janvier au Capitole.
-     * Tentative de coup d’État, trafic de drogue… La Guinée-Bissau, un pays
+      Tentative de coup d’État, trafic de drogue… La Guinée-Bissau, un pays
        en proie à l’instabilité
 
        Quarante-huit heures après le putsch manqué contre le président Umaro
@@ -1498,7 +1498,7 @@
        Explication Un périmètre de sécurité mis en place par des militaires à
        la suite de la tentative de coup d’État à Bissau, en Guinée-Bissau, le
        1er février 2022.
-     * Birmanie : un an après le coup d’État, le pays s’enlise dans une
+      Birmanie : un an après le coup d’État, le pays s’enlise dans une
        guerre sans fin
 
        Un an après le coup d’État militaire du 1er février 2021, tout le pays
@@ -1509,7 +1509,7 @@
 
        Analyse Des soldats et des policiers montent la garde devant un poste
        de police à Rangoun, en Birmanie, le 27 janvier. 
-     * Coup d’État au Burkina Faso : qui est le chef de la junte ?
+      Coup d’État au Burkina Faso : qui est le chef de la junte ?
 
        Le lieutenant-colonel Paul-Henri Sandaogo Damiba est à la tête des
        militaires qui viennent de renverser le président burkinabé, Roch Marc
@@ -1520,7 +1520,7 @@
        Portrait Un homme brandit le portrait de Paul-Henri Sandaogo Damiba,
        le lieutenant-colonel à la tête des putschistes qui ont renversé le
        président Rock Kaboré au Burkina Faso.
-     * Au Burkina Faso, la population accueille avec soulagement le coup
+      Au Burkina Faso, la population accueille avec soulagement le coup
        d’État
 
        Le lieutenant-colonel Damiba a revendiqué un coup d’État dans la
@@ -1529,7 +1529,7 @@
 
        Reportage Des manifestants se rassemblent place de la Nation à
        Ouagadougou mardi 25 janvier en soutien au coup d’Etat militaire.
-     * Burkina Faso : des militaires annoncent « suspendre » la Constitution
+      Burkina Faso : des militaires annoncent « suspendre » la Constitution
        du pays
 
        Dans une déclaration à la télévision publique, les putschistes ont
@@ -1539,7 +1539,7 @@
        Des militaires burkinabè montent la garde le 24 janvier 2022 devant le
        siège de la télévision nationale, à Ougadougou, capitale du Burkina
        Faso, où des mutins ont arrêté le chef de l'Etat.
-     * Au Burkina Faso, l’armée prend le pouvoir
+      Au Burkina Faso, l’armée prend le pouvoir
 
        Des militaires menés par un jeune lieutenant-colonel ont annoncé avoir
        suspendu les institutions et fermé les frontières du Burkina Faso. La
@@ -1550,7 +1550,7 @@
        Analyse Un vendeur de journaux dans les rues de Ouagadougou lundi 24
        janvier. Le président burkinabé Roch Marc Christian Kabor a été arrêté
        par l’armée. 
-     * Au Soudan, les femmes ne veulent plus faire « office de décor »
+      Au Soudan, les femmes ne veulent plus faire « office de décor »
 
        Les femmes se trouvaient en première ligne lors des manifestations
        ayant conduit à la chute du dictateur Omar El Béchir. Trois ans après
@@ -1562,14 +1562,14 @@
        Reportage Des manifestants soudanais anti-coup d'Etat descendent dans
        la rue lors d'une manifestation à Khartoum, au Soudan, le 25 novembre
        2021.
-     * En Birmanie, la résistance à la junte ne faiblit pas
+      En Birmanie, la résistance à la junte ne faiblit pas
 
        La junte birmane a condamné lundi 6 décembre Aung San Suu Kyi à deux
        ans de prison. Pendant ce temps, l’armée se déploie dans tout le pays
        et bombarde les régions ethniques. La population continue pourtant de
        résister, en dépit de dix mois d’une terrible répression.
 
-       Analyse YANGON, MYANMAR - 2021/12/04: Around 50 anti military
+       Analyse YANGON, MYANMAR  20211204: Around 50 anti military
        protesters holding a large banner with the words "The Only Real Prison
        is Fear & The Real Freedom is Freedom From Fear" walk down the street
        to protest against the military coup and demanded the release of Aung
@@ -1581,7 +1581,7 @@
        peaceful protesters using real bullets and an army truck drove into
        the rally at high speed. Two journalists were also wounded. (Photo by
        Santosh Krl/SOPA Images/LightRocket via Getty Images)
-     * Mariam Al-Sadig, la ministre qui tient tête à l’armée soudanaise
+      Mariam Al-Sadig, la ministre qui tient tête à l’armée soudanaise
 
        Dix jours après le coup d’État, le chef de l’armée devrait nommer
        prochainement un nouveau premier ministre. En attendant, la ministre
@@ -1591,7 +1591,7 @@
        Portrait La ministre des affaires étrangères Mariam Al-Sadig continue
        d’assurer ses fonctions de cheffe de la diplomatie depuis son
        domicile, malgré le coup d’Etat militaire.
-     * Abdel Fattah al-Burhan, de général méconnu à homme fort du Soudan
+      Abdel Fattah al-Burhan, de général méconnu à homme fort du Soudan
 
        Ce général de 61 ans est à la tête des militaires qui ont repris en
        main le pouvoir au Soudan lundi 25 octobre en renversant le
@@ -1600,7 +1600,7 @@
        révolte pour devenir l’homme fort du pays.
 
        Portrait Abdel Fattah al-Burhan le 25 octobre 2021.
-     * Au Soudan, l’armée reprend le pouvoir
+      Au Soudan, l’armée reprend le pouvoir
 
        L’armée soudanaise a arrêté plusieurs dirigeants du gouvernement civil
        dont le premier ministre Abdallah Hamdok, lundi 25 octobre. Le général
@@ -1609,7 +1609,7 @@
 
        Analyse Le 25 octobre, à Khartoum, des manifestations ont lieu contre
        les arrestations de membres du gouvernement par l’armée.
-     * Soudan : un coup d’État déjoué dans un climat de tension
+      Soudan : un coup d’État déjoué dans un climat de tension
 
        Des proches de l’ancien président soudanais Omar El Béchir ont tenté
        de renverser le conseil de transition, mardi 21 septembre, selon les
@@ -1618,7 +1618,7 @@
 
        Analyse Abdel Fattah Al-Burhan Abdelrahmane, chef du Conseil militaire
        de transition du Soudan, le 15 septembre 2020.
-     * En Guinée, le nouveau pouvoir donne des gages d’apaisement
+      En Guinée, le nouveau pouvoir donne des gages d’apaisement
 
        La junte qui a renversé le président Alpha Condé, dimanche, prend des
        mesures attendues par la société civile et les partis de l’opposition
@@ -1629,7 +1629,7 @@
        Analyse Des détenus marchent devant la prison centrale de Conakry, le
        7 septembre 2021, après avoir été libérés avec une douzaine d'autres
        opposants politiques au président déchu.
-     * Guinée : Mamady Doumbouya, le nouvel homme fort
+      Guinée : Mamady Doumbouya, le nouvel homme fort
 
        L’homme qui a renversé le président Alpha Condé, dimanche 5 septembre,
        a une solide carrière militaire derrière lui. Originaire de l’est du
@@ -1639,7 +1639,7 @@
        Portrait Le lieutenant-colonel Mamady Doumbouya, chef des forces
        spéciales de l'armée et chef du coup d'État, salue la foule à son
        arrivée au Palais du peuple à Conakry (Guinée), le 6 septembre.
-     * Coup d’État en Guinée : le président Alpha Condé arrêté par les
+      Coup d’État en Guinée : le président Alpha Condé arrêté par les
        putschistes
 
        Des forces spéciales guinéennes ont annoncé avoir arrêté le président
@@ -1651,7 +1651,7 @@
        Analyse Des membres des Forces armées guinéennes traversent le
        quartier central de Kaloum, à Conakry, le 5 septembre 2021 après que
        des coups de feu aient été entendus.
-     * Birmanie : la résistance en exil lance une radio clandestine
+      Birmanie : la résistance en exil lance une radio clandestine
 
        Plus de six mois après le coup d’État en Birmanie, le gouvernement en
        exil a lancé ce week-end une radio clandestine qui diffuse des
@@ -1661,7 +1661,7 @@
        Le 8 mai 2021, des manifestants marchent avec des bannières soutenant
        le gouvernement d'unité nationale (NUG) de l'opposition lors d'une
        manifestation contre le coup d'État militaire à Hpakant, en Birmanie.
-     * En Birmanie, « l’armée n’a rien fait pour endiguer la propagation du
+      En Birmanie, « l’armée n’a rien fait pour endiguer la propagation du
        virus »
 
        Pour pallier l’inaction de l’armée birmane face à la crise sanitaire,
@@ -1674,7 +1674,7 @@
        Myanmar, déjà ébranlé par un coup d'État en février et une répression
        sanglante de la dissidence qui a tué plus de 900 personnes et vidé
        l'économie.
-     * En Turquie, l’interminable traque des membres de la confrérie Gülen
+      En Turquie, l’interminable traque des membres de la confrérie Gülen
 
        La Turquie a médiatisé la capture d’un nouveau membre de la confrérie,
        Selahhadin Gülen, soupçonné d’être impliqué dans la tentative de coup
@@ -1684,7 +1684,7 @@
 
        Analyse Selahhadin Gülen, neveu du prédicateur Fethullah Gülen, vient
        d’être « rapatrié » du Kenya par les services de renseignement turc.
-     * Mali : les militaires annoncent la libération du président et du
+      Mali : les militaires annoncent la libération du président et du
        premier ministre
 
        Arrêtés par les militaires lundi 24 mai, le président et le premier
@@ -1693,7 +1693,7 @@
 
        Le premier ministre de transition malien Moctar Ouane, ici à Konna en
        mars, vient d’être libéré par les militaires, ont-ils annoncé.
-     * En Birmanie, le sacrifice de la jeunesse face au coup d’État
+      En Birmanie, le sacrifice de la jeunesse face au coup d’État
 
        Il y a cent jours, l’armée birmane effectuait un nouveau coup d’État.
        Depuis, la répression a déjà fait près de 800 morts et plus de 3 000
@@ -1704,7 +1704,7 @@
        Récit Des manifestants aux couleurs de la Ligue nationale pour la
        démocratie, le parti d’Aung San Suu Kyi, qui s’oppose au coup d’État
        militaire.
-     * La France doit reconnaître le gouvernement légitime en Birmanie
+      La France doit reconnaître le gouvernement légitime en Birmanie
 
        Myint Tin Tin Htar, présidente de l’association La communauté birmane
        de France, qui a été constituée il y a une dizaine d’années en lien
@@ -1716,7 +1716,7 @@
        Opinion Une chemise portant le  signe du salut à trois doigts,  le
        salut symbolique  depuis le coup d'État militaire de février en
        Birmanie lors d'une manifestation à Rangoun le mercredi 21 avril 2021
-     * Birmanie : pourquoi la Chine refuse-t-elle de sanctionner la junte ?
+      Birmanie : pourquoi la Chine refuse-t-elle de sanctionner la junte ?
 
        L’ONU dit redouter une « guerre civile » en Birmanie. Si la Chine se
        joint aux condamnations des violences par le Conseil de sécurité de
@@ -1726,7 +1726,7 @@
        Analyse Des copies de la Constitution de 2008 brûlent devant des
        manifestants, dans le canton de South Okkalapa à Yangon, Birmanie, le
        1er avril 2021.
-     * Birmanie : Aung San Suu Kyi lourdement accusée par les autorités
+      Birmanie : Aung San Suu Kyi lourdement accusée par les autorités
 
        Les autorités reprochent à l’ex-dirigeante birmane d’avoir violé une
        loi sur les secrets d’État, a indiqué l’un de ses avocats à l’issue
@@ -1736,7 +1736,7 @@
 
        Aung San Suu Kyi, le 17 janvier 2020 à Naypyidaw. L’ex-dirigeante est
        détenue par les autorités birmanes depuis le putsch du 1er février.
-     * En Birmanie, les entreprises françaises réagissent en ordre dispersé
+      En Birmanie, les entreprises françaises réagissent en ordre dispersé
 
        Accor et Total ont décidé pour l’instant de rester dans le pays. EDF
        et Voltalia ont choisi de partir. Depuis le putsch du 1er février,
@@ -1745,7 +1745,7 @@
 
        Des militants lors d'une manifestation devant le siège de Total, à La
        Défense, près de Paris, le 25 mars 2021.
-     * Birmanie : Aung San Suu Kyi « en bonne santé », selon son avocate
+      Birmanie : Aung San Suu Kyi « en bonne santé », selon son avocate
 
        Arrêtée le 1er février lors du putsch de l’armée, l’ex-dirigeante
        birmane, âgée de 75 ans, doit comparaître jeudi 1er avril devant la
@@ -1754,7 +1754,7 @@
 
        Des Birmans manifestent contre le coup d’Etat militaire, à Taïwan, le
        28 mars 2021.
-     * En Birmanie, le cardinal Bo appelle les manifestants à la non-violence
+      En Birmanie, le cardinal Bo appelle les manifestants à la non-violence
 
        Le week-end s’annonce tendu en Birmanie alors que se déroulera, samedi
        27 mars, la Journée des forces armées, laissant craindre un
@@ -1764,14 +1764,14 @@
 
        Des manifestants anti-coup d'État jettent des pierres sur des soldats
        lors d'une manifestation en Birmanie.
-     * En Birmanie, l’ONU divisée face aux violences
+      En Birmanie, l’ONU divisée face aux violences
 
        La répression s’intensifie encore en Birmanie alors que l’ONU n’arrive
        pas à trouver une réponse unanime pour y mettre un terme.
 
        Des manifestants se protègent contre les forces de l’ordre à Bagan, en
        Birmanie, le 7 mars.
-     * En Birmanie, le jour le plus sanglant
+      En Birmanie, le jour le plus sanglant
 
        La Birmanie a connu, mercredi 3 mars, la journée de répression la plus
        meurtrière depuis le coup d’État du 1er février, avec au moins 38
@@ -1782,7 +1782,7 @@
        Analyse À Rangoun, les manifestants sont revenus dans les rues jeudi 4
        mars, au lendemain du massacre de dizaines de personnes par les forces
        de sécurité.
-     * L’armée birmane, une « caste xénophobe » toute-puissante
+      L’armée birmane, une « caste xénophobe » toute-puissante
 
        La Birmanie vit à nouveau sous la férule d’une junte militaire depuis
        le coup d’État du 1er février, après dix années de transition
@@ -1792,7 +1792,7 @@
 
        Enquête Le général Min Aung Hlaing passe en revue des troupes, lors de
        la « journée des forces armées », le 27 mars 2014, à Naypyidaw.
-     * En Birmanie, la résistance s’organise contre le putsch
+      En Birmanie, la résistance s’organise contre le putsch
 
        Deux jours après le coup d’État militaire qui a renversé le régime
        civil, les appels à la résistance se multiplient. La Ligue nationale
@@ -1803,7 +1803,7 @@
        Analyse En signe de contestation, le personnel médical de l’hôpital
        général de Rangoun fait un salut à trois doigts et arbore des rubans
        rouges sur leur uniforme, le 3 février.
-     * Birmanie : Min Aung Hlaing, le putschiste aux pleins pouvoirs
+      Birmanie : Min Aung Hlaing, le putschiste aux pleins pouvoirs
 
        Avant le coup d’État du 1er février, le chef de l’armée birmane, le
        général Min Aung Hlaing, 64 ans, était déjà l’homme le plus puissant
@@ -1813,7 +1813,7 @@
        Portrait Le commandant en chef militaire du Myanmar, le général en
        chef Min Aung Hlaing, salue lors d'un exercice militaire dans la
        région du delta de l'Ayeyarwaddy, au Myanmar, le 3 février 2018.
-     * Mali : le président démissionne, les militaires au pouvoir
+      Mali : le président démissionne, les militaires au pouvoir
 
        Le président malien Ibrahim Boubacar Keïta a annoncé dans la nuit de
        mardi à mercredi 19 août sa démission et la dissolution du Parlement
@@ -1823,7 +1823,7 @@
 
        Les forces de l’armée malienne acclamées par les manifestants à
        Bamako, le 18 août 2020.
-     * Au Burkina Faso, le procès du coup d’État manqué marque un pas vers la
+      Au Burkina Faso, le procès du coup d’État manqué marque un pas vers la
        réconciliation
 
        Contre les esprits sceptiques, le procès du putsch de 2014 contre le
@@ -1834,7 +1834,7 @@
 
        Des militaires portent le cercueil d'une des victimes du coup d’État
        du général Diendere (octobre 2018).
-     * Après le coup d’État au Gabon, un retour à l’anormale
+      Après le coup d’État au Gabon, un retour à l’anormale
 
        Un commando de l’armée gabonaise a essayé de prendre le pouvoir avant
        d’être neutralisé. Depuis deux mois et demi, Ali Bongo n’est plus en
@@ -1843,7 +1843,7 @@
        Des gendarmes gabonais patrouillent dans Libreville, le 7 janvier,
        après qu’un commando de l’armée gabonaise ait essayé de prendre le
        pouvoir par la force.
-     * Au Zimbabwe, l’armée dément un coup d’État
+      Au Zimbabwe, l’armée dément un coup d’État
 
        Des officiers de l’armée du Zimbabwe ont démenti dans la nuit de
        mardi 14 à mercredi 15 novembre toute tentative de coup d’État contre
@@ -1854,7 +1854,7 @@
        Char dans les rues de Harare, au Zimbabwe, mercredi 15 novembre 2017.
        Des officiers de l’armée ont démenti toute tentative de coup d’État
        contre le président Robert Mugabe.
-     * Putsch raté en Turquie, plus de 150 000 personnes arrêtées ou limogées
+      Putsch raté en Turquie, plus de 150 000 personnes arrêtées ou limogées
        depuis un an
 
        Le pouvoir turc commémore ce samedi 15 juillet la tentative de coup
@@ -1866,9 +1866,9 @@
        Des affiches géantes, représentant la défaite des putshistes, ont été
        collées un peu partout dans les rues d’Istambul et dans d’autres
        villes turques, pour commémorer le premier anniversaire de la
-       tentative de coup d’Etat menée le 15 juillet 2016.  AFP PHOTO / OZAN
+       tentative de coup d’Etat menée le 15 juillet 2016.  AFP PHOTO  OZAN
        KOSE
-     * Lettre ouverte concernant la détention des défenseurs des droits
+      Lettre ouverte concernant la détention des défenseurs des droits
        humains en Turquie
 
        Cette lettre ouverte est signée par Salil Shetty, secrétaire général
@@ -1879,9 +1879,9 @@
 
        En juin dernier, des militants d’Amnesty International protestent
        devant l’ambassade de Turquie à Berlin contre la détention de Taner
-       Kilic, responsable du bureau turc d’Amnesty.,AFP PHOTO / John
+       Kilic, responsable du bureau turc d’Amnesty.,AFP PHOTO  John
        MACDOUGALL
-     * Les services secrets russes auraient tenté de renverser le Premier
+      Les services secrets russes auraient tenté de renverser le Premier
        ministre du Montenegro
 
        Le procureur spécial monténégrin Milivoje Katnic a affirmé, dimanche
@@ -1892,7 +1892,7 @@
        L’ancien premier ministre monténégrin, Milo Djukanovic, également
        leader du parti des démocrates socialistes (DPS), à Podgorica en
        octobre 2016, après les élections législatives.
-     * Turquie : portrait de la confrérie Gülen, ennemie du président Erdogan
+      Turquie : portrait de la confrérie Gülen, ennemie du président Erdogan
 
        Un rapport propose un état des lieux de ce mouvement accusé de la
        tentative de putsch en Turquie. À tort, selon le document, qui
@@ -1900,7 +1900,7 @@
 
        Recep Tayyip Erdogan, le 21 janvier, avant son voyage officiel en
        Afrique.
-     * Ouverture des grands procès d’Istanbul
+      Ouverture des grands procès d’Istanbul
 
        Vingt-neuf policiers comparaissent à Istanbul à partir du 27 décembre
        pour leur soutien présumé aux instigateurs du putsch de juillet 2016.
@@ -1909,7 +1909,7 @@
 
        Les forces spéciales devant le palais de justice, Istanbul le 27
        décembre 2016.
-     * La Turquie d’Erdogan après le coup d’État
+      La Turquie d’Erdogan après le coup d’État
 
        Un coup d’État a échoué en Turquie dans la nuit du 15 au 16 juillet.
        Depuis cet échec, le gouvernement d’Erdogan a considérablement durci
@@ -1917,7 +1917,7 @@
        aussi les médias.
 
        [IMG]
-     * UE-Turquie : l’accord sur les migrants menacé
+      UE-Turquie : l’accord sur les migrants menacé
 
        L’Union européenne et la Turquie se sont rapprochées à la faveur de la
        crise des migrants. Mais leur coopération pourrait être mise à mal par
@@ -1925,7 +1925,7 @@
 
        Des partisans du président Erdogan manifestent à Istanbul pendant que
        les purges continuent.
-     * L’évolution de la Turquie inquiète l’Europe
+      L’évolution de la Turquie inquiète l’Europe
 
        Depuis la tentative de coup d’État, le gouvernement turc a licencié ou
        suspendu près de 50 000 employés du secteur public et arrêté 10 000
@@ -1935,7 +1935,7 @@
        Pour l’Europe, la ligne rouge à ne pas franchir est celle du
        rétablissement de la peine de mort, évoqué par le président Erdogan
        pour punir les putschistes.
-     * Après la tentative de putsch, l’armée turque divisée et affaiblie
+      Après la tentative de putsch, l’armée turque divisée et affaiblie
 
        La tentative de coup d’état contre le président Erdogan s’explique par
        le déclin du rôle politique de l’armée, dont seule une frange a voulu
@@ -1943,14 +1943,14 @@
 
        Soldats turcs postés sur la place Taksim, au moment de la tentative de
        coup d’état.
-     * Malgré les crises, l’économie turque reste résiliente
+      Malgré les crises, l’économie turque reste résiliente
 
        Habituée à l’instabilité, l’activité turque ne devrait pas trop
        fléchir après la tentative de putsch manquée. Le tourisme et les
        investissements étrangers vont tout de même en pâtir.
 
        Un bazar du centre d’Istanbul le lundi 18 juillet.
-     * Erdogan durcit son pouvoir après l’échec du putsch en Turquie
+      Erdogan durcit son pouvoir après l’échec du putsch en Turquie
 
        Une tentative de putsch, orchestrée par des militaires rebelles contre
        le président turc, a été réprimée dans le sang dans la nuit de
@@ -1959,14 +1959,14 @@
 
        A l’appel du président Erdogan, de nombreux Turcs sont descendus dans
        la rue samedi 16 juillet, comme ici, à Istanbul.
-     * Inquiétudes dans le monde après le putsch en Turquie
+      Inquiétudes dans le monde après le putsch en Turquie
 
        La tentative de coup d’État en Turquie a provoqué des déclarations de
        dirigeants du monde entier.
 
        Le président américain Barack Obama a convoqué une réunion avec ses
        conseillers en matière de sécurité.
-     * Qui est Fethullah Gülen, accusé par la Turquie d’être à l’origine du
+      Qui est Fethullah Gülen, accusé par la Turquie d’être à l’origine du
        coup d’État ?
 
        A 75 ans, l’imam Fethullah Gülen est l’ennemi juré du président turc,
@@ -1975,7 +1975,7 @@
 
        Fethullah Gulen est accusé par le président turc d’être lié à la
        tentative de coup d’Etat.
-     * Après la tentative de putsch, le flou en Turquie
+      Après la tentative de putsch, le flou en Turquie
 
        Le président turc semblait avoir enrayé, samedi 16 juillet au matin,
        la tentative de coup d’État par l’armée. Les affrontements auraient
@@ -1985,14 +1985,14 @@
        Des partisans du président Recep Tayyip Erdogan samedi 16 juillet sur
        un tank de l’armée qui avait pris position sur un des ponts sur le
        Bosphore à Istanbul.
-     * Quand la Turquie vivait au « temps des coups d’État »
+      Quand la Turquie vivait au « temps des coups d’État »
 
        Entre 1960 et 1997, la Turquie a subi quatre coups d’État menés par
        les militaires.
 
        Kenan Evren, instigateur du coup d’État le plus marquant de l’histoire
        turque.
-     * Après le coup d'Etat, le Mali au bord du chaos
+      Après le coup d'Etat, le Mali au bord du chaos
 
        La rébellion touareg a annoncé vendredi 23 mars l’accélération de son
        "offensive" dans le nord, pour profiter du flou politique qui règne
@@ -2004,7 +2004,7 @@
        situation face à une possible contre-offensive loyaliste.
 
        [IMG]
-     * Coup d'État au Mali, le président avec les forces loyalistes
+      Coup d'État au Mali, le président avec les forces loyalistes
 
        Des militaires maliens ont pris jeudi 22 mars le pouvoir à Bamako,
        pour selon eux, en finir avec le manque de moyens dans la lutte contre
@@ -2013,55 +2013,55 @@
        membres de sa garde présidentielle, selon les forces loyalistes.
 
        Des militaires dans Bamako jeudi 22 mars.
-     * En Equateur, l'exaspération a conduit la police à la rébellion
+      En Equateur, l'exaspération a conduit la police à la rébellion
 
        Les policiers, dont certains ont tenté un coup de force contre le
        président équatorien jeudi 30 septembre, ont du mal à renoncer à leurs
        méthodes musclées, dénoncées par les défenseurs des droits de l'homme
 
-     * Pourquoi l'Afrique est-elle sujette aux coups d'Etat ?
+      Pourquoi l'Afrique est-elle sujette aux coups d'Etat ?
 
        Le coup d'État au Niger, jeudi 18 février, est le dernier d'une longue
        série en Afrique. En dix ans, une quinzaine de putschs ont secoué le
        continent
 
-     * Le coup d'Etat au Niger a été plutôt bien perçu
+      Le coup d'Etat au Niger a été plutôt bien perçu
 
        Le renversement « en douceur » du président Mamadou Tandja est
        accueilli favorablement par l'opposition nigérienne, qui fait
        confiance aux militaires pour rétablir la démocratie
 
-     * Condamnation mesurée de la communauté internationale du coup d'Etat au
+      Condamnation mesurée de la communauté internationale du coup d'Etat au
        Niger
 
-     * Niger: la France condamne le coup d'Etat
+      Niger: la France condamne le coup d'Etat
 
        La France réagit au coup d'état nigérien du jeudi 18 février et
        condamne la dissolution du gouvernement par les militaires
 
-     * Tentative de coup d'État au Niger
+      Tentative de coup d'État au Niger
 
        Le maintien au pouvoir de Mamadou Tandja a ouvert, depuis des mois,
        une crise politique dans ce pays d'Afrique de l'Ouest
 
-     * Honduras : Six semaines après le coup d'Etat, la tension reste vive à
+      Honduras : Six semaines après le coup d'Etat, la tension reste vive à
        Tegucigalpa
 
        Les opposants au coup d'État ont prévu de manifester cette semaine
        pour exiger le retour du président déchu, Manuel Zelaya
 
-     * Le président du Honduras arrêté par des militaires
+      Le président du Honduras arrêté par des militaires
 
        Manuel Zelaya a été conduit de force au Costa Rica dimanche 28 juin.
        Il se dit victime d'un "enlèvement" et d'un "coup d'Etat",
 
-     * La Géorgie dit avoir déjoué une tentative de coup d'Etat
+      La Géorgie dit avoir déjoué une tentative de coup d'Etat
 
        A la veille d'exercices de l'OTAN, les autorités géorgiennes ont
        affirmé mardi 5 avril avoir déjoué une tentative de coup d'Etat
        soutenue par la Russie
 
-     * Tentative de coup d'état militaire après la mort de Lansana Conté en
+      Tentative de coup d'état militaire après la mort de Lansana Conté en
        Guinée
 
        Le président de Guinée, le général Lansana Conté, est mort lundi soir
@@ -2069,20 +2069,20 @@
        sanglantes répressions et une gestion calamiteuse d'un pays classé
        parmi les plus pauvres du monde
 
-     * Paris déconseille aux Français d'aller en Mauritanie après le coup
+      Paris déconseille aux Français d'aller en Mauritanie après le coup
        d'Etat
 
        Le ministère des affaires étrangères conseille aux français de
        "différer tout déplacement vers la Mauritanie". La nouvelle junte au
        pouvoir essaie de rassurer l'opinion internationale
 
-     * Coup d'Etat militaire en Mauritanie
+      Coup d'Etat militaire en Mauritanie
 
        Le président et le premier ministre mauritaniens ont été arrêtés par
        des militaires. Les insurgés se sont organisés en conseil d'Etat. La
        France déclare "son hostilité à la prise du pouvoir par la force"
 
-     * « Le putsch est une avancée démocratique pour notre pays »
+      « Le putsch est une avancée démocratique pour notre pays »
 
    Un coup d’État désigne la prise du pouvoir de façon illégale par un groupe
    restreint, le plus souvent des militaires, qui aboutit au renversement du
@@ -2131,197 +2131,197 @@
    renverser un régime né, selon lui, d’un coup d’État.
 
    Sur le même thème
-     * Cessez le feu
-     * Conflit Inde-Pakistan (Cachemire)
-     * Conflit au Proche-Orient
-     * Conflit du Haut-Karabakh
-     * Génocide
-     * Guerre au Darfour
-     * Guerre civile
-     * Massacre
-     * Terrorisme
+      Cessez le feu
+      Conflit Inde-Pakistan (Cachemire)
+      Conflit au Proche-Orient
+      Conflit du Haut-Karabakh
+      Génocide
+      Guerre au Darfour
+      Guerre civile
+      Massacre
+      Terrorisme
    Afficher plus
    Suggestions
-     * Guerre au Proche-Orient
-     * Conflit du Haut-Karabakh
-     * Génocide
-     * Guerre civile
-     * Massacre
-     * Terrorisme
+      Guerre au Proche-Orient
+      Conflit du Haut-Karabakh
+      Génocide
+      Guerre civile
+      Massacre
+      Terrorisme
    Afficher plus
    Actualités
-     * Guerre en Ukraine
-     * Conflit au Proche-Orient
-     * Relation USA-UE
-     * Protectionnisme
-     * Crise économique et financière
-     * Catastrophe naturelle
-     * Réchauffement et changement climatique
-     * Réforme des retraites 2025
-     * Transition énergétique
-     * Projet de loi fin de vie
-     * Abus sexuels dans l'Eglise
+      Guerre en Ukraine
+      Conflit au Proche-Orient
+      Relation USA-UE
+      Protectionnisme
+      Crise économique et financière
+      Catastrophe naturelle
+      Réchauffement et changement climatique
+      Réforme des retraites 2025
+      Transition énergétique
+      Projet de loi fin de vie
+      Abus sexuels dans l'Eglise
    International
-     * Conflit israélo-palestinien
-     * Conflit Inde-Pakistan (Cachemire)
-     * Conflit Haut-Karabakh
-     * Union européenne (UE)
-     * Géopolitique
-     * Tension Chine-USA
-     * Election dans le monde
-     * Election USA mi-mandat 2026
-     * Election européenne
-     * ONU
-     * Guerre, crise et conflit
-     * Organismes internationaux
-     * Dossiers monde
+      Conflit israélo-palestinien
+      Conflit Inde-Pakistan (Cachemire)
+      Conflit Haut-Karabakh
+      Union européenne (UE)
+      Géopolitique
+      Tension Chine-USA
+      Election dans le monde
+      Election USA mi-mandat 2026
+      Election européenne
+      ONU
+      Guerre, crise et conflit
+      Organismes internationaux
+      Dossiers monde
    Société
-     * Faits divers
-     * Attentat en France
-     * Procès et affaire judiciaire
-     * Prisons
-     * Banlieue
-     * Euthanasie
-     * Féminisme
-     * Famille et société
-     * Religion et société
-     * Région française
-     * Dossiers société
+      Faits divers
+      Attentat en France
+      Procès et affaire judiciaire
+      Prisons
+      Banlieue
+      Euthanasie
+      Féminisme
+      Famille et société
+      Religion et société
+      Région française
+      Dossiers société
    Politique
-     * Gouvernement français
-     * Emmanuel Macron
-     * Budget Etat
-     * Assemblée nationale
-     * Sénat
-     * Election municipale 2026
-     * Election présidentielle française 2027
-     * Elections législatives françaises
-     * Affaire politique
-     * Citoyenneté
-     * Dossiers politique
+      Gouvernement français
+      Emmanuel Macron
+      Budget Etat
+      Assemblée nationale
+      Sénat
+      Election municipale 2026
+      Election présidentielle française 2027
+      Elections législatives françaises
+      Affaire politique
+      Citoyenneté
+      Dossiers politique
    Religion
-     * Léon XIV (pape)
-     * Conclave (élection du pape)
-     * Démission du pape (renonciation)
-     * Santé de Léon XIV (pape)
-     * Synode
-     * Encyclique
-     * Collège des cardinaux
-     * Vatican et curie romaine
-     * JMJ Séoul 2027
-     * Mort d'homme et de femme d'Église
-     * Dossiers religion
+      Léon XIV (pape)
+      Conclave (élection du pape)
+      Démission du pape (renonciation)
+      Santé de Léon XIV (pape)
+      Synode
+      Encyclique
+      Collège des cardinaux
+      Vatican et curie romaine
+      JMJ Séoul 2027
+      Mort d'homme et de femme d'Église
+      Dossiers religion
    Economie
-     * Crise économique et sociale
-     * Inflation
-     * Grève en France 2025
-     * Pouvoir d'achat
-     * Chômage
-     * Plan social
-     * Syndicat
-     * Impôt sur le revenu 2025
-     * Bourses et marchés financiers
-     * Source d'énergie
-     * Dossier économie
+      Crise économique et sociale
+      Inflation
+      Grève en France 2025
+      Pouvoir d'achat
+      Chômage
+      Plan social
+      Syndicat
+      Impôt sur le revenu 2025
+      Bourses et marchés financiers
+      Source d'énergie
+      Dossier économie
    Planète, sciences et environnement
-     * Tsunami
-     * Séisme
-     * Ouragan, cyclone, typhon
-     * Canicule
-     * Inondation et crue
-     * Sécheresse
-     * Marée noire
-     * Volcan
-     * COP 30 2025
-     * Découverte et exploration de l'Espace
-     * Dossiers planète, sciences et environnement
+      Tsunami
+      Séisme
+      Ouragan, cyclone, typhon
+      Canicule
+      Inondation et crue
+      Sécheresse
+      Marée noire
+      Volcan
+      COP 30 2025
+      Découverte et exploration de l'Espace
+      Dossiers planète, sciences et environnement
    Santé
-     * Alimentation
-     * Corps humain
-     * Scandale sanitaire et alimentaire
-     * Sexualité
-     * PMA
-     * GPA
-     * Dossiers santé
+      Alimentation
+      Corps humain
+      Scandale sanitaire et alimentaire
+      Sexualité
+      PMA
+      GPA
+      Dossiers santé
    Spiritualité
-     * Avent 2025
-     * Noël 2025
-     * Pâques 2026
-     * Carême 2026
-     * Ascension 2025
-     * Toussaint 2025
-     * Sacrement catholique
-     * Glossaire mots religieux
-     * Retraite spirituelle
-     * Dossiers spiritualité
+      Avent 2025
+      Noël 2025
+      Pâques 2026
+      Carême 2026
+      Ascension 2025
+      Toussaint 2025
+      Sacrement catholique
+      Glossaire mots religieux
+      Retraite spirituelle
+      Dossiers spiritualité
    Culture
-     * Prix littéraires 2025
-     * Festival BD Angoulème 2026
-     * Oscars 2026
-     * César 2026
-     * Idées cadeaux de Noël 2025
-     * Festival de Cannes 2025
-     * Festival d'Avignon 2025
-     * Morts et funérailles de personnalité
-     * Patrimoine
-     * Dossiers culture et loisirs
-     * Dossier lifestyle
+      Prix littéraires 2025
+      Festival BD Angoulème 2026
+      Oscars 2026
+      César 2026
+      Idées cadeaux de Noël 2025
+      Festival de Cannes 2025
+      Festival d'Avignon 2025
+      Morts et funérailles de personnalité
+      Patrimoine
+      Dossiers culture et loisirs
+      Dossier lifestyle
    Sport
-     * Coupe du monde de football 2026
-     * Coupe d'Europe de football 2028
-     * Coupe du monde de rugby 2027
-     * Roland Garros 2025
-     * Football
-     * Rugby
-     * Tennis
-     * Dossiers sport
+      Coupe du monde de football 2026
+      Coupe d'Europe de football 2028
+      Coupe du monde de rugby 2027
+      Roland Garros 2025
+      Football
+      Rugby
+      Tennis
+      Dossiers sport
    Famille et éducation
-     * Baccalauréat 2025
-     * Brevet des collèges 2025
-     * Parcoursup 2025
-     * Couple
-     * Parents
-     * Enfant et adolescent
-     * Grands parents
+      Baccalauréat 2025
+      Brevet des collèges 2025
+      Parcoursup 2025
+      Couple
+      Parents
+      Enfant et adolescent
+      Grands parents
    Les sites du groupe Bayard
-     * Bayard Belgique
-     * Bayard Jeunesse
-     * Bayard Éditions
-     * Groupe Bayard
-     * Milan Presse
-     * Librairie Bayard
-     * Notre famille
-     * Notre temps
-     * Phosphore
-     * Le monde de la bible
-     * Curieux de Dieu
-     * Points de repère
-     * Prions en église
-     * Chantons en église
-     * Pèlerin
+      Bayard Belgique
+      Bayard Jeunesse
+      Bayard Éditions
+      Groupe Bayard
+      Milan Presse
+      Librairie Bayard
+      Notre famille
+      Notre temps
+      Phosphore
+      Le monde de la bible
+      Curieux de Dieu
+      Points de repère
+      Prions en église
+      Chantons en église
+      Pèlerin
    Nos services
-     * Consulter les annonces légales
-     * Publier une annonce légale
-     * Espace Presse
-     * L’équipe
-     * Mots croisés gratuits en ligne
-     * Jeux gratuits en ligne
-     * Cours de langue
-     * Don
+      Consulter les annonces légales
+      Publier une annonce légale
+      Espace Presse
+      L’équipe
+      Mots croisés gratuits en ligne
+      Jeux gratuits en ligne
+      Cours de langue
+      Don
    Nous suivre
-     * Facebook
-     * Bluesky
-     * Flipboard
-     * LinkedIn
-     * Instagram
-     * Youtube
+      Facebook
+      Bluesky
+      Flipboard
+      LinkedIn
+      Instagram
+      Youtube
    Accès premium
-     * Gérer mon compte
-     * Résilier mon abonnement
-     * Kiosque
-     * Inscriptions aux newsletters
-     * Application La Croix
-     * Aide
+      Gérer mon compte
+      Résilier mon abonnement
+      Kiosque
+      Inscriptions aux newsletters
+      Application La Croix
+      Aide
    La rédaction de La Croix vous accompagne en voyage
    Télécharger sur l'App Store Télécharger sur Google Play
    © 2026 Bayard

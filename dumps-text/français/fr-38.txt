@@ -2,11 +2,11 @@
    [ ]
    Fermer les notifications
 
-     * Aller au contenu principal
-     * Aller à la recherche des programmes
-     * Aller au pied de page
+      Aller au contenu principal
+      Aller à la recherche des programmes
+      Aller au pied de page
    Retour
-   Tf1 Info - Retour à l'accueil
+   Tf1 Info  Retour à l'accueil
    [ Submit ]Se connecterDirects0Accéder aux notifications (aucune
    notification en attente)Accéder aux menu secondaire et à la recherche
    [ ]
@@ -15,159 +15,159 @@
    Découvrez tout
    l’univers TF1 INFO
 
-   _____________________
+   ______________
    Lancer votre recherche de programme
    Créer un compteSe connecter
-     * Regarder le direct
-     * Regarder les JT en direct
-     * Regarder votre JT personnalisé
+      Regarder le direct
+      Regarder les JT en direct
+      Regarder votre JT personnalisé
    Directs
-     * Guerre Ukraine-Russie : des négociations de paix à l'issue incertaine
-     * Suisse : des dizaines de morts après une explosion dans une station de
+      Guerre Ukraine-Russie : des négociations de paix à l'issue incertaine
+      Suisse : des dizaines de morts après une explosion dans une station de
        ski
    Dans l’actualité en ce moment
-     * Drame à Crans-Montana : des dizaines de morts dans l'incendie d'un bar
+      Drame à Crans-Montana : des dizaines de morts dans l'incendie d'un bar
        le soir du Nouvel An
-     * Ukraine : 4ᵉ année de guerre
-     * Dermatose nodulaire, Mercosur : les agriculteurs mobilisés
-     * Ukraine-Russie : en marge des négociations, les attaques russes
+      Ukraine : 4ᵉ année de guerre
+      Dermatose nodulaire, Mercosur : les agriculteurs mobilisés
+      Ukraine-Russie : en marge des négociations, les attaques russes
        continuent
-     * L’épidémie de grippe saisonnière
-     * Tous les sujets
+      L’épidémie de grippe saisonnière
+      Tous les sujets
    Rubriques
-     * Politique
-     * Économie
-     * International
-     * Police - justice & faits divers
-     * Météo & intempéries
-     * Culture, médias et divertissement
-     * Conso & tendances
-     * Environnement
-     * Nouvelles technologies
-     * Santé & bien être
-     * Sujets de société
-     * Famille & éducation
-     * Sports
-     * Traditions et patrimoine
-     * Transports
-     * Logement et immobilier
-     * Sciences
-     * Voyages
-     * Régions
-     * Vie pro et emploi
-     * Dans mon assiette
-     * Mon argent et mes droits
-     * Initiatives positives
-     * Les Vérificateurs
-     * Le 13H fête noël
+      Politique
+      Économie
+      International
+      Police  justice & faits divers
+      Météo & intempéries
+      Culture, médias et divertissement
+      Conso & tendances
+      Environnement
+      Nouvelles technologies
+      Santé & bien être
+      Sujets de société
+      Famille & éducation
+      Sports
+      Traditions et patrimoine
+      Transports
+      Logement et immobilier
+      Sciences
+      Voyages
+      Régions
+      Vie pro et emploi
+      Dans mon assiette
+      Mon argent et mes droits
+      Initiatives positives
+      Les Vérificateurs
+      Le 13H fête noël
    Émissions en replay
-     * Toutes les émissions TF1 & LCI
-          * Émissions TF1
-          * Émissions LCI
-     * Émissions TF1
-          * Bonjour ! La Matinale TF1
-          * Le 13H
-          * Le 20H
-          * Sept à huit
-          * Grands Reportages
-          * Top Info
-          * En Toute Franchise
-     * Émissions LCI
-          * La Matinale
-          * En toute liberté 
-          * Carte sur table
-          * Brunet Sans filtre
-          * LCI Direct
-          * Le Grand Dossier
-          * 24H Pujadas
-          * Face à Darius Rochebin
-          * 22h
-          * Fourest en liberté 
-          * On ne plaisante pas avec l'info
-          * Les Vérificateurs 
-          * LCI Midi
-          * 18H Darius Rochebin
-          * 18H Yves Calvi
-          * Histoires criminelles 
-          * Impact Positif
-          * Vis leurs vies
-          * Un Oeil sur le Monde
-          * La Grande Confrontation
-     * Tous les replays TF1 & LCI
-          * Replay TF1
-          * Vidéos Replay TF1
-          * Replay LCI
-          * Vidéos Replay LCI
+      Toutes les émissions TF1 & LCI
+           Émissions TF1
+           Émissions LCI
+      Émissions TF1
+           Bonjour ! La Matinale TF1
+           Le 13H
+           Le 20H
+           Sept à huit
+           Grands Reportages
+           Top Info
+           En Toute Franchise
+      Émissions LCI
+           La Matinale
+           En toute liberté 
+           Carte sur table
+           Brunet Sans filtre
+           LCI Direct
+           Le Grand Dossier
+           24H Pujadas
+           Face à Darius Rochebin
+           22h
+           Fourest en liberté 
+           On ne plaisante pas avec l'info
+           Les Vérificateurs 
+           LCI Midi
+           18H Darius Rochebin
+           18H Yves Calvi
+           Histoires criminelles 
+           Impact Positif
+           Vis leurs vies
+           Un Oeil sur le Monde
+           La Grande Confrontation
+      Tous les replays TF1 & LCI
+           Replay TF1
+           Vidéos Replay TF1
+           Replay LCI
+           Vidéos Replay LCI
    Vidéos
-     * Toutes les vidéos
-     * TF1info Shorts
+      Toutes les vidéos
+      TF1info Shorts
    Podcasts
-     * Pourquoi faire compliqué ?
-     * Intérieur crime
-     * Expertes à la Une
-     * Inspirants
-     * Darius libre
-     * 24H Pujadas - Les partis pris
-     * Le Grand Dossier
-     * En toute liberté
-     * Carte sur table
-     * Brunet sans filtre
-     * 18H Darius Rochebin
-     * 18H Yves Calvi
-     * 22H Rochebin
-     * En toute franchise
-     * Les vérificateurs
-     * Histoires criminelles
-     * Impact positif
-     * Les gens qui lisent sont plus heureux
+      Pourquoi faire compliqué ?
+      Intérieur crime
+      Expertes à la Une
+      Inspirants
+      Darius libre
+      24H Pujadas  Les partis pris
+      Le Grand Dossier
+      En toute liberté
+      Carte sur table
+      Brunet sans filtre
+      18H Darius Rochebin
+      18H Yves Calvi
+      22H Rochebin
+      En toute franchise
+      Les vérificateurs
+      Histoires criminelles
+      Impact positif
+      Les gens qui lisent sont plus heureux
    Nos dossiers
-     * Face aux Français : posez vos questions
-     * Notre planète
-     * Le 20H vous répond
-     * Le 13H à vos côtés
-     * LCI vous répond
-     * Impact positif
-     * Avec Elles
-     * Le 13H au jardin
+      Face aux Français : posez vos questions
+      Notre planète
+      Le 20H vous répond
+      Le 13H à vos côtés
+      LCI vous répond
+      Impact positif
+      Avec Elles
+      Le 13H au jardin
    Jeux
-     * Jeux
-          * Solitaire
-          * Mots-fléchés
-          * Puzzle
-          * Mots-croisés
-          * Sudoku
-          * Quiz
+      Jeux
+           Solitaire
+           Mots-fléchés
+           Puzzle
+           Mots-croisés
+           Sudoku
+           Quiz
    Sites du groupe
-     * TF1+
-     * TF1 Météo
-     * SOS Villages
-     * TF1 AdManager
+      TF1+
+      TF1 Météo
+      SOS Villages
+      TF1 AdManager
    Nos engagements
-     * La médiatrice vous répond
-     * Charte Éditoriale
-     * Charte sur l'intelligence artificielle
-     * Nos engagements RSE
+      La médiatrice vous répond
+      Charte Éditoriale
+      Charte sur l'intelligence artificielle
+      Nos engagements RSE
    Paramétrer mes cookies
    FACIL'iti : ADAPTEZ L'AFFICHAGE
    Télécharger l'application TF1 info
-     * Télécharger l’application mobile TF1 Info sur l’app store
-     * Télécharger l’application TF1 Info sur le play store
+      Télécharger l’application mobile TF1 Info sur l’app store
+      Télécharger l’application TF1 Info sur le play store
 
 "Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait son compagnon
                                décédé d'un cancer
 
-   par La rédaction de TF1info (nouvelle fenêtre) | Reportage "Sept à Huit
+   par La rédaction de TF1info (nouvelle fenêtre)  Reportage "Sept à Huit
    Life" : Julie DULAC, Marie DEMARQUE et Tony CASABIANCA
    Publié le 27 novembre 2025 à 18h40
 
    Source : Sept à huit life
 
-  * Ils sont magnétiseurs, naturopathes ou hypnotiseurs, et certains
+   Ils sont magnétiseurs, naturopathes ou hypnotiseurs, et certains
     entretiennent la confusion avec la médecine véritable, devenant parfois la
     dernière lueur d'espoir de patients gravement malades.
-  * Dans le cas de Paul, l'influence de l'un d'entre eux l'a maintenu dans son
+   Dans le cas de Paul, l'influence de l'un d'entre eux l'a maintenu dans son
     déni, jusqu'à l'issue fatale.
-  * Sa compagne témoigne dans un reportage de "Sept à Huit Life".
+   Sa compagne témoigne dans un reportage de "Sept à Huit Life".
 
    Suivez la couverture complète
 
@@ -254,81 +254,81 @@
    "J'ai devant moi le papier de la Cour de cassation disant que la décision
    est définitive", insiste la journaliste. L'assistante bat alors en
    retraite : "Est-ce que vous avez la possibilité de me l'envoyer parce que
-   lui, visiblement, ne l'a pas reçu ?". Cela fait pourtant plus de deux ans
+   lui, visiblement, ne l'a pas reçu ". Cela fait pourtant plus de deux ans
    que le naturopathe a été déchu de son pourvoi en cassation, et est donc
    interdit d'exercice. "Aujourd'hui, je témoigne pour que Miguel Barthéléry
    soit mis hors d'état de nuire, puisque rien ne l'arrête, et surtout qu'il
    arrête de faire des victimes", conclut Camilla. L'intéressé n'a jamais
    répondu aux sollicitations de "Sept à Huit Life".
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
-   La rédaction de TF1info | Reportage "Sept à Huit Life" : Julie DULAC,
+   La rédaction de TF1info  Reportage "Sept à Huit Life" : Julie DULAC,
    Marie DEMARQUE et Tony CASABIANCA
 
    Sur le
    même thème
 
-     * #santé
-     * #Sept à huit
-     * #Maladies et traitements
-     * #Médecine
-     * #Médecine alternative
-     * #Sept à Huit Life
-     * #Santé publique
-     * #Cancer
-     * #Modes de consommation
+      #santé
+      #Sept à huit
+      #Maladies et traitements
+      #Médecine
+      #Médecine alternative
+      #Sept à Huit Life
+      #Santé publique
+      #Cancer
+      #Modes de consommation
    [ ]
-     * "Ada était mon héroïne" : George Clooney en deuil après le décès de sa
+      "Ada était mon héroïne" : George Clooney en deuil après le décès de sa
   sœur unique (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 21 décembre 2025 à 16h43
-     * Suspendu pour avoir aidé des patients à mourir, ce médecin témoigne
+      Suspendu pour avoir aidé des patients à mourir, ce médecin témoigne
   (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 16 septembre 2025 à 10h54
-     * "C'est une pratique commerciale pour un acte qui est médical" : pourquoi
+      "C'est une pratique commerciale pour un acte qui est médical" : pourquoi
   les échographies "de plaisir" sont illégales (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 31 juillet 2025 à 12h06
-     * TÉMOIGNAGES - "J'ai peur de rater le coche" : faire congeler ses ovocytes
+      TÉMOIGNAGES  "J'ai peur de rater le coche" : faire congeler ses ovocytes
   en France, une "chance"... mais des délais à rallonge (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 24 juillet 2025 à 18h11
-     * Journée du don d'organes : "J'avais ma carte de donneur, je n'avais
+      Journée du don d'organes : "J'avais ma carte de donneur, je n'avais
   jamais imaginé être receveur" (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 22 juin 2025 à 17h03
-     * "On nous a dit que tout allait bien" : les témoignages poignants de
+      "On nous a dit que tout allait bien" : les témoignages poignants de
   victimes de graves erreurs médicales (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 22 octobre 2024 à 20h39
-     * ENQUÊTE - Hypnose : de la pure arnaque ou une pratique réellement fiable
-  ? (nouvelle fenêtre)
+      ENQUÊTE  Hypnose : de la pure arnaque ou une pratique réellement fiable
+   (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 25 octobre 2023 à 11h52
-     * PODCAST - Carole Helissey, oncologue : "Chacun de mes patients m’aide à
+      PODCAST  Carole Helissey, oncologue : "Chacun de mes patients m’aide à
   devenir un bon médecin" (nouvelle fenêtre)
 
        Publié le 27 juin 2023 à 10h05
-     * VÉRIF' - De simples traitements antiparasitaires peuvent-ils vraiment
-  avoir une efficacité contre le cancer ? (nouvelle fenêtre)
+      VÉRIF'  De simples traitements antiparasitaires peuvent-ils vraiment
+  avoir une efficacité contre le cancer  (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 12 décembre 2025 à 13h35
-     * VIDÉO - Thierry Casasnovas, le gourou du "crudivorisme", mis en examen
+      VIDÉO  Thierry Casasnovas, le gourou du "crudivorisme", mis en examen
   pour exercice illégal de la médecine (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 11 mars 2023 à 16h43
-   Voir plus - Afficher tout
+   Voir plus  Afficher tout
 
    Tout
    TF1 Info
@@ -337,7 +337,7 @@
     1. 1
 
   Pourquoi l'année 2036 a-t-elle été projetée sur l'Arc de Triomphe pour le
-  réveillon ? (nouvelle fenêtre)
+  réveillon  (nouvelle fenêtre)
 
        [Vidéo]
        Publié hier à 0h09
@@ -359,13 +359,13 @@
     4. 4
 
   "Il ne faut pas trop en parler" : est-ce vraiment utile de posséder un
-  coffre-fort chez soi ? (nouvelle fenêtre)
+  coffre-fort chez soi  (nouvelle fenêtre)
 
        [Vidéo]
        Publié hier à 7h30
     5. 5
 
-  EN DIRECT - Incendie à Crans-Montana : 11 blessés soignés en France (nouvelle
+  EN DIRECT  Incendie à Crans-Montana : 11 blessés soignés en France (nouvelle
   fenêtre)
 
        [Vidéo]
@@ -394,47 +394,54 @@
     9. 9
 
   Pourquoi le "no contact" est plus douloureux que de quitter une relation
-  toxique ? (nouvelle fenêtre)
+  toxique  (nouvelle fenêtre)
 
        [Vidéo]
        Publié hier à 19h00
    10. 10
 
   Incendie mortel à Crans-Montana : que sait-on de l'établissement où s'est
-  produit le drame ? (nouvelle fenêtre)
+  produit le drame  (nouvelle fenêtre)
 
        [Vidéo]
        Publié hier à 14h32
-       Voir plus d'actualités - Afficher tout
+       Voir plus d'actualités  Afficher tout
     1. 1
 
-  Vous souffrez d’anxiété ? Découvrez la règle du 3-3-3, qui permet de gérer
+  Vous avez l'habitude de laver vos oeufs  Voici pourquoi ce n'est pas une
+  bonne idée (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 19h30
+    2. 2
+
+  Vous souffrez d’anxiété  Découvrez la règle du 33-3, qui permet de gérer
   plus facilement le stress (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 19h00
-    2. 2
+    3. 3
 
   Incendie à Crans-Montana : quelles sont les normes de sécurité dans les bars
-  en France ? (nouvelle fenêtre)
+  en France  (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 18h43
-    3. 3
+    4. 4
 
   "On va les presser l'un contre l'autre, ils vont fusionner ensemble" : ces
   matériaux qui s'auto-réparent (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 18h30
-    4. 4
+    5. 5
 
   En 2025, Moscou a réalisé sa plus forte avancée depuis la première année de la
   guerre en Ukraine (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 18h27
-    5. 5
+    6. 6
 
   Blessés de Crans-Montana : la solidarité internationale est nécessaire car
   "aucun pays d'Europe n'est en mesure d'avoir un afflux de 119 brûlés graves"
@@ -442,42 +449,35 @@
 
        [Vidéo]
        Publié aujourd'hui à 18h22
-    6. 6
+    7. 7
 
   Dry January : un mois sans alcool, quels sont les bienfaits pour la santé ?
   (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 18h18
-    7. 7
+    8. 8
 
-  EN DIRECT - Ukraine : 3.000 enfants et leurs parents évacués des régions de
+  EN DIRECT  Ukraine : 3.000 enfants et leurs parents évacués des régions de
   Zaporijia et Dnipropetrovsk (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 6h30
-    8. 8
+    9. 9
 
   Détecteurs, tuyaux, serrures… Ces équipements de votre logement sont peut-être
   périmés ou obsolètes (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 18h06
-    9. 9
+   10. 10
 
   Drame de Crans-Montana : les deux gérants français du bar auditionnés
   (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 18h00
-   10. 10
-
-  Pour lutter contre le froid, les boissons chaudes sont-elles vraiment
-  efficaces pour vous réchauffer ? (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 18h00
-       Voir plus d'actualités - Afficher tout
+       Voir plus d'actualités  Afficher tout
     1. 1
 
   Pourquoi les médecins libéraux seront en grève à partir du 5 janvier ?
@@ -513,25 +513,25 @@
        Publié le 18 décembre 2014 à 15h39
     6. 6
 
-  "Le problème, c'est la rapidité avec laquelle on veut atteindre un objectif" :
-  les conseils d'une experte pour tenir ses bonnes résolutions (nouvelle
-  fenêtre)
-
-       [Vidéo]
-       Publié hier à 9h00
-    7. 7
-
   L'étude sexo du jour : l'orgasme vaginal n'existe pas, tant mieux ! (nouvelle
   fenêtre)
 
        Publié le 8 octobre 2014 à 17h18
-    8. 8
+    7. 7
 
   Soirée du Nouvel An : 45 % des Français seront concernés par la question de
   l’alcool et de la conduite (nouvelle fenêtre)
 
        [Vidéo]
        Publié le 30 décembre 2025 à 11h55
+    8. 8
+
+  "Le problème, c'est la rapidité avec laquelle on veut atteindre un objectif" :
+  les conseils d'une experte pour tenir ses bonnes résolutions (nouvelle
+  fenêtre)
+
+       [Vidéo]
+       Publié hier à 9h00
     9. 9
 
   Cette plante va devenir votre meilleure amie pour soulager les maux d'estomac
@@ -542,12 +542,12 @@
        Publié le 31 décembre 2025 à 19h30
    10. 10
 
-  "Des cas plus graves" : l'alerte d'une médecin urgentiste face à l'épidémie de
-  grippe (nouvelle fenêtre)
+  Comment éviter que la grippe ne se propage encore  Voici les conseils d’un
+  médecin (nouvelle fenêtre)
 
        [Vidéo]
-       Publié le 29 décembre 2025 à 9h13
-       Voir plus d'actualités - Afficher tout
+       Publié aujourd'hui à 14h00
+       Voir plus d'actualités  Afficher tout
     1. 1
 
   Dry January : ce défi attire de très nombreux participants en France (nouvelle
@@ -556,7 +556,7 @@
        Publié aujourd'hui à 14h25
     2. 2
 
-  Allô le doc : Peut-on encore se faire vacciner contre la grippe ? (nouvelle
+  Allô le doc : Peut-on encore se faire vacciner contre la grippe  (nouvelle
   fenêtre)
 
        Publié aujourd'hui à 8h18
@@ -573,7 +573,7 @@
        Publié hier à 9h36
     5. 5
 
-  La maison Bonjour : Quelles plantes pour bien commencer l'année ? (nouvelle
+  La maison Bonjour : Quelles plantes pour bien commencer l'année  (nouvelle
   fenêtre)
 
        Publié hier à 9h10
@@ -604,32 +604,32 @@
   Médecins : ces consultations qui vont coûter plus cher (nouvelle fenêtre)
 
        Publié le 30 décembre 2025 à 13h08
-       Voir plus d'actualités - Afficher tout
-     * Sujets de sociétéoutre-mer
-     * Internationaldiplomatie
-     * InternationalDrame à Crans-Montana : des dizaines de morts dans
+       Voir plus d'actualités  Afficher tout
+      Sujets de sociétéoutre-mer
+      Internationaldiplomatie
+      InternationalDrame à Crans-Montana : des dizaines de morts dans
        l'incendie d'un bar le soir du Nouvel An
-     * Culture, médias et divertissementBrigitte Bardot est décédée à l'âge
+      Culture, médias et divertissementBrigitte Bardot est décédée à l'âge
        de 91 ans
-     * Police, justice et faits diversLe fléau du protoxyde d'azote en France
+      Police, justice et faits diversLe fléau du protoxyde d'azote en France
     1. Accueil
     2. -Santé et bien être
-    3. -"Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait
+    3. "Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait
        son compagnon décédé d'un cancer
-     * Mentions légales
-     * Conditions générales d'utilisation
-     * Politique de protection des données du service TF1 Info
-     * Nous contacter (nouvelle fenêtre)
-     * Exercez vos droits (nouvelle fenêtre)
-     * Politique cookies
-     * La médiatrice vous répond
-     * Actualités en France
-     * Tous les tags
-     * Espace presse
-     * Engagements climat
-     * La rédaction de TF1 Info
-     * Plan du site
-     * Accessibilité : partiellement conforme
-     * Paramétrer mes choix
+      Mentions légales
+      Conditions générales d'utilisation
+      Politique de protection des données du service TF1 Info
+      Nous contacter (nouvelle fenêtre)
+      Exercez vos droits (nouvelle fenêtre)
+      Politique cookies
+      La médiatrice vous répond
+      Actualités en France
+      Tous les tags
+      Espace presse
+      Engagements climat
+      La rédaction de TF1 Info
+      Plan du site
+      Accessibilité : partiellement conforme
+      Paramétrer mes choix
    FACIL'iti : ADAPTEZ L'AFFICHAGE
    TF1 Info Copyright ©2026

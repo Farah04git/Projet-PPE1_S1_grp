@@ -4,298 +4,298 @@
    [ ] Menu principal
    Menu principal
    Navigation
-     * Page d’accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+      Page d’accueil
+      Portails thématiques
+      Article au hasard
+      Contact
    Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+      Débuter sur Wikipédia
+      Aide
+      Communauté
+      Pages spéciales
+      Modifications récentes
    [IMG] Wikipédia l'encyclopédie libre
    Rechercher
-   _____________________
+   ______________
    Rechercher
    [ ] Apparence
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+      Faire un don
+      Créer un compte
+      Se connecter
    [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+      Faire un don
+      Créer un compte
+      Se connecter
 
 Sommaire
 
-     * Début
-     * 1 Étymologie
-     * 2 Concepts proches
-          * 2.1 État et gouvernement
-          * 2.2 État et État-nation
-          * 2.3 État et souveraineté
-          * 2.4 États souverains
-          * 2.5 État et société civile
-     * 3 Histoire
-          * 3.1 Préhistoire
-          * 3.2 Néolithique
-          * 3.3 L'État durant Antiquité
-          * 3.4 Émergence des États modernes en Europe
-               * 3.4.1 Origines des États modernes en Europe
-               * 3.4.2 Formation et conséquences de la bureaucratie étatique
-          * 3.5 La décolonisation et la mondialisation d'un système de
+      Début
+      1 Étymologie
+      2 Concepts proches
+           2.1 État et gouvernement
+           2.2 État et État-nation
+           2.3 État et souveraineté
+           2.4 États souverains
+           2.5 État et société civile
+      3 Histoire
+           3.1 Préhistoire
+           3.2 Néolithique
+           3.3 L'État durant Antiquité
+           3.4 Émergence des États modernes en Europe
+                3.4.1 Origines des États modernes en Europe
+                3.4.2 Formation et conséquences de la bureaucratie étatique
+           3.5 La décolonisation et la mondialisation d'un système de
             gouvernance
-          * 3.6 Évolution récente
-     * 4 Caractérisation de l'État
-          * 4.1 Monopole de la violence légitime
-          * 4.2 Appareil politique et administratif
-          * 4.3 Séparation des pouvoirs et contre-pouvoirs
-          * 4.4 Théories juridiques concurrentes
-     * 5 Role de l'État en économie
-          * 5.1 Grandes fonctions
-          * 5.2 Différentes formes d'États-providence
-          * 5.3 Controverses concernant l'économie
-     * 6 Courants de pensée
-          * 6.1 Marxisme
-          * 6.2 Libéralisme
-          * 6.3 Pluralisme
-          * 6.4 Pragmatisme
-          * 6.5 Institutionnalisme
-          * 6.6 Église catholique
-     * 7 Notes et références
-          * 7.1 Notes
-          * 7.2 Références
-     * 8 Bibliographie
-          * 8.1 Utilisé pour la rédaction de l'article
-               * 8.1.1 Pour la section Histoire
-          * 8.2 Autre
-     * 9 Voir aussi
-          * 9.1 Articles connexes
-          * 9.2 Liens externes
+           3.6 Évolution récente
+      4 Caractérisation de l'État
+           4.1 Monopole de la violence légitime
+           4.2 Appareil politique et administratif
+           4.3 Séparation des pouvoirs et contre-pouvoirs
+           4.4 Théories juridiques concurrentes
+      5 Role de l'État en économie
+           5.1 Grandes fonctions
+           5.2 Différentes formes d'États-providence
+           5.3 Controverses concernant l'économie
+      6 Courants de pensée
+           6.1 Marxisme
+           6.2 Libéralisme
+           6.3 Pluralisme
+           6.4 Pragmatisme
+           6.5 Institutionnalisme
+           6.6 Église catholique
+      7 Notes et références
+           7.1 Notes
+           7.2 Références
+      8 Bibliographie
+           8.1 Utilisé pour la rédaction de l'article
+                8.1.1 Pour la section Histoire
+           8.2 Autre
+      9 Voir aussi
+           9.1 Articles connexes
+           9.2 Liens externes
    [ ] Basculer la table des matières
 
                                       État
 
    [ ] 184 langues
-     * Afrikaans
-     * Alemannisch
-     * አማርኛ
-     * Aragonés
-     * العربية
-     * ܐܪܡܝܐ
-     * الدارجة
-     * مصرى
-     * অসমীয়া
-     * Asturianu
-     * Авар
-     * Azərbaycanca
-     * تۆرکجه
-     * Башҡортса
-     * Boarisch
-     * Žemaitėška
-     * Беларуская
-     * Беларуская (тарашкевіца)
-     * Betawi
-     * Български
-     * Banjar
-     * বাংলা
-     * Brezhoneg
-     * Bosanski
-     * Буряад
-     * Català
-     * Нохчийн
-     * Cebuano
-     * ᏣᎳᎩ
-     * کوردی
-     * Corsu
-     * Čeština
-     * Kaszëbsczi
-     * Чӑвашла
-     * Cymraeg
-     * Dansk
-     * Deutsch
-     * Zazaki
-     * Dolnoserbski
-     * Ελληνικά
-     * English
-     * Esperanto
-     * Español
-     * Eesti
-     * Euskara
-     * Estremeñu
-     * فارسی
-     * Suomi
-     * Võro
-     * Nordfriisk
-     * Furlan
-     * Frysk
-     * Gaeilge
-     * Kriyòl gwiyannen
-     * Galego
-     * Avañe'ẽ
-     * Bahasa Hulontalo
-     * Hausa
-     * Hawaiʻi
-     * עברית
-     * हिन्दी
-     * Fiji Hindi
-     * Hrvatski
-     * Hornjoserbsce
-     * Kreyòl ayisyen
-     * Magyar
-     * Հայերեն
-     * Interlingua
-     * Bahasa Indonesia
-     * Ilokano
-     * ГӀалгӀай
-     * Ido
-     * Íslenska
-     * Italiano
-     * 日本語
-     * Jawa
-     * ქართული
-     * Qaraqalpaqsha
-     * Taqbaylit
-     * Адыгэбзэ
-     * Kabɩyɛ
-     * Қазақша
-     * ភាសាខ្មែរ
-     * Yerwa Kanuri
-     * 한국어
-     * Перем коми
-     * Къарачай-малкъар
-     * کٲشُر
-     * Kurdî
-     * Коми
-     * Kernowek
-     * Кыргызча
-     * Latina
-     * Lëtzebuergesch
-     * Limburgs
-     * Ligure
-     * Ladin
-     * Lombard
-     * Lingála
-     * ລາວ
-     * Lietuvių
-     * Latviešu
-     * Basa Banyumasan
-     * Мокшень
-     * Malagasy
-     * Олык марий
-     * Македонски
-     * മലയാളം
-     * Монгол
-     * मराठी
-     * Bahasa Melayu
-     * Mirandés
-     * Эрзянь
-     * Napulitano
-     * Plattdüütsch
-     * Nedersaksies
-     * नेपाली
-     * नेपाल भाषा
-     * Nederlands
-     * Norsk nynorsk
-     * Norsk bokmål
-     * Nouormand
-     * Occitan
-     * Ирон
-     * ਪੰਜਾਬੀ
-     * Papiamentu
-     * Pälzisch
-     * Polski
-     * Piemontèis
-     * پنجابی
-     * Ποντιακά
-     * پښتو
-     * Português
-     * Runa Simi
-     * Rumantsch
-     * Romani čhib
-     * Română
-     * Armãneashti
-     * Русский
-     * Русиньскый
-     * Саха тыла
-     * Sardu
-     * Sicilianu
-     * سنڌي
-     * Srpskohrvatski / српскохрватски
-     * සිංහල
-     * Simple English
-     * Slovenčina
-     * Slovenščina
-     * Anarâškielâ
-     * Soomaaliga
-     * Shqip
-     * Српски / srpski
-     * Sunda
-     * Svenska
-     * Kiswahili
-     * Ślůnski
-     * தமிழ்
-     * Тоҷикӣ
-     * ไทย
-     * Tagalog
-     * Toki pona
-     * Tok Pisin
-     * Türkçe
-     * Xitsonga
-     * Татарча / tatarça
-     * Тыва дыл
-     * Удмурт
-     * Українська
-     * اردو
-     * Oʻzbekcha / ўзбекча
-     * Vèneto
-     * Vepsän kel’
-     * Tiếng Việt
-     * Winaray
-     * Wolof
-     * 吴语
-     * მარგალური
-     * ייִדיש
-     * Zeêuws
-     * ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
-     * 中文
-     * 閩南語 / Bân-lâm-gí
-     * 粵語
+      Afrikaans
+      Alemannisch
+      አማርኛ
+      Aragonés
+      العربية
+      ܐܪܡܝܐ
+      الدارجة
+      مصرى
+      অসমীয়া
+      Asturianu
+      Авар
+      Azərbaycanca
+      تۆرکجه
+      Башҡортса
+      Boarisch
+      Žemaitėška
+      Беларуская
+      Беларуская (тарашкевіца)
+      Betawi
+      Български
+      Banjar
+      বাংলা
+      Brezhoneg
+      Bosanski
+      Буряад
+      Català
+      Нохчийн
+      Cebuano
+      ᏣᎳᎩ
+      کوردی
+      Corsu
+      Čeština
+      Kaszëbsczi
+      Чӑвашла
+      Cymraeg
+      Dansk
+      Deutsch
+      Zazaki
+      Dolnoserbski
+      Ελληνικά
+      English
+      Esperanto
+      Español
+      Eesti
+      Euskara
+      Estremeñu
+      فارسی
+      Suomi
+      Võro
+      Nordfriisk
+      Furlan
+      Frysk
+      Gaeilge
+      Kriyòl gwiyannen
+      Galego
+      Avañe'ẽ
+      Bahasa Hulontalo
+      Hausa
+      Hawaiʻi
+      עברית
+      हिन्दी
+      Fiji Hindi
+      Hrvatski
+      Hornjoserbsce
+      Kreyòl ayisyen
+      Magyar
+      Հայերեն
+      Interlingua
+      Bahasa Indonesia
+      Ilokano
+      ГӀалгӀай
+      Ido
+      Íslenska
+      Italiano
+      日本語
+      Jawa
+      ქართული
+      Qaraqalpaqsha
+      Taqbaylit
+      Адыгэбзэ
+      Kabɩyɛ
+      Қазақша
+      ភាសាខ្មែរ
+      Yerwa Kanuri
+      한국어
+      Перем коми
+      Къарачай-малкъар
+      کٲشُر
+      Kurdî
+      Коми
+      Kernowek
+      Кыргызча
+      Latina
+      Lëtzebuergesch
+      Limburgs
+      Ligure
+      Ladin
+      Lombard
+      Lingála
+      ລາວ
+      Lietuvių
+      Latviešu
+      Basa Banyumasan
+      Мокшень
+      Malagasy
+      Олык марий
+      Македонски
+      മലയാളം
+      Монгол
+      मराठी
+      Bahasa Melayu
+      Mirandés
+      Эрзянь
+      Napulitano
+      Plattdüütsch
+      Nedersaksies
+      नेपाली
+      नेपाल भाषा
+      Nederlands
+      Norsk nynorsk
+      Norsk bokmål
+      Nouormand
+      Occitan
+      Ирон
+      ਪੰਜਾਬੀ
+      Papiamentu
+      Pälzisch
+      Polski
+      Piemontèis
+      پنجابی
+      Ποντιακά
+      پښتو
+      Português
+      Runa Simi
+      Rumantsch
+      Romani čhib
+      Română
+      Armãneashti
+      Русский
+      Русиньскый
+      Саха тыла
+      Sardu
+      Sicilianu
+      سنڌي
+      Srpskohrvatski  српскохрватски
+      සිංහල
+      Simple English
+      Slovenčina
+      Slovenščina
+      Anarâškielâ
+      Soomaaliga
+      Shqip
+      Српски  srpski
+      Sunda
+      Svenska
+      Kiswahili
+      Ślůnski
+      தமிழ்
+      Тоҷикӣ
+      ไทย
+      Tagalog
+      Toki pona
+      Tok Pisin
+      Türkçe
+      Xitsonga
+      Татарча  tatarça
+      Тыва дыл
+      Удмурт
+      Українська
+      اردو
+      Oʻzbekcha  ўзбекча
+      Vèneto
+      Vepsän kel’
+      Tiếng Việt
+      Winaray
+      Wolof
+      吴语
+      მარგალური
+      ייִדיש
+      Zeêuws
+      ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+      中文
+      閩南語  Bân-lâm-gí
+      粵語
    Modifier les liens
-     * Article
-     * Discussion
+      Article
+      Discussion
    [ ] français
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+      Lire
+      Modifier
+      Modifier le code
+      Voir l’historique
    [ ] Outils
    Outils
    Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+      Lire
+      Modifier
+      Modifier le code
+      Voir l’historique
    Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
+      Pages liées
+      Suivi des pages liées
+      Téléverser un fichier
+      Lien permanent
+      Informations sur la page
+      Citer cette page
+      Obtenir l'URL raccourcie
+      Télécharger le code QR
+   Imprimer  exporter
+      Créer un livre
+      Télécharger comme PDF
+      Version imprimable
    Dans d’autres projets
-     * Wikimedia Commons
-     * Wikinews
-     * Wikiquote
-     * Wikiversité
-     * Élément Wikidata
+      Wikimedia Commons
+      Wikinews
+      Wikiquote
+      Wikiversité
+      Élément Wikidata
    Apparence
    Un article de Wikipédia, l'encyclopédie libre.
    Page d’aide sur l’homonymie
@@ -337,7 +337,7 @@ Sommaire
 
 Étymologie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    « État » vient du latin status, dérivé du verbe stare qui signifie au sens
    premier « se tenir debout », et au sens figuré « la position »^[3]. Le mot
@@ -363,11 +363,11 @@ Sommaire
 
 Concepts proches
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
   État et gouvernement
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Gouvernement.
 
    Un État peut être distingué d'un gouvernement. L'État est l'organisation
@@ -387,7 +387,7 @@ Concepts proches
 
   État et État-nation
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : État-nation.
 
    Les États peuvent également être distingués du concept de « nation », où
@@ -397,7 +397,7 @@ Concepts proches
 
   État et souveraineté
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Souveraineté.
 
    La souveraineté est le droit exclusif d’exercer l’autorité politique sur
@@ -406,7 +406,7 @@ Concepts proches
 
   États souverains
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : État en droit international.
 
    Le droit international donne des critères de reconnaissance de l'État
@@ -417,7 +417,7 @@ Concepts proches
 
   État et société civile
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Société civile.
 
    L’État moderne est distinct et connecté à la société civile. L’analyse de
@@ -449,7 +449,7 @@ Concepts proches
 
 Histoire
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    En Histoire, le concept d'État sert de manière large à désigner les formes
    concentrées de pouvoir politique, peu importe que les populations l'aient
@@ -466,7 +466,7 @@ Histoire
 
   Préhistoire
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    La théorie évolutionniste traditionnelle postule une période précédant
    l'existence des États durant laquelle les êtres humains vivaient dans des
@@ -507,7 +507,7 @@ Histoire
 
   Néolithique
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Dans le passé, il a été suggéré que l'État centralisé a été développé pour
    administrer de grands systèmes de travaux publics (tels que les systèmes
@@ -540,7 +540,7 @@ Histoire
 
   L'État durant Antiquité
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Citoyenneté.
    [IMG]
    Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide
@@ -559,11 +559,11 @@ Histoire
 
   Émergence des États modernes en Europe
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
     Origines des États modernes en Europe
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : État souverain.
 
    On peut observer au Moyen Âge des phénomènes de centralisation du pouvoir
@@ -589,7 +589,7 @@ Histoire
 
     Formation et conséquences de la bureaucratie étatique
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Articles connexes : Bureaucratie, Constitution et État-nation.
 
    C’est entre autres à travers la prise de pouvoir autocratique de Napoléon
@@ -615,7 +615,7 @@ Histoire
 
   La décolonisation et la mondialisation d'un système de gouvernance
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Mondialisation.
 
    Pourtant, les pays victimes du colonialisme européen n’ont généralement
@@ -651,7 +651,7 @@ Histoire
 
   Évolution récente
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article connexe : Néolibéralisme.
 
    Depuis la fin des années 1980, la place de l’État change radicalement,
@@ -726,12 +726,12 @@ Histoire
    seul pouvoir des marchés financiers, et que les États (ou du moins des
    institutions possédant des traits de puissance publique) pouvaient exercer
    un pouvoir de régulation^[48]. Néanmoins, certains auteurs ont
-   récemment^[C'est-à-dire ?] avancé le passage d'un État dominateur de la
+   récemment^[C'est-à-dire ] avancé le passage d'un État dominateur de la
    société à un État acteur, soumis à l'impératif de collaboration^[49].
 
 Caractérisation de l'État
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
    plus.Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
    savoir plus.
@@ -747,7 +747,7 @@ Caractérisation de l'État
 
   Monopole de la violence légitime
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    Article détaillé : Monopole de la violence légitime.
 
    Selon David Graeber et David Wengrow, c’est le philosophe et juriste
@@ -781,7 +781,7 @@ Caractérisation de l'État
 
   Appareil politique et administratif
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    L’État est administré par des gouvernants élus et des fonctionnaires
    gouvernants (Jacques Lagroye), c’est-à-dire que l’État est à la fois
@@ -810,7 +810,7 @@ Caractérisation de l'État
 
   Séparation des pouvoirs et contre-pouvoirs
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]John Locke.
 
    Les principes fondamentaux d’un État moderne, tels qu’ils ont été énoncés
@@ -863,11 +863,11 @@ Caractérisation de l'État
 
   Théories juridiques concurrentes
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]
    Cette section ne cite pas suffisamment ses sources (août 2024). 
    Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les passages
+   (comment faire ) ou le modèle {{Référence nécessaire}} sur les passages
    nécessitant une source.
 
    La théorie juridique a eu beaucoup de mal à définir ce qu’était l’État.
@@ -924,7 +924,7 @@ Caractérisation de l'État
 
 Role de l'État en économie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    L'État à partir du XX^e siècle devient peu à peu plus présent, et à
    l'État-gendarme qui ne s'occupait que de la justice de la police et de
@@ -943,7 +943,7 @@ Role de l'État en économie
 
   Grandes fonctions
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    L'économiste américain Richard Musgrave^[58] définit trois fonctions
    économiques de l'État dans la Théorie des finances publiques :
@@ -952,7 +952,7 @@ Role de l'État en économie
        l'activité est souvent cyclique ; l'intervention publique va avoir
        pour but d'éviter de trop grandes fluctuations en pratiquant des
        politiques de stabilisation comme cela a été le cas lors de la crise
-       économique de 2008-2009. Les pouvoirs publics interviennent en faisant
+       économique de 20082009. Les pouvoirs publics interviennent en faisant
        appel à deux moyens principaux^[59]. Tout d'abord, la politique de
        "Stop and Go" permet à l'État soit de relancer l'activité économique
        via une politique budgétaire expansionniste afin de promouvoir la
@@ -969,7 +969,7 @@ Role de l'État en économie
        pouvoirs publics interviennent pour prendre en charge les biens
        collectifs, réguler la concurrence et internaliser les externalités
        c'est-à-dire par exemple dans le cas des émissions de
-       CO_2______________, les instances publiques vont créer un marché des
+       CO_2_________, les instances publiques vont créer un marché des
        droits à polluer ou créer une taxe carbone de sorte que les acteurs
        économiques tiennent compte des conséquences de leurs actes sur
        l'environnement. Il s'agit de remédier à certaines défaillances du
@@ -980,7 +980,7 @@ Role de l'État en économie
        électricité)^[59].
     3. La distribution ou « répartition », qui a pour but d'influer sur les
        inégalités. Ces politiques sont liées à des notions d'équité, de
-       justice sociale ou plus récemment^[C'est-à-dire ?] de capabilité (un
+       justice sociale ou plus récemment^[C'est-à-dire ] de capabilité (un
        concept développé par Amartya Sen) ; En gros, ces mesures publiques
        sont destinées à assurer le citoyen contre les quatre risques majeurs
        (analphabétisme, pauvreté, maladie, chômage, vieillesse) par le
@@ -988,7 +988,7 @@ Role de l'État en économie
        William Beveridge (système de l'État providence) au milieu des années
        quarante^[59].
 
-   Récemment^[C'est-à-dire ?], la théorie de la croissance endogène a mis
+   Récemment^[C'est-à-dire ], la théorie de la croissance endogène a mis
    l'accent sur les effets de certaines interventions publiques sur la
    croissance potentielle de long terme. C'est ainsi que depuis peu, les
    États mènent des politiques en faveur de la recherche.
@@ -1005,7 +1005,7 @@ Role de l'État en économie
 
   Différentes formes d'États-providence
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Pour Gøsta Esping-Andersen, l'État-providence ne peut pas se définir
    seulement par les droits sociaux qu'il accorde aux citoyens, il faut
@@ -1057,11 +1057,11 @@ Role de l'État en économie
 
   Controverses concernant l'économie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
    [IMG]
    Cette section ne cite pas suffisamment ses sources (janvier 2024). 
    Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les passages
+   (comment faire ) ou le modèle {{Référence nécessaire}} sur les passages
    nécessitant une source.
 
    Pour les économistes proches du libéralisme classique, l'État ne doit pas
@@ -1142,12 +1142,12 @@ Role de l'État en économie
    principe d'égalité des individus. De tous les théoriciens qui donnent de
    la place au principe d'égalité, le plus célèbre est John Rawls : dans la
    Théorie de la justice il essaye de montrer l'irrationalité des libéraux à
-   travers une hypothèse - qu'est-ce que des individus rationnels
+   travers une hypothèse  qu'est-ce que des individus rationnels
    attendraient de l'économie, s'ils partaient tous du même point de départ,
    c'est-à-dire s'ils ignoraient leur position dans l'échelle sociale et
    leurs avantages ou handicaps économiques de départ (être né dans un
    quartier noir, ou dans une banlieue résidentielle bourgeoise, avoir un
-   héritage ou être orphelin, etc.) ? Il en conclut que le plus rationnel
+   héritage ou être orphelin, etc.)  Il en conclut que le plus rationnel
    serait que de vouloir que chacun ait strictement les mêmes chances de
    réussir : c'est le principe de l'égalité des chances, qui implique un
    impôt redistributif, proportionnel aux ressources. Un argument important
@@ -1175,7 +1175,7 @@ Role de l'État en économie
 
 Courants de pensée
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Plusieurs grandes traditions aussi bien en science politique qu’en
    sociologie structurent les théories de l’État : les approches marxistes,
@@ -1191,7 +1191,7 @@ Courants de pensée
 
   Marxisme
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Pour Marx et Engels, l'État est un produit de la société de classes,
    lorsque la société scindée en classes aux intérêts antagonistes est en
@@ -1256,7 +1256,7 @@ Courants de pensée
 
   Libéralisme
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Pour la pensée libérale, l'État a pour fonction principale de protéger les
    atteintes aux Droits Naturels des individus : liberté, propriété et
@@ -1272,7 +1272,7 @@ Courants de pensée
 
   Pluralisme
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Si l’approche néo-marxiste a été influente en Europe dans les années 1960
    et 1970, l’approche pluraliste a eu à la même époque une large audience
@@ -1285,7 +1285,7 @@ Courants de pensée
 
   Pragmatisme
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Pour John Dewey, l'État n'a rien de métaphysique comme chez les hégéliens.
    Il ne dépend pas non plus d'une cause unique comme la volonté générale
@@ -1307,7 +1307,7 @@ Courants de pensée
 
   Institutionnalisme
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Pour les marxistes et les pluralistes, l’État se contente de réagir aux
    activités des groupes sociaux. Aussi ils ont été critiqués par d’autres
@@ -1329,7 +1329,7 @@ Courants de pensée
 
   Église catholique
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Dans l'encyclique Caritas in Veritate de juillet 2009, Benoît XVI indique
    que les acteurs de la vie économique ne peuvent se limiter au marché seul,
@@ -1356,11 +1356,11 @@ Courants de pensée
 
 Notes et références
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
   Notes
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
     1. ↑ Cette définition rejoint celle de la première édition du
        dictionnaire de l’Académie française de 1696, qui définit l'État comme
        le « gouvernement d’un peuple vivant sous la domination d’un prince ou
@@ -1376,50 +1376,50 @@ Notes et références
 
   Références
 
-   [modifier | modifier le code]
-    1. ↑ ^a et b « Qu'est-ce que l'État ? », sur vie-publique.fr (consulté le
+   [modifier  modifier le code]
+    1. ↑ ^a et b « Qu'est-ce que l'État  », sur vie-publique.fr (consulté le
        16 novembre 2023)
     2. ↑ Georges Burdeau, Traité de science politique, 1950.
     3. ↑ Larousse étymologique, Paris, France, 1971.
     4. ↑ (en) Terence Ball, James Farr et Russell L. Hanson, Political
        Innovation and Conceptual Change, Cambridge University Press, 28 avril
-       1989 (ISBN 978-0-521-35978-8, lire en ligne)
+       1989 (ISBN 9780-521359788, lire en ligne)
     5. ↑ Le dictionnaire Blackwell de science politique : un guide de
        l'utilisateur sur ses termes, Wiley-Blackwell, 1999
-       (ISBN 978-0-631-20695-8), « government », p. 147
+       (ISBN 9780-631206958), « government », p. 147
     6. ↑ Sartwell, 2008 : livres?id=bk-aaMVGKO0C&pg=PA25 p. 25
-       « https://web.archive.org/web/20160623220736/https://books.google.com/books?id=bk-aaMVGKO0C&pg=PA25 »^(Archive.org
-       • Wikiwix • Archive.is • Google • Que faire ?), 23 juin 2016
+       « https:/web.archive.org/web/20160623220736/https:/books.google.com/books?id=bk-aaMVGKO0C&pg=PA25 »^(Archive.org
+       • Wikiwix • Archive.is • Google • Que faire ), 23 juin 2016
     7. ↑ ^a et b Flint et Taylor, 2007 : p. 137.
     8. ↑ (en) Kjaer, Anne Mette, Governance, Londres, 2004 (ISBN 0745629792)
-    9. ↑ Sarah Foot, « L'État c'est quoi ? Questions sur l'historiographie
+    9. ↑ Sarah Foot, « L'État c'est quoi  Questions sur l'historiographie
        des Anglo-Saxons », Histoire, économie & société, vol. 24e année,
-       n^o 1,‎ 2005, p. 5 (ISSN 0752-5702, DOI 10.3917/hes.051.0005, lire en
+       n^o 1,‎ 2005, p. 5 (ISSN 07525702, DOI 10.3917/hes.051.0005, lire en
        ligne, consulté le 29 novembre 2023)
    10. ↑ (en) Ingold, Tim et Daly, Richard Heywood, The Cambridge
        encyclopedia of hunters and gatherers, Cambridge University Press,
-       1999 (ISBN 978-0-521-57109-8), « On the social relations of the
+       1999 (ISBN 9780-521571098), « On the social relations of the
        hunter-gatherer band », p. 408
-   11. ↑ Wengrow Graeber, p. 147-148.
-   12. ↑ Wengrow et Graeber 2021, p. 147-148.
+   11. ↑ Wengrow Graeber, p. 147148.
+   12. ↑ Wengrow et Graeber 2021, p. 147148.
    13. ↑ Simon Berger, « Une armée en guise de peuple : la structure
        militaire de l'organisation politique et sociale des nomades
        eurasiatiques à travers l'exemple mongol médiéval », EHESS (thèse),‎
        12 décembre 2022 (lire en ligne, consulté le 7 novembre 2023)
    14. ↑ Simon Berger, « IV. L’Empire mongol : un État nomade », dans Les
-       empires médiévaux, Perrin, 18 avril 2019 (ISBN 978-2-262-04824-2,
-       DOI 10.3917/perri.gougu.2019.01.0089, lire en ligne), p. 89-112
+       empires médiévaux, Perrin, 18 avril 2019 (ISBN 9782-262048242,
+       DOI 10.3917/perri.gougu.2019.01.0089, lire en ligne), p. 89112
    15. ↑ (en) Brian R. Nelson, The Making of the Modern State: A Theoretical
-       Evolution, Palgrave Macmillan, 16 mars 2006 (ISBN 978-1-4039-7189-0,
+       Evolution, Palgrave Macmillan, 16 mars 2006 (ISBN 9781-403971890,
        lire en ligne), p. 17
    16. ↑ Picq 2009.
    17. ↑ Grunin 2019.
    18. ↑ Samuels 2017, p. 37.
    19. ↑ ^a et b Samuels 2017, p. 39.
-   20. ↑ ^a et b Tilly 1990, p. 67-95.
+   20. ↑ ^a et b Tilly 1990, p. 6795.
    21. ↑ (en) Richard Bean, « War and the Birth of the Nation State », The
-       Journal of Economic History, vol. 33, n^o 1,‎ 1973, p. 203-221
-       (ISSN 0022-0507, DOI 10.1017/S0022050700076531, JSTOR 2117151,
+       Journal of Economic History, vol. 33, n^o 1,‎ 1973, p. 203221
+       (ISSN 00220507, DOI 10.1017/S0022050700076531, JSTOR 2117151,
        S2CID 154453294)
    22. ↑ Boudon et Jessenne 2018.
    23. ↑ Giovanazzi 2021.
@@ -1445,12 +1445,12 @@ Notes et références
    43. ↑ Capuano 2015.
    44. ↑ Chelle 2019.
    45. ↑ ^a b et c « Les mots de l'économie aujourd'hui », Sciences humaines
-       - Hors série,‎ septembre / octobre 1998, p. 8
+        Hors série,‎ septembre  octobre 1998, p. 8
    46. ↑ ^a b c d e f g h et i Jean-Francois Dortier, « Néokeynésiens :
-       l'État réhabilité ? », Sciences humaines - Hors série,‎ septembre /
+       l'État réhabilité  », Sciences humaines  Hors série,‎ septembre /
        octobre 1998, p. 21
    47. ↑ Paul A. Samuelson, L'Economique, tome 2, Paris, Armand Colin, 1969,
-       1148 p., p. 599-600
+       1148 p., p. 599600
    48. ↑ « Le plan français pour lutter contre la crise financière », sur
        gouvernement.fr
    49. ↑ Sur la notion d'État acteur, cf. en particulier Luc Gonin,
@@ -1468,24 +1468,24 @@ Notes et références
        Ministère de la défense.
    53. ↑ Tocqueville, 1988, p. 249
    54. ↑ ^a et b Halévy, 1995, p. 121
-   55. ↑ Quesnay, 1969, p. 329-331
+   55. ↑ Quesnay, 1969, p. 329331
    56. ↑ Emmanuel Tuchscherer, « Le Léviathan dans la doctrine de l’État de
        Thomas Hobbes : sens et échec du décisionnisme politique », Astérion.
        Philosophie, histoire des idées, pensée politique, n^o 2,‎ 1^er
-       juillet 2004 (ISSN 1762-6110, DOI 10.4000/asterion.93, lire en ligne,
+       juillet 2004 (ISSN 17626110, DOI 10.4000/asterion.93, lire en ligne,
        consulté le 26 août 2024)
    57. ↑ Alexandre Viala, « Le positivisme juridique : Kelsen et l'héritage
        kantien », Revue interdisciplinaire d'études juridiques, vol. 67,
-       n^o 2,‎ 2011, p. 95-117 (ISSN 0770-2310, DOI 10.3917/riej.067.0095,
+       n^o 2,‎ 2011, p. 95117 (ISSN 07702310, DOI 10.3917/riej.067.0095,
        lire en ligne, consulté le 26 août 2024)
    58. ↑ A. Renaut, L'intervention publique et ses limites, dans Cahiers
-       français, chap. 345, p. 72-76
+       français, chap. 345, p. 7276
    59. ↑ ^a b c d e et f Jean-Pierre Delas, Économie contemporaine, Faits,
        concepts, théories, Paris, Éditions Ellipses, 2008, 751 p.
-       (ISBN 978-2-7298-3611-5), p. 39-40
+       (ISBN 9782-729836115), p. 3940
    60. ↑ Jean-Pierre Delas..., p. 516
    61. ↑ ^a et b J.-M. Albertini, Les rouages de l'économie nationale, Paris,
-       Les éditions ouvrières, octobre 1982, 317 p. (ISBN 2-7082-0663-X),
+       Les éditions ouvrières, octobre 1982, 317 p. (ISBN 270820663-X),
        p. 92
    62. ↑ Esping-Andersen, 2007, p. 35
    63. ↑ François-Xavier Merrien, Les Différents Types de l'État-providence,
@@ -1498,28 +1498,28 @@ Notes et références
    69. ↑ Esping-Andersen, 2007, p. 80
    70. ↑ Esping-Andersen, 2007, p. 43
    71. ↑ ^a b c d e f g h et i Paul A. Samuelson, L'Economique, Paris, Armand
-       Colin, 1969, 1148 p., p. 603-608
+       Colin, 1969, 1148 p., p. 603608
    72. ↑ ^a et b Friedrich Engels, L'Origine de la famille, de la propriété
        privée et de l'État : (pour faire suite aux travaux de Lewis H.
        Morgan) [« Ursprung der Familie, des Privateigenthums und des
        Staats »], Paris, Carré, 1893 (1^re éd. 1884) (OCLC 313398699, lire en
        ligne), Chap. 7 Barbarie et civilisation
    73. ↑ Lénine, Lénine, Moscou, Editions en langues étrangères, 1947,
-       p. 411, 429-430
+       p. 411, 429430
    74. ↑ Karl Marx et Friedrich Engels (trad. Corinne Lyotard, introduction,
        notes et commentaires de François Châtelet), Manifeste du parti
        communiste (1848) et Critique du programme de Gotha (1875) [« Manifest
-       der Kommunistischen Partei / Kritik des Gothaer Programms »], Paris,
+       der Kommunistischen Partei  Kritik des Gothaer Programms »], Paris,
        Librairie générale française, coll. « Le Livre de poche, Les
        Classiques de la Philosophie », 2004 (1^re éd. septembre 1973), 155 p.
        (ISBN 2253014915 et 9782253014911, OCLC 496671293, lire en ligne),
-       p. 20-21
+       p. 2021
    75. ↑ Expression de Lénine cité par Jean-Marie Albertini, Capitalismes et
        socialismes à l'épreuve, 1976, Paris, les Éditions Ouvrières, 304 p.,
        p. 87
    76. ↑ Albertini 1976, p. 87
    77. ↑ Miliband, Ralph, 1983, Class power and state power, Londres
-   78. ↑ « L’État - par Frédéric Bastiat », sur bastiat.org
+   78. ↑ « L’État  par Frédéric Bastiat », sur bastiat.org
    79. ↑ (en) Robert Dahl, Modern Political Analysis, Prentice Hall, 1973
    80. ↑ Zask 2003, p. 24.
    81. ↑ Dewey 2003, p. 61.
@@ -1532,339 +1532,339 @@ Notes et références
 
 Bibliographie
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
   Utilisé pour la rédaction de l'article
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
     Pour la section Histoire
 
-   [modifier | modifier le code]
-     * David J. Samuels, Comparative politics, Pearson, 2013
-       (ISBN 978-0-321-44974-0). Ouvrage utilisé pour la rédaction de
+   [modifier  modifier le code]
+      David J. Samuels, Comparative politics, Pearson, 2013
+       (ISBN 9780-321449740). Ouvrage utilisé pour la rédaction de
        l'article
-     * John Dewey (préf. Joëlle Zask), Le public et ses problèmes,
+      John Dewey (préf. Joëlle Zask), Le public et ses problèmes,
        Publications de l'Université de Pau, 2003. Ouvrage utilisé pour la
        rédaction de l'article
-     * Jean Picq, Une histoire de l’État en Europe, vol. 2e éd., Paris,
+      Jean Picq, Une histoire de l’État en Europe, vol. 2e éd., Paris,
        Presses de Sciences Po, coll. « Les Manuels de Sciences Po », 2009,
-       19–40 p. (ISBN 978-2-7246-1103-8, lire en ligne), « Introduction. Le
+       19–40 p. (ISBN 9782-724611038, lire en ligne), « Introduction. Le
        surgissement des figures de l'État dans l'histoire de
        l'Europe ». Ouvrage utilisé pour la rédaction de l'article
-     * Jacques-Olivier Boudon, « L’incarnation de l’État de Brumaire à
+      Jacques-Olivier Boudon, « L’incarnation de l’État de Brumaire à
        Floréal », dans Du Directoire au Consulat 3. Brumaire dans l'histoire
        du lien politique et de l'État-nation, Lille, Publications de
        l’Institut de recherches historiques du Septentrion, coll. « Histoire
        et littérature du Septentrion (IRHiS) », 2 mai 2018, 333–345 p.
-       (ISBN 978-2-490-29606-4, lire en ligne). Ouvrage utilisé pour la
+       (ISBN 9782-490296064, lire en ligne). Ouvrage utilisé pour la
        rédaction de l'article
-     * Sébastien Laurent, « Pour une autre histoire de l'État. Le secret,
+      Sébastien Laurent, « Pour une autre histoire de l'État. Le secret,
        l'information politique et le renseignement », Vingtième Siècle. Revue
-       d'histoire, vol. 83, n^o 3,‎ 2004, p. 173–184 (ISSN 0294-1759,
+       d'histoire, vol. 83, n^o 3,‎ 2004, p. 173–184 (ISSN 02941759,
        DOI 10.3917/ving.083.0173, lire en ligne, consulté le 16 novembre
        2023). Ouvrage utilisé pour la rédaction de l'article
-     * Emmanuel Blanchard, « Conclusion. Les forces de l’ordre colonial,
+      Emmanuel Blanchard, « Conclusion. Les forces de l’ordre colonial,
        entre conservatoires et laboratoires policiers
        (XVIII^e – XX^e siècle) », dans Polices d’Empires :
        XVIII^e – XIX^e siècles, Rennes, Presses universitaires de Rennes,
        coll. « Histoire », 18 juillet 2019, 171–187 p.
-       (ISBN 978-2-7535-6897-6, lire en ligne)
-     * Alessandro Giovanazzi, « L’État italien entre administration
+       (ISBN 9782-753568976, lire en ligne)
+      Alessandro Giovanazzi, « L’État italien entre administration
        et tutelle dans l’Empire français », dans Raison administrative et
        logiques d’empire (xvie-xixe siècle), Rome, Publications de l’École
        française de Rome, coll. « Collection de l'École française de Rome »,
-       9 février 2021, 271–283 p. (ISBN 978-2-7283-1457-7, lire en ligne)
-     * Pauline Valade, « Chapitre 4. Au crépuscule du Grand Siècle : un État
+       9 février 2021, 271–283 p. (ISBN 9782-728314577, lire en ligne)
+      Pauline Valade, « Chapitre 4. Au crépuscule du Grand Siècle : un État
        monarchique centralisé, fondé sur le compromis autant que sur
        l’autorité », dans La construction de l'État monarchique en France de
        1380 à 1715, Paris, Armand Colin, coll. « Horizon », 2022, 273–336 p.
-       (ISBN 978-2-200-63381-3, lire en ligne). Ouvrage utilisé pour la
+       (ISBN 9782-200633813, lire en ligne). Ouvrage utilisé pour la
        rédaction de l'article
-     * Jean Le Bihan, « Chapitre VI. L’idéologie administrative », dans Au
+      Jean Le Bihan, « Chapitre VI. L’idéologie administrative », dans Au
        service de l'État : Les fonctionnaires intermédiaires au xixe siècle,
        Rennes, Presses universitaires de Rennes, coll. « Histoire », 5
-       février 2015, 261–294 p. (ISBN 978-2-7535-3124-6, lire en ligne)
-     * Sylvie Thénault, Les Empires coloniaux, XIX^e – XX^e siècles, Seuil,
-       2013, –215-256. (lire en ligne), « L'Etat colonial »
-     * Émilien Ruiz, Trop de fonctionnaires ? Contribution à une histoire de
-       l'État par ses effectifs (France, 1850-1950), Ecole des Hautes Etudes
+       février 2015, 261–294 p. (ISBN 9782-753531246, lire en ligne)
+      Sylvie Thénault, Les Empires coloniaux, XIX^e – XX^e siècles, Seuil,
+       2013, –215256. (lire en ligne), « L'Etat colonial »
+      Émilien Ruiz, Trop de fonctionnaires  Contribution à une histoire de
+       l'État par ses effectifs (France, 18501950), Ecole des Hautes Etudes
        en Sciences Sociales (EHESS), 16 septembre 2013 (lire en ligne)
-     * Andrey Grunin, « Le Moyen Âge, une époque sans État ? Construire le
+      Andrey Grunin, « Le Moyen Âge, une époque sans État  Construire le
        passé au présent », Perspectives médiévales, vol. 40,‎ janvier 2019,
        p. 1–21 (DOI 10.4000/peme.15221, lire en ligne, consulté le 16
        novembre 2023)
-     * Jérémie Ferrer-Bartomeu, L’État à la lettre. Institutions de l’écrit
+      Jérémie Ferrer-Bartomeu, L’État à la lettre. Institutions de l’écrit
        et configurations de la société administrative durant les guerres de
-       religion (vers 1570 - vers 1610. Royaume de France), Paris, Ecole
+       religion (vers 1570  vers 1610. Royaume de France), Paris, Ecole
        nationale des chartes, 9 décembre 2017 (lire en ligne)
-     * Philippe Batifoulier, Nicolas da Silva et Mehrdad Vahabi, La Sociale
+      Philippe Batifoulier, Nicolas da Silva et Mehrdad Vahabi, La Sociale
        contre l'Etat providence. Prédation et protection sociale, février
        2020 (lire en ligne)
-     * Myriam Catusse, L’État au péril des sociétés au Moyen-Orient,
+      Myriam Catusse, L’État au péril des sociétés au Moyen-Orient,
        RomaTrePress, 2016, 35 p. (lire en ligne)
-     * Cristina Moreno, La construction de l'État colombien au prisme de
+      Cristina Moreno, La construction de l'État colombien au prisme de
        l'éducation. Nationalisation et modernisation pendant la République
-       Libérale (1930-1946), Université Sorbonne Paris Cité, 15 février 2018
+       Libérale (19301946), Université Sorbonne Paris Cité, 15 février 2018
        (lire en ligne)
-     * Antoine Fersing, Idoines et suffisant: les officiers d'Etat et
+      Antoine Fersing, Idoines et suffisant: les officiers d'Etat et
        l'extension des droits du Prince en Lorraine ducale (début du XVIe
-       siècle - 1633), Université de Strasbourg, 2021 (lire en ligne)
-     * Tarik Dahou, « Les marges transnationales et locales de l'État
+       siècle  1633), Université de Strasbourg, 2021 (lire en ligne)
+      Tarik Dahou, « Les marges transnationales et locales de l'État
        algérien », Politique africaine, vol. 137,‎ 2015, p. 7–25 (lire en
        ligne, consulté le 16 novembre 2023)
-     * Jean-François Leguil-Bayart, « L'historicité de l'Etat importé », Les
+      Jean-François Leguil-Bayart, « L'historicité de l'Etat importé », Les
        Cahiers du CERI, n^o 15,‎ 1996, p. 1–44 (lire en ligne, consulté le 16
        novembre 2023)
-     * Jérémie Ferrer-Bartomeu, « Pour une histoire rapprochée de l'État. La
+      Jérémie Ferrer-Bartomeu, « Pour une histoire rapprochée de l'État. La
        représentation de l'écrit politique à la Renaissance
-       (Castille-Angleterre, 1590-1604) », Annales de l'Est, vol. 70e année,
+       (Castille-Angleterre, 15901604) », Annales de l'Est, vol. 70e année,
        n^o 1,‎ janvier 2020, p. 141–159 (lire en ligne, consulté le 16
        novembre 2023)
-     * Oscar Ferreira, Histoire de la construction de l'État, Ellipses, 2022
-       (ISBN 978-2-340-07009-7, lire en ligne). Ouvrage utilisé pour la
+      Oscar Ferreira, Histoire de la construction de l'État, Ellipses, 2022
+       (ISBN 9782-340070097, lire en ligne). Ouvrage utilisé pour la
        rédaction de l'article
-     * Marie Derrien, « L’administration face à la prise en charge des
+      Marie Derrien, « L’administration face à la prise en charge des
        « aliénés militaires » internés : une renégociation des rôles entre
-       l’État et les pouvoirs locaux ? », dans Les mises en guerre de l’État:
-       1914-1918 en perspective, ENS Éditions, 1^er décembre 2018 (lire en
+       l’État et les pouvoirs locaux  », dans Les mises en guerre de l’État:
+       19141918 en perspective, ENS Éditions, 1^er décembre 2018 (lire en
        ligne)
-     * Marie-Bénédicte Vincent, « Le renforcement du contrôle étatique sur
+      Marie-Bénédicte Vincent, « Le renforcement du contrôle étatique sur
        les civils en Allemagne : le service auxiliaire patriotique à Fulda
-       (1916-1918) », dans Les mises en guerre de l’État: 1914-1918 en
+       (19161918) », dans Les mises en guerre de l’État: 19141918 en
        perspective, ENS Éditions, 1^er décembre 2018 (lire en ligne)
-     * Pierre Chancerel, « L’administration du marché du charbon par l’État :
+      Pierre Chancerel, « L’administration du marché du charbon par l’État :
        l’action du Bureau national des charbons », dans Les mises en guerre
-       de l’État: 1914-1918 en perspective, ENS Éditions, 1^er décembre 2018
+       de l’État: 19141918 en perspective, ENS Éditions, 1^er décembre 2018
        (lire en ligne)
-     * Christophe Capuano, « État-providence, rationalisation bureaucratique
+      Christophe Capuano, « État-providence, rationalisation bureaucratique
        et traitement du social : l’« efficacité » des caisses de Sécurité
        sociale et de leurs agents en question (1945-années 1980) », Le
-       Mouvement Social, vol. 251, n^o 2,‎ 2015, p. 33–58 (ISSN 0027-2671,
+       Mouvement Social, vol. 251, n^o 2,‎ 2015, p. 33–58 (ISSN 00272671,
        DOI 10.3917/lms.251.0033, lire en ligne, consulté le 16 novembre 2023)
 
   Autre
 
-   [modifier | modifier le code]
-     * Hannah Arendt, Essai sur la révolution, édition originale, 1963;
+   [modifier  modifier le code]
+      Hannah Arendt, Essai sur la révolution, édition originale, 1963;
        dernière édition : Paris, Gallimard, coll. Folio, 2013
-       (ISBN 978-2-07-045079-4)
-     * Boris Barraud, L’État – Entre fait et droit, Paris, L'Harmattan, coll.
-       Logiques juridiques, 2015 (ISBN 978-2-343-06339-3)
-     * Bernard Charbonneau, L'État, version ronéotypée 1949 ; Paris,
+       (ISBN 9782-070450794)
+      Boris Barraud, L’État – Entre fait et droit, Paris, L'Harmattan, coll.
+       Logiques juridiques, 2015 (ISBN 9782-343063393)
+      Bernard Charbonneau, L'État, version ronéotypée 1949 ; Paris,
        Economica, coll. « Classiques des sciences sociales », 1987
-       (ISBN 978-2-71-781360-9)
-     * John Dewey, Reconstruction en philosophie, édition originale, 1920 ;
+       (ISBN 9782-717813609)
+      John Dewey, Reconstruction en philosophie, édition originale, 1920 ;
        dernière édition en français : Paris, Folio, 2014
-       (ISBN 978-2-07-045624-6)
-     * Gosta Esping-Andersen, Les trois mondes de l'État-providence, édition
-       originale, 1990, Paris, PUF, 2007 (ISBN 978-2-13-055916-0)
-     * Simone Goyard-Fabre, L'État, figure moderne de la politique, Paris,
-       Armand Colin, coll. « Cursus », 1999. (ISBN 978-2-20-025105-5)
-     * Élie Halévy, Le radicalisme philosophique, édition originale, 1904;
-       dernière édition : Paris, PUF, 1998. (ISBN 978-2-13-047000-7)
-     * Pierre Rosanvallon, L'État en France de 1789 à nos jours, Paris,
-       Seuil, 1990 (ISBN 978-2-02-128774-5)
-     * Jean Picq, Une histoire de l'État en Europe, Paris, Presses de
+       (ISBN 9782-070456246)
+      Gosta Esping-Andersen, Les trois mondes de l'État-providence, édition
+       originale, 1990, Paris, PUF, 2007 (ISBN 9782-130559160)
+      Simone Goyard-Fabre, L'État, figure moderne de la politique, Paris,
+       Armand Colin, coll. « Cursus », 1999. (ISBN 9782-200251055)
+      Élie Halévy, Le radicalisme philosophique, édition originale, 1904;
+       dernière édition : Paris, PUF, 1998. (ISBN 9782-130470007)
+      Pierre Rosanvallon, L'État en France de 1789 à nos jours, Paris,
+       Seuil, 1990 (ISBN 9782-021287745)
+      Jean Picq, Une histoire de l'État en Europe, Paris, Presses de
        Sciences Po, 2009 (ISBN 9782724611038).
-     * Alexis de Tocqueville, L'ancien régime et la révolution, édition
-       originale, 1858; Paris, GF-Flammarion, 2005 (ISBN 978-2-07-032299-2)
-     * Max Weber, Économie et Société, édition originale, 1921 ; tomes 1 et
-       2, Paris, Pocket 2003 (ISBN 978-2266132442) / (ISBN 978-2-26-606987-8)
-     * Lilian Truchon, Hobbes et la nature de l'État, Paris, Delga, 2018
-     * David Wengrow et David Graeber (trad. Élise Roy), Au commencement
+      Alexis de Tocqueville, L'ancien régime et la révolution, édition
+       originale, 1858; Paris, GF-Flammarion, 2005 (ISBN 9782-070322992)
+      Max Weber, Économie et Société, édition originale, 1921 ; tomes 1 et
+       2, Paris, Pocket 2003 (ISBN 9782266132442)  (ISBN 9782-266069878)
+      Lilian Truchon, Hobbes et la nature de l'État, Paris, Delga, 2018
+      David Wengrow et David Graeber (trad. Élise Roy), Au commencement
        était… : une nouvelle histoire de l'humanité, 2021
-       (ISBN 979-10-209-1030-1, OCLC 1287242266). Ouvrage utilisé pour la
+       (ISBN 9791020910301, OCLC 1287242266). Ouvrage utilisé pour la
        rédaction de l'article
-     * Élisa Chelle, Gouverner les pauvres : Politiques sociales et
+      Élisa Chelle, Gouverner les pauvres : Politiques sociales et
        administration du mérite, Rennes, Presses universitaires de Rennes,
-       coll. « Res publica », 19 juin 2019 (ISBN 978-2-7535-6265-3, lire en
+       coll. « Res publica », 19 juin 2019 (ISBN 9782-753562653, lire en
        ligne)
 
    Autres ouvrages
 
-     * Gérard Bergeron, Petit traité de l'État, Paris, Presses universitaires
+      Gérard Bergeron, Petit traité de l'État, Paris, Presses universitaires
        de France, Collection « La politique éclatée », 1990.
-     * Giovanni Bianco, Sulla genesi dello Stato, dans Rivista
+      Giovanni Bianco, Sulla genesi dello Stato, dans Rivista
        dell'associazione italiana dei costituzionalisti, 2010.
-     * Norberto Bobbio, Stato, dans Enciclopedia Einaudi, XIII, Einaudi,
+      Norberto Bobbio, Stato, dans Enciclopedia Einaudi, XIII, Einaudi,
        Turin, 1981.
-     * Pierre Bourdieu, Sur l'État. Cours au Collège de France (1989-1992),
-       Le Seuil, 2012 (ISBN 978-2-02-066224-6)
-     * Enzo Cheli, Lo Stato costituzionale. Radici e prospettive, Es, Naples,
+      Pierre Bourdieu, Sur l'État. Cours au Collège de France (19891992),
+       Le Seuil, 2012 (ISBN 9782-020662246)
+      Enzo Cheli, Lo Stato costituzionale. Radici e prospettive, Es, Naples,
        2006.
-     * Pierre Clastres, La Société contre l’État. Recherches d'anthropologie
+      Pierre Clastres, La Société contre l’État. Recherches d'anthropologie
        politique, éd. originale; Minuit, 1974, réédition : 2011
-       (ISBN 978-2-70-732159-6)
-     * Eugène Enriquez, De la horde à l’État, Gallimard, 1983; réédition
+       (ISBN 9782-707321596)
+      Eugène Enriquez, De la horde à l’État, Gallimard, 1983; réédition
        Gallimard, coll. Folio, 2003
-     * Thomas Hobbes, Léviathan, ouvrage édité en 1651; Gallimard, coll.
-       Folio (ISBN 978-2-07-075225-6).
-     * Lénine, L'État et la Révolution, édition originale, 1917; Éditions du
+      Thomas Hobbes, Léviathan, ouvrage édité en 1651; Gallimard, coll.
+       Folio (ISBN 9782-070752256).
+      Lénine, L'État et la Révolution, édition originale, 1917; Éditions du
        Progrès, 1981
-     * Gaston Leval, L’État dans l’Histoire, édition originale non datée ;
+      Gaston Leval, L’État dans l’Histoire, édition originale non datée ;
        éditions du monde libertaire, 2006
-     * John Locke, Les Deux Traités du gouvernement civil, 1690
-     * Nicolas Machiavel, Le Prince, ouvrage écrit au début du XVI^e siècle;
-       Le Livre de poche, 2000 (ISBN 978-2-25-306743-6)
-     * Raymond Carré de Malberg, Contribution à la théorie générale de
+      John Locke, Les Deux Traités du gouvernement civil, 1690
+      Nicolas Machiavel, Le Prince, ouvrage écrit au début du XVI^e siècle;
+       Le Livre de poche, 2000 (ISBN 9782-253067436)
+      Raymond Carré de Malberg, Contribution à la théorie générale de
        l'État, 1921; Dalloz, 2007; Ulan Press, 2012
-     * Nicola Matteucci (it), Lo Stato, Il Mulino, Bologna, 2005.
-     * Montesquieu, De l'esprit des lois, édition originale, Genève, 1748;
-       Flammarion, 2013 (ISBN 978-2-08-127984-1)
-     * Thomas More, L’Utopie, édition originale, 1516; Folio, 2012
-       (ISBN 978-2-07-043975-1)
-     * Platon, La République, ouvrage écrit au IV^e siècle av. J.-C.;
-       Garnier-Flammarion, 2002 (ISBN 978-2-08-070653-9)
-     * Bakounine, Dieu et l'État, édition originale, 1871; Les Mille et une
-       Nuits, 2000 (ISBN 978-2-84-205074-0)
-     * Geert Demuijnck, Pierre Vercauteren (dir.), L'État face à la
-       globalisation économique. Quelles formes de gouvernance ?, Éditions du
+      Nicola Matteucci (it), Lo Stato, Il Mulino, Bologna, 2005.
+      Montesquieu, De l'esprit des lois, édition originale, Genève, 1748;
+       Flammarion, 2013 (ISBN 9782-081279841)
+      Thomas More, L’Utopie, édition originale, 1516; Folio, 2012
+       (ISBN 9782-070439751)
+      Platon, La République, ouvrage écrit au IV^e siècle av. J.-C.;
+       Garnier-Flammarion, 2002 (ISBN 9782-080706539)
+      Bakounine, Dieu et l'État, édition originale, 1871; Les Mille et une
+       Nuits, 2000 (ISBN 9782-842050740)
+      Geert Demuijnck, Pierre Vercauteren (dir.), L'État face à la
+       globalisation économique. Quelles formes de gouvernance , Éditions du
        Sandre, 2009
-     * Sophie Guillouet-Rochefort, L'État, Ellipses, 2010.
-       (ISBN 978-2-72-985388-4).
-     * Georges Burdeau, L'État, Seuil, "Points Essais", 2009.
-       (ISBN 978-2-75-781484-0).
-     * Renaud Denoix de Saint Marc, L'État, PUF, coll. "Que sais-je ?", 2004
-       (ISBN 978-2-13-053389-4).
-     * Pierre Rosanvallon, L'État en France : de 1789 à nos jours, Seuil,
-       coll. "Points Histoire", 1993. (ISBN 978-2-02-019403-7)
-     * Pierre Rosanvallon, La crise de l'État-providence, Seuil, 1992
-       (ISBN 978-2-02-014137-6)
-     * Jean-Michel Oudjani, L'État est une Personne, Auteurs associés, 2011
-       (ISBN 978-2-919490-03-5).
-     * Ruwen Ogien, L'État nous rend-il meilleurs ? Essai sur la liberté
-       politique, Gallimard, coll. Folio, 2013 (ISBN 978-2-07-045191-3).
-     * Luc Gonin, L'obsolescence de l'État moderne: Analyse diachronique et
+      Sophie Guillouet-Rochefort, L'État, Ellipses, 2010.
+       (ISBN 9782-729853884).
+      Georges Burdeau, L'État, Seuil, "Points Essais", 2009.
+       (ISBN 9782-757814840).
+      Renaud Denoix de Saint Marc, L'État, PUF, coll. "Que sais-je ", 2004
+       (ISBN 9782-130533894).
+      Pierre Rosanvallon, L'État en France : de 1789 à nos jours, Seuil,
+       coll. "Points Histoire", 1993. (ISBN 9782-020194037)
+      Pierre Rosanvallon, La crise de l'État-providence, Seuil, 1992
+       (ISBN 9782-020141376)
+      Jean-Michel Oudjani, L'État est une Personne, Auteurs associés, 2011
+       (ISBN 9782-919490035).
+      Ruwen Ogien, L'État nous rend-il meilleurs  Essai sur la liberté
+       politique, Gallimard, coll. Folio, 2013 (ISBN 9782-070451913).
+      Luc Gonin, L'obsolescence de l'État moderne: Analyse diachronique et
        contextuelle à l'exemple de l'État français, Schulthess, Collection
-       genevoise, 2011 (ISBN 978-3-7255-6277-0)
+       genevoise, 2011 (ISBN 9783-725562770)
 
 Voir aussi
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
    Sur les autres projets Wikimedia :
 
-     * État, sur le Wiktionnaire
-     * État, sur Wikiversity
-     * État, sur Wikiquote
+      État, sur le Wiktionnaire
+      État, sur Wikiversity
+      État, sur Wikiquote
    Une catégorie est consacrée à ce sujet : État.
 
   Articles connexes
 
-   [modifier | modifier le code]
-     * Anarchisme
-     * Antiétatisme
-     * Art officiel
-     * Capitalisme d'État
-     * Censure
-     * Contrôle social
-     * Coup d'État
-     * État civil
-     * État de droit
-     * État en droit international
-     * État en France
-     * État membre
-     * État-providence
-     * Étatisme
-     * États impériaux
-     * Séparation des pouvoirs
-     * Gouvernement
-     * Liste des pays du monde
-     * Monopole de la violence légitime
-     * Pays (aménagement du territoire)
-     * Pouvoir législatif
-     * Pouvoir judiciaire
-     * Pouvoir exécutif
-     * Sociologie historique du politique
-     * Zomia
+   [modifier  modifier le code]
+      Anarchisme
+      Antiétatisme
+      Art officiel
+      Capitalisme d'État
+      Censure
+      Contrôle social
+      Coup d'État
+      État civil
+      État de droit
+      État en droit international
+      État en France
+      État membre
+      État-providence
+      Étatisme
+      États impériaux
+      Séparation des pouvoirs
+      Gouvernement
+      Liste des pays du monde
+      Monopole de la violence légitime
+      Pays (aménagement du territoire)
+      Pouvoir législatif
+      Pouvoir judiciaire
+      Pouvoir exécutif
+      Sociologie historique du politique
+      Zomia
 
   Liens externes
 
-   [modifier | modifier le code]
+   [modifier  modifier le code]
 
-     * * * Notices dans des dictionnaires ou encyclopédies généralistesVoir
+      *  Notices dans des dictionnaires ou encyclopédies généralistesVoir
        et modifier les données sur Wikidata :
-          * Britannica
-          * Dizionario di Storia
-          * Encyclopédie de l'Ukraine moderne
-          * Larousse
-          * Store norske leksikon
-          * Treccani
-          * Universalis
-     * Notices d'autoritéVoir et modifier les données sur Wikidata :
-          * BnF (données)
-          * LCCN
-          * GND
-          * Japon
-          * Israël
-          * Tchéquie
-     * Histoire de l’État, Actes de la recherche en sciences sociales. Vol.
-       116-117, mars 1997.
+           Britannica
+           Dizionario di Storia
+           Encyclopédie de l'Ukraine moderne
+           Larousse
+           Store norske leksikon
+           Treccani
+           Universalis
+      Notices d'autoritéVoir et modifier les données sur Wikidata :
+           BnF (données)
+           LCCN
+           GND
+           Japon
+           Israël
+           Tchéquie
+      Histoire de l’État, Actes de la recherche en sciences sociales. Vol.
+       116117, mars 1997.
 
    v · m            
    Philosophie politique
-                      * Citoyenneté                  
-                      * Constitution                 
-                      * Droit                        
-                      * Égalité                      
-                      * État                         
-                      * Gouvernement                 
-                      * Guerre                       
-                      * Idéologie                    
-   Concepts de base   * Justice                      
-                      * Liberté politique            
-                      * Loi                          
-                      * Politique                    
-                      * Pouvoir                      
-                      * Régime politique             
-                      * Société                      
-                      * Souveraineté                 
-                      * Système international        
-                      * Relations internationales    
-   Domaines           * Science politique            
-                      * Théories du contrat social   
+                       Citoyenneté                  
+                       Constitution                 
+                       Droit                        
+                       Égalité                      
+                       État                         
+                       Gouvernement                 
+                       Guerre                       
+                       Idéologie                    
+   Concepts de base    Justice                      
+                       Liberté politique            
+                       Loi                          
+                       Politique                    
+                       Pouvoir                      
+                       Régime politique             
+                       Société                      
+                       Souveraineté                 
+                       Système international        
+                       Relations internationales    
+   Domaines            Science politique            
+                       Théories du contrat social   
 
-     * icône décorative Portail du droit
-     * icône décorative Portail de la politique
-     * icône décorative Portail de la société
-     * icône décorative Portail de la monarchie
-     * icône décorative Portail de l’anarchisme
+      icône décorative Portail du droit
+      icône décorative Portail de la politique
+      icône décorative Portail de la société
+      icône décorative Portail de la monarchie
+      icône décorative Portail de l’anarchisme
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=État&oldid=231856856 ».
+   « https:/fr.wikipedia.org/w/index.php?title=État&oldid=231856856 ».
    Catégories :
-     * Droit constitutionnel
-     * État
-     * Géographie politique
-     * Administration territoriale par type
+      Droit constitutionnel
+      État
+      Géographie politique
+      Administration territoriale par type
    Catégories cachées :
-     * Article contenant un lien mort
-     * Article à référence souhaitée
-     * Article avec une section vide ou incomplète
-     * Article avec source à lier
-     * Article manquant de références depuis août 2024
-     * Article manquant de références/Liste complète
-     * Article manquant de références depuis janvier 2024
-     * Article contenant un appel à traduction en italien
-     * Page utilisant un modèle Bases inactif
-     * Page utilisant P1417
-     * Page utilisant P6404
-     * Page utilisant P4613
-     * Page utilisant P6058
-     * Page utilisant P4342
-     * Page utilisant P3365
-     * Page utilisant P3219
-     * Page pointant vers des bases externes
-     * Page pointant vers des dictionnaires ou encyclopédies généralistes
-     * Article de Wikipédia avec notice d'autorité
-     * Portail:Droit/Articles liés
-     * Portail:Société/Articles liés
-     * Portail:Politique/Articles liés
-     * Portail:Monarchie/Articles liés
-     * Portail:Anarchisme/Articles liés
-     * La dernière modification de cette page a été faite le 27 décembre 2025
+      Article contenant un lien mort
+      Article à référence souhaitée
+      Article avec une section vide ou incomplète
+      Article avec source à lier
+      Article manquant de références depuis août 2024
+      Article manquant de références/Liste complète
+      Article manquant de références depuis janvier 2024
+      Article contenant un appel à traduction en italien
+      Page utilisant un modèle Bases inactif
+      Page utilisant P1417
+      Page utilisant P6404
+      Page utilisant P4613
+      Page utilisant P6058
+      Page utilisant P4342
+      Page utilisant P3365
+      Page utilisant P3219
+      Page pointant vers des bases externes
+      Page pointant vers des dictionnaires ou encyclopédies généralistes
+      Article de Wikipédia avec notice d'autorité
+      Portail:Droit/Articles liés
+      Portail:Société/Articles liés
+      Portail:Politique/Articles liés
+      Portail:Monarchie/Articles liés
+      Portail:Anarchisme/Articles liés
+      La dernière modification de cette page a été faite le 27 décembre 2025
        à 21:15.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
+      Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
        pour plus de détails, ainsi que les crédits graphiques. En cas de
@@ -1873,20 +1873,20 @@ Voir aussi
        Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
        organisation de bienfaisance régie par le paragraphe 501(c)(3) du code
        fiscal des États-Unis.
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Contacts juridiques & sécurité
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+      Politique de confidentialité
+      À propos de Wikipédia
+      Avertissements
+      Contact
+      Contacts juridiques & sécurité
+      Code de conduite
+      Développeurs
+      Statistiques
+      Déclaration sur les témoins (cookies)
+      Version mobile
+      Wikimedia Foundation
+      Powered by MediaWiki
    Rechercher
-   _____________________
+   ______________
    Rechercher
    [ ] Basculer la table des matières
    État

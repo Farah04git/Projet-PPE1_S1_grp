@@ -1,4 +1,4 @@
-   Accueil / Tous les articles de dictionnaire /
+   Accueil  Tous les articles de dictionnaire /
    ..état..  [etɑ]  n.  m.
     I Manière d'être d’une personne, d’une chose.   1 Manière d’être d’une
 --
@@ -86,65 +86,65 @@
    Tenir des ..états.. généraux. 
     III (avec une majusc.)  polit.  ..État...  REM. Le mot  ..État..  s'écrit avec
 --
-   |--------+-------------------|
-   | ..état..^* | singulier pluriel |
-   |        | ..état..      ..états..   |
-   +----------------------------+
+   ------+------------|
+    ..état..^ | singulier pluriel |
+            ..état..      ..états..   |
+   +------------------+
 --
-     * affaire d'..État..
-     * à l'..état..pur
-     * à l'..état..+ adj.
-     * à l'..état.. de+ nom
-     * conseild'..État..
+      affaire d'..État..
+      à l'..état..pur
+      à l'..état..+ adj.
+      à l'..état.. de+ nom
+      conseild'..État..
 --
-     * domainede l'..État..
-     * en tout ..état.. de cause
-     * ..État..(-)providence
+      domainede l'..État..
+      en tout ..état.. de cause
+      ..État..()providence
 --
-     * ..État..policier
-     * ..états..econd
-     * ..État..tampon
-     * ..état.. civil
-     * ..état.. d'âme
-     * ..état.. d'urgence
-     * ..État.. dans l’..État..
-     * ..état.. dechoc
-     * ..état.. degrâce
-     * ..état.. demanque
-     * ..état.. desiège
-     * ..État.. de droit
-     * ..état.. de la question, d'une question
-     * ..état.. de(s) choses
-     * ..état.. des lieux
-     * ..état.. matrimonial
-     * ..État-nation..
-     * ..état..(s) de service de qqn
-     * ..États..pontificaux
-     * ..états.. généraux
-     * être, se mettre dans tous ses ..états..
-     * être en ..état.. de+ inf.
-     * être hors d'..état.. de
-     * faire ..état.. de
-     * femme, homme d’..État..
+      ..État..policier
+      ..états..econd
+      ..État..tampon
+      ..état.. civil
+      ..état.. d'âme
+      ..état.. d'urgence
+      ..État.. dans l’..État..
+      ..état.. dechoc
+      ..état.. degrâce
+      ..état.. demanque
+      ..état.. desiège
+      ..État.. de droit
+      ..état.. de la question, d'une question
+      ..état.. de(s) choses
+      ..état.. des lieux
+      ..état.. matrimonial
+      ..État-nation..
+      ..état..(s) de service de qqn
+      ..États..pontificaux
+      ..états.. généraux
+      être, se mettre dans tous ses ..états..
+      être en ..état.. de+ inf.
+      être hors d'..état.. de
+      faire ..état.. de
+      femme, homme d’..État..
 --
-     * ministred'..État..
-     * ne pas être dans son ..état.. normal
-     * officierde l'..état.. civil, d'..état.. civil
-     * raisond'..État..
-     * registrede l'..état.. civil
-     * remettreqqch. en ..état..
-     * secretd'..État..
+      ministred'..État..
+      ne pas être dans son ..état.. normal
+      officierde l'..état.. civil, d'..état.. civil
+      raisond'..État..
+      registrede l'..état.. civil
+      remettreqqch. en ..état..
+      secretd'..État..
 --
-     * télévisiond'..État..
-     * tiers ..état..
-     * verbed'..état..
+      télévisiond'..État..
+      tiers ..état..
+      verbed'..état..
    Afficher plus de sous-entrées Voisinage
 --
-     * ..État..(-)providence
-     * ..état..
-     * ..état-major..
-     * ..État-nation..
-     * ..état..ique
-     * ..état..isation
-     * ..état..iser
+      ..État..()providence
+      ..état..
+      ..état-major..
+      ..État-nation..
+      ..état..ique
+      ..état..isation
+      ..état..iser
    Auteurs : Hélène Cajolet-Laganière, Pierre Martel et Chantal‑Édith Masson,

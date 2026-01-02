@@ -2,47 +2,47 @@
    Link: canonical
    Link: shortlink
 
-Salle de presse de l'Inserm - Salle de presse de l'Institut national de la santé
+Salle de presse de l'Inserm  Salle de presse de l'Institut national de la santé
                           et de la recherche médicale
 
-     * fr
-     * en
-     * Facebook
-     * Twitter
-     * Youtube
-     * Instagram
+      fr
+      en
+      Facebook
+      Twitter
+      Youtube
+      Instagram
    Rechercher
-     * Service Presse
-     * Actualités
-          * Communiqués / Dossiers
-          * Brèves
-          * C’est dans l’air
-     * Canal Détox
-     * Ressources / publications
+      Service Presse
+      Actualités
+           Communiqués  Dossiers
+           Brèves
+           C’est dans l’air
+      Canal Détox
+      Ressources  publications
    Menu
    close
-     * Service Presse
-     * Actualités
-          * Communiqués / Dossiers
-          * Brèves
-          * C’est dans l’air
-     * Canal Détox
-     * Ressources / publications
+      Service Presse
+      Actualités
+           Communiqués  Dossiers
+           Brèves
+           C’est dans l’air
+      Canal Détox
+      Ressources  publications
    Rechercher
-     * fr
-     * en
-     * Facebook
-     * Twitter
-     * Youtube
-     * Instagram
+      fr
+      en
+      Facebook
+      Twitter
+      Youtube
+      Instagram
    Communiqués et dossiers de presse
-     * Accueil
-     * > Communiqués et dossiers de presse
+      Accueil
+      > Communiqués et dossiers de presse
 
  Une étude sur l’état de santé des Français avant la pandémie de Covid-19 pour
              aider les décideurs à réduire le fardeau des maladies
 
-   20 Mar 2024 | Par Inserm (Salle de presse) | Santé publique
+   20 Mar 2024  Par Inserm (Salle de presse)  Santé publique
 
    StéthoscopeUne nouvelle étude dresse un panorama de l’état de santé des
    Français juste avant la pandémie en 2019 ainsi que son évolution depuis
@@ -243,7 +243,7 @@ Salle de presse de l'Inserm - Salle de presse de l'Institut national de la sant�
 
    The Lancet Regional Health – Europe, février 2024
 
-   DOI : https://doi.org/10.1016/j.lanepe.2024.100848
+   DOI : https:/doi.org/10.1016/j.lanepe.2024.100848
 
     
 
@@ -275,8 +275,8 @@ Salle de presse de l'Inserm - Salle de presse de l'Institut national de la sant�
 
    Salle de presse de l'Inserm Institut national de la santé et de la
    recherche médicale
-     * Mentions légales
-     * Accessibilité (non conforme)
+      Mentions légales
+      Accessibilité (non conforme)
 
       Contacts
 
@@ -286,13 +286,13 @@ Salle de presse de l'Inserm - Salle de presse de l'Institut national de la sant�
       Suivez-nous
 
    RSS Twitter Facebook Youtube Instagram
-     * Service Presse
-     * Actualités
-          * Communiqués / Dossiers
-          * Brèves
-          * C’est dans l’air
-     * Canal Détox
-     * Ressources / publications
+      Service Presse
+      Actualités
+           Communiqués  Dossiers
+           Brèves
+           C’est dans l’air
+      Canal Détox
+      Ressources  publications
    Rechercher
    fermer
-   _____________________ [ chercher ]
+   ______________ [ chercher ]

@@ -4,27 +4,27 @@
    Link: alternate fr
    Link: canonical
    Link: shortlink
-     * fr
-     * en
-     * de
-     * pt
-     * Accueil
-     * À Propos
-     * Services
+      fr
+      en
+      de
+      pt
+      Accueil
+      À Propos
+      Services
    Ivy partners principale société de counsulting informatique
    [ Submit ]
-     * Carrières
-     * Actualités
-     * Contact
+      Carrières
+      Actualités
+      Contact
    Nos offres
    [ Submit ]
-     * Accueil
-     * À Propos
-     * Services
-     * Carrières
-     * Actualités
-     * Contact
-     * Offres d’emploi
+      Accueil
+      À Propos
+      Services
+      Carrières
+      Actualités
+      Contact
+      Offres d’emploi
 
               Comment votre état d’esprit influence votre carrière
 
@@ -32,7 +32,7 @@
 
    [IMG]
    Leadership
-   10/01/2023
+   10012023
 
      « Vos croyances deviennent vos pensées, vos pensées deviennent vos
      paroles, vos paroles deviennent vos actions, vos actions deviennent vos
@@ -83,16 +83,16 @@ Qu’est-ce qu’un état d’esprit fixe (Fixed Mindset) ?
 
    Des pensées types d’un fixed mindset peuvent être :
 
-     * Je ne suis pas assez intelligent. 
-     * J’ai échoué donc je devrais abandonner. 
-     * Si j’ai besoin de travailler autant, c’est que je ne suis pas si
+      Je ne suis pas assez intelligent. 
+      J’ai échoué donc je devrais abandonner. 
+      Si j’ai besoin de travailler autant, c’est que je ne suis pas si
        doué.e que ça. 
-     * C’est inutile de continuer, je n’y arriverai jamais.
-     * Il/elle est plus intelligent.e que moi. 
-     * C’est assez bien, je m’arrête là ou Je ne peux pas faire mieux que
+      C’est inutile de continuer, je n’y arriverai jamais.
+      Il/elle est plus intelligent.e que moi. 
+      C’est assez bien, je m’arrête là ou Je ne peux pas faire mieux que
        ça. 
-     * Je ne dois pas trop oser au risque d’échouer et décevoir. 
-     * Je n’aime pas les défis.
+      Je ne dois pas trop oser au risque d’échouer et décevoir. 
+      Je n’aime pas les défis.
 
 Qu’est-ce qu’un état d’esprit de développement (Growth Mindset)?
 
@@ -116,14 +116,14 @@ Qu’est-ce qu’un état d’esprit de développement (Growth Mindset)?
 
    Des pensées types d’un growth mindset peuvent être :
 
-     * Je peux devenir plus intelligent.e avec des efforts. 
-     * J’ai échoué donc j’ai besoin de trouver une autre manière de faire. 
-     * C’est difficile mais je vais persévérer. 
-     * C’est en essayant encore et encore que la compétence s’acquiert et que
+      Je peux devenir plus intelligent.e avec des efforts. 
+      J’ai échoué donc j’ai besoin de trouver une autre manière de faire. 
+      C’est difficile mais je vais persévérer. 
+      C’est en essayant encore et encore que la compétence s’acquiert et que
        l’intelligence se développe. 
-     * Mes efforts et mon attitude font toute la différence. 
-     * Je peux toujours m’améliorer. 
-   _^Credit: https://www.aot.edu.au/
+      Mes efforts et mon attitude font toute la différence. 
+      Je peux toujours m’améliorer. 
+   ^Credit: https:/www.aot.edu.au/
 
 Quels sont les avantages d’un growth mindset ?
 
@@ -159,7 +159,7 @@ Quels sont les avantages d’un growth mindset ?
    choix d’un nouveau rôle : Vais-je choisir un rôle qui correspond en tout
    point à ce que je sais déjà faire afin de faciliter ma transition? Ou au
    contraire vais-je chercher un nouveau rôle qui me stimule et me
-   challenge ? Dans quelle activité vais-je me lancer ? Est-ce que je préfère
+   challenge  Dans quelle activité vais-je me lancer  Est-ce que je préfère
    tester au risque d’échouer ou rester dans ma zone de confort ?
 
    Pour paraphraser le Dr Dweck : « Le Fixed Mindset est préoccupé par le
@@ -207,16 +207,16 @@ Comment construire un growth mindset ?
 
    Voici quelques exemples de phrases positives que vous pouvez répéter :
 
-     * Je peux le faire.
-     * Essayer est la première étape pour réaliser quelque chose.
-     * Si j’échoue, j’aurai quand même appris quelque chose.
-     * Tout peut-être appris
+      Je peux le faire.
+      Essayer est la première étape pour réaliser quelque chose.
+      Si j’échoue, j’aurai quand même appris quelque chose.
+      Tout peut-être appris
 
    Rappelez-vous ces mantras jusqu’à ce qu’ils fassent partie de votre vision
    naturelle.
 
    Notez chaque jour vos pensées automatiques : sont-elles soutenantes ou
-   limitantes ? Quelles actions ont-elles déclenchées ? Puis travailler sur
+   limitantes  Quelles actions ont-elles déclenchées  Puis travailler sur
    votre discours intérieur.
 
   Apprendre des échecs
@@ -226,7 +226,7 @@ Comment construire un growth mindset ?
    Nos erreurs ont une fonction positive dans le processus d’apprentissage.
 
    Quelle stratégie avez-vous mise en place pour le surmonter ou
-   qu’auriez-vous pu faire ? Qu’avez-vous appris ?
+   qu’auriez-vous pu faire  Qu’avez-vous appris ?
 
    Dresser votre liste de stratégies en cas d’échecs : demander de l’aide,
    rendre une tâche ennuyeuse intéressante, découper un objectif en plus
@@ -234,12 +234,12 @@ Comment construire un growth mindset ?
 
   Autres conseils pour un growth mindset
 
-     * Sortez de votre zone de confort. Apprenez, expérimentez et découvrez
+      Sortez de votre zone de confort. Apprenez, expérimentez et découvrez
        de nouvelles choses.
-     * Ne vous comparez pas aux autres.
-     * Évitez de vous concentrer uniquement sur les résultats. Le processus
+      Ne vous comparez pas aux autres.
+      Évitez de vous concentrer uniquement sur les résultats. Le processus
        pour y arriver est tout aussi important.
-     * Écoutez les suggestions de vos pairs, y compris ceux qui sont plus
+      Écoutez les suggestions de vos pairs, y compris ceux qui sont plus
        jeunes que vous. L’ancienneté n’est pas forcément la référence en
        matière de créativité ou d’intelligence.
 
@@ -255,40 +255,40 @@ Comment construire un growth mindset ?
    défi, avoir le bon état d’esprit est ce qui fera souvent la différence
    entre le succès et l’échec.
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
-     * *  *  * Parcourez notre vaste sélection d’articles liés à tous les
+      *     Parcourez notre vaste sélection d’articles liés à tous les
    aspects des affaires et de l’industrie. C’est l’endroit idéal pour trouver
    une opinion éclairée et une expertise sur les solutions technologiques
    avancées, vous renseignant sur les processus que nous suivons pour faire
    passer votre entreprise au niveau supérieur.
 
-   _____________________  [ Submit ]
+   ______________  [ Submit ]
 
   Derniers articles
 
-     * Beyond the Hype : Les Applications IA qui Transforment le Business
-     * Un nouveau Managing Partner au Portugal
-     * Refonte d’applications obsolètes
+      Beyond the Hype : Les Applications IA qui Transforment le Business
+      Un nouveau Managing Partner au Portugal
+      Refonte d’applications obsolètes
 
   Catégories
 
-     * Ivy Life
-     * Leadership
-     * Nearshore
-     * Succès Clients
-     * Technologie
-     * Women in Tech
+      Ivy Life
+      Leadership
+      Nearshore
+      Succès Clients
+      Technologie
+      Women in Tech
    Logo IVY Partners
-     * Accueil
-     * À Propos
-     * Services
-     * Carrières
-     * Actualités
-     * Offres d’emploi
-     * Contact
-     * * * Conditions générales d’utilisation
-     * Mentions légales
+      Accueil
+      À Propos
+      Services
+      Carrières
+      Actualités
+      Offres d’emploi
+      Contact
+      *  Conditions générales d’utilisation
+      Mentions légales
    ↑
    We use cookies on our website to give you the most relevant experience by
    remembering your preferences and repeat visits. By clicking “Accept All”,

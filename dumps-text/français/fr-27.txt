@@ -1,63 +1,63 @@
    Link: canonical
    Link: x-default x-default
    Link: alternate fr-CA
-     * Centre des médias
-     * Carrières
-     * S'abonner
+      Centre des médias
+      Carrières
+      S'abonner
    Search
-   _____________________ [ Submit ]
+   ______________ [ Submit ]
    banque de cerveaux
    EN
-     * FRANÇAIS
+      FRANÇAIS
    Toggle Menu
    [IMG]The Decision Lab LogoThe Decision Lab Logo
-     * Études de cas
-     * Comment nous travaillons
-     * Conseil
-     * * Main Menu
+      Études de cas
+      Comment nous travaillons
+      Conseil
+      * Main Menu
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
   Conseil
 
-          * Données et analyses
-          * Innovation et conception
-          * Stratégie et finance d'entreprise
-          * Opérations
-          * Personnes et organisation
-          * Marketing et connaissance des consommateurs
-          * Risque et conformité
-     * Industries
-     * * Main Menu
+           Données et analyses
+           Innovation et conception
+           Stratégie et finance d'entreprise
+           Opérations
+           Personnes et organisation
+           Marketing et connaissance des consommateurs
+           Risque et conformité
+      Industries
+      * Main Menu
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
   Industries
 
-          * Santé et bien-être
-          * L'éducation
-          * Comportement du consommateur
-          * Technologie et IA
-          * Climat et développement durable
-          * Développement et protection sociale
-          * Inclusion financière
-          * Politique publique
-          * Stratégie d'impact et gouvernance
-     * Resources
-     * * Main Menu
+           Santé et bien-être
+           L'éducation
+           Comportement du consommateur
+           Technologie et IA
+           Climat et développement durable
+           Développement et protection sociale
+           Inclusion financière
+           Politique publique
+           Stratégie d'impact et gouvernance
+      Resources
+      * Main Menu
 
-     ----------------------------------------------------------------------
+     -----------------------------------------------
 
   Resources
 
-          * Perspectives
-          * Podcasts
-          * Biais
-          * Penseurs
-          * Guide de référence
-     * A propos / Notre mission
-     * Carrières
-     * Contact
+           Perspectives
+           Podcasts
+           Biais
+           Penseurs
+           Guide de référence
+      A propos  Notre mission
+      Carrières
+      Contact
    EN
    [IMG]The Decision Lab LogoThe Decision Lab Logo
    Comment nous travaillons
@@ -120,7 +120,7 @@ Ressources
   Tendance
 
    PodcastL'équité en matière de santé pour les communautés noires avec le
-   Dr. Onye Nnorom - FRENCH
+   Dr. Onye Nnorom  FRENCH
    TechnologieLa prophétie auto-réalisatrice de l'indignation sur Internet
    A propos de nous
 
@@ -136,19 +136,19 @@ Ressources
    travaux les plus marquants
    Contact
    Reference Guide  Teoría de la mentalidad
-   enregistré en mémoire - icon
+   enregistré en mémoire  icon
    enregistré en mémoire
-   cite - icon
+   cite  icon
    cite
-   partager - icon
+   partager  icon
    partager
-   linkedin - icon
+   linkedin  icon
    linkedin
-   twitter - icon
+   twitter  icon
    twitter
-   email - icon
+   email  icon
    email
-   copier le lien - icon
+   copier le lien  icon
    copier le lien
    Link copied!
    [ Submit ]
@@ -188,7 +188,7 @@ La idea básica
      necesitarías esfuerzo. En el otro mundo, el esfuerzo es lo que te hace
      inteligente o talentoso.
 
-     - Carol Dweck
+      Carol Dweck
 
 Read Next
 
@@ -237,20 +237,20 @@ les sciences du comportement.
 
   Collaborer avec nous
 
-     * Perspectives
-     * Interventions
-     * Biais
-     * Notre mission
-     * Contact
-     * Conseil en sciences du comportement
-     * Conception comportementale
-     * Facebook
-     * Twitter
-     * Linkedin
-     * Instagram
+      Perspectives
+      Interventions
+      Biais
+      Notre mission
+      Contact
+      Conseil en sciences du comportement
+      Conception comportementale
+      Facebook
+      Twitter
+      Linkedin
+      Instagram
 
    © 2026 The Decision Lab. Tous droits réservés
 
-     * Conditions d'utilisation
-     * Politique de confidentialité
+      Conditions d'utilisation
+      Politique de confidentialité
    Retourner au site web

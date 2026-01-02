@@ -3,87 +3,87 @@
    Aller au contenu principal
    Accueil Conseil constitutionnel
    Menu
-     * Actualités et événements
-          * Toutes les actualités
-          * Affaires en instance
-          * Agenda
-          * Publications
-               * Toutes les publications
-               * Titre VII
-               * Les Nouveaux Cahiers du Conseil constitutionnel
-               * Rapports d'activité
-          * Événements
-               * Tous les événements
-               * Audiences publiques en région
-               * Concours Découvrons notre Constitution
-               * Journées européennes du patrimoine
-               * La Nuit du droit
-               * Prix de thèse
-               * Prix du livre - salon du livre juridique
-               * Colloques et anniversaires
-     * Le Conseil
-          * Découvrir le Conseil constitutionnel
-               * Le Conseil constitutionnel
-               * Présentation générale
-               * Fondements textuels
-               * Les services du Conseil
-          * Les membres du Conseil
-               * Les membres du Conseil
-               * Statut et nomination des membres
-               * Le collège
-               * Les membres depuis 1959
-          * Saisir le Conseil
-               * Comment saisir le Conseil ?
-               * Le circuit d'une saisine
-               * Qui peut saisir le Conseil ?
-          * Activités internationales
-          * Histoire du Palais-Royal
-     * Les décisions
-          * Toutes les décisions
-               * Les dernières décisions
-               * Décisions par année
-               * Décisions par type
-          * Comprendre le contentieux électoral
-               * Contentieux electoral
-               * Élections législatives - juin, juillet 2024
-               * Élections sénatoriales - septembre 2023
-               * Élections législatives, juin 2022
-               * Élections sénatoriales - septembre 2020
-               * Élections sénatoriales, 24 septembre 2017
-               * Élections législatives, 11-18 juin 2017
-               * Tous les dossiers électoraux
-          * Outils et ressources
-               * Tables analytiques
-               * Recueil des dispositions déclarées conformes
-               * Bilan statistique
-               * Archives des comptes-rendus de séances
-          * Affaires en instance
-     * La Constitution
-          * Découvrir la Constitution
-          * Le bloc de constitutionnalité
-               * La Constitution de 1958 (texte intégral)
-               * La Déclaration des droits de l'homme et du citoyen de 1789
-               * Le Préambule de la Constitution de 1946
-               * La Charte de l'environnement de 2004
-          * Les révisions constitutionnelles
-          * Les Constitutions dans l'histoire
+      Actualités et événements
+           Toutes les actualités
+           Affaires en instance
+           Agenda
+           Publications
+                Toutes les publications
+                Titre VII
+                Les Nouveaux Cahiers du Conseil constitutionnel
+                Rapports d'activité
+           Événements
+                Tous les événements
+                Audiences publiques en région
+                Concours Découvrons notre Constitution
+                Journées européennes du patrimoine
+                La Nuit du droit
+                Prix de thèse
+                Prix du livre  salon du livre juridique
+                Colloques et anniversaires
+      Le Conseil
+           Découvrir le Conseil constitutionnel
+                Le Conseil constitutionnel
+                Présentation générale
+                Fondements textuels
+                Les services du Conseil
+           Les membres du Conseil
+                Les membres du Conseil
+                Statut et nomination des membres
+                Le collège
+                Les membres depuis 1959
+           Saisir le Conseil
+                Comment saisir le Conseil ?
+                Le circuit d'une saisine
+                Qui peut saisir le Conseil ?
+           Activités internationales
+           Histoire du Palais-Royal
+      Les décisions
+           Toutes les décisions
+                Les dernières décisions
+                Décisions par année
+                Décisions par type
+           Comprendre le contentieux électoral
+                Contentieux electoral
+                Élections législatives  juin, juillet 2024
+                Élections sénatoriales  septembre 2023
+                Élections législatives, juin 2022
+                Élections sénatoriales  septembre 2020
+                Élections sénatoriales, 24 septembre 2017
+                Élections législatives, 1118 juin 2017
+                Tous les dossiers électoraux
+           Outils et ressources
+                Tables analytiques
+                Recueil des dispositions déclarées conformes
+                Bilan statistique
+                Archives des comptes-rendus de séances
+           Affaires en instance
+      La Constitution
+           Découvrir la Constitution
+           Le bloc de constitutionnalité
+                La Constitution de 1958 (texte intégral)
+                La Déclaration des droits de l'homme et du citoyen de 1789
+                Le Préambule de la Constitution de 1946
+                La Charte de l'environnement de 2004
+           Les révisions constitutionnelles
+           Les Constitutions dans l'histoire
    Rechercher
    Fermer
 
                              Rechercher sur le site
 
    Rechercher sur le site
-   _____________________________________________________________
+   _________________________________________
    [ Rechercher ]
    Rechercher dans toutes les décisions
    Moteur expert
    Rechercher dans les commentairesTables analytiquesDispositions déclarées
    conformes
    FR
-     * FR
-     * EN
-     * ES
-     * DE
+      FR
+      EN
+      ES
+      DE
 
 Fil d'Ariane
 
@@ -93,14 +93,14 @@ Fil d'Ariane
 
                                Le rôle de l’État
 
-     * Share more
-     * Partager sur Twitter
-     * Partager sur Facebook
-     * Partager sur LinkedIn
-     * Copier
-       l'URLhttps://www.conseil-constitutionnel.fr/la-constitution/le-role-de-l-etat
-     * Imprimer
-     * Télécharger
+      Share more
+      Partager sur Twitter
+      Partager sur Facebook
+      Partager sur LinkedIn
+      Copier
+       l'URLhttps:/www.conseil-constitutionnel.fr/la-constitution/le-role-de-l-etat
+      Imprimer
+      Télécharger
 
    L’État n’est pas une personne morale (c’est-à-dire abstraite) de droit
    public comme une autre. Il est tout à la fois le « dépositaire de la
@@ -111,25 +111,25 @@ Fil d'Ariane
    nationale qui appartient au peuple (art. 3 de la Constitution du 4 octobre
    1958). En particulier, l’État :
 
-     * édicte les règles de droit (lois, décrets, etc.) qui s’imposent au
+      édicte les règles de droit (lois, décrets, etc.) qui s’imposent au
        corps social et à lui-même. La soumission de l’État au respect de la
        règle de droit constitue d’ailleurs la définition « sommaire et
        traditionnelle » (Guy CARCASSONNE) de l’État de droit.
-     * garantit la sécurité et l’ordre publics. Sous ce regard, et selon la
+      garantit la sécurité et l’ordre publics. Sous ce regard, et selon la
        définition sociologique de l’État donnée par Max WEBER, l’État
        « revendique avec succès pour son propre compte le monopole de la
        contrainte physique légitime ». Sur le plan institutionnel, cela se
        traduit par l’institution d’une force publique destinée à garantir les
        droits et libertés (art. 12 de la Déclaration de 1789).
-     * rend la justice. L’organisation de la justice relève de la compétence
+      rend la justice. L’organisation de la justice relève de la compétence
        exclusive de l’État, les départements et les régions d’outre-mer ne
        pouvant pas fixer leurs propres règles en la matière (art. 73, al. 4,
        de la Constitution du 4 octobre 1958).
-     * définit la politique de défense, prépare et conduit les opérations
+      définit la politique de défense, prépare et conduit les opérations
        militaires. En sa qualité de chef des armées, le chef de l’État occupe
        une place centrale puisqu’il préside les conseils et les comités
        supérieurs de la défense nationale (art. 15 de la Constitution).
-     * définit et mène la politique étrangère de la France. Il s’agit, par
+      définit et mène la politique étrangère de la France. Il s’agit, par
        exemple, de « protéger et promouvoir les intérêts des acteurs
        économiques français (entreprises, salariés, producteurs et
        consommateurs, épargnants et investisseurs). Cela passe par les canaux
@@ -141,7 +141,7 @@ Fil d'Ariane
        économiques, la diplomatie économique correspond aujourd’hui à deux
        autres grands »métiers" : l’attractivité du territoire, la promotion
        des exportations » (Livre blanc sur la politique étrangère et
-       européenne de la France 2008-2020, La doc. française, 2008, p. 56).
+       européenne de la France 20082020, La doc. française, 2008, p. 56).
 
    Par-delà ces « responsabilités de souveraineté » (Jean PICQ, L’État en
    France : servir une nation ouverte sur le monde, précité), l’État « doit
@@ -152,7 +152,7 @@ Fil d'Ariane
    des domaines variés, tels que l’éducation, la santé ou la culture (cf. les
    alinéas 11 et 13 du Préambule de la Constitution de 1946).
 
-   Date de dernière mise à jour de la page : 09/09/2019
+   Date de dernière mise à jour de la page : 09092019
 
    Inscription aux lettres d'information
 
@@ -162,46 +162,46 @@ Fil d'Ariane
 
    [ Inscription aux lettres ]
    Pied de page
-     * Actualités
+      Actualités
 
-          * Toutes les actualités
-          * Agenda
-          * Publications
-     * Les décisions
+           Toutes les actualités
+           Agenda
+           Publications
+      Les décisions
 
-          * Toutes les décisions
-          * QPC 360°
-          * Assister à une audience
-     * Espace presse
+           Toutes les décisions
+           QPC 360°
+           Assister à une audience
+      Espace presse
 
-          * Communiqués
-          * Ressources
-          * Espace photo
-          * Accréditation
-     * Mentions légales
+           Communiqués
+           Ressources
+           Espace photo
+           Accréditation
+      Mentions légales
 
-          * Informations légales
-          * Précisions sur les informations à portée juridique
-          * Gestion des cookies
-     * Le Conseil
+           Informations légales
+           Précisions sur les informations à portée juridique
+           Gestion des cookies
+      Le Conseil
 
-          * Recrutement
-          * Contacts
-          * Données ouvertes (open data)
-     * FAQ
+           Recrutement
+           Contacts
+           Données ouvertes (open data)
+      FAQ
 
-          * Guide du site internet
-          * Plan du site
-          * Accessibilité
-          * Application
+           Guide du site internet
+           Plan du site
+           Accessibilité
+           Application
    Accueil
    Nous suivre
-     * lien_bluesky
-     * lien_twitter
-     * lien_facebook
-     * lien_linkedin
-     * lien_dailymotion
-     * Flux RSS
+      lien_bluesky
+      lien_twitter
+      lien_facebook
+      lien_linkedin
+      lien_dailymotion
+      Flux RSS
    L'application du conseil
    Notre boutique
    Haut de page

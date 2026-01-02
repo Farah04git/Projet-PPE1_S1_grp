@@ -4,10 +4,10 @@
                     Tout savoir sur l’..état.. des lieux locatif
 
 --
-   31/05/2017
-   Qu’est-ce qu’un ..état.. des lieux ? Que se passe-t-il en cas d’absence d’..état..
-   des lieux ? Quel est le contenu minimum de l’..état.. des lieux locatif ?
-   Quelles formes doit revêtir l’..état.. des lieux locatif ? Combien coûte un
+   31052017
+   Qu’est-ce qu’un ..état.. des lieux  Que se passe-t-il en cas d’absence d’..état..
+   des lieux  Quel est le contenu minimum de l’..état.. des lieux locatif ?
+   Quelles formes doit revêtir l’..état.. des lieux locatif  Combien coûte un
    ..état.. des lieux ?
 
   Qu’est-ce qu’un ..état.. des lieux ?
@@ -39,23 +39,23 @@
    L'..état.. des lieux doit décrire le logement et son ..état.. de conservation. Il
    comporte au moins les informations suivantes :
    A l'entrée et à la sortie du logement :
-     * le type d'..état.. des lieux (d'entrée ou de sortie) ;
-     * sa date d'établissement ;
+      le type d'..état.. des lieux (d'entrée ou de sortie) ;
+      sa date d'établissement ;
 --
-     * le cas échéant, le nom ou la dénomination et le domicile ou le siège
+      le cas échéant, le nom ou la dénomination et le domicile ou le siège
        social des personnes mandatées pour réaliser l'..état.. des lieux ;
-     * le cas échéant, les relevés des compteurs individuels de consommation
+      le cas échéant, les relevés des compteurs individuels de consommation
 --
-     * pour chaque pièce et partie du logement, la description précise de
+      pour chaque pièce et partie du logement, la description précise de
        l'..état.. des revêtements des sols, murs et plafonds, des équipements et
        des éléments du logement (il peut être complété d'observations ou de
 --
-     * la signature des parties ou des personnes mandatées pour réaliser
+      la signature des parties ou des personnes mandatées pour réaliser
        l'..état.. des lieux.
    A la sortie du logement :
-     * l'adresse du nouveau domicile ou du lieu d'hébergement du locataire ;
-     * la date de réalisation de l'..état.. des lieux d'entrée ;
-     * éventuellement, les évolutions de l'..état.. de chaque pièce et partie du
+      l'adresse du nouveau domicile ou du lieu d'hébergement du locataire ;
+      la date de réalisation de l'..état.. des lieux d'entrée ;
+      éventuellement, les évolutions de l'..état.. de chaque pièce et partie du
        logement constatées depuis l'établissement de l'..état.. des lieux
        d'entrée.
 
@@ -73,7 +73,7 @@
    locataire, il n’y a pas de frais.
    Des honoraires peuvent être demandées si l’..état.. des lieux est fait par un
    professionnel (exemple : agent immobilier). Dans ce cas, le décret
-   n°2014-890 du 1er août 2014 dispose que l’..état.. des lieux est à régler
+   n°2014890 du 1er août 2014 dispose que l’..état.. des lieux est à régler
    conjointement par le bailleur et le locataire. Le montant des honoraires
 --
 

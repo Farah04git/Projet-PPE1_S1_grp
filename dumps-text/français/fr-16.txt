@@ -8,12 +8,12 @@
    [ Submit ]
    Modifier le contraste 
    Modifier la taille du texte
-     * Diminuer
-     * Réinitialiser
-     * Augmenter
+      Diminuer
+      Réinitialiser
+      Augmenter
    Accessibilité du site
-     * fr
-     * en
+      fr
+      en
    Le BRGM sur le web 
    La rivière des Jonquilles, Corrèze
    [ Submit ]
@@ -30,19 +30,19 @@
    Histoire du BRGM
    L'histoire du BRGM, le service géologique national
    Autres sites web
-     * Géorisques - Un portail pour mieux connaitre les risques sur le
+      Géorisques  Un portail pour mieux connaitre les risques sur le
        territoire fran…
-     * ADES - Accès aux données sur les eaux souterraines
-     * SIGES - Système d'information pour la gestion des eaux souterraines
-     * RGF - Référentiel géologique de la France
-     * Après-mine opérationnelle - Département Prévention et Sécurité minière
+      ADES  Accès aux données sur les eaux souterraines
+      SIGES  Système d'information pour la gestion des eaux souterraines
+      RGF  Référentiel géologique de la France
+      Après-mine opérationnelle  Département Prévention et Sécurité minière
        du BRGM
-     * Géothermies - Tout savoir sur la géothermie
-     * Minéralinfo - Le portail français des ressources minérales non
+      Géothermies  Tout savoir sur la géothermie
+      Minéralinfo  Le portail français des ressources minérales non
        énergétiques
-     * HAL-BRGM - Les publications scientifiques du BRGM
+      HAL-BRGM  Les publications scientifiques du BRGM
    Tous les sites web
-     * *  *  *  Logo du BRGM avec le logo République française
+      *      Logo du BRGM avec le logo République française
    Service
    géologique
    national
@@ -50,12 +50,12 @@
    La rivière des Jonquilles, Corrèze
    [ Submit ]
    Rechercher
-   _____________________________________________________________
+   _________________________________________
    OK 
    Je suis
    La rivière des Jonquilles, Corrèze
    [ Submit ]
-     * Partenaire public, collectivité
+      Partenaire public, collectivité
        Retour
        Partenaire public, collectivité
        Partenaires publics : le BRGM à vos côtés
@@ -66,7 +66,7 @@
        Rapports publics
        Publications scientifiques
        Contacts
-     * Entreprise
+      Entreprise
        Retour
        Entreprise
        Travailler avec le BRGM, mode d'emploi
@@ -77,7 +77,7 @@
        Formation professionnelle continue
        Devenir fournisseur du BRGM
        Contacts
-     * Chercheur
+      Chercheur
        Retour
        Chercheur
        Recherche scientifique
@@ -88,7 +88,7 @@
        Livres et cartes géologiques
        Formation professionnelle continue
        Doctorat et post-doctorat
-     * Étudiant
+      Étudiant
        Retour
        Étudiant
        Enseignement supérieur
@@ -99,7 +99,7 @@
        Rapports publics
        Publications scientifiques
        Actualités
-     * Enseignant, élève
+      Enseignant, élève
        Retour
        Enseignant, élève
        Comprendre les sciences de la Terre
@@ -108,7 +108,7 @@
        Rapports publics
        Publications scientifiques
        Actualités
-     * Journaliste
+      Journaliste
        Retour
        Journaliste
        Actualités et communiqués de presse
@@ -118,7 +118,7 @@
        Le BRGM en bref
        Newsletter
        Contact presse
-     * Citoyen, association
+      Citoyen, association
        Retour
        Citoyen, association
        Actualités
@@ -133,80 +133,80 @@
    Menu
    La rivière des Jonquilles, Corrèze
    [ Submit ]
-     * Enjeux [ Submit ]
+      Enjeux [ Submit ]
        Retour
        Enjeux
-          * Géologie et modélisation du sous-sol
-          * Eau souterraine et préservation de la ressource
-          * Risques liés au sol et au sous-sol
-          * Ressources minérales et approvisionnement responsable
-          * Énergie du sous-sol et décarbonation
-          * Numérique pour les géosciences
-     * Activités [ Submit ]
+           Géologie et modélisation du sous-sol
+           Eau souterraine et préservation de la ressource
+           Risques liés au sol et au sous-sol
+           Ressources minérales et approvisionnement responsable
+           Énergie du sous-sol et décarbonation
+           Numérique pour les géosciences
+      Activités [ Submit ]
        Retour
        Activités
-          * Recherche scientifique
-          * Expertise
-          * Innovation et transfert
-          * Analyse et expérimentation
-          * Prévention et sécurité minière
-          * Enseignement supérieur
-          * Formation professionnelle continue
-          * Diffusion de la connaissance et science ouverte
-     * Devenir partenaire ou client [ Submit ]
+           Recherche scientifique
+           Expertise
+           Innovation et transfert
+           Analyse et expérimentation
+           Prévention et sécurité minière
+           Enseignement supérieur
+           Formation professionnelle continue
+           Diffusion de la connaissance et science ouverte
+      Devenir partenaire ou client [ Submit ]
        Retour
        Devenir partenaire ou client
-          * Entreprises : travailler avec le BRGM, mode d'emploi
-          * Partenaires publics : le BRGM à vos côtés
-          * Nos solutions
-          * Laboratoires et plateformes technologiques
-          * Devenir fournisseur du BRGM
-     * Identité [ Submit ]
+           Entreprises : travailler avec le BRGM, mode d'emploi
+           Partenaires publics : le BRGM à vos côtés
+           Nos solutions
+           Laboratoires et plateformes technologiques
+           Devenir fournisseur du BRGM
+      Identité [ Submit ]
        Retour
        Identité
-          * Le BRGM en bref
-          * Stratégie
-          * Gouvernance
-          * Histoire
-          * Engagements
-          * Filiales et participations
-     * Résultats et données [ Submit ]
+           Le BRGM en bref
+           Stratégie
+           Gouvernance
+           Histoire
+           Engagements
+           Filiales et participations
+      Résultats et données [ Submit ]
        Retour
        Résultats et données
-          * Références et projets
-          * Rapports publics
-          * Publications scientifiques
-          * Logiciels
-          * Sites web, applications et bases de données
-     * France et monde [ Submit ]
+           Références et projets
+           Rapports publics
+           Publications scientifiques
+           Logiciels
+           Sites web, applications et bases de données
+      France et monde [ Submit ]
        Retour
        France et monde
-          * Réseau régional
-          * Europe
-          * International
-     * Actualités
-     * Événements
-     * Espace pédagogique
-     * État des nappes d’eau souterraine
-     * Recrutement et carrières
-     * Éditions du BRGM
-     * Newsletter
-     * Contacts
-     * [ Submit ]
+           Réseau régional
+           Europe
+           International
+      Actualités
+      Événements
+      Espace pédagogique
+      État des nappes d’eau souterraine
+      Recrutement et carrières
+      Éditions du BRGM
+      Newsletter
+      Contacts
+      [ Submit ]
        Retour
-     * [ Submit ]
+      [ Submit ]
        Retour
    Vue d'une opération de mesures de maintenance sur les sources des Fonts,
    Lozère
    [ Submit ]
    Fil d'Ariane
-     * Accueil
-     * État des nappes d’eau souterraine : un suivi assuré par le BRGM
+      Accueil
+      État des nappes d’eau souterraine : un suivi assuré par le BRGM
 
         État des nappes d’eau souterraine : un suivi assuré par le BRGM
 
    Partager
-     * *  * Sommaire
+      *   Sommaire
    Le BRGM, service géologique national, assure la surveillance du niveau des
    nappes phréatiques et de la qualité des eaux souterraines en France
    hexagonale.
@@ -234,15 +234,15 @@ Situation des nappes d’eau souterraine
 
 FAQ : Eau souterraine, sécheresse et inondations
 
-   Qu’est-ce qu’une nappe d’eau souterraine ? Comment sont mesurés les
-   niveaux des nappes phréatiques ? Qu’entend-on par sécheresse et à quoi
-   est-elle due ? Quelles sont les mesures de restriction mises en place pour
-   préserver les nappes ? Face au manque d’eau, quelles pistes de solutions
-   doivent être privilégiées ? Découvrez les réponses à toutes ces questions
+   Qu’est-ce qu’une nappe d’eau souterraine  Comment sont mesurés les
+   niveaux des nappes phréatiques  Qu’entend-on par sécheresse et à quoi
+   est-elle due  Quelles sont les mesures de restriction mises en place pour
+   préserver les nappes  Face au manque d’eau, quelles pistes de solutions
+   doivent être privilégiées  Découvrez les réponses à toutes ces questions
    et bien plus, pour tout comprendre sur l'eau souterraine.
    Vue des gorges du Verdon, France
    Dossier thématique
-   Eau souterraine, sécheresse et inondations : FAQ - questions fréquentes
+   Eau souterraine, sécheresse et inondations : FAQ  questions fréquentes
    Découvrez dans notre FAQ les réponses à vos questions sur l'eau
    souterraine et la sécheresse, le suivi des nappes phréatiques, ainsi que
    les données sur cette ressource invisible mais essentielle.
@@ -302,7 +302,7 @@ Le cycle de l'eau et la recharge des nappes
    neige. Une partie de cette eau ruisselle sur le sol. Une autre
    s'infiltre. 
 
-   © BRGM / Agence de l'eau Adour-Garonne 
+   © BRGM  Agence de l'eau Adour-Garonne 
 
 Transcription
 
@@ -361,7 +361,7 @@ La période de recharge hivernale : six mois décisifs
    Le devenir d'une pluie est très différent selon la période de l'année et
    l'état de la surface sur laquelle elle tombe. Traditionnellement, la
    période de recharge des nappes s'étend du début de l'automne (septembre -
-   octobre) au début du printemps (mars - avril), semestre durant lequel la
+   octobre) au début du printemps (mars  avril), semestre durant lequel la
    végétation est en sommeil (avec une évapotranspiration faible) et les
    précipitations sont en principe plus abondantes. Si l'hiver est sec, la
    recharge des nappes est très faible.
@@ -377,7 +377,7 @@ La période de recharge hivernale : six mois décisifs
 
    Schéma représentant les différents types d’aquifères.
 
-   © BRGM - Marylène Imbault
+   © BRGM  Marylène Imbault
 
 Cyclicité de la recharge des nappes : nappes inertielles et réactives
 
@@ -389,13 +389,13 @@ Cyclicité de la recharge des nappes : nappes inertielles et réactives
 
    Un même volume d’eau peut parcourir une même distance :
 
-     * en quelques années en milieu poreux : l’eau s’écoule dans les
+      en quelques années en milieu poreux : l’eau s’écoule dans les
        interstices de la roche meuble (sables, graviers) ou consolidée (grès,
        craie).
-     * en quelques mois en milieu fissuré : l’eau est contenue et circule
+      en quelques mois en milieu fissuré : l’eau est contenue et circule
        dans les failles ou les fissures de la roche (roches cristallines -
-       granites, schistes - roches volcaniques, calcaires non karstifiés).
-     * et en quelques jours, voire quelques heures, en milieu karstique : les
+       granites, schistes  roches volcaniques, calcaires non karstifiés).
+      et en quelques jours, voire quelques heures, en milieu karstique : les
        eaux ont dissout les fissures et créé des boyaux (karsts des calcaires
        du Crétacé et du Jurassique).
 
@@ -458,12 +458,12 @@ Surveiller la qualité des eaux souterraines
    afin de coupler l’analyse quantitative des eaux à une analyse qualitative.
    Le service géologique national intègre ainsi à son réseau de mesures :
 
-     * Des outils permettant de relever la température des eaux souterraines
+      Des outils permettant de relever la température des eaux souterraines
        et leur conductivité électrique. Le but est ici de mieux cerner le
        lien entre les eaux étudiées et l’augmentation du niveau marin (avec
        les intrusions salines), ainsi que les échanges avec les eaux de
        surface.
-     * Des outils d'analyse qualitative pour les risques de pollution. En
+      Des outils d'analyse qualitative pour les risques de pollution. En
        France, entreprises, collectivités ou agences liées à l’eau ont
        installé au fil du temps pas moins de 75 000 qualitomètres (distincts
        des piézomètres qui mesurent le niveau des nappes) sur le territoire
@@ -529,8 +529,8 @@ Ressources et bases de données sur l'eau souterraine en France
    Carte établie le 4 juillet 2025 par le BRGM, à partir de données de la
    banque ADES acquises jusqu’au 30 juin 2025.
 
-   Source des données : banque ADES (ades.eaufrance.fr) / Hydroportail
-   (hydro.eaufrance.fr) / Fond de carte © IGN. Producteurs de données et
+   Source des données : banque ADES (ades.eaufrance.fr)  Hydroportail
+   (hydro.eaufrance.fr)  Fond de carte © IGN. Producteurs de données et
    contribution : APRONA, BRGM, Conseil Départemental de la Vendée, Conseil
    Départemental des Landes, Conseil Départemental du Lot, EPTB Vistre
    Vistrenque, Parc Naturel Régional des Grandes Causses, Syndicat Mixte
@@ -588,9 +588,9 @@ durée
    de l’état des nappes avec les épisodes climatiques.
 
    Voir tous les bulletins de suivi des nappes phréatiques
-   Risque sécheresse sur les nappes à enjeux en 2023 - avril 2023.
+   Risque sécheresse sur les nappes à enjeux en 2023  avril 2023.
 
-   Risque sécheresse sur les nappes à enjeux en 2023 - avril 2023.
+   Risque sécheresse sur les nappes à enjeux en 2023  avril 2023.
 
    © BRGM
 
@@ -712,13 +712,13 @@ SIGES : le système d'information pour la gestion des eaux souterraines
 
    Le SIGES s’articule autour de trois rubriques principales :
 
-     * Découvrir : des contenus pédagogiques pour le grand public et les
+      Découvrir : des contenus pédagogiques pour le grand public et les
        scolaires afin de mieux comprendre les enjeux de l’hydrogéologie.
-     * Mon SIGES : un espace conçu pour les professionnels, offrant un accès
+      Mon SIGES : un espace conçu pour les professionnels, offrant un accès
        aux contenus plus spécifiques des territoires : données territoriales,
        bulletins de situation des nappes, études régionales, spécialement
        conçus pour les collectivités, les services de l’État et les experts.
-     * Outils : des fonctionnalités avancées pour explorer les cartes
+      Outils : des fonctionnalités avancées pour explorer les cartes
        interactives, les fiches territoriales, les modèles géologiques et
        l’atlas des itinéraires hydrogéologiques, pour une analyse approfondie
        des données.
@@ -735,27 +735,27 @@ SIGES : le système d'information pour la gestion des eaux souterraines
    Contact presse
    Plans d'accès
    Nous suivre
-     * *  *  *  *  *  *  * * Mentions légales - Crédits
-     * Protection des données personnelles
-     * Gestion des cookies
-     * Accessibilité : non conforme
-     * Accès aux documents administratifs
+      *             * Mentions légales  Crédits
+      Protection des données personnelles
+      Gestion des cookies
+      Accessibilité : non conforme
+      Accès aux documents administratifs
    Logo du BRGM avec le logo République française
    Logo Certification ISO 9001 et 14001 Logo COFRAC Logo HRS4R Logo France
    2030 Logo EuroGeoSurveys
-   BRGM - 3 avenue Claude-Guillemin - BP 36009 - 45060 Orléans Cedex 2 -
-   France - Tél. : +33 (0)2 38 64 34 34
+   BRGM  3 avenue Claude-Guillemin  BP 36009  45060 Orléans Cedex 2 -
+   France  Tél. : +33 (0)2 38 64 34 34
    Newsletter
 
    Abonnez-vous à notre newsletter et recevez chaque mois nos actualités !
 
    Email
    *
-   _____________________ Confirmation d'inscription
+   ______________ Confirmation d'inscription
    *
    [ ]
    En renseignant mon adresse email et en confirmant mon inscription,
    j'accepte de recevoir la newsletter BRGM Infos.
    JE M'ABONNE
-   * Champs obligatoires
+    Champs obligatoires
    ×

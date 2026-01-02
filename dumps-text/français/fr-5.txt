@@ -13,7 +13,7 @@ DICTIONNAIRE DU DROIT PRIVÉ
    par Serge Braudo
    Conseiller honoraire à la Cour d'appel de Versailles
 
-   _______________________________ [ RECHERCHE ]
+   ____________________ [ RECHERCHE ]
 
                                 ETAT DEFINITION
                              Dictionnaire juridique
@@ -32,43 +32,43 @@ Définition de État
    Limité au droit privé l'état désigne une manière d'être de la personne
    physique ou de la personne juridique (Société civile ou commerciale,
    Etablissement, Syndicat, . notamment). Voir :
-   * État des personnes.
-   * État civil.
-   * En l'état
-   * Personne morale.
-   * Majorité (droit de la personne).
-   * Minorité.
+    État des personnes.
+    État civil.
+    En l'état
+    Personne morale.
+    Majorité (droit de la personne).
+    Minorité.
 
    Liste de toutes les définitions
 
-     * A
-     * B
-     * C
-     * D
-     * E
-     * F
-     * G
-     * H
-     * I
-     * J
-     * L
-     * M
-     * N
-     * O
-     * P
-     * Q
-     * R
-     * S
-     * T
-     * U
-     * V
-     * W
+      A
+      B
+      C
+      D
+      E
+      F
+      G
+      H
+      I
+      J
+      L
+      M
+      N
+      O
+      P
+      Q
+      R
+      S
+      T
+      U
+      V
+      W
    liste des définitions
    notice
    abréviations
    cours et tribunaux
 
-   © 1996-2026
+   © 19962026
 
    Serge Braudo
    Conseiller honoraire
@@ -82,6 +82,6 @@ Définition de État
    Mentions légales
 
    Recherches fréquentes
-   attendu que   caducité   hoirie   consentement   nue propriété   décret  
-   arrêt   traite   contentieux   jugement   assignation   délit civil  
-   état civil   pourvoi   ayant cause   propriété  
+   mise en demeure   minute   décret   novation   état civil   erreur  
+   appel   tribunal   meuble   nue propriété   consentement   règlement  
+   responsabilité civile   grosse   rejet   préjudice  

@@ -5,106 +5,106 @@
    Nos publications Recevez notre newsletter Nos dossiers
    S'abonner Budget 2026 Économie Social Société International Entreprise
    écologie Agir
-   _____________________ [ Rechercher ]
+   ______________ [ Rechercher ]
    Menu 
    Kiosque
-    - 
+     
 
-     * * Voir sommaire
-     * Nos dossiers numériques
-     * Nos publications
+      * Voir sommaire
+      Nos dossiers numériques
+      Nos publications
    Rubriques
-     * Idées&débats
-     * Economie
-          * Conjoncture
-          * Budget
-          * Budget 2026
-          * Fiscalité
-          * Politiques publiques
-          * Mondialisation
-          * Consommation
-          * Finance
-          * Politique monétaire
-     * Social
-          * Emploi
-          * Chômage
-          * Protection sociale
-          * Retraites
-          * Santé
-          * Travail
-          * Salaires
-          * Formation
-     * Entreprise
-          * Industrie
-          * Services
-          * Numérique
-          * Management
-          * Innovation
-          * Commerce extérieur
-          * Gestion
-     * Environnement
-          * Energie
-          * Climat
-          * Pollution
-          * Biodiversité
-          * Agriculture
-          * Transport
-     * International
-          * Europe
-          * Ukraine
-          * Allemagne
-          * Grèce
-          * Royaume-Uni
-          * Espagne
-          * Etats-Unis
-          * Trump
-          * Amérique du sud
-          * Asie
-          * Chine
-          * Japon
-          * Proche-Orient
-          * Afrique
-          * Géopolitique
-     * Société
-          * Inégalités
-          * Education
-          * Logement
-          * Genre
-          * Immigration
-          * Territoires
-          * Près de chez vous
-          * Population
-          * Familles
-          * Libertés
-          * Jeunes
-          * Politique
-     * Idées
-          * Grand entretien
-          * Opinions
-          * Culture
-          * En direct de la recherche
-          * Lectures
-          * Histoire
-          * Tribune
-          * Théorie
-     * Agir
-          * Economie sociale et solidaire
-     * Grands Formats
-     * Data
-          * À la carte
-          * Graphorama
-     * Dessin
+      Idées&débats
+      Economie
+           Conjoncture
+           Budget
+           Budget 2026
+           Fiscalité
+           Politiques publiques
+           Mondialisation
+           Consommation
+           Finance
+           Politique monétaire
+      Social
+           Emploi
+           Chômage
+           Protection sociale
+           Retraites
+           Santé
+           Travail
+           Salaires
+           Formation
+      Entreprise
+           Industrie
+           Services
+           Numérique
+           Management
+           Innovation
+           Commerce extérieur
+           Gestion
+      Environnement
+           Energie
+           Climat
+           Pollution
+           Biodiversité
+           Agriculture
+           Transport
+      International
+           Europe
+           Ukraine
+           Allemagne
+           Grèce
+           Royaume-Uni
+           Espagne
+           Etats-Unis
+           Trump
+           Amérique du sud
+           Asie
+           Chine
+           Japon
+           Proche-Orient
+           Afrique
+           Géopolitique
+      Société
+           Inégalités
+           Education
+           Logement
+           Genre
+           Immigration
+           Territoires
+           Près de chez vous
+           Population
+           Familles
+           Libertés
+           Jeunes
+           Politique
+      Idées
+           Grand entretien
+           Opinions
+           Culture
+           En direct de la recherche
+           Lectures
+           Histoire
+           Tribune
+           Théorie
+      Agir
+           Economie sociale et solidaire
+      Grands Formats
+      Data
+           À la carte
+           Graphorama
+      Dessin
    Services
-     * Rechercher
-     * Nos publications
-     * Newsletter
-     * Nos applis
-     * Articles Récents
-     * Nos dossiers
-     * Dictionnaire
-     * L'association des lecteurs
-     * FAQ
-     * Annonceurs
+      Rechercher
+      Nos publications
+      Newsletter
+      Nos applis
+      Articles Récents
+      Nos dossiers
+      Dictionnaire
+      L'association des lecteurs
+      FAQ
+      Annonceurs
 
 Le dictionnaire
 
@@ -113,7 +113,7 @@ Le dictionnaire
    de l’Economie de A à Z, le hors-série écrit par Denis Clerc. Un outil
    indispensable pour mieux comprendre l'actualité économique et sociale,
    désormais mis à la disposition des internautes.
-   _______________________________
+   _____________________
    [ Appliquer ]
 
 Choisissez une lettre
@@ -158,31 +158,31 @@ Choisissez une lettre
 En kiosque
 
    [IMG]
-   ALTERNATIVES ECONOMIQUES N°465 - 12/2025
+   ALTERNATIVES ECONOMIQUES N°465  122025
 
   Le réarmement, à quel prix ?
 
    Voir le Sommaire
    [IMG]
-   HORS-SéRIE N°132 - 01/2026
+   HORS-SéRIE N°132  012026
 
   Déchiffrer 2026
 
    Acheter Voir le Sommaire
    [IMG]
-   HORS-SéRIE N°11 - 09/2025
+   HORS-SéRIE N°11  092025
 
-  Réussir les SES en terminale - Bac 2026
+  Réussir les SES en terminale  Bac 2026
 
    Acheter Voir le Sommaire
    [IMG]
-   L'ECONOMIE POLITIQUE N°108 - 11/2025
+   L'ECONOMIE POLITIQUE N°108  112025
 
   Le prix de la surconsommation
 
    Acheter Voir le Sommaire
    [IMG]
-   HORS-SéRIE N°131 - 04/2025
+   HORS-SéRIE N°131  042025
 
   Pierre Bourdieu : une pensée en héritage
 
@@ -202,7 +202,7 @@ En kiosque
    du marché. Ce nouveau mécanisme pourrait s’attirer encore plus de
    critiques.
 
-   Justin Delépine 02/01/2026 3 min
+   Justin Delépine 02012026 3 min
    [IMG]
    Monnaie unique
 
@@ -212,7 +212,7 @@ En kiosque
    l’adoption de la monnaie unique est loin d’y faire consensus, alors que le
    pays traverse une crise politique majeure.
 
-   Elisa Perrigueur 02/01/2026 7 min
+   Elisa Perrigueur 02012026 7 min
    [IMG]
    Tribune
 
@@ -223,17 +223,17 @@ En kiosque
    menaces qui pèsent sur l’économie sociale et solidaire et appellent à une
    riposte coordonnée.
 
-   Timothée Duverger et Jean-Louis Laville 02/01/2026 5 min
+   Timothée Duverger et Jean-Louis Laville 02012026 5 min
    [IMG]
    Bilan
 
   Retour en images sur les temps forts de l’année 2025
 
-   Que retenir de 2025 ? Si Trump a saturé l’espace avec sa guerre
+   Que retenir de 2025  Si Trump a saturé l’espace avec sa guerre
    commerciale et ses déclarations tonitruantes, la scène française n’a pas
    manqué de rebondissements. 12 photos pour 12 séquences fortes.
 
-   La rédaction 31/12/2025 11 min
+   La rédaction 31122025 11 min
    [IMG]
    Pollution
 
@@ -244,33 +244,33 @@ En kiosque
    diagnostic erroné et les solutions proposées pourraient aggraver la
    situation.
 
-   Olivier Guichardaz 31/12/2025 7 min
+   Olivier Guichardaz 31122025 7 min
    [IMG] Opinion
 
   Face à la Chine, l’Europe doit montrer ses muscles industriels
 
-   Isabelle This Saint-Jean 31/12/2025 5 min
+   Isabelle This Saint-Jean 31122025 5 min
 
 Contactez-nous
 
-     * Service relations clients
-     * Rédaction
-     * Association des lecteurs
-     * Signaler un contenu illicite
-     * Qui sommes-nous ?
-     * CGV/CGU
-     * Mentions Légales
-     * Déclaration d’accessibilité
-     * Confidentialité
-     * FAQ
+      Service relations clients
+      Rédaction
+      Association des lecteurs
+      Signaler un contenu illicite
+      Qui sommes-nous ?
+      CGV/CGU
+      Mentions Légales
+      Déclaration d’accessibilité
+      Confidentialité
+      FAQ
 
 Suivez-nous
 
-     * Facebook
-     * Bluesky
-     * Instagram
-     * LinkedIn
-     * Whatsapp
-     * Rss
+      Facebook
+      Bluesky
+      Instagram
+      LinkedIn
+      Whatsapp
+      Rss
    Inscrivez-vous à notre newsletter
    Je m'abonne
