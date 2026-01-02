@@ -1,0 +1,213 @@
+
+   état [infobulle_prononciationprononciationbloc
+   prononciationprononciation400VOIR le tableau de l’alphabet phonétique
+--
+   État de tristesse, d'accablement. État de veille, de sommeil. État
+   second. Être en état d'ébriété, en état d'ivresse. Être en piteux état.
+   « il se précipita dans la chambre de la malade, dont la respiration
+   difficile et la figure empourprée révélaient la gravité de son état »
+   noticeArsène_Bessette.bio.xmlArsène_Bessette_bio_xmlArsène BessetteLe
+--
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  Être, se
+   mettre dans tous ses états : être, se mettre dans un état d'agitation
+   extrême; s'affoler. « ma sœur a une de ses crises de migraine, et ça
+   met le garçon dans tous ses états »
+   noticeSergio_Kokis.bio.xmlSergio_Kokis_bio_xmlSergio KokisL'art du
+--
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  Ne pas être
+   dans son état normal : agir d'une façon qui n'est pas conforme à sa
+   manière d'être habituelle. Elle « sent bien que quelque chose se trame,
+   qu'Élisabeth n'est pas dans son état normal, qu'elle a l'air d'un
+   volcan prêt à se réveiller »
+--
+   appartient à ce domaine spécialisé.gramm. (en grammaire traditionnelle)
+   Verbe d'état. infobullenum_macro_sensnum_sous_sensI, II,
+   III…structuration de
+--
+   présentent le même sens ou à peu près le même sens. ⇒
+   conditionsituation.État de misère, de dépendance. Être en état
+   d'accusation, d’arrestation. « la peur nous met en état de légitime
+   défense »
+--
+   III…structuration de
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  être en état
+   de (infobulleliste_modalite_synt_plus_infplus_inf.+ inf.+
+--
+   d’un verbe à l’infinitif.+ inf.). Pouvoir, être capable de; être en
+   mesure de. Es-tu en état de conduire? « Ni l'un ni l'autre, nous
+   n'étions en état de parler »
+   noticeLaure_Conan.bio.xmlLaure_Conan_bio_xmlLaure ConanAngéline de
+--
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  être hors
+   d'état de. Être incapable de; ne pas être en mesure de. « soyez sûr,
+   mon cher monsieur, que si je peux trouver un moyen de vous mettre une
+   fois pour toutes hors d'état de nuire, je le prendrai »
+   noticeYves_Beauchemin.bio.xmlYves_Beauchemin_bio_xmlYves
+--
+   État d'une toiture, d'une construction. État d'urgence. Marchandise en
+   parfait état de conservation. Objet en bon, en mauvais état.
+   infobullenum_macro_sensnum_nuanceI, II, III…structuration de
+--
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  Remettre qqch.
+   en état. infobullenum_macro_sensnum_nuanceI, II, III…structuration de
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  État de(s)
+--
+   réflexion l'a amené à trouver ses craintes ridicules et à accepter
+   simplement un état de choses contre lequel il ne peut rien »
+   noticeFrançoise_Loranger.bio.xmlFrançoise_Loranger_bio_xmlFrançoise
+--
+   question, d'une question : point sur une question à un moment ou à un
+   stade précis. « Une fois l'état de la question bien établi, on peut
+   alors élaborer une stratégie et des étapes »
+--
+   service de qqn : ensemble des antécédents professionnels, des services
+   accomplis par qqn. « Son expérience et ses états de service lui
+   confèrent un pouvoir que de petites erreurs d'aiguillage n'entament
+--
+   infobullenum_macro_sensnum_nuanceI, II, III…structuration de
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  à l'état
+   (infobulleliste_modalite_synt_plus_adjplus_adj.+ adj.+
+   adjectif250Précisions grammaticales et syntaxiquesprecisionsGrammSuivi
+   d’un adjectif.+ adj.) ou à l'état de
+   (infobulleliste_modalite_synt_plus_nomplus_nom+ nom+ nom250Précisions
+   grammaticales et syntaxiquesprecisionsGrammSuivi d’un nom.+ nom). D'une
+   manière; sous la forme (de), au stade (de). À l'état pur. À l’état
+   larvaire, à l'état de larve. Une plante à l’état sauvage. « le
+   cataclysme s'est produit au moment où l'Amérique était encore soudée �
+   l'Europe, au moment où l'océan Atlantique n'existait encore qu'à l'état
+   de projet dans les cartons de la Nature »
+--
+   infobullenum_macro_sensnum_nuanceI, II, III…structuration de
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  faire état de.
+   Mettre en avant le fait que, rapporter; montrer. « Au bureau, Zaki ne
+   manquait jamais l'occasion de faire état de nos liens de parenté »
+   noticeNaïm_Kattan.bio.xmlNaïm_Kattan_bio_xmlNaïm KattanAdieu,
+--
+   est appelé locution adverbiale en grammaire traditionnelle. GT   en
+   tout état de cause. Quoi qu'il en soit, de toute manière; dans tous les
+   cas. « En tout état de cause, l'effet produit ne manque pas de charme »
+   noticeJournalL_Actualité_bio_xmlL_Actualité.bio.xmlL’actualité Magazine
+--
+   syntaxiquesprecisionsGrammAbréviation de souvent au pluriel.(souvent au
+   plur.) Constat écrit d'un état de choses en un lieu et à un moment
+   donnés. infobullerenvoi_hyper⇑ ⇑ renvoi de type hyperonyme250Renvois
+--
+   revenus, des dépenses. « le Vérificateur insiste pour que le
+   gouvernement publie ses états financiers en cumulant l'ensemble de ses
+   opérations » noticeJournalLe_Devoir_bio_xmlLe_Devoir.bio.xmlLe Devoir
+--
+   infobullenum_macro_sensnum_nuanceI, II, III…structuration de
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  état des
+   lieux : inventaire à valeur juridique.
+--
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance1 Situation d'une
+   personne du point de vue de l'ordre social. état matrimonial :
+   situation légale d'une personne (mariage, célibat, divorce, etc.).
+   infobullenum_macro_sensnum_nuanceI, II, III…structuration de
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  état civil :
+   ensemble des qualités propres à une personne physique, telles que le
+   nom, la date et le lieu de naissance, le sexe, la nationalité et l'état
+   matrimonial; service public responsable de l'inscription de ces
+   qualités et de la délivrance de documents les authentifiant. Actes
+   d'état civil. Directeur de l'état civil du Québec. Officier de l'état
+   civil, d'état civil. Registre de l'état civil. « Scott, Sicotte ou
+   Picotte, ne joue pas au finaud : tu n'as même pas d'état civil! »
+   noticeJacques_Ferron.bio.xmlJacques_Ferron_bio_xmlJacques FerronLe ciel
+--
+   dans la société par une personne du fait de sa fortune, de sa
+   profession, de son rang. Vivre selon son état. « Il n'était pas sans se
+   rendre compte du vague mépris que leur inspirait son état de grand
+   bourgeois capitaliste, mais il tirait lui-même si peu de vanité de cet
+   état, qu'il se serait volontiers placé parmi leurs rangs pour se moquer
+   de son milieu et de lui-même »
+--
+   étudié à Paris pour se marier finalement avec un certain Dupont,
+   ingénieur de son état »
+   noticeAlice_Parizeau.bio.xmlAlice_Parizeau_bio_xmlAlice ParizeauLes
+--
+   de la division du corps social en trois ordres : le clergé, la noblesse
+   et le tiers état. États généraux : assemblée convoquée par le roi et
+   réunissant des représentants des trois ordres du corps social.
+   infobullenum_macro_sensnum_nuanceI, II, III…structuration de
+   l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  tiers état :
+   partie de la population n'appartenant ni au clergé ni à la noblesse
+   (bourgeois, commerçants, artisans, agriculteurs, etc.). « Le tiers
+   état, ou pour mieux dire la nation, a, comme ailleurs, aidé le pouvoir
+   royal [...] à comprimer les grands et le clergé, et à s'étendre à leurs
+--
+   marque moderne est utilisée par opposition aux marques vieux, vieilli
+   ou anciennement pour signaler un emploi plus actuel.mod. états
+   généraux : réunion plénière ou assemblée qui vise à débattre en
+--
+   (CRIFUQ).Site du GDT(in GDT) États généraux de l’éducation. Tenir des
+   états généraux.
+    infobullenum_macro_sensnum_macro_sensI, II, III…structuration de
+--
+   infobulledef_sous_entree_in_TLFin_TLFin TLFiin Trésor de la langue
+   française informatisé400étatCet article s’appuie sur certaines données
+   du TLFi.Rechercher « ###_entree_### » dans le TLFiLe Centre d’analyse
+--
+     nom masculin
+   état^*
+   singulier pluriel
+   état
+   états
+   ^*VOIR l'emploi de la majuscule initiale dans l'article.
+--
+     * affaire d'État
+     * à l'étatpur
+     * à l'état+ adj.
+     * à l'état de+ nom
+     * conseild'État
+--
+     * domainede l'État
+     * en tout état de cause
+     * État(-)providence
+--
+     * Étatpolicier
+     * étatsecond
+     * Étattampon
+     * état civil
+     * état d'âme
+     * état d'urgence
+     * État dans l’État
+     * état dechoc
+     * état degrâce
+     * état demanque
+     * état desiège
+     * État de droit
+     * état de la question, d'une question
+     * état de(s) choses
+     * état des lieux
+     * état matrimonial
+     * État-nation
+     * état(s) de service de qqn
+     * Étatspontificaux
+     * états généraux
+     * être, se mettre dans tous ses états
+     * être en état de+ inf.
+     * être hors d'état de
+     * faire état de
+     * femme, homme d’État
+--
+     * ministred'État
+     * ne pas être dans son état normal
+     * officierde l'état civil, d'état civil
+     * raisond'État
+     * registrede l'état civil
+     * remettreqqch. en état
+     * secretd'État
+--
+     * télévisiond'État
+     * tiers état
+     * verbed'état
+
+--
+     * État(-)providence
+     * état
+     * état-major
+     * État-nation
+     * étatique
+     * étatisation
+     * étatiser
+

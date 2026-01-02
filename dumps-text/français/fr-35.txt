@@ -1,623 +1,184 @@
-#alternate TF1 INFO - L'info pour tous et pour chacun
-
-[ ]
-
-(BUTTON) Fermer les notifications
-
-  * Aller au contenu principal
-  * Aller à la recherche des programmes
-  * Aller au pied de page
-
-Retour
-Tf1 Info - Retour à l'accueil
-(BUTTON) (BUTTON) Se connecterDirects (BUTTON) 0Accéder aux notifications
-(aucune notification en attente) (BUTTON) Accéder aux menu secondaire et à la
-recherche
-[ ]
-(BUTTON) Fermer le menu
-
-Découvrez tout
-l’univers TF1 INFO
-____________________
-(BUTTON) Lancer votre recherche de programme
-(BUTTON) Créer un compte (BUTTON) Se connecter
-  * Regarder le direct
-  * Regarder les JT en direct
-  * Regarder votre JT personnalisé
-
-Directs
-  * Guerre Ukraine-Russie : des négociations de paix à l'issue incertaine
-  * Suisse : des dizaines de morts après une explosion dans une station de ski
-
-(BUTTON)
-Dans l’actualité en ce moment
-  * Drame à Crans-Montana : des dizaines de morts dans l'incendie d'un bar le
-soir du Nouvel An
-  * Ukraine : 4ᵉ année de guerre
-  * Ukraine-Russie : en marge des négociations, les attaques russes continuent
-  * Dermatose nodulaire, Mercosur : les agriculteurs mobilisés
-  * Procès du RN : Marine Le Pen jugée en appel à partir du 13 janvier 2026
-  * Tous les sujets
-
-(BUTTON)
-Rubriques
-  * Politique
-  * Économie
-  * International
-  * Police - justice & faits divers
-  * Météo & intempéries
-  * Culture, médias et divertissement
-  * Conso & tendances
-  * Environnement
-  * Nouvelles technologies
-  * Santé & bien être
-  * Sujets de société
-  * Famille & éducation
-  * Sports
-  * Traditions et patrimoine
-  * Transports
-  * Logement et immobilier
-  * Sciences
-  * Voyages
-  * Régions
-  * Vie pro et emploi
-  * Dans mon assiette
-  * Mon argent et mes droits
-  * Initiatives positives
-  * Les Vérificateurs
-  * Le 13H fête noël
-
-(BUTTON)
-Émissions en replay
-  * Toutes les émissions TF1 & LCI
-  + Émissions TF1
-  + Émissions LCI
-  * Émissions TF1
-  + Bonjour ! La Matinale TF1
-  + Le 13H
-  + Le 20H
-  + Sept à huit
-  + Grands Reportages
-  + Top Info
-  + En Toute Franchise
-  * Émissions LCI
-  + La Matinale
-  + En toute liberté
-  + Carte sur table
-  + Brunet Sans filtre
-  + LCI Direct
-  + Le Grand Dossier
-  + 24H Pujadas
-  + Face à Darius Rochebin
-  + 22h
-  + Fourest en liberté
-  + On ne plaisante pas avec l'info
-  + Les Vérificateurs
-  + LCI Midi
-  + 18H Darius Rochebin
-  + 18H Yves Calvi
-  + Histoires criminelles
-  + Impact Positif
-  + Vis leurs vies
-  + Un Oeil sur le Monde
-  + La Grande Confrontation
-  * Tous les replays TF1 & LCI
-  + Replay TF1
-  + Vidéos Replay TF1
-  + Replay LCI
-  + Vidéos Replay LCI
-
-(BUTTON)
-Vidéos
-  * Toutes les vidéos
-  * TF1info Shorts
-
-(BUTTON)
-Podcasts
-  * Pourquoi faire compliqué ?
-  * Intérieur crime
-  * Expertes à la Une
-  * Inspirants
-  * Darius libre
-  * 24H Pujadas - Les partis pris
-  * Le Grand Dossier
-  * En toute liberté
-  * Carte sur table
-  * Brunet sans filtre
-  * 18H Darius Rochebin
-  * 18H Yves Calvi
-  * 22H Rochebin
-  * En toute franchise
-  * Les vérificateurs
-  * Histoires criminelles
-  * Impact positif
-  * Les gens qui lisent sont plus heureux
-
-(BUTTON)
-Nos dossiers
-  * Face aux Français : posez vos questions
-  * Notre planète
-  * Le 20H vous répond
-  * Le 13H à vos côtés
-  * LCI vous répond
-  * Impact positif
-  * Avec Elles
-  * Le 13H au jardin
-
-(BUTTON)
-Jeux
-  * Jeux
-  + Solitaire
-  + Mots-fléchés
-  + Puzzle
-  + Mots-croisés
-  + Sudoku
-  + Quiz
-
-(BUTTON)
-Sites du groupe
-  * TF1+
-  * TF1 Météo
-  * SOS Villages
-  * TF1 AdManager
-
-(BUTTON)
-Nos engagements
-  * La médiatrice vous répond
-  * Charte Éditoriale
-  * Charte sur l'intelligence artificielle
-  * Nos engagements RSE
-
-(BUTTON)
-Paramétrer mes cookies
-(BUTTON) FACIL'iti : ADAPTEZ L'AFFICHAGE
-Télécharger l'application TF1 info
-  * Télécharger l’application mobile TF1 Info sur l’app store
-  * Télécharger l’application TF1 Info sur le play store
-
-"Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait son compagnon
-décédé d'un cancer
-
-par La rédaction de TF1info (nouvelle fenêtre) | Reportage "Sept à Huit Life" :
-Julie DULAC, Marie DEMARQUE et Tony CASABIANCA
-Publié le 27 novembre 2025 à 18h40
-
-Source : Sept à huit life
-
-  * Ils sont magnétiseurs, naturopathes ou hypnotiseurs, et certains
-entretiennent la confusion avec la médecine véritable, devenant parfois la
-dernière lueur d'espoir de patients gravement malades.
-  * Dans le cas de Paul, l'influence de l'un d'entre eux l'a maintenu dans son
-déni, jusqu'à l'issue fatale.
-  * Sa compagne témoigne dans un reportage de "Sept à Huit Life".
-
-Suivez la couverture complète
-
-Sept à huit
-
-Ils sont magnétiseurs, naturopathes ou hypnotiseurs. Ces nouveaux guérisseurs
-ont remplacé les rebouteux d'antan, et séduisent des patients en quête
-d'alternative ou d'une lueur d'espoir, comme on peut le voir dans la vidéo en
-tête de cet article, replay d'un reportage de "Sept à Huit Life" diffusé
-dimanche dernier. Mais ces pratiques ne sont pas sans risque, quand elles
-tendent à se substituer à la médecine. Parmi les personnes rencontrées par
-l'équipe du magazine de TF1, Camilla raconte comment son compagnon, atteint d'un
-cancer, a subi l'emprise d'un naturopathe qui l'a entretenu dans son rejet de la
-médecine, jusqu'à l'issue fatale. Le charlatan a été condamné, mais continue
-pourtant d'exercer, ont constaté les journalistes.
-
-Les signalements dans le domaine de la santé et du bien-être arrivent en tête du
-dernier rapport (nouvelle fenêtre) de l'organisme officiel de lutte contre les
-dérives sectaires (Miviludes), dépassant désormais ceux concernant les cultes et
-la spiritualité. Avec comme premières victimes les malades du cancer. C'était le
-cas de Paul, le compagnon de Camilla, décédé en 2018, après avoir suivi le
-traitement d'un naturopathe.
-
-Getty Images
-
-Lire aussi
-
-"Elle est allée voir un magnétiseur, c'était un début d'embolie" : les médecines
-douces investissent les déserts médicaux
-
-À 39 ans, en 2016, Paul découvre qu'il est atteint d'un cancer des testicules,
-qui se soigne dans 97% des cas (nouvelle fenêtre) s'il est localisé, et à plus
-de 70% pour les formes métastatiques. Mais hostile à l'idée de se faire opérer
-et de subir une éventuelle ablation, ce chef d'entreprise, passionné de produits
-bio, est séduit par le discours de Miguel Barthéléry. Ce naturopathe se présente
-comme diplômé d'Harvard, et titulaire d'un doctorat en recherche moléculaire.
-""Son idée, c'est d'affamer la tumeur et de la faire disparaître. Il lui a fait
-un plan de santé qui consiste à faire des jeûnes suivis de purges, et aussi un
-mélange d'huiles essentielles, d'élixirs, de synergie"", décrit Camilla.
-
-En neuf mois, Paul passe de 80 à 59 kilos, et ses poumons se couvrent de
-métastases. Camilla est impuissante. ""J'ai tout essayé, c'est-à-dire que j'ai
-essayé le chantage en lui disant que j'allais le quitter, au tout début, que je
-n'allais pas supporter ça, ni de le voir mourir. Je pleurais, parfois je
-hurlais"". Elle essaie aussi ""de le convaincre de manière rationnelle, mais ce
-n'était plus possible en fait parce qu'il était dans le déni, et dans ce déni,
-il était entretenu par Miguel Barthéléry"", assène-t-elle.
-
-"Il m'a demandé pardon parce qu'il ne m'avait pas écoutée"
-
-Alors que Paul est placé sous oxygène, Miguel Barthéléry persévère. Voici un
-extrait de leurs échanges par SMS. Paul lui écrit : ""Je suis à l'hôpital. Les
-deux options qu'ils me proposent : transfert pour chimio à Angoulême ou
-Bordeaux"". Le naturopathe lui répond : ""Ou alors, tu décides de vidanger ton
-système lymphatique sérieusement, c'est ta troisième option", "proposant
-clairement une alternative à la parole médicale. Paul finit par accepter une
-chimiothérapie, mais il est déjà trop tard.
-
-""À quelques heures de mourir, il m'a demandé pardon parce qu'il ne m'avait pas
-écoutée"", se souvient Camilla. ""Je trouve que c'est horrible de mourir comme
-ça, de mourir en demandant pardon parce qu'on a fait le mauvais choix"",
-analyse-t-elle aujourd'hui. Camilla a porté plainte en 2021. Miguel Barthéléry a
-été condamné en première instance, puis en appel en 2023, à deux ans
-d'emprisonnement avec sursis, et interdiction d'exercer comme naturopathe.
-
-"Je témoigne pour qu'il soit mis hors d'état de nuire"
-
-Mais le pseudo-thérapeute, qui serait actuellement en Inde, n'a jamais
-interrompu ses consultations, qu'il pratique à distance en toute illégalité. Il
-propose même une retraite de naturopathie en Inde. L'équipe de "Sept à Huit
-Life" a pu joindre son assistante. ""Je continue à prendre des rendez-vous pour
-Monsieur Barthéléry et je ne m'en cacherai pas"", affirme-t-elle tout d'abord au
-téléphone, assurant que ""l'affaire n'est pas terminée puisque ça se poursuit en
-cassation"". Quand on lui rappelle que l'affaire est jugée et close, elle
-maintient : ""Non, elle n'est pas close. La preuve, si je réponds au téléphone,
-c'est qu'il ne fait pas ça dans l'illégalité, sinon ce n'est pas vous qui
-m'appelleriez, c'est la police"".
-
-""J'ai devant moi le papier de la Cour de cassation disant que la décision est
-définitive"", insiste la journaliste. L'assistante bat alors en retraite :
-""Est-ce que vous avez la possibilité de me l'envoyer parce que lui,
-visiblement, ne l'a pas reçu ?"". Cela fait pourtant plus de deux ans que le
-naturopathe a été déchu de son pourvoi en cassation, et est donc interdit
-d'exercice. ""Aujourd'hui, je témoigne pour que Miguel Barthéléry soit mis hors
-d'état de nuire, puisque rien ne l'arrête, et surtout qu'il arrête de faire des
-victimes"", conclut Camilla. L'intéressé n'a jamais répondu aux sollicitations
-de "Sept à Huit Life".
-  ___________________________________________________________________________
-
-La rédaction de TF1info | Reportage "Sept à Huit Life" : Julie DULAC, Marie
-DEMARQUE et Tony CASABIANCA
-
-Sur le
-même thème
-  * #santé
-  * #Sept à huit
-  * #Maladies et traitements
-  * #Médecine
-  * #Médecine alternative
-  * #Sept à Huit Life
-  * #Santé publique
-  * #Cancer
-  * #Modes de consommation
-
-[ ]
-  *
-
-"Ada était mon héroïne" : George Clooney en deuil après le décès de sa sœur
-unique (nouvelle fenêtre)
-[Vidéo]
-Publié le 21 décembre 2025 à 16h43
-  *
-
-Suspendu pour avoir aidé des patients à mourir, ce médecin témoigne (nouvelle
-fenêtre)
-[Vidéo]
-Publié le 16 septembre 2025 à 10h54
-  *
-
-"C'est une pratique commerciale pour un acte qui est médical" : pourquoi les
-échographies "de plaisir" sont illégales (nouvelle fenêtre)
-[Vidéo]
-Publié le 31 juillet 2025 à 12h06
-  *
-
-TÉMOIGNAGES - "J'ai peur de rater le coche" : faire congeler ses ovocytes en
-France, une "chance"... mais des délais à rallonge (nouvelle fenêtre)
-[Vidéo]
-Publié le 24 juillet 2025 à 18h11
-  *
-
-Journée du don d'organes : "J'avais ma carte de donneur, je n'avais jamais
-imaginé être receveur" (nouvelle fenêtre)
-[Vidéo]
-Publié le 22 juin 2025 à 17h03
-  *
-
-"On nous a dit que tout allait bien" : les témoignages poignants de victimes de
-graves erreurs médicales (nouvelle fenêtre)
-[Vidéo]
-Publié le 22 octobre 2024 à 20h39
-  *
-
-ENQUÊTE - Hypnose : de la pure arnaque ou une pratique réellement fiable ?
-(nouvelle fenêtre)
-[Vidéo]
-Publié le 25 octobre 2023 à 11h52
-  *
-
-PODCAST - Carole Helissey, oncologue : "Chacun de mes patients m’aide à devenir
-un bon médecin" (nouvelle fenêtre)
-Publié le 27 juin 2023 à 10h05
-  *
-
-VÉRIF' - De simples traitements antiparasitaires peuvent-ils vraiment avoir une
-efficacité contre le cancer ? (nouvelle fenêtre)
-[Vidéo]
-Publié le 12 décembre 2025 à 13h35
-  *
-
-VIDÉO - Thierry Casasnovas, le gourou du "crudivorisme", mis en examen pour
-exercice illégal de la médecine (nouvelle fenêtre)
-[Vidéo]
-Publié le 11 mars 2023 à 16h43
-
-(BUTTON) Voir plus - Afficher tout
-
-Tout
-TF1 Info
-(BUTTON) Les + lus (BUTTON) Dernière minute (BUTTON) Tendance (BUTTON) Dernières
-vidéos
- 1. 1
-
-Pourquoi l'année 2036 a-t-elle été projetée sur l'Arc de Triomphe pour le
-réveillon ? (nouvelle fenêtre)
-[Vidéo]
-Publié hier à 0h09
- 2. 2
-
-"On ne pourra plus mentir en disant qu’on n’a pas reçu le colis" : face aux
-retours frauduleux, les e-commerçants font appel à la technologie (nouvelle
-fenêtre)
-[Vidéo]
-Publié le 31 décembre 2025 à 17h00
- 3. 3
-
-Moscou plongé dans le noir : "Les Ukrainiens ont détruit une bonne partie des
-capacités de raffinage de la Russie" (nouvelle fenêtre)
-[Vidéo]
-Publié le 31 décembre 2025 à 17h48
- 4. 4
-
-EN DIRECT - Incendie à Crans-Montana : la Suisse a demandé l’accueil de 8
-blessés supplémentaires en France (nouvelle fenêtre)
-[Vidéo]
-Publié hier à 6h54
- 5. 5
-
-Des centaines de chaussures du XIXe siècle s'échouent sur une plage anglaise :
-des experts cherchent leur provenance (nouvelle fenêtre)
-[Vidéo]
-Publié hier à 14h00
- 6. 6
-
-"Elle donnait aux téléspectateurs ce qu'ils recherchaient" : l'hommage d'Évelyne
-Dhéliat et Danièle Gilbert à Évelyne Leclercq (nouvelle fenêtre)
-[Vidéo]
-Publié le 31 décembre 2025 à 14h11
- 7. 7
-
-"On ne peut pas exclure le scénario que ça puisse arriver dans quelques années"
-: les volcans d’Auvergne proches du réveil ? (nouvelle fenêtre)
-[Vidéo]
-Publié le 31 décembre 2025 à 12h30
- 8. 8
-
-"Il ne faut pas trop en parler" : est-ce vraiment utile de posséder un
-coffre-fort chez soi ? (nouvelle fenêtre)
-[Vidéo]
-Publié hier à 7h30
- 9. 9
-
-Météo : on vient de vivre la nuit du Nouvel An la plus froide depuis vingt ans !
-(nouvelle fenêtre)
-[Vidéo]
-Publié hier à 9h11
-10. 10
-
-Un avion atterrit sans l'aide du pilote qui avait fait un malaise grâce à un
-système d'urgence automatisé (nouvelle fenêtre)
-[Vidéo]
-Publié le 30 décembre 2025 à 15h00
-(BUTTON) Voir plus d'actualités - Afficher tout
-
- 1. 1
-
-"Un hôtel pour rongeurs" : sa voiture est visitée par des rats, il débourse plus
-de 5.000 euros de réparations (nouvelle fenêtre)
-[Vidéo]
-Publié hier à 11h23
- 2. 2
-
-Trump affirme que si l'Iran tue des manifestants, les États-Unis "viendront �
-leur secours" (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 10h26
- 3. 3
-
-La Première ministre japonaise emménage dans son palais hanté (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 10h12
- 4. 4
-
-EN DIRECT - Ukraine : Kiev assure frapper uniquement des "cibles militaires"
-après une attaque meurtrière en zone occupée (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 6h30
- 5. 5
-
-Cette habitude que tout le monde a au volant pourrait être dangereuse, selon une
-étude (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 10h00
- 6. 6
-
-Invitée à participer à l'Open d'Australie à 45 ans, Venus Williams va battre un
-record (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 9h20
- 7. 7
-
-Pour échapper à la justice, une femme simule sa mort... et réapparaît six mois
-plus tard dans un mariage (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 9h00
- 8. 8
-
-EN DIRECT - Incendie à Crans-Montana : la Suisse a demandé l’accueil de 8
-blessés supplémentaires en France (nouvelle fenêtre)
-[Vidéo]
-Publié hier à 6h54
- 9. 9
-
-"À l'école, j'étais mauvais en maths" : Camille Combal teste les connaissances
-des stars dans "Qui sera le plus nul ?" (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 8h00
-10. 10
-
-Pourquoi vous avez tout intérêt à taper sur le capot de votre voiture en hiver
-avant de prendre la route ? (nouvelle fenêtre)
-[Vidéo]
-Publié aujourd'hui à 8h00
-(BUTTON) Voir plus d'actualités - Afficher tout
-
- 1. 1
-
-Pourquoi les médecins libéraux seront en grève à partir du 5 janvier ? (nouvelle
-fenêtre)
-[Vidéo]
-Publié hier à 17h10
- 2. 2
-
-Accès direct sans ordonnance, droit de prescription... ce que prévoit le décret
-qui élargit la mission des infirmières (nouvelle fenêtre)
-[Vidéo]
-Publié le 26 décembre 2025 à 12h28
- 3. 3
-
-"Un miracle de Noël" : 2 sœurs siamoises séparées avec succès (nouvelle fenêtre)
-[Vidéo]
-Publié le 27 décembre 2025 à 10h21
- 4. 4
-
-En vacances, pour mieux se reposer, il ne faut pas rester dans son canapé
-(nouvelle fenêtre)
-[Vidéo]
-Publié le 30 décembre 2025 à 8h30
- 5. 5
-
-5 conseils primordiaux pour atteindre l'orgasme (nouvelle fenêtre)
-Publié le 18 décembre 2014 à 15h39
- 6. 6
-
-L'étude sexo du jour : l'orgasme vaginal n'existe pas, tant mieux ! (nouvelle
-fenêtre)
-Publié le 8 octobre 2014 à 17h18
- 7. 7
-
-"Des cas plus graves" : l'alerte d'une médecin urgentiste face à l'épidémie de
-grippe (nouvelle fenêtre)
-[Vidéo]
-Publié le 29 décembre 2025 à 9h13
- 8. 8
-
-"Le problème, c'est la rapidité avec laquelle on veut atteindre un objectif" :
-les conseils d'une experte pour tenir ses bonnes résolutions (nouvelle fenêtre)
-[Vidéo]
-Publié hier à 9h00
- 9. 9
-
-Dry January : ces bonnes raisons de ne pas boire pendant le mois de janvier
-(nouvelle fenêtre)
-[Vidéo]
-Publié hier à 12h00
-10. 10
-
-Effet Golem : quand la pensée négative brise la confiance en soi (nouvelle
-fenêtre)
-[Vidéo]
-Publié le 29 décembre 2025 à 22h00
-(BUTTON) Voir plus d'actualités - Afficher tout
-
- 1. 1
-
-Allô le doc : Peut-on encore se faire vacciner contre la grippe ? (nouvelle
-fenêtre)
-Publié aujourd'hui à 8h18
- 2. 2
-
-Grands brûlés : hôpitaux saturés face à l’afflux des blessés (nouvelle fenêtre)
-Publié hier à 20h05
- 3. 3
-
-Allô le doc : Appendicite, Vincent vous répond (nouvelle fenêtre)
-Publié hier à 9h36
- 4. 4
-
-La maison Bonjour : Quelles plantes pour bien commencer l'année ? (nouvelle
-fenêtre)
-Publié hier à 9h10
- 5. 5
-
-Allô le doc : Santé, 2026 est l'année de l'espoir (nouvelle fenêtre)
-Publié hier à 8h16
- 6. 6
-
-Allô le doc : Eau ou café contre l'alcool... Vincent vous répond (nouvelle
-fenêtre)
-Publié le 31 décembre 2025 à 9h37
- 7. 7
-
-Allô le doc : Les bons gestes pour un réveillon en toute sécurité (nouvelle
-fenêtre)
-Publié le 31 décembre 2025 à 8h18
- 8. 8
-
-Pile bouton : attention danger ! (nouvelle fenêtre)
-Publié le 30 décembre 2025 à 20h20
- 9. 9
-
-Médecins : ces consultations qui vont coûter plus cher (nouvelle fenêtre)
-Publié le 30 décembre 2025 à 13h08
-10. 10
-
-Allô le doc : Bronchiolite chez le nourrisson... Vincent vous répond (nouvelle
-fenêtre)
-Publié le 30 décembre 2025 à 9h33
-(BUTTON) Voir plus d'actualités - Afficher tout
-
-  * Sujets de sociétéoutre-mer
-  * Internationaldiplomatie
-  * InternationalDrame à Crans-Montana : des dizaines de morts dans l'incendie
-d'un bar le soir du Nouvel An
-  * Culture, médias et divertissementBrigitte Bardot est décédée à l'âge de 91
-ans
-  * Police, justice et faits diversLe fléau du protoxyde d'azote en France
-
- 1. Accueil
- 2. -Santé et bien être
- 3. -"Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait son
-compagnon décédé d'un cancer
-
-  * Mentions légales
-  * Conditions générales d'utilisation
-  * Politique de protection des données du service TF1 Info
-  * Nous contacter (nouvelle fenêtre)
-  * Exercez vos droits (nouvelle fenêtre)
-  * Politique cookies
-  * La médiatrice vous répond
-  * Actualités en France
-  * Tous les tags
-  * Espace presse
-  * Engagements climat
-  * La rédaction de TF1 Info
-  * Plan du site
-  * Accessibilité : partiellement conforme
-  * (BUTTON) Paramétrer mes choix
-
-(BUTTON) FACIL'iti : ADAPTEZ L'AFFICHAGE
-TF1 Info Copyright ©2026
+   REFRESH(1200 sec): file://localhost/tmp/withcharset.html
+   #search
+
+   [alpha.png]
+
+   (BUTTON)
+     * (BUTTON) Menu principal
+     *
+
+       Moteur de recherche
+
+       Rechercher ____________________ (BUTTON)
+
+     * (BUTTON) Menu principal
+     * Vie pratique
+     * Forum
+     * Associations
+     * Assurances
+     * Automobile
+     * Consommation
+     * Santé
+     * SOS Avocat
+
+   Moteur de recherche
+
+   Rechercher ____________________ (BUTTON)
+
+   Connexion Posez votre question
+
+   Immobilier Patrimoine Impôts Famille Salariés Vie pratique Justice
+   Entreprise Forum
+
+   Forum Associations Assurances Automobile Consommation Santé Annonces
+   Immo Emploi
+
+   Selon la justice, le locataire qui d&eacute;grade un logement n'a rien
+   &agrave; payer si son propri&eacute;taire n&eacute;glige cette
+   formalit&eacute;
+
+   "Selon la justice, le locataire qui dégrade un logement n'a rien �
+   payer si son propriétaire néglige cette formalité"
+
+   VIDEO
+
+Selon la justice, le locataire qui dégrade un logement n'a rien à payer si
+son propriétaire néglige cette formalité
+
+   Selon un arrêt de la Cour de Cassation, c'est au bailleur de payer les
+   frais de remise en l'état du logement s'il oublie une formalité
+   importante au moment du départ du locataire.
+   Matthieu Blanc
+   Matthieu Blanc
+   24 novembre 2025 18:01
+   (BUTTON) Partager Partager
+     *
+     *
+     *
+     * (BUTTON) Copier
+
+   Réagir
+   Article partagé avec succès !
+
+   Et si les meilleures astuces de la rédac arrivaient directement dans
+   votre boîte mail ?
+   ____________________ (BUTTON) Je m'abonne
+
+   En savoir plus sur notre politique de confidentialité
+   (BUTTON) Fermer
+
+   Les frais de remise en l'état d'un logement sont une cause fréquente de
+   litige locatif. L'article 7 de la loi n° 89-462 du 6 juillet 1989
+   impose plusieurs obligations au locataire sur ce point. Il doit ainsi
+   répondre des dégradations et pertes qui surviennent pendant la durée du
+   contrat de bail. Le preneur doit en outre prendre à sa charge
+   l'entretien courant du logement, des équipements, les menues
+   réparations ainsi que les réparations locatives. En pratique, les
+   détériorations à la charge du locataire peuvent par exemple prendre la
+   forme de trous ou de taches sur les murs, d'un revêtement de sol brûlé
+   ou abîmé, d'une porte enfoncée, d'une plaque de cuisson cassée...
+
+   Le propriétaire est en droit de faire prendre en charge les réparations
+   par son locataire lorsque celles-ci sont constatées dans l'état des
+   lieux de sortie. Mais dans un arrêt du 16 novembre 2023, la 3e chambre
+   civile de la Cour de Cassation (arrêt n° 22-19422) a rappelé une
+   condition fondamentale pour que le bailleur puisse mettre en cause la
+   responsabilité de son locataire lorsque cette situation - très
+   fréquente - se présente.
+
+   Dans cette affaire, le litige portait sur un défaut d'entretien du
+   jardin par le locataire. Le bailleur reprochait ainsi à ce dernier de
+   ne pas avoir désherber. Cette absence d'entretien était constatée dans
+   un état des lieux de sortie. Mais, souligne la Cour de Cassation, ce
+   document avait été établi unilatéralement par le mandataire du
+   bailleur, en l'absence du locataire. Or, pour les juges, le bailleur ne
+   démontrait pas avoir tenté d'établir amiablement l'état des lieux de
+   sortie de manière contradictoire, alors même qu'il savait que le
+   locataire allait quitter les lieux. Par conséquent, le document établi
+   par lui seul ne valait pas preuve des dégradations.
+
+   Dans les faits, le bailleur ne pouvait pas non plus prétexter que le
+   locataire refusait un état des lieux amiable. En effet, dans un tel
+   cas, la loi prévoit qu'il est nécessaire de faire appel à un
+   commissaire de justice (qui a remplacé l'ancien huissier de justice),
+   les frais d'état des lieux étant alors partagés par moitié. Or, dans
+   cette affaire, le mandataire du bailleur n'avait fait appel à personne
+   mais avait décidé d'établir lui-même l'état des lieux. Quitte à rédiger
+   un document n'ayant aucune valeur probante...
+
+     *
+
+Succession : voici le montant qu'un héritier devra payer aux impôts en
+2026 selon sa part d'héritage
+     *
+
+Les virements des retraites de janvier arrivent sur les comptes, voici les
+dates de versement annoncées
+
+   Le bailleur a ainsi été condamné à verser à son locataire la somme
+   de 1539,60 euros au titre de la restitution du dépôt de garantie et des
+   majorations de retard. Une somme que le propriétaire n'aurait pas eu �
+   verser s'il avait adressé à son locataire une demande d'état des lieux
+   par courrier recommandé avec avis de réception puis, à défaut de
+   réponse, fait appel à un commissaire de justice pour établir le
+   document. Des formalités que les bailleurs ne doivent donc pas négliger
+   lorsqu'ils reçoivent le préavis de départ de leur locataire, sous peine
+   de devoir prendre à leur charge les dégradations commises par ce
+   dernier.
+   (BUTTON) Partager Partager
+     *
+     *
+     *
+     * (BUTTON) Copier
+
+   Réagir
+   Article partagé avec succès !
+
+   Et si les meilleures astuces de la rédac arrivaient directement dans
+   votre boîte mail ?
+   ____________________ (BUTTON) Je m'abonne
+
+   En savoir plus sur notre politique de confidentialité
+   (BUTTON) Fermer
+
+   Succession : voici le montant qu'un héritier devra payer aux impôts en
+   2026 selon sa part d'héritage
+   Il y a 1 heure Succession : voici le montant qu'un héritier devra payer
+   aux impôts en 2026 selon sa part d'héritage
+   Les pensions Agirc-Arrco de nombreux retraités vont fortement baisser,
+   voici qui est concerné
+   Il y a 4 jours Les pensions Agirc-Arrco de nombreux retraités vont
+   fortement baisser, voici qui est concerné
+   Des grands-parents font valoir leur droit de visite pour voir leurs
+   petits-enfants, mais la justice le leur refuse
+   Il y a 4 jours Des grands-parents font valoir leur droit de visite pour
+   voir leurs petits-enfants, mais la justice le leur refuse
+
+   Focus
+     * Succession : voici le montant qu'un héritier devra payer aux impôts
+       en 2026 selon sa part d'héritage
+     * Les virements des retraites de janvier arrivent sur les comptes,
+       voici les dates de versement annoncées
+     * LEP : en ayant placé 6000 € cette année, voici les intérêts qu'un
+       livret d'épargne populaire rapportera en janvier
+     * Mauvaise nouvelle pour les seniors : voici ce qu'un retraité devra
+       payer en plus dans quelques jours
+
+     * Qui sommes-nous ?
+     * Inscrivez-vous
+     * Conditions générales
+     * Société
+     * Publicité
+     * Recrutement
+     * Politique de confidentialité
+     * Paramétrer les cookies
+     * Contact
+     * Charte
+     * Formation
+     * Annonceurs
+     * Groupe Figaro
+     * © 2025 CCM Benchmark
+
+   CCM Benchmark Group
+   Journal des femmes Journal Du Net Linternaute CCM Copains d'avant
+   Viadeo JDN Ariase Phonandroid

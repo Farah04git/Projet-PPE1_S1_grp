@@ -1,339 +1,559 @@
-#alternate alternate alternate
 
-(BUTTON)
 
-Fermer
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TB2J4SG
 
-L’actualité à portée de main
-(BUTTON)
+     * EN image
+     * ES image
+     * DE image
+     * IT image
 
-Abonnez-vous
+     * 
+     * [logo-X.png]
+     * 
+     * 
 
-Lire le journal
+     *
+     * Newsletter
 
-Service Publicité
+   LAROUSSE
+   ____________________ (BUTTON) 
+   (BUTTON) Toggle navigation
+   LAROUSSE
+   (BUTTON)  (BUTTON) 
+   ____________________ (BUTTON) 
+     * LANGUE FRANÇAISE
+     * BILINGUES
+     * FLASHCARDS
+     * TRADUCTEUR
+     * CONJUGATEUR
+     * ENCYCLOPÉDIE
+     * CUISINE
+     * JEUX
+     * LIVRES
 
-Actualités
-  * L'actu en continu
-  * Nos dossiers
-  * (BUTTON) Régionchevron
-  + Toutes
-  + Marseille
-  + Vaucluse
-  + Aix - Pays dAix
-  + Alpes
-  + Arles
-  + Martigues - Istres
-  + Aubagne - La Ciotat
-  + Salon
-  + Vitrolles - Marignane
-  * Faits divers
-  * (BUTTON) OMchevron
-  + Toute l'actualité
-  + Mercato
-  + Calendrier 2024 - 2025
-  + Classement
-  + Olympien du match
-  * (BUTTON) Sportschevron
-  + A la une
-  + Football
-  + Open 13 Provence
-  + Hippisme
-  + Provence Rugby
-  + Sports Région
-  + Spartiates
-  + Boules
-  + Classement
-  * Société
-  * Politique
-  * (BUTTON) Électionschevron
-  + Municipales 2026
-  + Législatives 2024
-  * (BUTTON) Economiechevron
-  + Toute l'actualité
-  + Entreprise
-  + Immobilier
-  + Orientation formation
-  + Bourse
-  * Rive Sud
-  * Food
-  * (BUTTON) Culturechevron
-  + Toute l'actualité
-  + Musique
-  + BD - Livres
-  + Cinéma
-  + Festivals
-  + Télé
-  + Expos
-  + Spectacles
-  * (BUTTON) Sorties - Loisirschevron
-  + Toute l'actualité
-  + Bouvine
-  + Caves et Domaines
-  + Feria
-  + Histoire
-  + Histoire
-  + Gaming
-  * Nos rendez-vous
-  * Balades en Provence
-  * (BUTTON) Guide shoppingchevron
-  + Tous les bons plans
-  + High-Tech
-  + Electroménager
-  + Jeux & Paris
-  + Sports
-  + Maison & Jardin
-  + Mode
-  * Santé
-  * Environnement
-  * France Monde
-  * (BUTTON) Rubriques Partenaireschevron
-  + Étudier en Provence
-  + Bien vieillir en Provence
-  + Votre argent avec Finance Héros
+     *
+     * Newsletter
 
-  * Vidéos
-  * Audios
-  * Podcasts
-  * Newsletters
+     * Suivez nous:  [logo-X.png]  
 
-Services
-  * (BUTTON) Carnet - Avis de décèschevron
-  + Déposer un avis
-  + Consulter les avis
-  * Jeux
-  * Jeux concours
-  * Boutique
-  * Unes personnalisées
-  * Espace Presse
-  * Les Balades de La Provence
-  * Recrutements
-  * (BUTTON) Annonces Légaleschevron
-  + Publier un avis
-  + Consulter les avis Web
-  * Formation
-  * Petites annonces immo
-  * Marchés publics
+     * EN ES DE IT
 
-  * Carnet
-Déposer un avisConsulter les avis
-  * Rubriques Partenaires
-Étudier en ProvenceBien vieillir en ProvenceVotre argent avec Finance Héros
-  * Annonces Légales et judiciaires
-Publier un avisConsulter les avis Web
-  * Marchés Publics
-  * Boutique
-  * Aide
-  * Journal en ligne
-  * Jeux
-  * Service Publicité
+   Accueil > Langue française > Dictionnaire > état
+   Accueil > langue française > dictionnaire > état n.m. - états n.m.pl.
+     * Définitions
+     * Expressions
+     * Homonymes
+     * Difficultés
+     * Citations
 
-(BUTTON) Ouvrir le menu latéral
-Une du journal d’aujourd’hui - La Provence
+     * DÉFINITIONS
+     * EXPRESSIONS
+     * HOMONYMES
+     * DIFFICULTÉS
+     * CITATIONS
 
-Le journal
-Accéder à la rubrique vidéos
+   +
+   
 
-Vidéos
-Voir toutes les newsletters
+ état
 
-Newsletters
-Accéder à la rubrique audiosnouveau
+   nom masculin
 
-Audios
-La Provence
-La Provence
-(BUTTON)
+   (latin status, de stare, se tenir)
+     * 1. Nature sous laquelle se présente un corps : État liquide,
+       solide, gazeux.
+     * 2. Aspect général sous lequel se présente quelque chose, manière
+       d'être de quelque chose dans ce qu'il a de durable : Véhicule en
+       bon état.
+     * 3. Manière d'être physique ou morale de quelqu'un : Le malade est
+       dans un état grave. Être dans un état de grande excitation.
+       Synonymes :
+       disposition - humeur
+     * 4. Fait d'être d'une manière relativement durable : L'état de
+       veille. L'état de siège est déclaré.
+     * 5. Situation de quelque chose à un moment donné : Quel est l'état
+       de la question ?
+     * 6. Document décrivant la situation de quelque chose à un moment
+       donné ; inventaire : Demander l'état des dépenses.
+       Synonymes :
+       bordereau - inventaire - mémoire - questionnaire - relevé -
+       répertoire - rôle - tableau
+     * 7. Littéraire. Situation sociale ou professionnelle ; condition :
+       L'état militaire. Il est avocat de son état.
+     * Cybernétique
+       8. Description d'un système dynamique par l'énergie que ses organes
+       sont capables d'emmagasiner.
+     * Gravure et lithographie
+       9. Condition d'une planche aux différents stades de son exécution,
+       depuis la première épreuve d'essai jusqu'à l'état définitif, ou
+       état de tirage. (Il y a des épreuves de premier état, de deuxième
+       état, etc. Dans le cas d'une gravure avec légende, on distingue les
+       états avant la lettre, à la lettre grise, à la lettre noire.)
+     * Informatique
+       10. Ensemble des informations caractérisant à un moment donné un
+       signal, un ordinateur, etc.
 
-Non abonné
-Une du journal d’aujourd’hui - La Provence
+ états
 
-Lire le journal
+   nom masculin pluriel
 
-01 janvier 2026
-Ma ProvenceNewslettersMes articles sauvegardésMes abonnementsMes
-facturesModifier le mot de passeRésilier mon abonnement
+   (de état 1)
+     * En France, au Moyen Âge et sous l'Ancien Régime, chacun des trois
+       ordres (clergé, noblesse, tiers état) du corps social.
+     __________________________________________________________________
 
-Ma grille de jeux quotidienne
-Jouer
-Besoin d'aide ?
-(BUTTON) Déconnexion
-  * À la Une
-  * En direct
-  * (BUTTON)
-Ma ville
-____________________
-Bouches-du-Rhône
-  + Marseille
-  + Aix-en-Provence
-  + Arles
-  + Aubagne
-  + La Ciotat
-  + Martigues
-  + Salon-de-Provence
-  + Vitrolles
-Alpes-de-Haute-Provence
-  + Manosque
-  + Digne-les-Bains
-  + Sisteron
-  + Château-Arnoux-Saint-Auban
-  + Oraison
-  + Forcalquier
-Vaucluse
-  + Avignon
-  + Cavaillon
-  + Carpentras
-  + L’Isle-sur-la-Sorgue
-  + Pertuis
-  + Orange
-  + Le Pontet
-  + Villeneuve-lès-Avignon
-  * Région
-  * Municipales 2026
-  * Économie
-  * Faits divers
-  * OM
-  * Sports
-  * Culture
-  * Loisirs & Traditions
-  * jeux-concours
-  * Shopping
-  *
+   VOUS CHERCHEZ PEUT-ÊTRE
+     __________________________________________________________________
 
-À la uneFaits divers - JusticePris en flagrant délit de vol dans une voiture �
-Marseille, il crache sur les policiers
+   état n.m.
 
-Pris en flagrant délit de vol dans une voiture à Marseille, il crache sur les
-policiers
+   Nature sous laquelle se présente un corps.
+   états n.m. pl.
 
-Par Marguerite DEGEZ
+   En France, au Moyen Âge et sous l'Ancien Régime, chacun des trois
+   ordres...
+   Acte de l'état civil
+   Action d'état
+   À l'état (+ adjectif)
+   Bois en état
+   En état
+   En état de marche
+   En l'état
+   Équation d'état
+   État civil
+   État de choses
+   État n.m.
 
-Publié le 07/12/25 à 19:45
-(BUTTON) Commenter (BUTTON) Partager
-Le sans-abri interpellé dans le 6e arrondissement de Marseille alcoolisé, sous
-médicament et cannabis en train de forcer une voiture a été jugé trois jours
-plus tard par le tribunal correctionnel et condamné à un an de prison ferme.
+   Société politique résultant de la fixation, sur un territoire
+   délimité...
+   Affaire d'État
+   Agents de l'État
+   Coup d'État
+   État de droit
+   état-major n.m.
 
-Le sans-abri interpellé dans le 6e arrondissement de Marseille alcoolisé, sous
-médicament et cannabis en train de forcer une voiture a été jugé trois jours
-plus tard par le tribunal correctionnel et condamné à un an de prison ferme.
+   Groupe d'officiers (et de personnel qualifié) chargé d'assister un chef
+   militaire dans l'exercice...
+   État-nation n.m.
 
-Photo illustration M.DG.
+   État dont les citoyens forment un peuple ou un ensemble...
+   État-parti n.m.
 
-Faits divers
+   État dans lequel les fonctions clés du pouvoir (fonctions régaliennes,
+   particulièrement) sont...
+   cité-État n.f.
 
-Chaque mardi
+   Entité politique dont le territoire correspond globalement à celui
+   d'une grande...
+   micro-État n.m.
 
-Les enquêtes, affaires et grands procès de la région, tous les mardis
-S'inscrire
-Voir toutes les newsletters
-(BUTTON) Écouter l'article(1:43) (BUTTON)
-(BUTTON) Écouter le résumé(1:12) (BUTTON)
-Nouveauté !
+   État exceptionnellement petit par sa superficie, sa population et
+   ses...
+   narco-État n.m.
 
-Marseille
+   État qui, en raison de l'importance prise par le narcobanditisme...
+     __________________________________________________________________
 
-Dans un état second lors de son interpellation, il a été condamné pour vol,
-outrage et violence sur les fonctionnaires de police à un an de prison ferme.
+   AUTRES TRADUCTIONS
+     __________________________________________________________________
 
-Médicaments, alcool et cannabis. Avec un tel cocktail - détonnant - les
-policiers n’ont pas eu de mal à croire Oussama T. lorsqu’il leur a expliqué
-qu’il ne gardait presque aucun souvenir de la scène qui lui valait de se
-retrouver dans les geôles d’un commissariat. Le 29 novembre 2025, cet Algérien
-de 32 ans avait été repéré rue Dragon, dans le 6e arrondissement de Marseille,
-en train de forcer une voiture, puis de tenter d’ouvrir une seconde.
-À lire aussi : Un champion ciotaden de chasse sous-marine jugé pour pêche
-illégale dans les calanques
+   Action en contestation d'état
+   Aide médicale de l'État ou (couramment) d'État (AME)
+   Appareil idéologique d'État
+   Atteinte aux intérêts fondamentaux de la nation (autrefois atteinte �
+   la sûreté de l'État)
+   Attentat contre l'autorité de l'État
+   Auditeur au Conseil d'État, auditeur à la Cour des comptes
+   Avocat au Conseil d'État et à la Cour de cassation
+   Bulletin d'état civil
+   Bureau d'état-major
+   Capitalisme monopoliste d'État
+   Changement d'état
+   Chef de l'État
+   Chef de l'État français
+   Chef d'état-major
+   Chef d'état-major général des armées
+   Comité des chefs d'état-major
+   Conduite en état alcoolique ou en état d'ivresse
+   Continuité de l'État
+   Continuité de l'état liquide et de l'état gazeux
+   Contrôleur d'État
+   Corps d'état ou corps de métier
+   Déclaration de l'état civil
+   Département d'État
+   Dépérissement de l'État
+   Diagramme thermodynamique ou d'état
+   Donner accès à, sur, dans un lieu, à une situation, un état, etc.
+   Douma d'État
+   En état d'alerte, en alerte
+   En piteux état
+   En tout état de cause
+   État accréditaire
+   État accréditant
+   État cholestérique
+   État condensé
+   État crépusculaire
+   État d'abandon
+   État d'âme
+   État dangereux
+   État de droit
+   Voirplus
+   
 
-Les riverains qui avaient donné l’alerte avaient ajouté qu’il s’était assis sur
-le pas d’une porte à quelques numéros des voitures. Les policiers n’avaient eu
-qu’à se rendre à l’adresse indiquée pour le cueillir.
+Expressions avec état
 
-IFRAME: iframe-video
+ état
 
-Enfin cueillir… Insultes, crachats et menaces : l’arrestation avait été
-particulièrement chaotique. Une scène qui a donc valu au jeune homme de
-comparaître devant le tribunal correctionnel ce mardi 2 décembre, pour tentative
-de vol, violence et outrage à personne dépositaire de l’autorité publique.
+   nom masculin
+     * À l'état (+ adjectif), indique la manière dont se présente quelque
+       chose, dans telle situation : À l'état brut.
+     * En état, en bon état : Il faut remettre l'appartement en état.
+     * En état de marche, susceptible de fonctionner correctement.
+     * En l'état, tel quel, sans changement.
+     * État de choses, circonstances, conjoncture particulière.
+       Synonymes :
+       conjoncture - situation
+     * État général, condition physique de quelqu'un ; santé, prospérité
+       de quelque chose.
+     * Être en état de, être dans cette situation : Être en état
+       d'arrestation ; être en mesure de, capable de.
+     * Être hors d'état, être incapable de : Être hors d'état de nuire ;
+       être inutilisable.
+     * Familier. Être, mettre quelqu'un dans tous ses états, être
+       extrêmement agité, énerver, perturber quelqu'un.
+     * Faire état de, tenir compte de quelque chose, en faire cas, s'en
+       prévaloir, le mentionner : Faire état d'un témoignage pour se
+       disculper.
+     * Mettre, tenir quelque chose en état, le préparer, le rendre ou le
+       garder prêt à servir.
+     * Agriculture
+       État d'un sol, aspect d'un sol en fonction de sa teneur en eau. (Il
+       peut être sec, plastique ou liquide.)
+     * Bâtiment et Travaux publics
+       État limite, état pour lequel une condition requise pour une
+       construction est strictement satisfaite et cesserait de l'être en
+       cas de modification défavorable d'une action extérieure. (La
+       théorie des états limites est la base de la vérification moderne de
+       la sécurité des ouvrages.)
+       Synonyme :
+       borderline
+     * Droit
+       Acte de l'état civil, acte authentique dressé dans chaque commune
+       par un officier de l'état civil et qui fournit une preuve certaine
+       de l'état des personnes (acte de naissance, de mariage, de décès,
+       de reconnaissance d'un enfant naturel, etc.).
+     * Action d'état, action en justice portant sur l'état d'une personne
+       (action en réclamation ou en contestation d'état, action en
+       divorce, etc.).
+     * État civil, ensemble des qualités qui assignent à une personne sa
+       place dans la société et la différencient des autres au point de
+       vue de la jouissance et de l'exercice des droits civils ; service
+       public chargé des actes de l'état civil dans chaque commune.
+     * État des personnes, ensemble des règles qui déterminent l'existence
+       juridique et la situation familiale d'une personne dans la société
+       (nationalité, mariage, filiation). [L'état des personnes,
+       impérativement attaché à la personne, est indisponible,
+       imprescriptible et indivisible.]
+     * Fiche d'état civil, fiche relative à l'état civil d'une personne
+       (fiche individuelle d'état civil) ou d'une famille (fiche familiale
+       d'état civil) et autrefois délivrée à la mairie (jusqu'en 2000).
+     * Officier de l'état civil, dans chaque commune, le maire, seul
+       compétent pour délivrer des actes de l'état civil et responsable
+       des registres de l'état civil, tenus en double et dont l'un est
+       envoyé chaque année au greffe du tribunal de grande instance. (Le
+       maire peut déléguer ses pouvoirs à un adjoint ou à un conseiller
+       municipal.)
+     * Possession d'état, exercice par une personne des prérogatives
+       attachées à sa situation sociale ou professionnelle. (La possession
+       d'état comporte le nom, le traitement, la renommée.)
+     * Hydrologie
+       État de la mer, expression de l'agitation de la mer définie
+       numériquement soit par un degré de l'échelle de Douglas, soit par
+       la hauteur de la vague significative, soit par le spectre de la
+       houle.
+     * Linguistique
+       État de langue, système dégagé à partir de l'étude synchronique
+       d'une langue, c'est-à-dire sa grammaire et son lexique à un certain
+       moment de son histoire.
+     * Verbe d'état, verbe exprimant que le sujet de la phrase est dans un
+       état donné (par exempleêtre, devenir, paraître, etc.).
+     * Médecine
+       Période d'état, phase d'une maladie qui succède à la phase initiale
+       d'installation (d'invasion) et pendant laquelle les phénomènes
+       morbides sont relativement stables dans leur ensemble.
+     * Physique
+       État de la matière, manière d'être d'un corps, relative à sa
+       cohésion, à sa fluidité (états solide, liquide, gazeux), �
+       l'arrangement de ses atomes ou molécules (états amorphe,
+       cristallin, mésomorphe), à l'ionisation de ses atomes (états
+       neutre, ionisé), etc.
+     * État d'un système, ensemble des caractéristiques d'un système
+       nécessaires et suffisantes à sa description et à la prévision de
+       son évolution.
+     * Psychanalyse et Psychiatrie
+       État limite, structure pathologique de la personnalité caractérisée
+       par la combinaison de troubles psychotiques, névrotiques et
+       caractériels, auxquels sont juxtaposés des éléments normaux. (La
+       validité de ce concept n'est pas reconnue par certains auteurs.)
+     * Sylviculture
+       Bois en état, arbre debout.
+     * Thermodynamique
+       Équation d'état, relation existant à l'équilibre entre les divers
+       paramètres macroscopiques d'un système (température, volume,
+       pression, énergie, nombre de particules).
+     * Fonction d'état, grandeur physique qui ne dépend que de l'état
+       thermodynamique d'un système et non de son évolution antérieure.
 
-"Il est lui-même sa première victime"
+ états
 
-"J’étais ivre mort, je suis entré dans ce véhicule, mais pas pour voler, c’était
-juste pour dormir", a tenté le prévenu face aux juges, peu convaincus. Une
-caméra de vidéosurveillance avait capté son manège, le montrant ouvrir la
-première voiture, y rentrer pendant six longues minutes avant d’en ressortir
-pour tenter sa chance ailleurs.
-À lire aussi : Un policier marseillais condamné pour avoir renseigné un
-narcotrafiquant
+   nom masculin pluriel
+     * États de bailliage ou de sénéchaussée, assemblées réunies aux xiv^e
+       et xv^e s., dans le cadre des bailliages et des sénéchaussées, et
+       comprenant en général des représentants des trois ordres. (Cette
+       institution tomba en complète désuétude au xvii^e s.)
+     * États généraux, assemblées convoquées par le roi de France et
+       composées des représentants de toutes les provinces du royaume
+       appartenant aux trois ordres (clergé, noblesse, tiers état).
+     * États provinciaux, assemblées composées de représentants des trois
+       ordres d'une province.
+     * Pays d'états, provinces possédant des états provinciaux.
 
-Sa situation irrégulière et sa personnalité, marquée par l’errance, la
-dépendance aux psychotropes et trois précédentes condamnations, n’avaient rien
-pour rassurer non plus. La procureure Claire Remy a prescrit une peine de 14
-mois de prison, mettant en exergue "la violence gratuite" à l’encontre des
-policiers et "le caractère humiliant de se faire cracher dessus".
+   
 
-Les juges ont prononcé une peine de 12 mois ferme, écartant les craintes de
-Julie Guichard, avocate de la défense, qu’une peine ferme suivie d’une sortie ne
-vienne "renforcer sa marginalisation". "Il est lui-même sa première victime",
-avait-elle tenté, pour recadrer le débat.
-(BUTTON) Démarrez la conversation
+Homonymes de état
 
-Votre opinion compte pour nous. Rejoignez la communauté laprovence.com en
-réagissant sur l'article Pris en flagrant délit de vol dans une voiture �
-Marseille, il crache sur les policiers.
+     * eta nom masculin
+     * êta nom masculin invariable
 
-En continu
-  *
-14:31
-Le 697e bébé né à la clinique de Vitrolles est aussi le dernier de l’année 2025
-  *
-14:26
-Libération de Steeve Rouyar au Togo : pourquoi le Français avait-t-il été arrêté
-?
-  *
-14:18
-OM - La vie des ex : André Ayew signe chez le dernier de D1 néerlandaise
-  *
-14:18
-Dry January : Alcool Info Service, un numéro d'écoute et d'aide ouvert toute
-l'année
-  *
-14:01
-CAN 2025 : Aubameyang banni de la sélection gabonaise ?
-  *
-14:00
-L'intercommunalité de Manosque présente son nouveau plan de mobilité et mise sur
-les alternatives à la voiture
-  *
-13:53
-Engagés, au plus près de vous... La Provence a plus de 300 correspondants tout
-terrain
-  *
-13:47
-"L’occasion de remercier les clients" : à Belcodène, le bar tabac Ninou a offert
-une soirée tapas à sa clientèle
+   
 
-Plus d'infos
+Difficultés de état
 
-Une info ? Un témoignage ?
+     * ORTHOGRAPHE
+       Avec une majuscule quand il s'agit du pays, de la nation ou de son
+       autorité souveraine : un chef d'État, un coup d'État, un secret
+       d'État, la raison d'État ; c'est un État né de la scission d'une
+       province.
+       Avec une minuscule dans tous les autres sens : état civil, tiers
+       état, états provinciaux.
 
-Contactez-nous
+   
 
-Les plus lus
+Citations avec état
 
-La victime aurait été attaquée par plusieurs individus rue Longue des Capucins
-ce mercredi soir vers 21 heures.
+     * André Breton (Tinchebray, Orne, 1896-Paris 1966)
+       L'œil existe à l'état sauvage.
+       Le Surréalisme et la Peinture, Gallimard
+     * Auguste Comte (Montpellier 1798-Paris 1857)
+       [Les trois états successifs de toute pensée et de toute
+       connaissance] : l'état théologique, ou fictif ; l'état
+       métaphysique, ou abstrait ; l'état scientifique, ou positif.
+       Cours de philosophie positive
+     * Remy de Gourmont (Bazoches-au-Houlme, Orne, 1858-Paris 1915)
+       La civilisation est un produit naturel, tout comme l'état sauvage ;
+       ce sont des fleurs différentes poussées dans la même forêt.
+       Promenades littéraires, Mercure de France
+     * Jean-Baptiste Massillon (Hyères 1663-Beauregard-l'Évêque,
+       Puy-de-Dôme, 1742)
+       Académie française, 1719
+       De toutes les circonstances de la vie, le choix d'un état est celle
+       où la méprise est plus ordinaire.
+       Sermons, Sur la vocation
+     * Alexandre Vinet (Ouchy 1797-Clarens 1847)
+       Les individus sont sortis de l'état sauvage, les nations y sont
+       restées.
+       Philosophie et morale sociale
 
-1
-Réveillon du Nouvel An : un homme tué à l’arme blanche en centre-ville �
-Marseille
-Faits divers - Justice
+Mots proches
 
-2
-Réveillon du Nouvel An et match de l'Algérie à la CAN : la circulation coupée
-autour du Vieux-Port mercredi soir
-Sports
+   état, états
+   -
+   État
+   -
+   étatique
+   -
+   étatisation
+   -
+   étatiser
+   -
+   étatisme
+   -
+   étant
+   -
+   étant_donné
+   -
+   étape
+   -
+   étarque
+   -
+   étarquer
+   -
+     __________________________________________________________________
 
-3
-Un exercice militaire aérien qui tourne au vinaigre à Istres
-Société
+   
+     __________________________________________________________________
+
+   À CONSULTER ÉGALEMENT DANS L'ENCYCLOPÉDIE
+
+   famille.
+
+   Ensemble de personnes qui ont des liens de parenté par le sang ou par
+   alliance.
+
+   filiation.
+
+   Mode selon lequel se transmettent, dans un système de parenté...
+
+   identité. [PHILOSOPHIE]
+
+   Caractère permanent et fondamental de quelqu'un, d'un groupe, qui
+   fait...
+
+   matière. [PHYSIQUE]
+
+   Substance constituant les corps, douée de propriétés physiques.
+
+   résistance. [ÉLECTRICITÉ]
+
+   Quotient de la tension U aux bornes d'une résistance idéale par le
+   courant...
+
+   sol.
+
+   Couche superficielle de l'écorce terrestre considérée quant à sa nature
+   ou à...
+
+   Ancien Régime.
+
+   Régime social et politique de la France depuis le règne...
+
+   bourgeoisie.
+
+   Avant la Révolution française, ensemble des bourgeois.
+
+   Bourgogne.
+
+   Ancienne Région administrative de l'est de la France, qui est plus une
+   unité historique que géographique, appartenant depuis 2016 à la Région
+   Bourgogne-Franche-Comté.
+
+   François I^er.
+
+   Roi de France...
+
+   Henri IV.
+
+   Roi de France et de Navarre...
+
+   Louis XIII.
+
+   Roi de France...
+
+   Louis XIV.
+
+   Roi de France...
+
+   Louis XV.
+
+   Roi de France...
+
+   Louis XVI.
+
+   Roi de France...
+
+   Philippe IV le Bel.
+
+   Roi de France...
+
+   Religion (guerres de).
+
+   Conflits qui opposèrent catholiques et calvinistes, en France, de 1562
+   à...
+
+   Révolution française.
+
+   Ensemble des mouvements révolutionnaires qui mirent fin en France �
+   l'Ancien...
+
+   Sieyès.
+
+   Emmanuel Joseph Sieyès. Homme politique français...
+
+   À DÉCOUVRIR DANS L'ENCYCLOPÉDIE
+     * Afrique.
+     * architecture. [DOSSIER].
+     * blaireau. [FAUNE]
+     * carpe diem.
+     * Code civil.
+     * Copernic. Nicolas Copernic.
+     * daim. [FAUNE]
+     * Dumas. Alexandre Dumas.
+     * Ésope. [LITTÉRATURE]
+     * histoire de la médecine.
+     * Hongkong.
+     * invasions. [HISTOIRE]
+     * Lénine. Vladimir Ilitch Oulianov, dit Lénine.
+     * ONU.
+     * principes de plaisir et de réalité.
+     * réduction. [MÉDECINE]
+     __________________________________________________________________
+
+   DANS L'ENCYCLOPEDIE
+     __________________________________________________________________
+
+   Les états de la matière
+
+état. [PHYSIQUE]
+
+   Nature sous laquelle se présente un corps.
+
+état civil.
+
+   L'état civil désigne à la fois l'ensemble des qualités et des...
+   Ouverture des états généraux à Versailles, le 5 mai 1789
+
+états généraux.
+
+   Dans l'ancienne monarchie française, jusqu'à la Révolution de 1789...
+
+états provinciaux.
+
+   Ils se réunissent régulièrement dans les provinces du domaine royal...
+     __________________________________________________________________
+
+   OUTILS
+     __________________________________________________________________
+
+   [encart_pub_dicofr.jpg]
+   [encart_promo_flashcards.png]
+   
+   CONJUGATEUR
+   
+     __________________________________________________________________
+
+   
+   JEUX
+   
+     __________________________________________________________________
+
+   [\dictionnaires\assets\img\banGG-FRcFRA.png]
+     __________________________________________________________________
+
+   [\dictionnaires\assets\img\flag-fr.png]
+   COURS DE FRANÇAIS
+   
+     __________________________________________________________________
+     __________________________________________________________________
+
+   QUIZ
+     __________________________________________________________________
+
+   « Dans cette boutique, on trouve des chapeaux [rose] et des manteaux
+   [marron]. » À quel(s) adjectif(s) mettez-vous un « s » ?
+     *
+          + (*) à « rose »
+          + ( ) à « marron »
+          + ( ) aux deux adjectifs
+
+   Applications mobiles Index Mentions légales et crédits CGU CGV Charte
+   de confidentialité Cookies Contact À la une © Larousse

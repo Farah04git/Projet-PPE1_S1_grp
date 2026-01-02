@@ -1,285 +1,563 @@
- #Salle de presse de l'Inserm » Flux oEmbed (JSON) oEmbed (XML)
-
-Salle de presse de l'Inserm - Salle de presse de l'Institut national de la santé
-et de la recherche médicale
-
-  * fr
-  * en
-
-  * Facebook
-  * Twitter
-  * Youtube
-  * Instagram
-
-Rechercher
-  * Service Presse
-  * Actualités
-  + Communiqués / Dossiers
-  + Brèves
-  + C’est dans l’air
-  * Canal Détox
-  * Ressources / publications
-
-Menu
-
-close
-  * Service Presse
-  * Actualités
-  + Communiqués / Dossiers
-  + Brèves
-  + C’est dans l’air
-  * Canal Détox
-  * Ressources / publications
-
-Rechercher
-  * fr
-  * en
-
-  * Facebook
-  * Twitter
-  * Youtube
-  * Instagram
-
-Communiqués et dossiers de presse
-  * Accueil
-  * > Communiqués et dossiers de presse
-
-Une étude sur l’état de santé des Français avant la pandémie de Covid-19 pour
-aider les décideurs à réduire le fardeau des maladies
-
-20 Mar 2024 | Par Inserm (Salle de presse) | Santé publique
-
-Stéthoscope Une nouvelle étude dresse un panorama de l’état de santé des
-Français juste avant la pandémie en 2019 ainsi que son évolution depuis 1990 ©
-Unsplash
-
-Pour mettre en place des politiques de santé publique adaptées, il est crucial
-de connaître l’état de santé de la population ainsi que son évolution au cours
-du temps. Ces connaissances sont d’autant plus importantes que la pandémie de
-Covid-19 a fortement désorganisé les systèmes de soins à travers le monde. Pour
-la première fois, une étude menée par des équipes de l’Inserm, du CHU et de
-l’université de Bordeaux en collaboration avec Santé publique France, la Caisse
-nationale de l’Assurance Maladie (Cnam) et les collaborateurs de la Global
-Burden of Diseases study (GBD), dresse un panorama de l’état de santé des
-Français juste avant la pandémie en 2019, et son évolution depuis 1990. Ce
-travail compare aussi la situation française à celle d’autres pays européens,
-aboutissant ainsi à un bilan précis qui permet de guider la décision publique et
-de réfléchir à l’impact plus général qu’a eu la Covid-19 sur la santé des
-Français. Les résultats sont publiés dans la revue The Lancet Regional Health.
-
-La pandémie de Covid-19 a bouleversé l’organisation des systèmes de santé et
-exacerbé des problématiques auxquelles étaient déjà confrontés de nombreux pays
-dont la France, comme les inégalités d’accès aux soins ou encore des tensions
-hospitalières et des pénuries de professionnels de santé. Afin de relever ces
-défis, il est essentiel, au-delà des systèmes de surveillance habituels, de
-réaliser un diagnostic plus précis de l’état de santé des Français avant la
-crise de la Covid-19, notamment pour tenter d’analyser son impact spécifique sur
-différents indicateurs de santé.
-
-C’est ce que propose une nouvelle étude menée par des équipes de l’Inserm, de
-l’université de Bordeaux et du CHU de Bordeaux, en collaboration avec Santé
-publique France et la Cnam. Ce travail évalue en effet plusieurs indicateurs de
-santé en France en 2019 avant la pandémie, ainsi que leur évolution de 1990 �
-2019, et propose aussi une comparaison de la situation française à celle
-d’autres pays d’Europe de l’Ouest sur cette même période.
-
-Une étude réalisée grâce à la richesse des données de la GBD
-
-La « Global Burden of Disease study », coordonnée par l’Institute for Health
-Metrics and Evaluation, est conduite depuis 1990 par un réseau mondial de 5 647
-collaborateurs dans 152 pays et territoires. L’étude de 2019 analyse 286 causes
-de décès, 369 maladies et traumatismes et 87 facteurs de risque dans 204 pays et
-territoires. La GBD a été utilisée pour informer les politiques de santé dans de
-nombreuses nations et juridictions locales, ainsi que par des organisations
-internationales, dont la Banque mondiale et l’Organisation mondiale de la santé.
-
-Mais jamais cette richesse de données n’avait été exploitée et présentée
-spécifiquement pour la France, pour décrire l’évolution de l’état de santé en
-France à travers un ensemble d’indicateurs reflétant notamment le statut
-sociodémographique des personnes, l’espérance de vie, l’espérance de vie en
-bonne santé ou encore les années vécues avec une incapacité.
-
-Quelques éléments de définition
-
-Espérance de vie : il s’agit de l’espérance de vie à la naissance qui représente
-la durée de vie moyenne d’une génération fictive soumise aux conditions de
-mortalité par âge de l’année considérée.
-
-Espérance de vie en bonne santé : c’est la durée de vie moyenne en bonne santé –
-c’est-à-dire sans limitation irréversible d’activité dans la vie quotidienne ni
-incapacités – d’une génération fictive soumise aux conditions de mortalité et de
-morbidité de l’année.
-
-Années de vie perdues : c’est un indicateur de mortalité prématurée. Il
-représente le nombre d’années de vie perdues à cause d’une maladie ayant conduit
-à un décès prématuré par rapport à l’espérance de vie de la population.
-
-Années de vie vécues en situation d’incapacité : c’est un indicateur qui permet
-d’estimer la morbidité, c’est à dire le « poids d’une maladie » en termes
-d’incapacité en années vécues avec l’incapacité pour une maladie donnée. Ce
-nombre d’années est pondéré en fonction de la nature de l’incapacité.
-
-DALYs (disability-adjusted life years) : c’est le nombre d’années de vie en
-bonne santé « perdues » à cause de la maladie, du handicap, de la mort, il est
-la somme des deux indicateurs précédents (Années de vie perdues + Années de vie
-vécues en situation d’incapacité).
-
-Une amélioration de l’espérance de vie et de l’espérance de vie en bonne santé
-
-Les résultats de l’analyse confirment que sur la période considérée (1990 �
-2019), l’espérance de vie à la naissance en France s’est améliorée au fil du
-temps, passant de 77,2 ans en 1990 à 82,9 ans en 2019, ce qui classe la France �
-la septième position pour l’espérance de vie la plus élevée, parmi les 23 pays
-d’Europe de l’ouest étudiés dans ce travail. Par ailleurs, les français vivent
-en moyenne plus longtemps en bonne santé, avec une espérance de vie en bonne
-santé qui a aussi progressé passant de 67 à 71,5 ans, plaçant cette fois-ci la
-France en quatrième position du classement.
-
-L’accroissement de la longévité de vie en bonne santé permet de faire des
-hypothèses sur des progrès qui ont pu être réalisés à plusieurs niveaux, comme
-par exemple une meilleure prise en charge des maladies ou une prévention plus
-adaptée, permettant de limiter la survenue des maladies. Cette étude permet
-ainsi d’estimer le poids des maladies selon leur impact sur les différents
-indicateurs de la GBD.
-
-En comparaison avec les autres pays européens, les maladies cardiovasculaires
-sont moins impliquées dans la morbidité et la mortalité en France.
-
-« Nous avons observé une charge de morbidité moins importante due aux accidents
-vasculaires cérébraux et aux cardiopathies ischémiques en France que dans
-d’autres pays d’Europe occidentale. Ce résultat observé précédemment pourrait
-s’expliquer par une prévalence plus faible de nombreux facteurs de risque
-cardiovasculaires (hypertension, diabète) et d’un mode de vie plus sain
-(exercice, alimentation) en France. Il faut continuer à poursuivre les efforts
-pour prévenir et traiter ces pathologies dont la prévalence demeure néanmoins
-importante », expliquent les auteurs.
-
-Il est aussi important de mieux prendre en charge les troubles de santé mentale
-(parmi eux les troubles dépressifs et anxieux en particulier) et les troubles
-musculo-squelettiques (les douleurs lombaires en particulier) représentent le
-principal motif d’années vécues avec une incapacité. L’étude souligne aussi que
-des progrès sont à faire vis-à-vis de la prévention des cancers, notamment en
-poursuivant les efforts pour lutter contre le tabagisme. En effet, les cancers
-constituent toujours la première cause de mortalité en France, comme dans les
-autres pays européens.
-
-« Dans l’ensemble, ces résultats mettent en évidence une nette tendance �
-l’amélioration de l’état de santé en France. Ils doivent inciter les décideurs �
-concevoir des stratégies d’intervention pour réduire la charge de morbidité et
-de mortalité, en accordant une attention particulière aux causes telles que les
-cancers, les maladies cardiovasculaires, la santé mentale et les troubles
-musculo-squelettiques », soulignent les auteurs.
-
-Cette étude constitue donc une ressource précieuse, complémentaire de la
-surveillance épidémiologique régulière mise en œuvre notamment par Santé
-publique France, pour orienter les politiques publiques et mettre en place des
-mesures pertinentes afin d’améliorer la prévention et l’accès au soin. Elle
-représente également une première étape importante pour mieux appréhender
-l’impact qu’a eu la pandémie de Covid-19 sur la santé des Français. La même
-étude devra maintenant être menée avec les données collectées à l’issue de la
-crise sanitaire sur ces mêmes indicateurs clés, afin de mettre en évidence des
-éventuelles évolutions de l’état de santé de la population.
-
-Ces contenus pourraient aussi vous intéresser :
-
-communi
-
-Un quart des mères en France seraient concernées par des soins irrespectueux en
-maternité, facteur de risque de la dépression post-partum
-
-S’appuyant sur l’enquête nationale périnatale de 2021, une équipe de chercheuses
-de l’Inserm a évalué pour la première fois la prévalence des soins irrespectueux
-en maternité en France. Ses....
-communi
-
-Perturbateurs endocriniens : l’exposition au méthylparabène et au bisphénol S
-pendant la grossesse pourrait être associée à des troubles du comportement chez
-l’enfant
-
-L’équipe de recherche a examiné les impacts sur le comportement de l’exposition
-à douze substances suspectées ou reconnues comme des perturbateurs endocriniens
-pendant la grossesse (image d’illustration). © Adobe....
-Contacts
-
-Contact Chercheur
-
-François Alla
-
-Bordeaux Population Health (Inserm/Université de Bordeaux)
-
-CHU de Bordeaux
-
-e-mail : senapbvf.nyyn@puh-obeqrnhk.se
-
-Florence Francis-Oliviero
-
-Bordeaux Population Health (Inserm/Université de Bordeaux)
-
-CHU de Bordeaux
-
-e-mail : syberapr.senapvf@h-obeqrnhk.se
-
-Contact Presse
-
-cerffr@vafrez.se
-Sources
-
-The health state of France before COVID-19 pandemic between 1990 and 2019: an
-analysis of the Global Burden of Disease study 2019
-
-
-The Lancet Regional Health – Europe, février 2024
-
-DOI : https://doi.org/10.1016/j.lanepe.2024.100848
-
-
-Francis-Oliviero Florence ^a ^b ^c,
-
-Constantinou Panayotis ^d, Haneef Romana ^e,
-
-French GBD collaborators, Schwarzinger Michaël ^b ^f,
-
-Anne Gallay ^e, Antoine Rachas ^d, François Alla ^b ^c ^f
-
-
-a Service d’information médicale, Bordeaux University Hospital, 33000 Bordeaux,
-France
-
-b Inserm UMR 1219-Bordeaux Population Health, 33000 Bordeaux, France
-
-c University of Bordeaux, 33000 Bordeaux, France
-
-d Direction de la stratégie, des études et des statistiques, Caisse nationale de
-l’Assurance Maladie, 75986 Paris Cedex 20, France
-
-e Department of Non-Communicable Diseases and Injuries, Santé publique France,
-Saint-Maurice, France
-
-f Department of Methodology and Innovation in Prevention, Bordeaux University
-Hospital, 33000 Bordeaux, France
-
-Salle de presse de l'Inserm Institut national de la santé et de la recherche
-médicale
-  * Mentions légales
-  * Accessibilité (non conforme)
-
-Contacts
-
-Envoyez un message ou posez vos questions au service presse de l’Inserm :
-presse-web@inserm.fr
-
-Suivez-nous
-
-RSS Twitter Facebook Youtube Instagram
-
-  * Service Presse
-  * Actualités
-  + Communiqués / Dossiers
-  + Brèves
-  + C’est dans l’air
-  * Canal Détox
-  * Ressources / publications
-
-Rechercher
-
-fermer ____________________ chercher
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Création d'un État-nation
+       (BUTTON) Afficher / masquer la sous-section Création d'un
+       État-nation
+          + 1.1 Exemple français
+          + 1.2 Exemple allemand
+     * 2 Cas de dissociation entre État et nation
+     * 3 Critique de l'État-nation
+     * 4 Exemples
+     * 5 Notes et références
+     * 6 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 6.1 Articles connexes
+          + 6.2 Bibliographie
+          + 6.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+État-nation
+
+   [ ] 70 langues
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * تۆرکجه
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * বাংলা
+     * Catal�
+     * کوردی
+     * Čeština
+     * Cymraeg
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Frysk
+     * Galego
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Қазақша
+     * 한국어
+     * Kurdî
+     * Limburgs
+     * Lombard
+     * Lietuvių
+     * Latviešu
+     * Malagasy
+     * Bahasa Melayu
+     * مازِرونی
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Occitan
+     * ਪੰਜਾਬੀ
+     * Kapampangan
+     * Polski
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * Scots
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * සිංහල
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Shqip
+     * Српски / srpski
+     * Svenska
+     * ไทย
+     * Türkçe
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * 中文
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   Cet article présente des problèmes à corriger.
+
+   Vous pouvez aider à l'améliorer ou bien discuter des problèmes sur sa
+   page de discussion.
+     * Certaines informations devraient être mieux reliées aux sources
+       mentionnées dans la bibliographie ou les liens externes. Améliorez
+       sa vérifiabilité en les associant par des références. (Marqué
+       depuis février 2020)
+     * Il manque de repères chronologiques ou de dates qu'il faudrait
+       ajouter avec des sources. (Marqué depuis décembre 2015)
+
+   Trouver des sources sur « État-nation » :
+     * Archive Wikiwix
+     * Bing
+     * Cairn
+     * DuckDuckGo
+     * E. Universalis
+     * Gallica
+     * Google
+     * G. Books
+     * G. News
+     * G. Scholar
+     * Persée
+     * Qwant
+     * (zh) Baidu
+     * (ru) Yandex
+     * (wd) trouver des œuvres sur Wikidata
+
+   Un État-nation est un type particulier d'État dans lequel les individus
+   sont censés appartenir dans leur majorité à une même nation^[1]. Il
+   repose donc sur la coïncidence entre une notion d'ordre identitaire,
+   l'appartenance à un groupe, la nation, et une notion d'ordre juridique,
+   l'existence d'une forme de souveraineté et d'institutions politiques et
+   administratives qui l'exercent, l'État. Sans cette coïncidence, on
+   parlera plutôt d'un État multinational ou d'un empire, deux modes
+   d'organisation politique favorables à la coexistence de minorités
+   ethniques^[1].
+
+Création d'un État-nation
+
+   [modifier | modifier le code]
+
+   Les spécialistes ont longtemps défini deux modèles de formation de
+   l'État-nation, le français et l'allemand, mais cette perspective a été
+   remise en cause au XXI^e siècle ; elle est considérée comme
+   eurocentrique, et réductrice^[2].
+
+   Selon l'enseignement traditionnel, il y aurait deux modèles canoniques
+   de processus de création d'un État-nation^[3] :
+     * Dans certains pays (comme la France par exemple) la naissance de
+       l'État a précédé celle de la Nation ; le sentiment nationaliste se
+       développe après la formation de l'État ;
+     * Dans d'autres (comme l'Allemagne et l'Italie) le fait de se
+       reconnaître d'une même nation, en particulier dans le cas d'une
+       « nation ethnique » ou civique, et de manifester la volonté de
+       vivre ensemble, a précédé la naissance de l'État^[4].
+
+   Dans les deux cas, il s'agit d'une lente création résultant de la
+   conjonction, sur la durée de plusieurs générations, de situations
+   socio-économiques favorables et de prosélytismes politiques.
+
+Exemple français
+
+   [modifier | modifier le code]
+
+   En France, l'État s'est construit progressivement, et à partir du Moyen
+   Âge les rois de France ont étendu leur autorité sur un ensemble de plus
+   en plus grand. Le développement du nationalisme s'est fait
+   progressivement, et a clairement émergé au XVIII^e siècle (sans pour
+   autant porter ce nom) dans la bourgeoisie, intellectuelle, commerçante
+   et pré-industrielle, pour s'étendre progressivement à l'ensemble de la
+   population (ou presque). La langue française est devenue la seule
+   langue officielle après être devenue une langue véhiculaire
+   d'imprimerie, stimulée par le fait qu'elle a été imposée dans les actes
+   administratifs par l'ordonnance de Villers-Cotterêts en 1539. Le
+   nationalisme a été renforcé par le système politique démocratique, la
+   création d'une école gratuite, laïque et obligatoire par Jules Ferry �
+   la fin du XIX^e siècle, l'instauration du service militaire, et
+   entretenu par la création de divers symboles républicains,
+   régulièrement mis en avant, comme le drapeau français, la Marianne et
+   la Marseillaise.
+
+Exemple allemand
+
+   [modifier | modifier le code]
+
+   L'histoire de l'Allemagne est considérée comme paradigmatique du
+   deuxième cas de figure où la nation préexiste à l'État et finit par le
+   créer^[5].
+
+   La création de l'État-nation peut procéder par unification progressive,
+   comme dans le cas de l'Allemagne et de l'Italie^[6].
+
+   Elle peut aussi être le résultat de l'éclatement d'un Empire qui
+   n'avait pas homogénéisé ses populations ; ainsi des États-nations sont
+   nés de l'Empire austro-hongrois et de l'Empire ottoman^[6].
+
+Cas de dissociation entre État et nation
+
+   [modifier | modifier le code]
+     * Une nation peut ne pas être dotée d'un État. En effet, certaines
+       nations sans État disposent bien d'un territoire, d'une population,
+       et d'un sentiment d'identité propre mais n'ont pas d'organisation
+       politique pouvant assurer leur pleine souveraineté, elles ne
+       disposent, au mieux, que d'une autorité territoriale. On peut citer
+       comme exemple la population québécoise qui est reconnue par le
+       Canada comme nation au sein de l'État canadien, les populations
+       berbères d'Afrique du nord ou la population catalane qui a
+       actuellement le statut en Espagne de « communauté historique » et
+       qui s'est vu refuser^[Quand ?] le statut à part entière de
+       « nation » par le conseil constitutionnel espagnol.
+     * Un État peut englober plusieurs nations. Ce fut le cas de l'Empire
+       austro-hongrois, c'est aujourd'hui le cas du Royaume-Uni avec
+       quatre nations constitutives : Anglais, Gallois, Écossais et
+       Nord-Irlandais ; dans le Tournoi des Six Nations de rugby à XV, les
+       Britanniques d'Irlande du Nord et les Irlandais de la république
+       d'Irlande jouent au sein d'une même équipe sous l'égide d'une
+       fédération unique, l'IRFU).
+     * Une nation peut englober plusieurs ethnies. C'est aujourd'hui le
+       cas de la Turquie, qui n'admet sur son sol qu'une nation turque
+       constituée par des ethnies différentes (Turcomans, Albanais,
+       Arabes, Bosniaques, Kurdes, Lazes, Roms, etc.)^[7]. Les autres
+       revendications nationales telles que celles des Kurdes sont
+       fortement combattues.
+     * Un État peut englober plusieurs communautés linguistiques et
+       culturelles. Selon Sylvain Kahn, la Suisse n'est pas un
+       État-nation, parce que la multiplicité des langues et des cultures
+       y est revendiquée^[2]. La Suisse, formée par une fédération de
+       cantons, réunit des populations parlant quatre langues nationales.
+       Toutefois, selon Thomas Riklin, la notion d'« entité nationale »
+       peut s'appliquer à la Suisse ; ces cantons partagent une identité
+       nationale, une histoire nationale et un héros national, Guillaume
+       Tell, et leur unité a été renforcée par un choix politique à la
+       suite de la guerre du Sonderbund (1847) et de la constitution
+       fédérale (1848), qui a mis fin à l'ordre confédéral précédent^[8].
+     * Un État peut être créé sans véritable base nationale, par exemple
+       en tant que successeur d'une circonscription administrative d'un
+       ancien empire colonial démantelé, mais avec la volonté de
+       constituer une nation unifiée dans le cadre de ses frontières.
+       C'est par exemple le cas de certains États de l'Afrique
+       contemporaine.
+
+Critique de l'État-nation
+
+   [modifier | modifier le code]
+     * La plupart des pays colonisés par les Européens se sont vu imposer
+       le modèle de l'État-nation ; l'inadaptation de ce mode
+       d'organisation à nombre de pays asiatiques et africains a été
+       soulignée^[6]^,^[9]. Le découpage du territoire de l'État-nation
+       par les colonisateurs en fonction de leurs intérêts propres, sans
+       prise en compte des différents groupes concernés, a entraîné un
+       divorce entre la société et l'État^[6]. De plus, l'État-nation est
+       perçu par les sociétés anciennement colonisées comme une structure
+       étrangère, coloniale, de sorte qu'elles sont peu disposées à y
+       adhérer^[6]. Selon Yves Person, les colonies françaises ont subi
+       plus que les colonies britanniques des opérations d'homogénéisation
+       et d'unification, conformément au modèle français de l'État-nation,
+       alors que les Britanniques auraient davantage respecté les réalités
+       sociales dans les pays colonisés, en particulier les langues de ces
+       pays^[6]. De manière générale, l'État-nation a eu des effets
+       socialement destructeurs, dans la mesure où il a réduit la société
+       à « une masse atomisée d'individus isolés » et réprimé les liens
+       horizontaux^[6].
+     * Le modèle français de l'État-nation, qui suppose une politique
+       volontariste d'unification, a été critiqué parce qu'il a conduit �
+       la destruction de la diversité culturelle française ; la France
+       était avant le XIX^e siècle l’État où la diversité linguistique
+       était la plus grande en Europe ; cet héritage a été sacrifié sur
+       l'autel de l’État-nation^[6].
+     * La théorie de l'État-nation a été contestée, notamment par des
+       fédéralistes européens comme Mario Albertini^[réf. nécessaire]. La
+       nation est selon cette critique une construction politique
+       artificielle des partisans de l'État centralisé. La nation justifie
+       ainsi l'existence de l'État qui n'est plus associé à la personne du
+       monarque mais à une entité abstraite. L'État-nation serait donc une
+       phase de l'évolution politique et aurait vocation à être dépassé en
+       faveur de l'unité européenne.
+     * La théorie de l'État-nation a également été critiquée par certains
+       marxistes^[Qui ?]. Pour eux, le sentiment identitaire ne se trouve
+       pas au sein de la nation, mais au sein de l'Humanité tout entière
+       (voir la phrase de Karl Marx : « Je suis un citoyen du Monde »,
+       paraphrasant le philosophe de la Grèce antique Diogène de Sinope
+       ainsi que les philosophes stoïciens)^[4]. En attendant la
+       disparition des États, la classe sociale dominée doit selon eux
+       faire preuve de solidarité internationale permanente : par exemple
+       le refus des guerres. De là, un ouvrier français est, selon eux,
+       plus proche d'un ouvrier de nationalité étrangère, que d'un
+       dirigeant français. C'est la « conscience de classe » (« Les
+       travailleurs n'ont pas de patrie » - Manifeste communiste).
+
+Exemples
+
+   [modifier | modifier le code]
+
+   Voici des exemples clairs d'États-nations :
+     * Islande : bien que les habitants soient ethniquement apparentés �
+       d'autres groupes scandinaves, la culture et la langue nationales ne
+       se trouvent qu'en Islande. Il n'y a pas de minorités
+       transfrontalières - le pays le plus proche est trop éloigné.
+     * Japon : Le Japon est aussi traditionnellement considéré comme un
+       bon exemple d'État-nation, bien qu'il comprenne des minorités de
+       peuples Ryūkyū ethniquement distincts, des Coréens, des Chinois, et
+       sur l'île septentrionale d'Hokkaidō, la minorité autochtone Aïnou ;
+       voir aussi Démographie japonaise.
+     * Portugal : bien qu'entourée d'autres terres et peuples, la nation
+       portugaise occupe le même territoire depuis près de 900 ans. Il y a
+       longtemps, le Portugal s'est formé à partir de groupes de personnes
+       qui étaient auparavant séparés. Ils ont tous traversé et se sont
+       installés dans la région qui est devenue plus tard le Portugal. Il
+       s'agit notamment des peuples ibériques indigènes, des Celtes, des
+       anciens Méditerranéens (Grecs, Phéniciens, Romains), des peuples
+       germaniques comme les Suèves et les Wisigoths, des envahisseurs
+       berbères et arabes, et des Juifs.
+     * France et Angleterre : l'État s'est organisé autour de la nation,
+       par l’action centralisatrice et unificatrice du pouvoir royal.
+       Cette même action du pouvoir royal a contribué de manière décisive
+       à l’émergence de la nation et les guerres (Guerre de Cent ans,
+       Révolution française) ont soudé les populations dans l’adversité et
+       contribué de manière décisive à l’émergence de l’identité nationale
+       de part et d’autre de la Manche^[10].
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ ^a et b « État-nation », sur scienceshumaines.com (consulté le 14
+       juin 2023)
+    2. ↑ ^a et b Kahn, Sylvain, « L'État-nation comme mythe territorial de
+       la construction européenne », L’Espace géographique, 2014/3 (Tome
+       43), p. 240-250. DOI : 10.3917/eg.433.0240. URL :
+       https://www.cairn.info/revue-espace-geographique-2014-3-page-240.ht
+       m
+    3. ↑ Michel Pastoureau, Une histoire symbolique du Moyen Âge, Éditions
+       du Seuil, coll. « Points », 2014 (ISBN 978-2-7578-4106-8), « Des
+       armoiries aux drapeaux »
+    4. ↑ ^a et b pdf_3_Rappel_de_NOTIONS_1.pdf sur Académie de Besançon
+       (12/2015)
+    5. ↑ Des réserves peuvent être cependant émises concernant une
+       création "naturelle" ou non volontariste de l'État : l’État
+       allemand actuel résulte d'une politique unioniste volontariste de
+       Bismarck qui a cherché, et réussi, à rassembler sous le drapeau de
+       la Prusse une mosaïque d’États indépendants, aux langues
+       germaniques, en vue d’accroître sa puissance militaire, politique
+       et économique. Pour cela, il avait utilisé autant les intérêts
+       économiques des bourgeoisies de ces États, leur besoin de
+       protection militaire, que la propagande nationaliste, sentiment
+       nouveau répandu chez les lettrés depuis le début du XIX^e siècle.
+       L'évolution de cet assemblage échappa ensuite à ses prévisions.
+    6. ↑ ^a b c d e f g et h Yves Person, « L'État-Nation et l'Afrique »,
+       Outre-Mers. Revue d'histoire, vol. 68, n^o 250,‎ 1981, p. 274–282
+       (DOI 10.3406/outre.1981.2301, lire en ligne, consulté le 15 juin
+       2023)
+    7. ↑ (tr) « Ethnicites en Turquie - Article « Nombre des Kurds dans la
+       Turquie » », 2008 (consulté le 6 juin 2008)
+    8. ↑ (de) Thomas Riklin, « Worin unterscheidet sich die schweizerische
+       „Nation“ von der Französischen bzw. Deutschen „Nation“? » [archive
+       du 13 octobre 2006], sur unifr.ch, 2005
+    9. ↑ Relire Yves Person. L'État-nation face à la libération des
+       peuples africains, Textes réunis par Charles Becker, Roland Colin,
+       Liliane Daronian et Claude-Hélène Perrot, Paris, IMAF - Présence
+       Africaine, 2015
+   10. ↑ Frank Baron, « L’idée de Nation », sur vie-publique.fr, 7 juillet
+       2018 (consulté le 28 avril 2021)
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * État-nation, sur le Wiktionnaire
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Cité-État
+     * Figure allégorique nationale
+     * Nation civique
+     * Nation ethnique
+     * Nationalisme culturel
+     * Nationalisme méthodologique
+     * Empire
+     * État plurinational - terme opposé
+     * État ethnique
+     * Portugal#L'État-nation portugais
+     * Anticatalanisme
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Ernest Renan, Qu'est-ce qu'une nation ?, Paris, Calmann Lévy, 1882
+       (lire en ligne)
+     * Mario Albertini, L'État national, 1960, traduction française 1978,
+       Ed. Fédérop.
+     * Alain Bihr, Le Crépuscule des États-nations, transnationalisation
+       et crispations nationalistes, Ed. Page deux, 2000.
+     * (en) Michael Billig, Banal Nationalism, Londres, SAGE Publications,
+       1995, 200 p. (ISBN 0-8039-7525-2, lire en ligne)
+     * Rosa Luxemburg, La Question nationale et l'autonomie, 1908
+       (traduction française : Ed. Le Temps des cerises, 2001).
+     * Jean-René Trochet, La Géographie historique de la France, Paris,
+       PUF, 1997, 126p.
+     * Jean-Claude Barreau, Sans la nation, le chaos, Éditions du Toucan,
+       2012
+     * Pierre-André Taguieff, La revanche du nationalisme : Néopopulistes
+       et xénophobes à l’assaut de l’Europe, Paris, PUF, 2015
+       (présentation en ligne, lire en ligne)
+     * (en) Ken'ichi Ōmae, The End of the Nation-State: the Rise of
+       Regional Economies, Simon and Schuster Inc., 1995, 214 p.
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     *
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Britannica
+          + Encyclopédie de l'Ukraine moderne
+          + Store norske leksikon
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + LCCN
+          + GND
+          + Japon
+          + Israël
+          + Tchéquie
+          + Lettonie
+
+     * icône décorative Portail de la politique
+     * icône décorative Portail du nationalisme
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=État-nation&oldid=23019741
+   0 ».
+   Catégories :
+     * Géographie politique
+     * Nationalisme
+     * État
+
+   Catégories cachées :
+     * Article contenant un lien mort
+     * Article avec source à lier
+     * Article à dater
+     * Article à référence nécessaire
+     * Page utilisant un modèle Bases inactif
+     * Page utilisant P1417
+     * Page utilisant P4613
+     * Page utilisant P4342
+     * Page pointant vers des bases externes
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Politique/Articles liés
+     * Portail:Nationalisme/Articles liés
+
+     * La dernière modification de cette page a été faite le 30 octobre
+       2025 à 08:21.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   État-nation
+   (BUTTON) 70 langues Ajouter un sujet

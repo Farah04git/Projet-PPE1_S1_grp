@@ -1,0 +1,495 @@
+   JavaScript is disabled on your browser. Please enable JavaScript to use
+   all the features on this page.
+   [1767358721455?pageName=sd%3Aproduct%3Ajournal%3Aarticle&c16=els%3Arp%3
+   Ast&c2=sd&v185=img&v33=ae%3AANON_GUEST&c1=ae%3A228598&c12=ae%3A12975512
+   ]
+
+   Skip to main contentSkip to article
+   Elsevier logo
+     * Journals & Books
+
+     * (BUTTON) Help
+     * Search
+
+   My account
+   Sign in
+   (BUTTON)
+     * Access through your organization
+     * View Open Manuscript
+     *
+     * (BUTTON) Other access options
+
+   Search ScienceDirect ____________________
+   (BUTTON)
+
+Article preview
+
+     * Abstract
+     * Introduction
+     * Section snippets
+     * References (56)
+     * Cited by (1)
+
+   Elsevier
+
+La Revue de Médecine Interne
+
+   Volume 40, Issue 12, December 2019, Pages 799-807
+   La Revue de Médecine Interne
+
+   Mise au point
+   États de choc : grands cadres étiologiques, prise en charge
+   initialeCauses, diagnosis and treatments of circulatory shocks
+   Author links open overlay panel (BUTTON) A. Durand ^a ^b, (BUTTON) L.
+   Cartier ^a, (BUTTON) T. Duburcq ^a, (BUTTON) T. Onimus ^a, (BUTTON) R.
+   Favory ^a ^b, (BUTTON) S. Preau ^a ^b
+   (BUTTON) Show more
+   (BUTTON) Add to Mendeley
+   (BUTTON) Share
+   (BUTTON) Cite
+   https://doi.org/10.1016/j.revmed.2019.08.006Get rights and content
+
+Résumé
+
+   Les états de choc sont la première cause d’admission en réanimation et
+   restent grevés d’une lourde morbi-mortalité. Leur physiopathologie est
+   complexe et leurs mécanismes souvent multifactoriels. On distingue les
+   anomalies quantitatives du transport artériel en oxygène (choc
+   quantitatif) et les anomalies de distribution du débit cardiaque ou
+   d’extraction cellulaire de l’oxygène (choc distributif). Les chocs
+   septiques, cardiogéniques et hypovolémiques représentent plus de 80 %
+   des étiologies. Cliniquement et biologiquement ils sont caractérisés
+   par une fréquente hypotension artérielle, des anomalies de perfusion
+   d’organes et le plus souvent une hyperlactatémie. Le diagnostic d’état
+   de choc ou d’état moins grave dit de « pré-choc », est une urgence afin
+   d’initier au plus vite les thérapeutiques adéquates. Dans ce cadre, une
+   approche multidisciplinaire avec avis des médecins réanimateurs semble
+   indispensable pour aider l’orientation et la prise en charge des
+   patients. La prise en charge initiale nécessite une enquête étiologique
+   rapide pour en corriger la cause. Elle passe également par un support
+   hémodynamique et respiratoire ayant pour but de normaliser
+   l’oxygénation tissulaire. Le remplissage vasculaire reste la pierre
+   angulaire de la prise en charge initiale de tout état de choc. Des
+   médicaments vasoconstricteurs ou inotropes positifs demeurent néanmoins
+   souvent nécessaires. Les objectifs de la prise en charge initiale sont
+   cliniques avec une normalisation de la perfusion et de la pression
+   artérielle. Au plan biologique une amélioration des marqueurs
+   d’oxygénation tissulaire comme le lactate semble associée à un meilleur
+   pronostic.
+
+Abstract
+
+   Shock states are the leading causes of intensive care admission and are
+   nowadays associated with high morbidity and mortality. They are driven
+   by a complex physiopathology and most frequently a multifactorial
+   mechanism. They can be separated in whether a decrease of oxygen
+   delivery (quantitative shock) or an abnormal cell distribution of
+   cardiac output (distributive shock). Septic, cardiogenic and
+   hypovolemic shocks represent more than 80% of shock etiologies.
+   Clinical presentation is mostly characterized by frequent arterial
+   hypotension and sign of poor clinical perfusion. Hyperlactatemia occurs
+   in most of shock states. The diagnostic of shock or earlier reversible
+   “pre-shock” states is urgent in order to initiate adequate therapy.
+   Therefore, orientation and therapies must be discussed with intensive
+   care physiologists in a multidisciplinary approach. Etiologic
+   investigation and correction is a primary concern. Hemodynamic and
+   respiratory support reflect another part of initial therapy toward
+   normalization of cell oxygenation. Fluid resuscitation is the corner
+   stone part of initial therapy of any form of shock. Vasoconstrictive
+   drugs or inotropic support still often remain necessary. The primary
+   goal of initial resuscitation should be not only to restore blood
+   arterial pressure but also to improve clinical perfusion markers. On
+   the biological side, decrease of lactate concentration is associated
+   with better outcome.
+
+Introduction
+
+   L’état de choc circulatoire est défini comme une défaillance
+   circulatoire aiguë systémique (généralisée) engageant le pronostic
+   vital. L’insuffisance circulatoire d’un état de choc est associée à une
+   inadéquation entre les apports et les besoins tissulaires en oxygène,
+   responsable d’un état de dysoxie cellulaire et de défaillance d’organes
+   [1]. En fonction des situations cliniques, des altérations
+   quantitatives (baisse du débit cardiaque, DC) ou qualitatives (anomalie
+   de distribution ou d’extraction de l’oxygène) du transport artériel en
+   oxygène (TaO[2]) peuvent induire un état de dysoxie et engager le
+   pronostic des malades.
+   Ces états de choc sont généralement associés à une morbi-mortalité
+   importante qui varie selon l’étiologie. Alors que la mortalité est
+   supérieure à 40 % dans les états de choc septique, elle est de 25 %
+   dans le sepsis (ou « pré-choc » septique) et inférieure à 10 % en cas
+   d’infection simple [2]. De même, la mortalité du choc cardiogénique
+   post infarctus du myocarde est supérieure à 40 %, alors qu’en l’absence
+   de choc la mortalité des syndromes coronaires est inférieure à 10 %
+   [3]. Le nombre et l’intensité des défaillances d’organes en lien avec
+   la dysoxie tissulaire demeure un élément pronostique incontournable en
+   réanimation [4]. Le diagnostic et le traitement précoces des états de
+   choc mais aussi des états de « pré-choc » revêtent donc une importance
+   capitale.
+   L’objectif de cette mise au point est de rappeler les mécanismes
+   physiopathologiques, les grands cadres nosologiques et les principales
+   clés thérapeutiques pour une prise en charge la plus précoce possible
+   des états de choc en service conventionnel.
+
+Section snippets
+
+Mécanismes physiopathologiques et grands cadres nosologiques
+
+   Les états de choc représentent plus de 30 % des admissions en unité de
+   réanimation [5]. Il existe quatre mécanismes physiopathologiques :
+   hypovolémique, cardiogénique, obstructif et distributif. Plusieurs
+   mécanismes peuvent être en cause chez un même malade mais le mécanisme
+   principal est distributif, hypovolémique ou cardiogénique dans plus de
+   95 % des cas [6] (Fig. 1).
+   Les états de choc dits « quantitatifs » sont caractérisés par une
+   baisse du DC responsable d’une baisse du TaO[2]. Les trois
+
+Diagnostic et surveillance initiale des états de choc
+
+   Tout état de choc est défini par l’association de signes cliniques et
+   biologiques d’hypoperfusion tissulaire et d’anomalie d’oxygénation
+   cellulaire. Aucun de ces signes pris de façon isolée ne permet de poser
+   le diagnostic ou de guider la prise en charge thérapeutique. Les
+   recommandations nationales et internationales décrivent des critères
+   diagnostiques hétérogènes des états de choc circulatoire [3], [7], [8],
+   [9], [10], [11], [12]. Le diagnostic précis d’un état de choc dépend du
+   mécanisme
+
+Principes de la prise en charge thérapeutique initiale des états de pré-choc
+et de choc
+
+   Le traitement d’un état de pré-choc ou de choc est une urgence vitale,
+   tout retard de prise en charge entraînant une surmorbidité et une
+   surmortalité [26]. L’objectif principal de cette prise en charge est de
+   réaliser un traitement étiologique adapté associé à une réanimation
+   symptomatique en urgence après le diagnostic ou la simple suspicion
+   d’état de choc ou de pré-choc.
+   Les éléments essentiels de la prise en charge étiologique des
+   principales causes d’état de choc sont détaillés dans le
+
+Normalisation de la perfusion-pression artérielle
+
+   Le premier objectif de la prise en charge initiale d’un état de choc
+   demeure la restauration d’une perfusion satisfaisante et d’une pression
+   de perfusion adéquate. La réversion des signes cliniques de choc
+   demeure un argument clinique de bon pronostic. En effet la correction
+   des marbrures au cours de la prise en charge initiale est associée à un
+   meilleur pronostic [14]. Cependant, les signes cliniques de perfusion
+   demeurent parfois peu interprétables ou de médiocre réactivité aux
+   thérapeutiques
+
+Conclusion
+
+   L’état de choc est associé à une forte morbi-mortalité.
+   L’identification précoce des états de pré-choc ou de choc par l’examen
+   clinique, la mesure de la pression artérielle et de la lactatémie est
+   essentielle pour initier rapidement une prise en charge adaptée et un
+   avis spécialisé pour éventuel transfert. Un traitement étiologique
+   reste capital et doit être réalisé en parallèle de la réanimation et du
+   support hémodynamique. Ce support hémodynamique reste principalement
+   fondé sur une stratégie
+
+Déclaration de liens d’intérêts
+
+   Les auteurs déclarent ne pas avoir de liens d’intérêts.
+   (BUTTON) Recommended articles
+
+Références (56)
+
+     * J. Duranteau et al.
+    Recommandations sur la réanimation du choc hémorragique
+
+Anesth Reanim
+       (2015)
+     * H. Ait-Oufella et al.
+    Alteration of skin perfusion in mottling area during septic shock
+
+Ann Intensive Care
+       (2013)
+     * J. Bakker et al.
+    Clinical use of lactate monitoring in critically ill patients
+
+Ann Intensive Care
+       (2013)
+     * T. Ju et al.
+    Sepsis rapid response teams
+
+Crit Care Clin
+       (2018)
+     * L. Zieleskiewicz et al.
+    Solutés de remplissage vasculaire et données factuelles : « La vérité
+       est rarement pure et jamais simple » (Oscar Wilde)
+
+Rev Med Interne
+       (2018)
+     * C. Cordemans et al.
+    Fluid management in critically ill patients: the role of extravascular
+       lung water, abdominal hypertension, capillary leak, and fluid
+       balance
+
+Ann Intensive Care
+       (2012)
+     * O. Hamzaoui et al.
+    Norepinephrine exerts an inotropic effect during the early phase of
+       human septic shock
+
+Br J Anaesth
+       (2018)
+     * P.A. van Beest et al.
+    Cumulative lactate and hospital mortality in ICU patients
+
+Ann Intensive Care
+       (2013)
+     * M. Cecconi et al.
+    Consensus on circulatory shock and hemodynamic monitoring. Task force
+       of the European Society of Intensive Care Medicine
+
+Intensive Care Med
+       (2014)
+     * M. Singer et al.
+    The third international consensus definitions for sepsis and septic
+       shock (sepsis-3)
+
+JAMA
+       (2016)
+
+     P. Ponikowski et al.
+
+2016 ESC Guidelines for the diagnosis and treatment of acute and chronic
+heart failure: The Task Force for the diagnosis and treatment of acute and
+chronic heart failure of the European Society of Cardiology (ESC)Developed
+with the special contribution of the Heart Failure Association (HFA) of the
+ESC
+
+Eur Heart J
+
+   (2016)
+
+     J.L. Vincent et al.
+
+Use of the SOFA score to assess the incidence of organ dysfunction/failure in
+intensive care units: results of a multicenter, prospective study. Working
+group on “sepsis-related problems” of the European Society of Intensive Care
+Medicine
+
+Crit Care Med
+
+   (1998)
+
+     Y. Sakr et al.
+
+Does dopamine administration in shock influence outcome? Results of the
+Sepsis Occurrence in Acutely Ill Patients (SOAP) Study
+
+Crit Care Med
+
+   (2006)
+
+     J.-L. Vincent et al.
+
+Circulatory shock
+
+N Engl J Med
+
+   (2013)
+
+     A. Gloaguen et al.
+
+Prise en charge de l’anaphylaxie en médecine d’urgence. Recommandations de la
+Société française de médecine d’urgence (SFMU) en partenariat avec la Société
+française d’allergologie (SFA) et le Groupe francophone de réanimation et
+d’urgences pédiatriques (GFRUP), et le soutien de la Société pédiatrique de
+pneumologie et d’allergologie (SP2A)
+
+Ann Fr Med Urgence
+
+   (2016)
+
+     S.V. Konstantinides et al.
+
+  2014 ESC guidelines on the diagnosis and management of acute pulmonary
+  embolism
+
+Eur Heart J
+
+   (2014)
+
+     A. Rhodes et al.
+
+  Surviving sepsis campaign: international guidelines for management of sepsis
+  and septic shock: 2016
+
+Intensive Care Med
+
+   (2017)
+
+     R. Rossaint et al.
+
+  The European guideline on management of major bleeding and coagulopathy
+  following trauma: fourth edition
+
+Crit Care
+
+   (2016)
+
+     S. van Diepen et al.
+
+  Contemporary management of cardiogenic shock: a scientific statement from the
+  American Heart Association
+
+Circulation
+
+   (2017)
+
+     H. Ait-Oufella et al.
+
+  Mottling score predicts survival in septic shock
+
+Intensive Care Med
+
+   (2011)
+
+     J.W. Cannon
+
+  Hemorrhagic shock
+
+N Engl J Med
+
+   (2018)
+
+     Z. Zhang et al.
+
+  Lactate clearance is a useful biomarker for the prediction of all-cause
+  mortality in critically ill patients: a systematic review and meta-analysis
+
+Crit Care Med
+
+   (2014)
+
+     P. Wacharasint et al.
+
+  Normal-range blood lactate concentration in septic shock is prognostic and
+  predictive
+
+Shock
+
+   (2012)
+
+     G. Hernandez et al.
+
+  The ten pitfalls of lactate clearance in sepsis
+
+Intensive Care Med
+
+   (2019)
+
+     D.B. Chalfin et al.
+
+  Impact of delayed transfer of critically ill patients from the emergency
+  department to the intensive care unit
+
+Crit Care Med
+
+   (2007)
+
+     M.M. Churpek et al.
+
+  Association between ICU transfer delay and hospital mortality: a multicenter
+  investigation
+
+J Hosp Med
+
+   (2016)
+
+     L.T.Q. Cardoso et al.
+
+  Impact of delayed admission to intensive care units on mortality of critically
+  ill patients: a cohort study
+
+Crit Care
+
+   (2011)
+
+     R. Maharaj et al.
+
+  Rapid response systems: a systematic review and meta-analysis
+
+Crit Care
+
+   (2015)
+
+   (BUTTON) View more references
+
+Cited by (1)
+
+     *
+
+Pelvic Immobilization by Circumferential Compression Devices in the
+Management of Severe Trauma Victims: Evaluation of Professional Practices
+       2021, Annales Francaises De Medecine D Urgence
+
+   View full text
+
+   © 2019 Société Nationale Française de Médecine Interne (SNFMI).
+   Published by Elsevier Masson SAS. All rights reserved.
+
+   (BUTTON)
+
+Recommended articles
+
+     *
+
+Urgences en neuro-ophtalmologie
+       Journal Français d'Ophtalmologie, Volume 39, Issue 8, 2016, pp.
+       716-728
+       A. Caignard, …, D. Milea
+     *
+
+Anthropometrical study of the human glenoid in a normal Spanish population
+       Revista Española de Cirugía Ortopédica y Traumatología (English
+       Edition), Volume 63, Issue 5, 2019, pp. 327-335
+       L. Rosales-Rosales, …, P. Hernandez-Cortés
+     *
+
+Prise en charge d’un patient en état de choc cardiogénique : résultats de
+l’enquête de pratique franco-belge
+       Annales de Cardiologie et d'Angéiologie, Volume 66, Issue 2, 2017,
+       pp. 59-65
+       S. Champion, N. Deye
+     *
+
+Cirrhosis is an independent risk factor for candidemia in critically ill
+patients: A 6-year single-center observational study
+       Anaesthesia Critical Care & Pain Medicine, Volume 45, Issue 1,
+       2026, Article 101611
+       Mohamed Ghalayini, …, Roland Amathieu
+     *
+
+Choc hémorragique chez l'enfant
+       Anesthesie pediatrique, 2024, pp. 139-146
+       Florent Baudin, Éloïse Cercueil
+     *
+
+Optimal timing for initiating antibiotic therapy in suspected non-severe
+ventilator associated pneumonia in intensive care units: an ESICM endorsed
+international survey - OPTI-VAP Survey
+       Anaesthesia Critical Care & Pain Medicine, 2025, Article 101726
+       Myriam Lamamri, …, Arnaud Foucrier
+
+   (BUTTON) Show 3 more articles
+
+   Elsevier logo with wordmark
+
+     * About ScienceDirect
+     * Remote access
+     * Contact and support
+     * Terms and conditions
+     * Privacy policy
+     * (BUTTON) Cookie settings
+
+   All content on this site: Copyright © 2026 Elsevier B.V., its
+   licensors, and contributors. All rights are reserved, including those
+   for text and data mining, AI training, and similar technologies. For
+   all open access content, the relevant licensing terms apply.
+
+   RELX group home page

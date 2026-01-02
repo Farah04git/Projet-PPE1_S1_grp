@@ -1,587 +1,439 @@
-#usito.usherbrooke.ca
+   #alternate alternate alternate
 
-IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T8WRXNX
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KS3VZ77C
 
-____________________
+   09 78 45 03 03
 
-Historique
-Accueil / Tous les articles de dictionnaire /
+   Projet Voltaire Projet Voltaire
+   Rechercher ____________________ (BUTTON) Rechercher
 
-état [infobulle_prononciationprononciationbloc
-prononciationprononciation400VOIR le tableau de l’alphabet phonétique
-international.VOIR les principes de la transcription phonétique.VOIR l’article
-thématique : La prononciation du français québécois.VOIR l’article thématique :
-L’origine de la prononciation québécoise traditionnelle.etɑ]
-infobullenom_nn.n.nom250Informations lexicogrammaticalesinfoLexicoAbréviation de
-nom.n. infobullegenre_mm.m.masculin250Informations
-lexicogrammaticalesinfoLexicoAbréviation de masculin.m.
- infobullenum_macro_sensnum_macro_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒NuanceI Manière d'être d’une
-personne, d’une chose.  infobullenum_macro_sensnum_sensI, II, III…structuration
-de l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance1 Manière d’être d’une
-personne, sur les plans physique, psychique ou affectif. État alarmant,
-satisfaisant, stationnaire. État d'âme. État d’esprit. État de faiblesse, de
-fatigue. État de grâce. État de manque. État de santé. État de tristesse,
-d'accablement. État de veille, de sommeil. État second. Être en état d'ébriété,
-en état d'ivresse. Être en piteux état. « il se précipita dans la chambre de la
-malade, dont la respiration difficile et la figure empourprée révélaient la
-gravité de son état » noticeArsène_Bessette.bio.xmlArsène_Bessette_bio_xmlArsène
-BessetteLe débutantMontréal, Bibliothèque québécoise, 1996, 312 p. (Collection
-Littérature). [1re éd., 1914] javascript:return naviguerVers('')(A. Bessette,
-1914). infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  Être, se mettre dans
-tous ses états : être, se mettre dans un état d'agitation extrême; s'affoler.
-« ma sœur a une de ses crises de migraine, et ça met le garçon dans tous ses
-états » noticeSergio_Kokis.bio.xmlSergio_Kokis_bio_xmlSergio KokisL'art du
-maquillageMontréal, XYZ Éditeur, 2002, 394 p. (Collection Romanichels Plus).
-[1re éd., 1997] javascript:return naviguerVers('')(S. Kokis, 1997).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  Ne pas être dans son
-état normal : agir d'une façon qui n'est pas conforme à sa manière d'être
-habituelle. Elle « sent bien que quelque chose se trame, qu'Élisabeth n'est pas
-dans son état normal, qu'elle a l'air d'un volcan prêt à se réveiller »
-noticeMarie_Laberge.bio.xmlMarie_Laberge_bio_xmlMarie LabergeQuelques
-adieuxMontréal, Éditions du Boréal, 1997, 386 p. (Collection Boréal compact).
-[1re éd., 1992] javascript:return naviguerVers('')(M. Laberge, 1992).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒
-infobulleliste_technolectal_médméd.méd.médecine250Indicateurs de
-domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient
-à ce domaine spécialisé.méd. État de choc. infobullenum_macro_sensnum_nuanceI,
-II, III…structuration de l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒
- infobulleliste_technolectal_grammgramm.gramm.grammaire250Indicateurs de
-domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient
-à ce domaine spécialisé.gramm. (en grammaire traditionnelle) Verbe d'état.
-infobullenum_macro_sensnum_sous_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈
-infobulleliste_rhetorique_par_extpar_ext.par ext.par extension250Précisions
-rhétoriquesprecisionRhetoriqueIndicateur utilisé dans le cas d’un mot à qui l’on
-donne, outre son sens premier original et spécifique, un sens secondaire plus
-général.par ext. Situation, condition d'une personne. infobullerenvoi_syn⇒ ⇒
-renvoi synonymique250Renvois analogiquesrenvoisLa flèche horizontale ( ⇒ )
-renvoie à un ou à des synonymes, c’est-à-dire à un ou à des mots qui présentent
-le même sens ou à peu près le même sens. ⇒  conditionsituation.État de misère,
-de dépendance. Être en état d'accusation, d’arrestation. « la peur nous met en
-état de légitime défense »
-noticeMadeleine_Ouellette-Michalska.bio.xmlMadeleine_Ouellette-Michalska_bio_xml
-Madeleine Ouellette-MichalskaLa maison Trestler ou le 8e jour
-d'AmériqueSaint-Laurent, Bibliothèque québécoise, 1995, 316 p. (Collection
-Littérature). [1re éd., 1984] javascript:return
-naviguerVers('')(M. Ouellette-Michalska, 1984).
-infobullenum_macro_sensnum_sous_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈
-infobullelocution_locverbloc._verb.loc. verb.locution verbale250Informations
-lexicogrammaticalesinfoLexicoAbréviation de locution verbale.Loc. verb.
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  être en état de
-(infobulleliste_modalite_synt_plus_infplus_inf.+ inf.+ infinitif250Précisions
-grammaticales et syntaxiquesprecisionsGrammSuivi d’un verbe �
-l’infinitif.+ inf.). Pouvoir, être capable de; être en mesure de. Es-tu en état
-de conduire? « Ni l'un ni l'autre, nous n'étions en état de parler »
-noticeLaure_Conan.bio.xmlLaure_Conan_bio_xmlLaure ConanAngéline de
-MontbrunSaint-Laurent, Bibliothèque québécoise, 1990, 178 p. [1re éd., 1884]
-javascript:return naviguerVers('')(L. Conan, 1884).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  être hors d'état de.
-Être incapable de; ne pas être en mesure de. « soyez sûr, mon cher monsieur, que
-si je peux trouver un moyen de vous mettre une fois pour toutes hors d'état de
-nuire, je le prendrai » noticeYves_Beauchemin.bio.xmlYves_Beauchemin_bio_xmlYves
-BeaucheminJuliette PomerleauMontréal, Éditions Québec/Amérique, 1989, 691 p.
-(Collection Littérature d’Amérique). javascript:return
-naviguerVers('')(Y. Beauchemin, 1989).  infobullenum_macro_sensnum_sensI, II,
-III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance2 Manière d’être d'une
-chose. État d'abandon, de dégradation, de délabrement. État d'avancement des
-travaux. État des connaissances. État de guerre, de paix. État d'un pays, d'une
-économie. État des routes. État de siège. État d'une toiture, d'une
-construction. État d'urgence. Marchandise en parfait état de conservation. Objet
-en bon, en mauvais état. infobullenum_macro_sensnum_nuanceI, II,
-III…structuration de l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒
-infobulleliste_technolectal_physphys.phys.physique250Indicateurs de
-domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient
-à ce domaine spécialisé.phys. État solide, liquide, gazeux.
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  Remettre qqch. en état.
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  État de(s) choses :
-situation dans son ensemble à un moment donné. « Une nuit de réflexion l'a amené
-à trouver ses craintes ridicules et à accepter simplement un état de choses
-contre lequel il ne peut rien »
-noticeFrançoise_Loranger.bio.xmlFrançoise_Loranger_bio_xmlFrançoise
-LorangerMathieuMontréal, Éditions du Boréal, 1990, 400 p. (Collection Boréal
-compact). [1re éd., 1949] javascript:return naviguerVers('')(Fr. Loranger,
-1949). infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  État de la question,
-d'une question : point sur une question à un moment ou à un stade précis. « Une
-fois l'état de la question bien établi, on peut alors élaborer une stratégie et
-des étapes » noticeJournalLe_Devoir_bio_xmlLe_Devoir.bio.xmlLe Devoir Quotidien
-québécois publié à Montréal. (Le Devoir, 1998).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  État(s) de service de
-qqn : ensemble des antécédents professionnels, des services accomplis par qqn.
-« Son expérience et ses états de service lui confèrent un pouvoir que de petites
-erreurs d'aiguillage n'entament pas »
-noticeJournalCommerce_bio_xmlCommerce.bio.xmlCommerce Magazine économique
-québécois publié jusqu'en 2009. (Commerce, 1996).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  à l'état
-(infobulleliste_modalite_synt_plus_adjplus_adj.+ adj.+ adjectif250Précisions
-grammaticales et syntaxiquesprecisionsGrammSuivi d’un adjectif.+ adj.) ou �
-l'état de (infobulleliste_modalite_synt_plus_nomplus_nom+ nom+ nom250Précisions
-grammaticales et syntaxiquesprecisionsGrammSuivi d’un nom.+ nom). D'une manière;
-sous la forme (de), au stade (de). À l'état pur. À l’état larvaire, à l'état de
-larve. Une plante à l’état sauvage. « le cataclysme s'est produit au moment où
-l'Amérique était encore soudée à l'Europe, au moment où l'océan Atlantique
-n'existait encore qu'à l'état de projet dans les cartons de la Nature »
-noticeJean_O_Neil.bio.xmlJean_O_Neil_bio_xmlJean O'NeilPromenades et
-tombeauxMontréal, Éditions Libre Expression, 1996, 232 p. [1re éd., 1989]
-javascript:return naviguerVers('')(J. O'Neil, 1989).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  faire état de. Mettre
-en avant le fait que, rapporter; montrer. « Au bureau, Zaki ne manquait jamais
-l'occasion de faire état de nos liens de parenté »
-noticeNaïm_Kattan.bio.xmlNaïm_Kattan_bio_xmlNaïm KattanAdieu, BabyloneMontréal,
-La Presse, 1975, 238 p. javascript:return naviguerVers('')(N. Kattan, 1975).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒
-infobulleadverbe_adv_complexeadv._complexeadv. complexeadverbe
-complexe250Informations lexicogrammaticalesinfoLexicoAbréviation de adverbe
-complexe. L’adverbe complexe est appelé locution adverbiale en grammaire
-traditionnelle.Adv.
-complexeinfobullebulle_gram_trad_adverbe_complexeadv._complexe_bulleGTGrammaire
-traditionnelleGrammaire traditionnelle350L’adverbe complexe est appelé locution
-adverbiale en grammaire traditionnelle. GT   en tout état de cause. Quoi qu'il
-en soit, de toute manière; dans tous les cas. « En tout état de cause, l'effet
-produit ne manque pas de charme »
-noticeJournalL_Actualité_bio_xmlL_Actualité.bio.xmlL’actualité Magazine
-généraliste québécois bimensuel. (L’actualité, 2001).
-infobullenum_macro_sensnum_sous_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈
-infobulleliste_rhetorique_par_extpar_ext.par ext.par extension250Précisions
-rhétoriquesprecisionRhetoriqueIndicateur utilisé dans le cas d’un mot à qui l’on
-donne, outre son sens premier original et spécifique, un sens secondaire plus
-général.par ext.
-infobulleliste_grammatical_souvent_au_plursouvent_au_plur.souvent au
-plur.souvent au pluriel250Précisions grammaticales et
-syntaxiquesprecisionsGrammAbréviation de souvent au pluriel.(souvent au plur.)
-Constat écrit d'un état de choses en un lieu et à un moment donnés.
-infobullerenvoi_hyper⇑ ⇑ renvoi de type hyperonyme250Renvois
-analogiquesrenvoisLa flèche vers le haut ( ⇑ ) renvoie à un mot étroitement
-apparenté, mais de sens plus général. ⇑  constat.États des revenus, des
-dépenses. « le Vérificateur insiste pour que le gouvernement publie ses états
-financiers en cumulant l'ensemble de ses opérations »
-noticeJournalLe_Devoir_bio_xmlLe_Devoir.bio.xmlLe Devoir Quotidien québécois
-publié à Montréal. (Le Devoir, 1993). infobullenum_macro_sensnum_nuanceI, II,
-III…structuration de l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒
-état des lieux : inventaire à valeur juridique.
- infobullenum_macro_sensnum_macro_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒NuanceII  infobullenum_macro_sens
-num_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance1 Situation d'une personne
-du point de vue de l'ordre social. état matrimonial : situation légale d'une
-personne (mariage, célibat, divorce, etc.). infobullenum_macro_sensnum_nuanceI,
-II, III…structuration de l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒
- état civil : ensemble des qualités propres à une personne physique, telles que
-le nom, la date et le lieu de naissance, le sexe, la nationalité et l'état
-matrimonial; service public responsable de l'inscription de ces qualités et de
-la délivrance de documents les authentifiant. Actes d'état civil. Directeur de
-l'état civil du Québec. Officier de l'état civil, d'état civil. Registre de
-l'état civil. « Scott, Sicotte ou Picotte, ne joue pas au finaud : tu n'as même
-pas d'état civil! » noticeJacques_Ferron.bio.xmlJacques_Ferron_bio_xmlJacques
-FerronLe ciel de QuébecOutremont, Lanctôt Éditeur, 1999, 495 p. [1re éd., 1969]
-javascript:return naviguerVers('')(J. Ferron, 1969).
-infobullenum_macro_sensnum_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance2 Place occupée dans la
-société par une personne du fait de sa fortune, de sa profession, de son rang.
-Vivre selon son état. « Il n'était pas sans se rendre compte du vague mépris que
-leur inspirait son état de grand bourgeois capitaliste, mais il tirait lui-même
-si peu de vanité de cet état, qu'il se serait volontiers placé parmi leurs rangs
-pour se moquer de son milieu et de lui-même »
-noticeFrançoise_Loranger.bio.xmlFrançoise_Loranger_bio_xmlFrançoise
-LorangerMathieuMontréal, Éditions du Boréal, 1990, 400 p. (Collection Boréal
-compact). [1re éd., 1949] javascript:return naviguerVers('')(Fr. Loranger,
-1949). infobullenum_macro_sensnum_sous_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈
-infobulleliste_rhetorique_par_métonpar_méton.par méton.par
-métonymie250Précisions rhétoriquesprecisionRhetoriqueIndicateur utilisé pour
-exprimer une réalité par un mot qui désigne un concept différent, mais lié �
-cette réalité par une relation de cause à effet, de contenant à contenu, de
-partie au tout, etc. (ex. : boire un verre pour boire le contenu du verre)par
-méton. Profession, travail, tâche. infobullerenvoi_syn⇒ ⇒ renvoi
-synonymique250Renvois analogiquesrenvoisLa flèche horizontale ( ⇒ ) renvoie à un
-ou à des synonymes, c’est-à-dire à un ou à des mots qui présentent le même sens
-ou à peu près le même sens. ⇒  professiontravailtâche.« elle avait étudié �
-Paris pour se marier finalement avec un certain Dupont, ingénieur de son état »
-noticeAlice_Parizeau.bio.xmlAlice_Parizeau_bio_xmlAlice ParizeauLes lilas
-fleurissent à VarsovieMontréal, Éditions C.L.F. Pierre Tisseyre, 1981, 400 p.
-javascript:return naviguerVers('')(A. Parizeau, 1981).
-infobullenum_macro_sensnum_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance3 infobulleliste_technolect
-al_histde_Francehist._de_Francehist. de Francehistoire de France250Indicateurs
-de domainesIndicateursDomaineCette marque indique que le mot ou le sens
-appartient à ce domaine spécialisé.(hist. de France) Sous l’Ancien Régime,
-condition politique et sociale résultant de la division du corps social en trois
-ordres : le clergé, la noblesse et le tiers état. États généraux : assemblée
-convoquée par le roi et réunissant des représentants des trois ordres du corps
-social. infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  tiers état : partie de
-la population n'appartenant ni au clergé ni à la noblesse (bourgeois,
-commerçants, artisans, agriculteurs, etc.). « Le tiers état, ou pour mieux dire
-la nation, a, comme ailleurs, aidé le pouvoir royal [...] à comprimer les grands
-et le clergé, et à s'étendre à leurs dépens »
-noticeFrantextMme_de_Staël_bio_xmlMme de Staël Anne Louise Germaine Necker,
-baronne de Staël-Holstein, dite Mme de Staël. Écrivaine française (1766-1817).
-(Mme de Staël, 1871).  infobullenum_macro_sensnum_sensI, II, III…structuration
-de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance4 infobulleliste_temporel_m
-odmod.mod.moderne250Marques temporellesmarquesTemporallesLa marque moderne est
-utilisée par opposition aux marques vieux, vieilli ou anciennement pour signaler
-un emploi plus actuel.mod. états généraux : réunion plénière ou assemblée qui
-vise à débattre en profondeur d'un sujet donné.
-infobulledef_sous_entree_in_GDTin_GDTin GDTin Grand Dictionnaire
-terminologique400Autres abréviations utilisées couramment dans le
-dictionnaireautresAbrevCet article s’appuie sur certaines données du Grand
-Dictionnaire terminologique. Le Centre d’analyse et de traitement informatique
-du français québécois (CATIFQ)* a établi une convention de collaboration
-scientifique avec l’Office québécois de la langue française (OQLF). Dans le
-cadre de cette collaboration scientifique, l’équipe FRANQUS peut s’appuyer sur
-certaines définitions du GDT. Il indique également certains termes officialisés
-par l’OQLF.* Ce centre porte depuis 2016 le nom de Centre de recherche
-interuniversitaire sur le français en usage au Québec (CRIFUQ).Site du
-GDT(in GDT) États généraux de l’éducation. Tenir des états généraux.
- infobullenum_macro_sensnum_macro_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒NuanceIII infobulleliste_grammati
-cal_avec_une_majuscavec_une_majusc.avec une majusc.avec une
-majuscule250Précisions grammaticales et syntaxiquesprecisionsGrammAbréviation de
-avec une majuscule.(avec une majusc.)
-infobulleliste_technolectal_politpolit.polit.politique250Indicateurs de
-domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient
-à ce domaine spécialisé.polit. État.
-infobulleremarque_emprunt_REMREM.REMremarque250Abréviation de remarque.REM. Le
-mot État s'écrit avec une majuscule initiale lorsqu'il désigne un territoire,
-une entité politique ou des pouvoirs publics. Autorité politique souveraine �
-laquelle est soumis un groupement humain vivant sur un territoire déterminé;
-groupement soumis à cette autorité. infobullerenvoi_syn⇒ ⇒ renvoi
-synonymique250Renvois analogiquesrenvoisLa flèche horizontale ( ⇒ ) renvoie à un
-ou à des synonymes, c’est-à-dire à un ou à des mots qui présentent le même sens
-ou à peu près le même sens. ⇒  nation, pays. État démocratique, totalitaire.
-État indépendant, souverain. État laïque, théocratique. Chef d’État. L’État de
-New York. Les États-Unis sont constitués de cinquante États. État fédéral. État
-policier. Les grands commis de l'État. Conseil d'État. Département d'État.
-Ministre d'État. Raison d'État. Secret d'État. Secrétaire d'État. Femme, homme
-d’État : qui occupe une fonction au sein du gouvernement.
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  État de droit : État au
-sein duquel le pouvoir public est soumis au droit, et où la loi protège les
-droits et libertés des individus. infobullenum_macro_sensnum_nuanceI, II,
-III…structuration de l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒
-État-nation : autorité politique souveraine (l'État) à laquelle est soumis un
-groupe humain ayant une identité propre et conscient de former une communauté
-(la nation). infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  affaire d'État, affaire
-qui concerne l'État; infobulleliste_rhetorique_figfig.fig.figuré250Précisions
-rhétoriquesprecisionRhetoriqueIndicateur utilisé dans le cas d’un mot qui prend
-ou qui a une signification seconde, souvent produite par une métaphore (par
-opposition au sens propre).fig.,
-infobulleliste_sociolectal_famfam.fam.familier250Marques de registre de
-languemarquesRegistreLa marque familier est utilisée pour marquer un emploi de
-registre familier, c’est-à-dire moins valorisé socialement qu’un emploi standard
-ou neutre; la marque familier peut parfois correspondre, en raison du contexte
-d’emploi, à une certaine valeur stylistique, expressive.fam. affaire importante,
-ou à laquelle on accorde une importance exagérée.
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  coup d'État : prise du
-pouvoir de manière illégale. infobullerenvoi_syn⇒ ⇒ renvoi synonymique250Renvois
-analogiquesrenvoisLa flèche horizontale ( ⇒ ) renvoie à un ou à des synonymes,
-c’est-à-dire à un ou à des mots qui présentent le même sens ou à peu près le
-même sens. ⇒  pronunciamiento, putsch. « Après 23 ans de pouvoir absolu et une
-contestation réprimée dans le sang, le président [...] vient d'être délogé par
-un coup d'État militaire » noticeJournalLa_Presse_bio_xmlLa_Presse.bio.xmlLa
-PresseQuotidien québécois publié à Montréal.(La Presse, 1991).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  État dans l’État :
-groupe qui acquiert un pouvoir tel au sein de l'État qu'il peut échapper à son
-autorité, voire lui dicter ses volontés. « la population a vu les lois bafouées
-par des hors-la-loi armés; elle a vu sa police agir comme si elle constituait un
-État dans l'État » noticeJournalLa_Presse_bio_xmlLa_Presse.bio.xmlLa
-PresseQuotidien québécois publié à Montréal.(La Presse, 1990).
-infobullenum_macro_sensnum_sous_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈
-infobulleliste_rhetorique_par_métonpar_méton.par méton.par
-métonymie250Précisions rhétoriquesprecisionRhetoriqueIndicateur utilisé pour
-exprimer une réalité par un mot qui désigne un concept différent, mais lié �
-cette réalité par une relation de cause à effet, de contenant à contenu, de
-partie au tout, etc. (ex. : boire un verre pour boire le contenu du verre)par
-méton. Administration de l'État, gouvernement. Les caisses de l'État. Les
-coffres de l'État. Domaine de l'État. Finances, dettes de l'État. Socialisme
-d'État. Société d'État. Télévision d'État. « on s'est débarrassé du dictateur
-[...] mais on a gardé la police, les officiers, l'appareil d'État, le système
-économique » noticeJournalL_Actualité_bio_xmlL_Actualité.bio.xmlL’actualité
-Magazine généraliste québécois bimensuel. (L’actualité, 2000).
-infobullenum_macro_sensnum_nuanceI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒  État(-)providence :
-État qui intervient dans les domaines économiques et sociaux en instaurant des
-programmes de prises en charge de certains secteurs avec l'objectif de répartir
-les richesses. infobullenum_macro_sensnum_sous_sensI, II, III…structuration de
-l’article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈  Nation, pays,
-puissance;
-infobulleliste_rhetorique_spécialtspécialtspécialtspécialement250Précisions
-rhétoriquesprecisionRhetoriqueIndicateur utilisé dans le cas d’un mot à qui l’on
-donne, outre son sens premier original et spécifique, un sens secondaire plus
-restreint.spécialt nation dotée d'un gouvernement reconnu par la communauté
-internationale. infobullerenvoi_hyper⇑ ⇑ renvoi de type hyperonyme250Renvois
-analogiquesrenvoisLa flèche vers le haut ( ⇑ ) renvoie à un mot étroitement
-apparenté, mais de sens plus général. ⇑  nationpuissance.États pontificaux. État
-tampon. États membres de l'Union européenne, de l'Organisation mondiale du
-commerce, de la communauté internationale. Petits, grands États. « Ces droits et
-devoirs [...] ne peuvent toutefois s'exercer qu'à l'intérieur des frontières de
-l'État » noticeJournalL_Actualité_bio_xmlL_Actualité.bio.xmlL’actualité Magazine
-généraliste québécois bimensuel. (L’actualité, 2001).
-infobulledef_sous_entree_in_TLFin_TLFin TLFiin Trésor de la langue française
-informatisé400étatCet article s’appuie sur certaines données du TLFi.Rechercher
-« ###_entree_### » dans le TLFiLe Centre d’analyse et de traitement informatique
-du français québécois (CATIFQ)* a établi une convention de collaboration
-scientifique avec le Centre national de la recherche scientifique (CNRS),
-l’ATILF et le Trésor de la langue française, Université de Nancy. Dans le cadre
-de cette collaboration scientifique, l’équipe FRANQUS peut s’appuyer :sur des
-définitions du Trésor de la langue française concernant les mots ou sens très
-généraux de la francophonie, ne comportant pas de spécificité québécoise;sur la
-partie étymologique du Trésor de la langue française;sur des citations issues de
-Frantext pour les auteurs littéraires français.* Ce centre porte depuis 2016 le
-nom de Centre de recherche interuniversitaire sur le français en usage au Québec
-(CRIFUQ). in TLF
-∎ VOIR  La constitution canadienne; Le droit au Québec.
-infobulle_étymologieétymologierubrique étymologiquerubrique étymologique400La
-rubrique étymologique, s’il y a lieu, peut contenir les ou un des éléments
-suivants :la date de la 1^re attestation du mot en entrée;l’étymon, c’est-à-dire
-la forme à l’origine du mot de l’entrée;la langue ou le dialecte d’où provient
-l’étymon;le sens de l’étymon;la source d’où proviennent les informations de la
-rubrique étymologique, sous une forme abrégée;un complément d’information
-encyclopédiqueVOIR La rubrique étymologique, principes généraux.ÉTYMOLOGIE1213;
-du latin statŭ « action de se tenir; position, situation »; peut-être avec
-influence de l'italien stato « forme de gouvernement; administration d'une
-société ».
-ORTHOGRAPHE
-  nom masculin
-état^*
-singulier pluriel
-état
-états
-^*VOIR l'emploi de la majuscule initiale dans l'article.
+     * Nos solutions
+          + Particuliers (BUTTON)
+          + Entreprises (BUTTON)
+          + Secteur public (BUTTON)
+          + Éducation (BUTTON)
+          + Organismes de formation (BUTTON)
+          + Devenir formateur expert (BUTTON)
+          + Évaluer le niveau de ses salariés
+       Rédiger sans fautes et s'exprimer avec justesse !
+       Nos formations éligibles au CPF
+       Nos modules individuels
+       Découvrir nos modules pour enfants dès le CE1
+       le projet voltaire pour les particuliers le projet voltaire pour
+       les particuliers
+       Se préparer au Certificat Voltaire
+       Rédiger et parler sans fautes dans un cadre professionnel.
+       Nos solutions pour les entreprises
+       Demander un devis
+       Former ses salariés à la prise de parole en public
+       le projet voltaire pour les entreprises le projet voltaire pour les
+       entreprises
+       Évaluez vos salariés et vos candidats
+       Rédiger et parler sans fautes dans un cadre professionnel.
+       Nos solutions pour les établissements publics
+       Demander un devis
+       Former ses agents à la prise de parole en public
+       le projet voltaire pour les établissements publics le projet
+       voltaire pour les établissements publics
+       Évaluez vos agents et vos candidats
+       Suivre l’évolution de vos élèves n’a jamais été aussi simple.
+       Notre solution pour vos élèves / étudiants
+       Demander un devis
+       Découvrir le nouveau parcours Expression Orale
+       le projet voltaire pour l'éducation le projet voltaire pour
+       l'éducation
+       Découvrir nos ressources
+       L'expression écrite et orale, un enjeu de taille pour la formation
+       professionnelle.
+       Nos offres pour les organismes de formation
+       Demander un devis
+       Devenir un organisme de formation référencé
+       le projet voltaire pour les organismes de formation le projet
+       voltaire pour les organismes de formation
+       Proposer le Certificat Voltaire
+       devenir formateur expert devenir formateur expert
+     * Certificat Voltaire
+     * Médiathèque
+          + Toutes nos ressources
+          + Améliorer son français professionnel
+          + Animer une classe
+          + Aider ses enfants
+          + Accompagner ses salariés
+          + Explorer la langue française
+          + Découvrir nos ouvrages
+          + Témoignages
+       Amusez-vous avec la langue française : tous nos quiz !
+       Tester mes connaissances
+       Recevoir chaque mois des conseils et l'actualité de la langue
+       française
+       la médiathèque du projet voltaire la médiathèque du projet voltaire
+       Voir toutes les ressources
+     * Fiches de français
+          + Conjugaison
+          + Grammaire
+          + Règle d’orthographe
+          + Syntaxe
+          + Toutes nos fiches
+       fiches de français fiches de français
+     * Notre approche
 
-  *
-  *
-  *
-  *
-  *
+   Tester gratuitement
 
-orthographe
-MEQ - 5^e
+   Accueil | Règles d'orthographe | Règle d'orthographe | « état » ou «
+   État » ?
 
-étymologie
+   Erreur de signe lexical Lexical Règle d'orthographe
 
-Synonymes
-  * ⇒ circonstance
-  * ⇒ condition
-  * ⇒ nation
-  * ⇒ pays
-  * ⇒ profession
-  * ⇒ situation
-  * ⇒ tâche
-  * ⇒ travail
+« état » ou « État » ?
 
-Afficher plus de synonymes
+   Il n’est pas rare d’oublier la majuscule à « état » quand il faut
+   écrire « l’État français ».
+   Projet Voltaire - Fiche de français Projet Voltaire - Fiche de français
 
-Mots apparentés
-  * ⇓ compte
-  * ⇓ dominion
-  * ⇓ mal-être
-  * ⇓ nationalité
-  * ⇓ phase
-  * ⇓ pronunciamiento
-  * ⇓ république
-  * ⇓ version
-  * ⇓ vice-royauté
-  * ⇒ putsch, au sens de coup d'État
-  * ⇑ constat
-  * ⇑ nation
-  * ⇑ puissance
+   Évaluer mon niveau
 
-Afficher plus de mots apparentés
+   Pour progresser en français, faites le test !
+   Lancer l’évaluation
 
-Sous-entrées
-  * affaire d'État
-  * à l'étatpur
-  * à l'état+ adj.
-  * à l'état de+ nom
-  * conseild'État
-  * coup d'État
-  * départementd'État
-  * domainede l'État
-  * en tout état de cause
-  * État(-)providence
-  * État
-  * Étatfédéral
-  * Étatpolicier
-  * étatsecond
-  * Étattampon
-  * état civil
-  * état d'âme
-  * état d'urgence
-  * État dans l’État
-  * état dechoc
-  * état degrâce
-  * état demanque
-  * état desiège
-  * État de droit
-  * état de la question, d'une question
-  * état de(s) choses
-  * état des lieux
-  * état matrimonial
-  * État-nation
-  * état(s) de service de qqn
-  * Étatspontificaux
-  * états généraux
-  * être, se mettre dans tous ses états
-  * être en état de+ inf.
-  * être hors d'état de
-  * faire état de
-  * femme, homme d’État
-  * lescaissesde l'État
-  * lescoffresde l'État
-  * les grandscommisde l'État
-  * ministred'État
-  * ne pas être dans son état normal
-  * officierde l'état civil, d'état civil
-  * raisond'État
-  * registrede l'état civil
-  * remettreqqch. en état
-  * secretd'État
-  * secrétaired'État
-  * socialismed'État
-  * sociétéd'État
-  * télévisiond'État
-  * tiers état
-  * verbed'état
+On vous explique
 
-Afficher plus de sous-entrées
+   On écrit « État », avec une majuscule, pour désigner un pays, une
+   nation ou son autorité souveraine.
 
-Voisinage
-  * étang
-  * étant donné
-  * étape
-  * étasunien
-  * État(-)providence
-  * état
-  * état-major
-  * État-nation
-  * étatique
-  * étatisation
-  * étatiser
+   > En France, le chef de l’État est élu au suffrage universel.
 
-Auteurs : Hélène Cajolet-Laganière, Pierre Martel et Chantal‑Édith Masson, avec
-le concours de Louis Mercier et Nadine Vincent, professeurs, Université de
-Sherbrooke
-Direction lexicographique : Serge D’Amico - Direction informatique : Benoit
-Mercier
-Professeurs collaborateurs : feu Jean-Claude Boulanger, Université Laval, feu
-Michel Théoret, Université de Sherbrooke
+   Dans tous les autres cas, on écrit « état », avec une minuscule.
 
-Qu’est-ce que le dictionnaire Usito ? | Contactez-nous | Conditions
-d’utilisation | Paramètres des témoins
+   > L’évaporation désigne le passage de l’eau de l’état liquide à l’état
+   gazeux.
 
-Tous droits réservés © Université de Sherbrooke | 3.0.32 - Dernière mise à jour
-du contenu : 2025-12-09
+Avis de l'expert
 
-Paramètres des témoins
+   Bruno Dewaele
+   Champion du monde d’orthographe
 
-Pour obtenir plus d’information sur la nature et l’utilisation des témoins, voir
-la Politique de confidentialité.
+   Il n’est pas rare que la majuscule permette ainsi de distinguer une
+   acception particulière d’un nom. Outre les cas, envisagés ailleurs,
+   d’église et de dieu, on peut évoquer celui de bourse : marché financier
+   quand on le pare de la majuscule, il n’est plus qu’un simple sac
+   contenant de la menue monnaie dès qu’on l’en prive. Pour ne pas évoquer
+   d’autres attributs, portés eux aussi au-dessous de la ceinture…
 
-Témoins essentiels
+Exercice
 
-Ces témoins sont nécessaires au bon fonctionnement du site Web. Ils permettent
-de maintenir l’accès à certaines sections sécurisées et de conserver des
-critères de recherche, par exemple. Ces témoins ne peuvent être désactivés.
-[X] Toujours autorisés
+    1. L’armée a pris le pouvoir à la suite d’un coup d’État.
+    2. L’état de New York a autorisé le mariage homosexuel en 2011.
+    3. Monaco est un des plus petits États du monde.
+    4. Les ennuis judiciaires du ministre ont vite tourné à l’affaire
+       d’état.
+    5. La liaison du président n’est plus un secret d’état mais un secret
+       de Polichinelle.
+    6. Chacun, tous partis confondus, le considère comme un grand homme
+       d’état.
+    7. « L’état, c’est moi », aurait dit Louis XIV.
+    8. Un officier d’état civil célébrera le mariage à la mairie.
+    9. En tout état de cause, nous ne pouvons accéder à votre requête.
+   10. Veuillez me retrouver à 14 heures à l’appartement pour l’État des
+       lieux.
 
-Témoins analytiques
+(BUTTON) Réponses
 
-Ces témoins nous aident à comprendre votre utilisation de notre site Web et nous
-permettent d'améliorer l’expérience qu'il propose.
-[ ] Autoriser
+    1. Phrase correcte.
+    2. Faux. Il faut écrire : L’État de New York a autorisé le mariage
+       homosexuel en 2011. On a affaire ici à une entité politique : il
+       faut écrire « État », avec une majuscule.
+    3. Phrase correcte.
+    4. Faux. Il faut écrire : Les ennuis judiciaires du ministre ont vite
+       tourné à l’affaire d’État. Une « affaire d’État » concerne la
+       nation. Dans cette expression, « État » prend donc une majuscule.
+    5. Faux. Il faut écrire : La liaison du président n’est plus un secret
+       d’État mais un secret de Polichinelle. Un « secret d’État »concerne
+       la nation. Dans cette expression, « État » prend donc une
+       majuscule.
+    6. Faux. Il faut écrire : Chacun, tous partis confondus, le considère
+       comme un grand homme d’État. L’expression « homme d’État » désigne
+       quelqu’un qui est chargé des affaires de la nation : on met une
+       majuscule à « État ».
+    7. Faux. Il faut écrire : « L’État, c’est moi », aurait dit Louis
+       XIV. « L’État, c’est moi » signifie « la nation, c’est moi ».
+       « État » prend donc une majuscule.
+    8. Phrase correcte.
+    9. Phrase correcte.
+   10. Faux. Il faut écrire : Veuillez me retrouver à 14 heures �
+       l’appartement pour l’état des lieux. L’« état » dont on parle ici
+       n’a aucun rapport avec un pays ou une nation. Il ne s’écrit donc
+       pas avec une majuscule, mais avec une minuscule.
 
-Témoins publicitaires
+   Auteurs Projet Voltaire
 
-Ces témoins sont utilisés pour vous proposer des publicités pertinentes en
-fonction de votre navigation sur notre site. Ces publicités peuvent être émises
-par l'Université de Sherbrooke ou d'autres entités.
-[ ] Autoriser
-(BUTTON) Annuler (BUTTON) Enregistrer
 
-Ce site Web utilise des fichiers témoins (cookies) essentiels à son bon
-fonctionnement. Vous pouvez paramétrer l'utilisation de témoins facultatifs nous
-permettant d'optimiser votre expérience à travers le site. Voir la Politique de
-confidentialité
-(BUTTON) Gérer les paramètres (BUTTON) Autoriser tout
+    Auteurs Projet Voltaire :
 
-accès directs
 
-Citer
+    Bruno Dewaele, champion du monde d’orthographe, professeur agrégé de
+    lettres modernes
 
-Ce contenu
 
-Usito
+    Agnès Colomb, auteur-adaptateur, correctrice professionnelle
 
-Partager
-  *
 
-Le lien suivant a été copié dans le presse-papiers :
-url
+    Pascal Hostachy, cofondateur du Projet Voltaire et du Certificat
+    Voltaire
 
-MEQ - #liste#
+   Vous êtes perdu ?
+   Nos solutions pour...
+   Vous
+   Vos salariés
+   Vos élèves
+   Vos enfants
 
-Ministère de l’Éducation et de l'Enseignement supérieur
-#listeNomComplet#
+Découvrez nos fiches de français pour ne plus douter !
 
-Ce mot fait partie de la liste orthographique (#listeNomComplet#) du ministère
-de l’Éducation et de l'Enseignement supérieur (MEQ) du Québec, élaborée en
-collaboration avec le Centre d’analyse et de traitement informatique du français
-québécois (CATIFQ) de l’Université de Sherbrooke.
+   Confusion entre mots voisins Règle d'orthographe
 
-Afficher tous les mots de cette liste
+Faut-il écrire « feignant », « faignant » ou « fainéant » ?
 
-En savoir davantage sur la liste orthographique
+   La langue française abonde en homonymes (mots qui ont la même
+   prononciation) et en synonymes (mots de même sens ou presque). Qu’en
+   est-il de « feignant », « faignant » et « fainéant » ? Existent-ils
+   tous les trois ? Signifient-ils la même chose ? Si oui, pourquoi
+   ont-ils des orthographes différentes ?
+   Mauvais usages Règle d'orthographe
 
-Utiliser l'outil dynamique de recherche du MEQ
+Peut-on dire et écrire « de par » ?
 
-Détails du synonyme
+   « De par son expérience, il est le meilleur candidat. » « De par » est
+   une formule qu’on entend assez fréquemment et qui se voudrait élégante
+   et soignée. Est-elle pour autant correcte ? Peut-on l’employer dans
+   n’importe quel cas ? Voici la règle.
+   Mauvais usages Règle d'orthographe
 
-vedette a pour antonyme/synonyme mot apparenté
+Faut-il employer « clore » ou « clôturer » ?
 
-au sens de :
-Définition du sens
+   Qui n’a jamais employé les verbes « clore » et « clôturer »
+   indistinctement ? D’abord, parce qu’ils commencent par la même syllabe
+   et ont l’air d’être de la même famille, et ensuite parce qu’ils ont
+   l’air de parfaits synonymes. Qu’en est-il réellement ? Y a-t-il une
+   différence entre « clore » et « clôturer » ?
+   Confusion entre mots voisins Règle d'orthographe
 
-⇒
-  * indicateur lien vers synonyme
+« Ennuyant » ou « ennuyeux » ? Il y a une nuance !
 
-VOIR lien vers article
+   « Que ce film est ennuyeux ! »… ou « ennuyant » ? Qui n’a jamais hésité
+   au moment de choisir l’adjectif exprimant l’ennui ? Est-ce « ennuyant »
+   ou « ennuyeux » ? Existent-ils l’un et l’autre ? Si oui, comment
+   choisir entre les deux ?
+   Découvrez nos fiches de français pour ne plus douter !
 
-Historique
-  * un mot
-  * un mot
+Laisser un commentaire Annuler la réponse
 
-(BUTTON) Effacer
+   Votre adresse e-mail ne sera pas affichée.
+   Les champs obligatoires sont marqués d’un « * ».
 
-Message
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
 
-Pas d'Usito!
+   Nom/Pseudonyme* ______________________________
 
-Oh, comme c'est dommage...
-[ ] Ne plus afficher ce message
-(BUTTON) Fermer
+   Adresse e-mail* ______________________________
 
-Suggestions :
-  * ...
+   Envoyer
 
-38 résultats trouvés
+   Ne pas remplir ____________________
+
+     * Avatar Avatar
+       Aurélie75
+       25 juin 2023 à 15 h 58 min
+       Bonjour, J’ai une question concernant l’expression « l’État
+       français ». Sachant qu’elle renvoie au gouvernement de Pétain,
+       cette expression est figée. Aussi, si on doit parler de l’État
+       français en 2023, doit-on utiliser la même typographie ? Je lis par
+       exemple sur ce site du Gouvernement
+       (https://www.gouvernement.fr/charte/charte-des-grands-principes-red
+       actionnels/quelques-bonnes-pratiques-redactionnelles) : l’État
+       Français, avec une majuscule à l’adjectif, ce qui me semble être
+       une aberration. Comment faut-il donc écrire correctement ? Merci !
+       ;-)
+     * Avatar Avatar
+       Sandrine Campese
+       1 juillet 2023 à 17 h 34 min
+       Bonjour Aurélie75, merci pour votre question très intéressante. Il
+       est possible d'employer "l'État français", pour dire "la République
+       française", sans que cela fasse référence au régime qu'a connu la
+       France sous l'occupation (1940 - 1944). Généralement, le contexte
+       permet de le comprendre. Sinon, on peut dire "l'État en France" ou
+       simplement "La France". Bon après-midi.
+     * Avatar Avatar
+       mica
+       29 juin 2021 à 19 h 10 min
+       Bonjour, Dit-on l'État du Jalisco (Mexique) ou de Jalisco ? État du
+       Hidalgo ou État d'Hidalgo ? État du San Luis Potosi ou État de San
+       Luis Potosi ? Personnellement j'écris DU Merci
+     * Avatar Avatar
+       Sandrine Campese
+       3 juillet 2021 à 11 h 49 min
+       Bonjour mica, je vous invite à poser votre question sur notre forum
+       https://www.question-orthographe.fr. Bonne journée.
+     * Avatar Avatar
+       Alison
+       14 janvier 2021 à 16 h 53 min
+       J'ai lu quelques fois dans des articles scientifiques qu’on écrit «
+       Etat » (sans aigu) et pas « État ». Est-ce que tu sais pourquoi ?
+       Tout ces articles s’occupent avec l’Afrique, j’ai pensé que
+       peut-être c’est une variante africaine.
+     * Avatar Avatar
+       Sandrine Campese
+       19 janvier 2021 à 13 h 04 min
+       Bonjour Alison, les auteurs de ces articles oublient tout
+       simplement d'accentuer les majuscules, comme c'est pourtant
+       l'usage, suivant la recommandation de l'Académie française. Voir
+       notre règle :
+       https://www.projet-voltaire.fr/culture-generale/accent-majuscules-c
+       apitales/. Bonne journée.
+     * Avatar Avatar
+       Ludw
+       2 décembre 2020 à 13 h 14 min
+       Est-ce qu'il existe une règle pour "Etat" au niveau du droit ? Car
+       il est bien écrit "diplôme d'Etat d'infirmier" pour
+       https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037218463/
+       Avez-vous des éléments de réponse ?
+     * Avatar Avatar
+       Sandrine Campese
+       3 décembre 2020 à 15 h 32 min
+       BONJOUR Ludw, on écrit "un diplôme d'État" (avec un E majuscule
+       accentué) puisque l'on sous-entend que le diplôme est délivré par
+       l'État. Bon après-midi.
+     * Avatar Avatar
+       herakleion
+       13 août 2020 à 09 h 39 min
+       en début de phrases et/ou lors d'un titre en majuscules, doit on
+       garder l'accent aigu ? GRAND MERCI
+     * Avatar Avatar
+       Sandrine Campese
+       17 août 2020 à 09 h 34 min
+       Bonjour herakleion, bien sûr ! Voir notre article :
+       https://www.google.com/search?client=safari&rls=en&q=accent+majuscu
+       le+projet+voltaire&ie=UTF-8&oe=UTF-8. Bonne journée.
+     * Avatar Avatar
+       joie
+       6 septembre 2019 à 15 h 42 min
+       j'aime
+     * Avatar Avatar
+       Sandrine Campese
+       8 septembre 2019 à 23 h 12 min
+       Et nous aimons que vous aimiez ! :-)
+     * Avatar Avatar
+       Antemon
+       10 janvier 2018 à 18 h 15 min
+       Je suis très intéressé par la littérature et à l'écriture , ce qui
+       dit que tout ce qui touche à l'orthographe aiguise ma curiosité.
+     * Avatar Avatar
+       Sandrine Campese
+       11 janvier 2018 à 23 h 11 min
+       Bonsoir Antemon, alors vous êtes au bon endroit ! N'hésitez pas �
+       parcourir nos articles. Et pourquoi ne pas vous perfectionner en
+       orthographe en suivant notre entraînement :
+       http://www.projet-voltaire.fr ? Bonne découverte et bonne soirée.
+     * Avatar Avatar
+       Nat
+       29 novembre 2014 à 18 h 04 min
+       Bonjour bonjour... Cela me fait un peu bizarre, quand même... Je
+       corrige un texte dans lequel j'ai consécutivement un pays et un
+       État, et je trouve étrange de mettre une majuscule à l'un et une
+       minuscule à l'autre...
+     * Avatar Avatar
+       Sandrine
+       30 novembre 2014 à 23 h 54 min
+       Bonsoir, je comprends votre perplexité. En fait, la majuscule �
+       "État" est utile car elle permet de distinguer les deux sens du mot
+       : d'un côté le gouvernement (État), de l'autre la disposition
+       (état). On parlera ainsi de "l'état d'un État". Voir à ce propos la
+       chanson à calembour de Luna Parker : "Tes états d'âme… Éric" ! Le
+       nom "pays" n'étant pas équivoque, il se contente d'une minuscule.
+       Bonne soirée.
+     * Avatar Avatar
+       Chambaron
+       13 octobre 2014 à 17 h 54 min
+       Même subtil distinguo pour quelques autres mots : ci-après
+       majuscule pour le cas cité, minuscule pour les autres acceptions
+       (avec exemple). Certains sont très utiles par les temps qui
+       courent... - Administration : ensemble des services de l'État (mais
+       les administrations sont fermées le dimanche) - Empire : régime
+       politique, période historique ou style décoratif (mais l'empire
+       colonial français, car constitué de divers États souverains) -
+       Hôtel de Ville/Mairie : l'administration municipale (mais minuscule
+       pour le bâtiment lui-même) - Islam : civilisation ou monde musulman
+       (mais minuscule pour la religion) - Juif : uniquement si désigne le
+       peuple (mais minuscule pour la religion) - Trésor : administration
+       des finances publiques (minuscule pour le coffre du pirate) -
+       Livres sacrés : majuscule si désigne le texte, minuscule pour le
+       livre physique (tiré de la Thora, mais un coran bien usagé) ou le
+       sens figuré (ce roman est devenu ma bible). Bien littérairement,
+       Chambaron
+     * Avatar Avatar
+       Sandrine
+       13 octobre 2014 à 20 h 49 min
+       Bonsoir Chambaron, je ne connaissais pas cette distinction
+       concernant le nom "Juif". Grevisse indique simplement que l'usage
+       est partagé entre minuscule et majuscule, sans plus de précisions.
+       J'avais constaté il y a peu que l'emploi du "N" majuscule à "Noir"
+       était décrié. Qu'en pensez-vous ? Vous auriez pu ajouter notre
+       fameux "Église/église" à la liste ! ;-) Bonne soirée.
+
+   (BUTTON) Voir plus de commentaires
+
+Retrouvez le Projet Voltaire dans votre poche !
+
+   "Application utile et instructive.
+
+   Sa plus grande qualité c'est son accessibilité à toutes les personnes
+   de tous niveaux en français. Les services proposés allient parfaitement
+   bien le rapport qualité-prix. J'apprécie cette application parce
+   qu'obtenir son Certificat Voltaire est un bonus essentiel à mettre sur
+   son CV ou tout simplement pour avoir le plaisir de parler et d'écrire
+   le français correctement."
+
+   Harinavalona R
+   ⭐⭐⭐⭐⭐
+   App Store App Store Google Play Store Google Play Store
+
+   est une ressource
+   Inscrivez-vous à notre infolettre
+   Découvrez toutes nos astuces en orthographe et en expression ainsi que
+   nos actualités en vous inscrivant à notre lettre d’information.
+   loader loader
+   Votre adresse électronique*_____________________
+   Votre profil* [Je m'intéresse au Projet Voltaire________.]
+
+   [ ] Je souhaite recevoir des offres exclusives.
+   [ ] J'accepte que mes données personnelles, recueillies dans ce
+   formulaire, soient traitées par le groupe VOLTAIRE*. En savoir plus sur
+   la gestion de mes données et mes droits.
+   [ ] [ ] [ ] ____________________ ____________________
+   ____________________ ____________________ ____________________
+   Je m'inscris
+
+     * Contact
+     * Nos formateurs
+     * Le Club Privilège
+     * Nous rejoindre
+     * Plan du site
+
+     * La Fondation Voltaire
+     * Fiches de français
+
+   Suivez-nous
+     * Facebook
+     * Linkedin
+     * Instagram
+       PROJET VOLTAIRE© 2026
+          + CGU
+          + CGV
+          + Politique de confidentialité

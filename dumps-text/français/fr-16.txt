@@ -1,531 +1,809 @@
-#Modifier Wikipédia (fr) Flux Atom de Wikipédia
-
-Aller au contenu
-
-[ ] Menu principal
-Menu principal
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Navigation
-  * Page d’accueil
-  * Portails thématiques
-  * Article au hasard
-  * Contact
-
-Contribuer
-  * Débuter sur Wikipédia
-  * Aide
-  * Communauté
-  * Pages spéciales
-  * Modifications récentes
-
-Wikipédia l'encyclopédie libre
-Rechercher
-____________________
-(BUTTON) Rechercher
-
-[ ] Apparence
-
-  * Faire un don
-  * Créer un compte
-  * Se connecter
-
-[ ] Outils personnels
-  * Faire un don
-  * Créer un compte
-  * Se connecter
-
-Sommaire
-
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-  * Début
-  * 1 Création d'un État-nation
-(BUTTON) Afficher / masquer la sous-section Création d'un État-nation
-  + 1.1 Exemple français
-  + 1.2 Exemple allemand
-  * 2 Cas de dissociation entre État et nation
-  * 3 Critique de l'État-nation
-  * 4 Exemples
-  * 5 Notes et références
-  * 6 Voir aussi
-(BUTTON) Afficher / masquer la sous-section Voir aussi
-  + 6.1 Articles connexes
-  + 6.2 Bibliographie
-  + 6.3 Liens externes
-
-[ ] Basculer la table des matières
-
-État-nation
-
-[ ] 70 langues
-  * العربية
-  * Asturianu
-  * Azərbaycanca
-  * تۆرکجه
-  * Беларуская
-  * Беларуская (тарашкевіца)
-  * Български
-  * বাংলা
-  * Catal�
-  * کوردی
-  * Čeština
-  * Cymraeg
-  * Deutsch
-  * Ελληνικά
-  * English
-  * Esperanto
-  * Español
-  * Eesti
-  * Euskara
-  * فارسی
-  * Suomi
-  * Frysk
-  * Galego
-  * עברית
-  * हिन्दी
-  * Hrvatski
-  * Magyar
-  * Bahasa Indonesia
-  * Íslenska
-  * Italiano
-  * 日本語
-  * Қазақша
-  * 한국어
-  * Kurdî
-  * Limburgs
-  * Lombard
-  * Lietuvių
-  * Latviešu
-  * Malagasy
-  * Bahasa Melayu
-  * مازِرونی
-  * Nederlands
-  * Norsk nynorsk
-  * Norsk bokmål
-  * Occitan
-  * ਪੰਜਾਬੀ
-  * Kapampangan
-  * Polski
-  * Português
-  * Runa Simi
-  * Română
-  * Русский
-  * Scots
-  * سنڌي
-  * Srpskohrvatski / српскохрватски
-  * සිංහල
-  * Simple English
-  * Slovenčina
-  * Slovenščina
-  * Shqip
-  * Српски / srpski
-  * Svenska
-  * ไทย
-  * Türkçe
-  * Українська
-  * اردو
-  * Tiếng Việt
-  * 中文
-  * 閩南語 / Bân-lâm-gí
-  * 粵語
-
-Modifier les liens
-
-  * Article
-  * Discussion
-
-[ ] français
-
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-[ ] Outils
-Outils
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Actions
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-Général
-  * Pages liées
-  * Suivi des pages liées
-  * Téléverser un fichier
-  * Lien permanent
-  * Informations sur la page
-  * Citer cette page
-  * Obtenir l'URL raccourcie
-  * Télécharger le code QR
-
-Imprimer / exporter
-  * Créer un livre
-  * Télécharger comme PDF
-  * Version imprimable
-
-Dans d’autres projets
-  * Élément Wikidata
-
-Apparence
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Un article de Wikipédia, l'encyclopédie libre.
-Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir plus.
-Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir plus.
-
-Cet article présente des problèmes à corriger.
-
-Vous pouvez aider à l'améliorer ou bien discuter des problèmes sur sa page de
-discussion.
-  * Certaines informations devraient être mieux reliées aux sources mentionnées
-dans la bibliographie ou les liens externes. Améliorez sa vérifiabilité en les
-associant par des références. (Marqué depuis février 2020)
-  * Il manque de repères chronologiques ou de dates qu'il faudrait ajouter avec
-des sources. (Marqué depuis décembre 2015)
-
-Trouver des sources sur « État-nation » :
-  * Archive Wikiwix
-  * Bing
-  * Cairn
-  * DuckDuckGo
-  * E. Universalis
-  * Gallica
-  * Google
-  * G. Books
-  * G. News
-  * G. Scholar
-  * Persée
-  * Qwant
-  * (zh) Baidu
-  * (ru) Yandex
-  * (wd) trouver des œuvres sur Wikidata
-
-Un État-nation est un type particulier d'État dans lequel les individus sont
-censés appartenir dans leur majorité à une même nation^[1]. Il repose donc sur
-la coïncidence entre une notion d'ordre identitaire, l'appartenance à un groupe,
-la nation, et une notion d'ordre juridique, l'existence d'une forme de
-souveraineté et d'institutions politiques et administratives qui l'exercent,
-l'État. Sans cette coïncidence, on parlera plutôt d'un État multinational ou
-d'un empire, deux modes d'organisation politique favorables à la coexistence de
-minorités ethniques^[1].
-
-Création d'un État-nation
-
-[modifier | modifier le code]
-
-Les spécialistes ont longtemps défini deux modèles de formation de
-l'État-nation, le français et l'allemand, mais cette perspective a été remise en
-cause au XXI^e siècle ; elle est considérée comme eurocentrique, et
-réductrice^[2].
-
-Selon l'enseignement traditionnel, il y aurait deux modèles canoniques de
-processus de création d'un État-nation^[3] :
-  * Dans certains pays (comme la France par exemple) la naissance de l'État a
-précédé celle de la Nation ; le sentiment nationaliste se développe après la
-formation de l'État ;
-  * Dans d'autres (comme l'Allemagne et l'Italie) le fait de se reconnaître
-d'une même nation, en particulier dans le cas d'une « nation ethnique » ou
-civique, et de manifester la volonté de vivre ensemble, a précédé la naissance
-de l'État^[4].
-
-Dans les deux cas, il s'agit d'une lente création résultant de la conjonction,
-sur la durée de plusieurs générations, de situations socio-économiques
-favorables et de prosélytismes politiques.
-
-Exemple français
-
-[modifier | modifier le code]
-
-En France, l'État s'est construit progressivement, et à partir du Moyen Âge les
-rois de France ont étendu leur autorité sur un ensemble de plus en plus grand.
-Le développement du nationalisme s'est fait progressivement, et a clairement
-émergé au XVIII^e siècle (sans pour autant porter ce nom) dans la bourgeoisie,
-intellectuelle, commerçante et pré-industrielle, pour s'étendre progressivement
-à l'ensemble de la population (ou presque). La langue française est devenue la
-seule langue officielle après être devenue une langue véhiculaire d'imprimerie,
-stimulée par le fait qu'elle a été imposée dans les actes administratifs par
-l'ordonnance de Villers-Cotterêts en 1539. Le nationalisme a été renforcé par le
-système politique démocratique, la création d'une école gratuite, laïque et
-obligatoire par Jules Ferry à la fin du XIX^e siècle, l'instauration du service
-militaire, et entretenu par la création de divers symboles républicains,
-régulièrement mis en avant, comme le drapeau français, la Marianne et la
-Marseillaise.
-
-Exemple allemand
-
-[modifier | modifier le code]
-
-L'histoire de l'Allemagne est considérée comme paradigmatique du deuxième cas de
-figure où la nation préexiste à l'État et finit par le créer^[5].
-
-La création de l'État-nation peut procéder par unification progressive, comme
-dans le cas de l'Allemagne et de l'Italie^[6].
-
-Elle peut aussi être le résultat de l'éclatement d'un Empire qui n'avait pas
-homogénéisé ses populations ; ainsi des États-nations sont nés de l'Empire
-austro-hongrois et de l'Empire ottoman^[6].
-
-Cas de dissociation entre État et nation
-
-[modifier | modifier le code]
-  * Une nation peut ne pas être dotée d'un État. En effet, certaines nations
-sans État disposent bien d'un territoire, d'une population, et d'un sentiment
-d'identité propre mais n'ont pas d'organisation politique pouvant assurer leur
-pleine souveraineté, elles ne disposent, au mieux, que d'une autorité
-territoriale. On peut citer comme exemple la population québécoise qui est
-reconnue par le Canada comme nation au sein de l'État canadien, les populations
-berbères d'Afrique du nord ou la population catalane qui a actuellement le
-statut en Espagne de « communauté historique » et qui s'est vu refuser^[Quand ?]
-le statut à part entière de « nation » par le conseil constitutionnel espagnol.
-  * Un État peut englober plusieurs nations. Ce fut le cas de l'Empire
-austro-hongrois, c'est aujourd'hui le cas du Royaume-Uni avec quatre nations
-constitutives : Anglais, Gallois, Écossais et Nord-Irlandais ; dans le Tournoi
-des Six Nations de rugby à XV, les Britanniques d'Irlande du Nord et les
-Irlandais de la république d'Irlande jouent au sein d'une même équipe sous
-l'égide d'une fédération unique, l'IRFU).
-  * Une nation peut englober plusieurs ethnies. C'est aujourd'hui le cas de la
-Turquie, qui n'admet sur son sol qu'une nation turque constituée par des ethnies
-différentes (Turcomans, Albanais, Arabes, Bosniaques, Kurdes, Lazes, Roms,
-etc.)^[7]. Les autres revendications nationales telles que celles des Kurdes
-sont fortement combattues.
-  * Un État peut englober plusieurs communautés linguistiques et culturelles.
-Selon Sylvain Kahn, la Suisse n'est pas un État-nation, parce que la
-multiplicité des langues et des cultures y est revendiquée^[2]. La Suisse,
-formée par une fédération de cantons, réunit des populations parlant quatre
-langues nationales. Toutefois, selon Thomas Riklin, la notion d'« entité
-nationale » peut s'appliquer à la Suisse ; ces cantons partagent une identité
-nationale, une histoire nationale et un héros national, Guillaume Tell, et leur
-unité a été renforcée par un choix politique à la suite de la guerre du
-Sonderbund (1847) et de la constitution fédérale (1848), qui a mis fin à l'ordre
-confédéral précédent^[8].
-  * Un État peut être créé sans véritable base nationale, par exemple en tant
-que successeur d'une circonscription administrative d'un ancien empire colonial
-démantelé, mais avec la volonté de constituer une nation unifiée dans le cadre
-de ses frontières. C'est par exemple le cas de certains États de l'Afrique
-contemporaine.
-
-Critique de l'État-nation
-
-[modifier | modifier le code]
-  * La plupart des pays colonisés par les Européens se sont vu imposer le modèle
-de l'État-nation ; l'inadaptation de ce mode d'organisation à nombre de pays
-asiatiques et africains a été soulignée^[6]^,^[9]. Le découpage du territoire de
-l'État-nation par les colonisateurs en fonction de leurs intérêts propres, sans
-prise en compte des différents groupes concernés, a entraîné un divorce entre la
-société et l'État^[6]. De plus, l'État-nation est perçu par les sociétés
-anciennement colonisées comme une structure étrangère, coloniale, de sorte
-qu'elles sont peu disposées à y adhérer^[6]. Selon Yves Person, les colonies
-françaises ont subi plus que les colonies britanniques des opérations
-d'homogénéisation et d'unification, conformément au modèle français de
-l'État-nation, alors que les Britanniques auraient davantage respecté les
-réalités sociales dans les pays colonisés, en particulier les langues de ces
-pays^[6]. De manière générale, l'État-nation a eu des effets socialement
-destructeurs, dans la mesure où il a réduit la société à « une masse atomisée
-d'individus isolés » et réprimé les liens horizontaux^[6].
-  * Le modèle français de l'État-nation, qui suppose une politique volontariste
-d'unification, a été critiqué parce qu'il a conduit à la destruction de la
-diversité culturelle française ; la France était avant le XIX^e siècle l’État où
-la diversité linguistique était la plus grande en Europe ; cet héritage a été
-sacrifié sur l'autel de l’État-nation^[6].
-  * La théorie de l'État-nation a été contestée, notamment par des fédéralistes
-européens comme Mario Albertini^[réf. nécessaire]. La nation est selon cette
-critique une construction politique artificielle des partisans de l'État
-centralisé. La nation justifie ainsi l'existence de l'État qui n'est plus
-associé à la personne du monarque mais à une entité abstraite. L'État-nation
-serait donc une phase de l'évolution politique et aurait vocation à être dépassé
-en faveur de l'unité européenne.
-  * La théorie de l'État-nation a également été critiquée par certains
-marxistes^[Qui ?]. Pour eux, le sentiment identitaire ne se trouve pas au sein
-de la nation, mais au sein de l'Humanité tout entière (voir la phrase de Karl
-Marx : « Je suis un citoyen du Monde », paraphrasant le philosophe de la Grèce
-antique Diogène de Sinope ainsi que les philosophes stoïciens)^[4]. En attendant
-la disparition des États, la classe sociale dominée doit selon eux faire preuve
-de solidarité internationale permanente : par exemple le refus des guerres. De
-là, un ouvrier français est, selon eux, plus proche d'un ouvrier de nationalité
-étrangère, que d'un dirigeant français. C'est la « conscience de classe » (« Les
-travailleurs n'ont pas de patrie » - Manifeste communiste).
-
-Exemples
-
-[modifier | modifier le code]
-
-Voici des exemples clairs d'États-nations :
-  * Islande : bien que les habitants soient ethniquement apparentés à d'autres
-groupes scandinaves, la culture et la langue nationales ne se trouvent qu'en
-Islande. Il n'y a pas de minorités transfrontalières - le pays le plus proche
-est trop éloigné.
-  * Japon : Le Japon est aussi traditionnellement considéré comme un bon exemple
-d'État-nation, bien qu'il comprenne des minorités de peuples Ryūkyū ethniquement
-distincts, des Coréens, des Chinois, et sur l'île septentrionale d'Hokkaidō, la
-minorité autochtone Aïnou ; voir aussi Démographie japonaise.
-  * Portugal : bien qu'entourée d'autres terres et peuples, la nation portugaise
-occupe le même territoire depuis près de 900 ans. Il y a longtemps, le Portugal
-s'est formé à partir de groupes de personnes qui étaient auparavant séparés. Ils
-ont tous traversé et se sont installés dans la région qui est devenue plus tard
-le Portugal. Il s'agit notamment des peuples ibériques indigènes, des Celtes,
-des anciens Méditerranéens (Grecs, Phéniciens, Romains), des peuples germaniques
-comme les Suèves et les Wisigoths, des envahisseurs berbères et arabes, et des
-Juifs.
-  * France et Angleterre : l'État s'est organisé autour de la nation, par
-l’action centralisatrice et unificatrice du pouvoir royal. Cette même action du
-pouvoir royal a contribué de manière décisive à l’émergence de la nation et les
-guerres (Guerre de Cent ans, Révolution française) ont soudé les populations
-dans l’adversité et contribué de manière décisive à l’émergence de l’identité
-nationale de part et d’autre de la Manche^[10].
-
-Notes et références
-
-[modifier | modifier le code]
- 1. ↑ ^a et b « État-nation », sur scienceshumaines.com (consulté le 14 juin
-2023)
- 2. ↑ ^a et b Kahn, Sylvain, « L'État-nation comme mythe territorial de la
-construction européenne », L’Espace géographique, 2014/3 (Tome 43), p. 240-250.
-DOI : 10.3917/eg.433.0240. URL :
-https://www.cairn.info/revue-espace-geographique-2014-3-page-240.htm
- 3. ↑ Michel Pastoureau, Une histoire symbolique du Moyen Âge, Éditions du
-Seuil, coll. « Points », 2014 (ISBN 978-2-7578-4106-8), « Des armoiries aux
-drapeaux »
- 4. ↑ ^a et b pdf_3_Rappel_de_NOTIONS_1.pdf sur Académie de Besançon (12/2015)
- 5. ↑ Des réserves peuvent être cependant émises concernant une création
-"naturelle" ou non volontariste de l'État : l’État allemand actuel résulte d'une
-politique unioniste volontariste de Bismarck qui a cherché, et réussi, �
-rassembler sous le drapeau de la Prusse une mosaïque d’États indépendants, aux
-langues germaniques, en vue d’accroître sa puissance militaire, politique et
-économique. Pour cela, il avait utilisé autant les intérêts économiques des
-bourgeoisies de ces États, leur besoin de protection militaire, que la
-propagande nationaliste, sentiment nouveau répandu chez les lettrés depuis le
-début du XIX^e siècle. L'évolution de cet assemblage échappa ensuite à ses
-prévisions.
- 6. ↑ ^a b c d e f g et h Yves Person, « L'État-Nation et l'Afrique »,
-Outre-Mers. Revue d'histoire, vol. 68, n^o 250,‎ 1981, p. 274–282
-(DOI 10.3406/outre.1981.2301, lire en ligne, consulté le 15 juin 2023)
- 7. ↑ (tr) « Ethnicites en Turquie - Article « Nombre des Kurds dans la
-Turquie » », 2008 (consulté le 6 juin 2008)
- 8. ↑ (de) Thomas Riklin, « Worin unterscheidet sich die schweizerische „Nation“
-von der Französischen bzw. Deutschen „Nation“? » [archive du 13 octobre 2006],
-sur unifr.ch, 2005
- 9. ↑ Relire Yves Person. L'État-nation face à la libération des peuples
-africains, Textes réunis par Charles Becker, Roland Colin, Liliane Daronian et
-Claude-Hélène Perrot, Paris, IMAF - Présence Africaine, 2015
-10. ↑ Frank Baron, « L’idée de Nation », sur vie-publique.fr, 7 juillet 2018
-(consulté le 28 avril 2021)
-
-Voir aussi
-
-[modifier | modifier le code]
-
-Sur les autres projets Wikimedia :
-  * État-nation, sur le Wiktionnaire
-
-Articles connexes
-
-[modifier | modifier le code]
-  * Cité-État
-  * Figure allégorique nationale
-  * Nation civique
-  * Nation ethnique
-  * Nationalisme culturel
-  * Nationalisme méthodologique
-  * Empire
-  * État plurinational - terme opposé
-  * État ethnique
-  * Portugal#L'État-nation portugais
-  * Anticatalanisme
-
-Bibliographie
-
-[modifier | modifier le code]
-  * Ernest Renan, Qu'est-ce qu'une nation ?, Paris, Calmann Lévy, 1882 (lire en
-ligne)
-  * Mario Albertini, L'État national, 1960, traduction française 1978, Ed.
-Fédérop.
-  * Alain Bihr, Le Crépuscule des États-nations, transnationalisation et
-crispations nationalistes, Ed. Page deux, 2000.
-  * (en) Michael Billig, Banal Nationalism, Londres, SAGE Publications, 1995,
-200 p. (ISBN 0-8039-7525-2, lire en ligne)
-  * Rosa Luxemburg, La Question nationale et l'autonomie, 1908 (traduction
-française : Ed. Le Temps des cerises, 2001).
-  * Jean-René Trochet, La Géographie historique de la France, Paris, PUF, 1997,
-126p.
-  * Jean-Claude Barreau, Sans la nation, le chaos, Éditions du Toucan, 2012
-  * Pierre-André Taguieff, La revanche du nationalisme : Néopopulistes et
-xénophobes à l’assaut de l’Europe, Paris, PUF, 2015 (présentation en ligne, lire
-en ligne)
-  * (en) Ken'ichi Ōmae, The End of the Nation-State: the Rise of Regional
-Economies, Simon and Schuster Inc., 1995, 214 p.
-
-Liens externes
-
-[modifier | modifier le code]
-
-  *
-  *
-  * Notices dans des dictionnaires ou encyclopédies généralistes Voir et
-modifier les données sur Wikidata  :
-  + Britannica
-  + Encyclopédie de l'Ukraine moderne
-  + Store norske leksikon
-  * Notices d'autorité Voir et modifier les données sur Wikidata  :
-  + LCCN
-  + GND
-  + Japon
-  + Israël
-  + Tchéquie
-  + Lettonie
-
-  * icône décorative Portail de la politique
-  * icône décorative Portail du nationalisme
-
-Ce document provient de
-« https://fr.wikipedia.org/w/index.php?title=État-nation&oldid=230197410 ».
-Catégories :
-  * Géographie politique
-  * Nationalisme
-  * État
-
-Catégories cachées :
-  * Article contenant un lien mort
-  * Article avec source à lier
-  * Article à dater
-  * Article à référence nécessaire
-  * Page utilisant un modèle Bases inactif
-  * Page utilisant P1417
-  * Page utilisant P4613
-  * Page utilisant P4342
-  * Page pointant vers des bases externes
-  * Page pointant vers des dictionnaires ou encyclopédies généralistes
-  * Article de Wikipédia avec notice d'autorité
-  * Portail:Politique/Articles liés
-  * Portail:Nationalisme/Articles liés
-
-  * La dernière modification de cette page a été faite le 30 octobre 2025 �
-08:21.
-  * Droit d'auteur : les textes sont disponibles sous licence Creative Commons
-attribution, partage dans les mêmes conditions ; d’autres conditions peuvent
-s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que
-les crédits graphiques. En cas de réutilisation des textes de cette page, voyez
-comment citer les auteurs et mentionner la licence.
-Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation
-de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
-
-  * Politique de confidentialité
-  * À propos de Wikipédia
-  * Avertissements
-  * Contact
-  * Contacts juridiques & sécurité
-  * Code de conduite
-  * Développeurs
-  * Statistiques
-  * Déclaration sur les témoins (cookies)
-  * Version mobile
-
-  * Wikimedia Foundation
-  * Powered by MediaWiki
-
-(BUTTON) Rechercher
-____________________
-(BUTTON) Rechercher
-
-[ ] Basculer la table des matières
-État-nation
-(BUTTON) 70 langues Ajouter un sujet
+   #alternate alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Accessibilité
+   (BUTTON)
+   La rivière des Jonquilles, Corrèze
+   (BUTTON)
+   (BUTTON) Modifier le contraste
+   Modifier la taille du texte
+     * (BUTTON) Diminuer
+     * (BUTTON) Réinitialiser
+     * (BUTTON) Augmenter
+
+   Accessibilité du site
+     * fr
+     * en
+
+   (BUTTON) Le BRGM sur le web
+   (BUTTON)
+   La rivière des Jonquilles, Corrèze
+   (BUTTON)
+   InfoTerre
+   Le portail d'accès aux données scientifiques du BRGM
+   BRGM Emploi
+   Rejoignez le service géologique national
+   BRGM Boutique
+   Achetez nos cartes et livres
+   BRGM Formation
+   Formez-vous avec le BRGM
+   Rapport d'activité
+   Les temps forts et les résultats majeurs du BRGM.
+   Histoire du BRGM
+   L'histoire du BRGM, le service géologique national
+   Autres sites web
+     * Géorisques - Un portail pour mieux connaitre les risques sur le
+       territoire fran…
+     * ADES - Accès aux données sur les eaux souterraines
+     * SIGES - Système d'information pour la gestion des eaux souterraines
+     * RGF - Référentiel géologique de la France
+     * Après-mine opérationnelle - Département Prévention et Sécurité
+       minière du BRGM
+     * Géothermies - Tout savoir sur la géothermie
+     * Minéralinfo - Le portail français des ressources minérales non
+       énergétiques
+     * HAL-BRGM - Les publications scientifiques du BRGM
+
+   Tous les sites web
+     *
+     *
+     *
+     *
+
+   Logo du BRGM avec le logo République française
+   Service
+   géologique
+   national
+   (BUTTON) Recherche
+   (BUTTON)
+   La rivière des Jonquilles, Corrèze
+   (BUTTON)
+   Rechercher
+   ____________________________________________________________
+   (OK) OK
+   (BUTTON) Je suis
+   (BUTTON)
+   La rivière des Jonquilles, Corrèze
+   (BUTTON)
+     * (BUTTON) Partenaire public, collectivité
+       (BUTTON) Retour
+       Partenaire public, collectivité
+       Partenaires publics : le BRGM à vos côtés
+       Expertise
+       Nos solutions
+       Réseau régional
+       Références et projets
+       Rapports publics
+       Publications scientifiques
+       Contacts
+     * (BUTTON) Entreprise
+       (BUTTON) Retour
+       Entreprise
+       Travailler avec le BRGM, mode d'emploi
+       Innovation et transfert
+       Nos solutions
+       Références et projets
+       Laboratoires et plateformes technologiques
+       Formation professionnelle continue
+       Devenir fournisseur du BRGM
+       Contacts
+     * (BUTTON) Chercheur
+       (BUTTON) Retour
+       Chercheur
+       Recherche scientifique
+       Rapports publics
+       Publications scientifiques
+       Références et projets
+       Laboratoires et plateformes technologiques
+       Livres et cartes géologiques
+       Formation professionnelle continue
+       Doctorat et post-doctorat
+     * (BUTTON) Étudiant
+       (BUTTON) Retour
+       Étudiant
+       Enseignement supérieur
+       Recrutement et carrières
+       Doctorat et post-doctorat
+       Alternance et stages
+       Livres et cartes géologiques
+       Rapports publics
+       Publications scientifiques
+       Actualités
+     * (BUTTON) Enseignant, élève
+       (BUTTON) Retour
+       Enseignant, élève
+       Comprendre les sciences de la Terre
+       Enseignement supérieur
+       Livres et cartes géologiques
+       Rapports publics
+       Publications scientifiques
+       Actualités
+     * (BUTTON) Journaliste
+       (BUTTON) Retour
+       Journaliste
+       Actualités et communiqués de presse
+       Événements
+       Références et projets
+       Rapports publics
+       Le BRGM en bref
+       Newsletter
+       Contact presse
+     * (BUTTON) Citoyen, association
+       (BUTTON) Retour
+       Citoyen, association
+       Actualités
+       Événements
+       Recrutement et carrières
+       Le BRGM en bref
+       Réseau régional
+       Comprendre les sciences de la Terre
+       Engagements
+       Newsletter
+       Résultats et données
+
+   (BUTTON) Menu
+   (BUTTON)
+   La rivière des Jonquilles, Corrèze
+   (BUTTON)
+
+     * Enjeux (BUTTON)
+       (BUTTON) Retour
+       Enjeux
+          + Géologie et modélisation du sous-sol
+          + Eau souterraine et préservation de la ressource
+          + Risques liés au sol et au sous-sol
+          + Ressources minérales et approvisionnement responsable
+          + Énergie du sous-sol et décarbonation
+          + Numérique pour les géosciences
+     * Activités (BUTTON)
+       (BUTTON) Retour
+       Activités
+          + Recherche scientifique
+          + Expertise
+          + Innovation et transfert
+          + Analyse et expérimentation
+          + Prévention et sécurité minière
+          + Enseignement supérieur
+          + Formation professionnelle continue
+          + Diffusion de la connaissance et science ouverte
+     * Devenir partenaire ou client (BUTTON)
+       (BUTTON) Retour
+       Devenir partenaire ou client
+          + Entreprises : travailler avec le BRGM, mode d'emploi
+          + Partenaires publics : le BRGM à vos côtés
+          + Nos solutions
+          + Laboratoires et plateformes technologiques
+          + Devenir fournisseur du BRGM
+     * Identité (BUTTON)
+       (BUTTON) Retour
+       Identité
+          + Le BRGM en bref
+          + Stratégie
+          + Gouvernance
+          + Histoire
+          + Engagements
+          + Filiales et participations
+     * Résultats et données (BUTTON)
+       (BUTTON) Retour
+       Résultats et données
+          + Références et projets
+          + Rapports publics
+          + Publications scientifiques
+          + Logiciels
+          + Sites web, applications et bases de données
+     * France et monde (BUTTON)
+       (BUTTON) Retour
+       France et monde
+          + Réseau régional
+          + Europe
+          + International
+
+     * Actualités
+     * Événements
+     * Espace pédagogique
+     * État des nappes d’eau souterraine
+     * Recrutement et carrières
+     * Éditions du BRGM
+     * Newsletter
+     * Contacts
+
+     * (BUTTON)
+       (BUTTON) Retour
+     * (BUTTON)
+       (BUTTON) Retour
+
+   Vue d'une opération de mesures de maintenance sur les sources des
+   Fonts, Lozère
+   (BUTTON)
+
+   Fil d'Ariane
+     * Accueil
+     * État des nappes d’eau souterraine : un suivi assuré par le BRGM
+
+État des nappes d’eau souterraine : un suivi assuré par le BRGM
+
+   Partager
+     *
+     *
+     *
+
+   Sommaire
+
+   Le BRGM, service géologique national, assure la surveillance du niveau
+   des nappes phréatiques et de la qualité des eaux souterraines en France
+   hexagonale.
+
+   Afin de surveiller le niveau des nappes d’eau souterraine, le BRGM
+   assure le suivi du réseau national piézométrique qui comporte 1860
+   points de forage. Ces derniers permettent de connaître en temps réel
+   l’état quantitatif des grandes nappes phréatiques exploitées. À partir
+   de ces données, le BRGM édite notamment un bulletin de situation des
+   nappes afin de décrire l’état des nappes d’eau souterraine.
+
+Situation des nappes d’eau souterraine
+
+   Carte de France hexagonale de la situation des nappes d'eau souterraine
+   au 15 décembre 2025.
+   Actualité
+   Nappes d’eau souterraine au 15 décembre 2025
+   La recharge des nappes phréatiques est active avec 58% des niveaux en
+   hausse. La situation globale est satisfaisante avec 45% des points
+   d’observation au-dessus des normales mensuelles.
+   18 décembre 2025
+   Voir tous les bulletins de situation sur les nappes phréatiques
+
+   Cascades des tufs à Baume-les-Messieurs (Jura, 2022).
+   (BUTTON)
+
+FAQ : Eau souterraine, sécheresse et inondations
+
+   Qu’est-ce qu’une nappe d’eau souterraine ? Comment sont mesurés les
+   niveaux des nappes phréatiques ? Qu’entend-on par sécheresse et à quoi
+   est-elle due ? Quelles sont les mesures de restriction mises en place
+   pour préserver les nappes ? Face au manque d’eau, quelles pistes de
+   solutions doivent être privilégiées ? Découvrez les réponses à toutes
+   ces questions et bien plus, pour tout comprendre sur l'eau souterraine.
+
+   Vue des gorges du Verdon, France
+   Dossier thématique
+   Eau souterraine, sécheresse et inondations : FAQ - questions fréquentes
+   Découvrez dans notre FAQ les réponses à vos questions sur l'eau
+   souterraine et la sécheresse, le suivi des nappes phréatiques, ainsi
+   que les données sur cette ressource invisible mais essentielle.
+   26 septembre 2023
+
+   Les résurgences du cirque de Choranche, Isère
+   (BUTTON)
+
+Les eaux souterraines : la ressource cachée de la France
+
+   L’eau souterraine est une ressource très utilisée : en France
+   hexagonale, elle représente près des deux tiers de la consommation
+   d’eau potable et plus du tiers de celle du monde agricole. Elle est
+   aussi largement exploitée dans le secteur industriel. Les nappes d’eau
+   souterraine dépendent de recharges cycliques.
+
+   Schéma sur le cycle de l'eau terrestre.
+
+   Schéma sur le cycle de l'eau terrestre.
+
+   © BRGM
+
+L’eau souterraine : de l’eau contenue dans les roches
+
+   Après infiltration de la pluie sous nos pieds, elle circule dans les
+   pores et les fissures des roches, à une vitesse variable.
+
+   Les formations géologiques qui contiennent des eaux souterraines
+   exploitables de façon significative sont appelées aquifères. L’aquifère
+   est un contenant, la nappe est son contenu.
+
+   Les nappes ne sont pas des lacs souterrains comme certains l’imaginent
+   parfois : l’eau qui circule n’occupe que les vides de la roche (pores,
+   fissures, fractures).
+
+   Un aquifère est à la fois un réservoir capable d’emmagasiner des
+   volumes plus ou moins importants d’eau provenant des pluies infiltrées,
+   et un conducteur permettant les écoulements souterrains et la vidange
+   progressive du réservoir vers des exutoires naturels (les rivières ou
+   la mer).
+
+Le cycle de l'eau et la recharge des nappes
+
+   Les nappes d’eau souterraine sont alimentées par la pluie. Elles se
+   rechargent essentiellement en automne et en hiver.
+
+   Alors qu'une partie des précipitations s'évacue par ruissellement, le
+   proche sous-sol s'humidifie progressivement. Une partie de ces eaux,
+   plus de 60% en France, est ensuite redistribuée vers l'atmosphère via
+   l'évaporation au niveau des sols et la transpiration des plantes. Le
+   reste s'infiltre plus profondément dans le sous-sol, contribuant �
+   l'alimentation des réservoirs d'eau souterraine et à la "recharge des
+   nappes".
+
+   Une animation pédagogique sur le cycle de l'eau souterraine.
+
+   L'eau s'évapore au-dessus de l'océan et forme des nuages. L'eau rejoint
+   alors le sol sous forme de pluie, mais, aussi, parfois, de grêle ou de
+   neige. Une partie de cette eau ruisselle sur le sol. Une autre
+   s'infiltre.
+
+   © BRGM / Agence de l'eau Adour-Garonne
+
+Transcription
+
+   L'eau s'évapore au-dessus de l'océan et forme des nuages. L'eau rejoint
+   alors le sol sous forme de pluie, mais, aussi, parfois, de grêle ou de
+   neige. Une partie de cette eau ruisselle sur le sol. Une autre
+   s'infiltre.
+
+   L'eau va traverser la terre végétale. En quelques heures, elle va
+   continuer sa descente en suivant les espaces entre les grains de la
+   roche. Il y a de l'air et de l'eau dans ces vides. La zone est dite non
+   saturée.
+
+   Lorsque l'eau rencontre une couche imperméable, elle ne peut plus
+   descendre. Elle va s'accumuler et former une nappe où les espaces vides
+   entre les grains sont entièrement remplis d'eau. C'est la zone saturée.
+   L'eau va s'écouler horizontalement sur cette couche imperméable en se
+   déplaçant de quelques mètres par jour vers le point le plus bas.
+
+   Tant qu'il pleut, la nappe se remplit plus vite qu'elle ne se vide et
+   son niveau monte. Quand il ne pleut plus, le niveau baisse. On parle de
+   vidange de la nappe.
+
+   A partir du printemps et jusqu'à l'automne, même s'il pleut,
+   l'évaporation par la chaleur et par les plantes va utiliser toute l'eau
+   qui pénètre dans la terre végétale. Cette eau ne descend plus vers la
+   nappe. Au point le plus bas, elle continue à s'écouler dans la rivière.
+   Le niveau de la nappe baisse progressivement durant tout l'été et le
+   débit de la rivière diminue.
+
+   L'eau, qui descend à travers une couche poreuse, s'accumule sur la
+   couche imperméable et forme une nappe qui s'écoule horizontalement.
+   Lorsque l'eau passe sous une formation argileuse imperméable, la nappe
+   devient captive. Elle va s'écouler beaucoup plus lentement, mais,
+   surtout, son niveau ne peut plus monter. Il est bloqué vers le haut par
+   la couche imperméable. Dans cette nappe captive, l'eau va donc se
+   trouver sous pression. Si on fait un forage à travers la couche
+   imperméable, l'eau va monter dans le tube. S'il y a assez de pression,
+   elle va même jaillir spontanément à la surface. On dit que le forage
+   est artésien.
+
+   Dans la nature, il y a souvent une superposition de plusieurs couches
+   poreuses et imperméables. Elles forment une sorte de millefeuille,
+   comme c'est le cas pour le Bassin aquitain.
+
+   Cyclicité des nappes d'eau souterraine en France hexagonale.
+
+   Cyclicité des nappes d'eau souterraine en France hexagonale.
+
+   © BRGM
+
+La période de recharge hivernale : six mois décisifs
+
+   Le niveau des nappes varie au cours de l’année, entre des niveaux hauts
+   l’hiver (quand la végétation n’absorbe pas l’eau des pluies) et des
+   niveaux bas l’été (période classique de vidange des nappes).
+
+   Le devenir d'une pluie est très différent selon la période de l'année
+   et l'état de la surface sur laquelle elle tombe. Traditionnellement, la
+   période de recharge des nappes s'étend du début de l'automne (septembre
+   - octobre) au début du printemps (mars - avril), semestre durant lequel
+   la végétation est en sommeil (avec une évapotranspiration faible) et
+   les précipitations sont en principe plus abondantes. Si l'hiver est
+   sec, la recharge des nappes est très faible.
+
+   À partir du printemps et durant l’été, la hausse des températures, la
+   reprise de la végétation, et donc l’augmentation de
+   l’évapotranspiration, limitent l’infiltration des pluies vers les
+   nappes. Entre mai et octobre, sauf événements pluviométriques
+   exceptionnels, la vidange des nappes se poursuit habituellement et les
+   niveaux continuent de baisser jusqu’à l’automne.
+
+   Schéma représentant les différents types d’aquifères.
+
+   Schéma représentant les différents types d’aquifères.
+
+   © BRGM - Marylène Imbault
+
+Cyclicité de la recharge des nappes : nappes inertielles et réactives
+
+   Les nappes s'écoulent plus ou moins rapidement selon la porosité
+   (pourcentage de vides dans la roche) et la perméabilité (capacité �
+   laisser circuler l’eau – connexion entre ces vides) des aquifères. Plus
+   les vides sont importants, grands et reliés entre eux, plus la nappe
+   s’écoulera vite.
+
+   Un même volume d’eau peut parcourir une même distance :
+     * en quelques années en milieu poreux : l’eau s’écoule dans les
+       interstices de la roche meuble (sables, graviers) ou consolidée
+       (grès, craie).
+     * en quelques mois en milieu fissuré : l’eau est contenue et circule
+       dans les failles ou les fissures de la roche (roches cristallines -
+       granites, schistes - roches volcaniques, calcaires non karstifiés).
+     * et en quelques jours, voire quelques heures, en milieu karstique
+       : les eaux ont dissout les fissures et créé des boyaux (karsts des
+       calcaires du Crétacé et du Jurassique).
+
+   L'impact de la qualité de la recharge hivernale est différent selon la
+   cyclicité de la nappe, c’est-à-dire sa réactivité à l’infiltration
+   d’une pluie.
+
+   Les nappes inertielles (craie, formations tertiaires et formations
+   volcaniques) ont une cyclicité pluriannuelle. Leur inertie,
+   caractérisée par des écoulements lents, leur permet de conserver des
+   niveaux peu dégradés à la sortie d'un hiver caractérisé par une
+   recharge déficitaire.
+
+   Au contraire, les nappes réactives à cyclicité annuelle (alluvions,
+   calcaires jurassiques et crétacés, grès triasiques et socle) sont très
+   sensibles au déficit de pluie efficace.
+
+   Récupération de données piézométriques
+   (BUTTON)
+
+Comment la France surveille ses eaux souterraines
+
+   Au fil des décennies, les chercheurs ont développé une connaissance
+   intime du sous-sol français. Aujourd’hui, le pays dispose d’un ensemble
+   d’instruments de mesures qui lui donne une vision très étoffée de
+   l’état quantitatif et chimique des eaux souterraines. Le BRGM est en
+   charge de la coordination et de la mise en valeur de ces énormes masses
+   de données.
+
+   La France dispose de 6500 aquifères, dont 200 aquifères d’importance
+   régionale (superficie entre 1000 et 100 000 km2), abrités par des
+   roches variées.
+
+   La France dispose de 6500 aquifères, dont 200 aquifères d’importance
+   régionale (superficie entre 1000 et 100 000 km^2), abrités par des
+   roches variées.
+
+   © BRGM
+
+Connaître les réserves du sous-sol
+
+   Malgré la diversité de son sous-sol et les inconnues encore nombreuses,
+   la France possède des bases de données très riches pour la connaissance
+   des réservoirs aquifères du sous-sol. Elles sont aujourd’hui gérées et
+   développées par le BRGM en coopération avec ses partenaires. Environ
+   6500 nappes de toutes tailles ont été référencées sur le territoire
+   national, dont 200 aquifères d’envergure régionale (de 1000 à 100 000
+   km^2).
+
+   Afin de surveiller le niveau des nappes comme il est attendu dans la
+   directive-cadre sur l’eau, le BRGM assure le suivi du réseau national
+   piézométrique qui comporte 1860 points de forage. Ces derniers plongent
+   dans le sous-sol et permettent de connaitre en temps réel l’état
+   quantitatif des grandes nappes phréatiques exploitées, les piézomètres
+   (tubes d'observation du niveau de la nappe) étant pour la plupart
+   équipés d’une technologie particulière (le GRPS) qui transmet les
+   informations à distance. Une à deux fois par an, des techniciens se
+   rendent sur le terrain afin de vérifier manuellement que les données
+   envoyées par le GRPS sont conformes aux niveaux observés sur place.
+
+Surveiller la qualité des eaux souterraines
+
+   En outre, le BRGM a fourni un effort considérable ces 15 dernières
+   années afin de coupler l’analyse quantitative des eaux à une analyse
+   qualitative. Le service géologique national intègre ainsi à son réseau
+   de mesures :
+     * Des outils permettant de relever la température des eaux
+       souterraines et leur conductivité électrique. Le but est ici de
+       mieux cerner le lien entre les eaux étudiées et l’augmentation du
+       niveau marin (avec les intrusions salines), ainsi que les échanges
+       avec les eaux de surface.
+     * Des outils d'analyse qualitative pour les risques de pollution. En
+       France, entreprises, collectivités ou agences liées à l’eau ont
+       installé au fil du temps pas moins de 75 000 qualitomètres
+       (distincts des piézomètres qui mesurent le niveau des nappes) sur
+       le territoire national. Cette énorme masse d’informations est
+       collectée par le portail ADES, développé et géré par le BRGM. Ses
+       scientifiques s’en servent pour améliorer la compréhension du
+       transport et de la transformation des contaminants dans le sol puis
+       dans les nappes (nitrates, pesticides ou polluants émergents comme
+       les résidus cosmétiques ou les produits phytosanitaires). Ces
+       travaux nécessitent de développer de nouveaux outils permettant par
+       exemple d’effectuer un "balayage" de tous les polluants présents
+       dans l’eau, et donc de mobiliser des moyens à la fois en
+       microbiologie, en hydrophysique, en métrologie, mais aussi dans
+       l’analytique et pour l’expérimentation. Ils permettront notamment
+       d’affiner les cartes de vulnérabilité des eaux souterraines et de
+       prédire l’impact des changements d’occupation du sol ou des mesures
+       de protection sur la qualité des eaux souterraines.
+
+Les sciences de la Terre, essentielles à la gestion quantitative et
+qualitative de l’eau
+
+   Le BRGM s’est penché très tôt sur la question de l’eau. Il développe
+   depuis sa création une expertise aujourd’hui internationalement
+   reconnue en matière de gestion quantitative et qualitative des eaux
+   souterraines. Le BRGM s’appuie sur des compétences solides en matière
+   de connaissance de la structure du sous-sol et de caractérisation des
+   hydrosystèmes (évaluation des ressources, compréhension des transferts
+   des pollutions dans les eaux souterraines).
+
+Connaître pour gérer : l’apport des géosciences
+
+   Le caractère « caché » des eaux souterraines et la grande inertie d’une
+   partie de ces réservoirs due à la lenteur des écoulements sont les deux
+   plus grands atouts de cette ressource, garantissant l’accès à une eau
+   de qualité préservée des pollutions de surface. Mais ces avantages ont
+   un revers, la caractérisation des gisements, la compréhension de leur
+   dynamique et leur exploitation sont rendus plus complexes que pour les
+   eaux de surface.
+
+   L’apport des géosciences s’avère indispensable dans l’acquisition,
+   l’harmonisation et l’actualisation des données sur les formations
+   géologiques aquifères et les enveloppes protectrices des eaux
+   souterraines. Expert des ressources du sous-sol, le BRGM contribue
+   ainsi à l’évaluation précise des ressources en eau souterraine et au
+   développement d’outils de gestion pour les différents acteurs de l’eau
+   français, comme les agences de l’eau.
+   En savoir plus sur la gestion des eaux souterraines au BRGM
+
+   Nappe de la Craie, région Centre
+   (BUTTON)
+
+Ressources et bases de données sur l'eau souterraine en France
+
+   La France possède des bases de données très riches pour la connaissance
+   de ses eaux souterraines. Elles sont développées et gérées par le BRGM
+   en coopération avec ses partenaires.
+
+   Carte de France hexagonale de la situation des nappes d'eau souterraine
+   au 1er juillet 2025.
+
+   Carte de France hexagonale de la situation des nappes d'eau souterraine
+   au 1^er juillet 2025.
+
+   Carte établie le 4 juillet 2025 par le BRGM, à partir de données de la
+   banque ADES acquises jusqu’au 30 juin 2025.
+
+   Source des données : banque ADES (ades.eaufrance.fr) / Hydroportail
+   (hydro.eaufrance.fr) / Fond de carte © IGN. Producteurs de données et
+   contribution : APRONA, BRGM, Conseil Départemental de la Vendée,
+   Conseil Départemental des Landes, Conseil Départemental du Lot, EPTB
+   Vistre Vistrenque, Parc Naturel Régional des Grandes Causses, Syndicat
+   Mixte d’Etudes et de Travaux de l’Astien (SMETA), Syndicat Mixte pour
+   la protection et la gestion des nappes souterraines de la plaine du
+   Roussillon (SMNPR).
+
+   Cette carte présente les indicateurs globaux traduisant les
+   fluctuations moyennes des nappes. Ils sont établis à partir des
+   indicateurs ponctuels relevés au niveau des points de surveillance du
+   niveau des nappes (piézomètres).
+
+   L'indicateur "Niveau des nappes" compare le mois en cours par rapport
+   aux mêmes mois de l’ensemble de la chronique, soit au minimum 15 ans de
+   données, et jusqu'à plus de 100 ans. Il est réparti en 7 classes, du
+   niveau le plus bas (en rouge) au niveau le plus haut (en bleu foncé).
+
+   Les zones grises correspondent à des secteurs sans nappes libres,
+   c'est-à-dire avec une couche imperméable ou semi-perméable au-dessus de
+   la nappe, et/ou des secteurs comportant une très faible densité de
+   points de suivi. Ce dernier cas concerne notamment les zones
+   montagneuses dont les nappes sont petites et hétérogènes.
+
+   L'indicateur "Évolution des niveaux" traduit la variation du niveau
+   d'eau du mois échu par rapport aux deux mois précédents (stable, à la
+   hausse ou à la baisse).
+
+   Ces indicateurs globaux rendent compte de situations et de tendances
+   générales et ne tiennent pas compte d'éventuelles disparités locales.
+
+   © BRGM
+
+Le bulletin de situation des nappes du BRGM : une vision statistique sur la
+durée
+
+   Le BRGM, service géologique national, publie chaque mois son bulletin
+   de situation des nappes (ou BSN) qui fait le point sur l’état
+   quantitatif des nappes d'eau souterraine. Ce point de situation compare
+   le mois en cours par rapport aux mêmes mois de l’ensemble de la
+   chronique, soit au minimum 15 ans de données.
+
+   En se basant sur les niveaux fournis par les piézomètres du réseau de
+   surveillance national, le BRGM établit des indicateurs de niveau afin
+   de faciliter l’interprétation des données. Quand un forage
+   piézométrique dispose d’un minimum de 15 ans de données, il est jugé
+   apte à établir des moyennes mensuelles et un écart à la moyenne. Telle
+   nappe sera ainsi considérée comme haute ou basse par rapport à la
+   moyenne du même mois sur au moins 15 années. Ladite moyenne évolue
+   elle-même au fil du temps car elle ajoute les niveaux de l’année
+   précédente. Les chroniques les plus anciennes du réseau piézométrique
+   national remontent à plus de 100 ans.
+
+   Depuis 2017, le calcul utilisé se base sur l'indicateur piézométrique
+   standardisé (IPS). Il est en cohérence avec l’indicateur standardisé
+   des précipitations développé par Météo-France, ce qui facilite la
+   comparaison de l’état des nappes avec les épisodes climatiques.
+   Voir tous les bulletins de suivi des nappes phréatiques
+
+   Risque sécheresse sur les nappes à enjeux en 2023 - avril 2023.
+
+   Risque sécheresse sur les nappes à enjeux en 2023 - avril 2023.
+
+   © BRGM
+
+Prévisions saisonnières et carte du risque sécheresse
+
+   Chaque mois, Météo-France produit un bulletin des grandes tendances
+   pour les trois mois à venir. Il ne s’agit pas de prévisions
+   météorologiques destinées à fournir des informations sur le temps
+   attendu en France tel ou tel jour, mais de dégager des tendances
+   probabilistes à l’échelle de l’Europe. Ces prévisions sont utilisées
+   par le BRGM pour réaliser une projection de l’état des nappes, intégrée
+   dans le bulletin mensuel sur l’état des nappes d’eau souterraine.
+
+   Le BRGM réalise en outre, depuis 2021, une carte des prévisions
+   saisonnières estivales sur la situation des nappes. L’élaboration de la
+   carte du risque sécheresse repose sur l’état initial des nappes après
+   la période de recharge hivernale, sur des prévisions saisonnières de
+   Météo-France, sur les prévisions saisonnières issues de modèles
+   hydrogéologiques ainsi que sur l’expertise des hydrogéologues régionaux
+   du BRGM.
+
+Le bulletin de situation hydrologique
+
+   Le bulletin national de situation hydrologique est constitué d’un
+   ensemble de cartes et de leurs commentaires qui présentent l’évolution
+   mensuelle des ressources en eau. Il décrit la situation quantitative
+   des milieux aquatiques (pluies efficaces, débits des cours d’eau,
+   niveau des nappes d’eau souterraine, état de remplissage des
+   barrages-réservoirs) et fournit une information synthétique sur les
+   arrêtés préfectoraux pris pour limiter les usages de l’eau durant la
+   période d’étiage.
+
+   Le BRGM contribue au bulletin national de situation hydrologique pour
+   le volet eaux souterraines.
+   Consulter le bulletin de situation hydrologique sur le site EauFrance
+
+ADES : le portail national d’accès aux données sur les eaux souterraines en
+France
+
+   Le BRGM a mis en place une base de données et un site internet associé,
+   accessible à l’ensemble des acteurs de l’eau mais aussi au grand public
+   : ADES. Il rassemble les données quantitatives et qualitatives
+   relatives aux eaux souterraines en France hexagonale et dans les
+   départements d’outre-mer, obtenues grâce aux milliers de forages
+   piézométriques français et aux dizaines de milliers d'ouvrages dédiés
+   au suivi de la qualité des eaux souterraines. ADES constitue un outil
+   majeur de communication et d’aide à la gestion pour la surveillance des
+   eaux souterraines en mettant à disposition des données facilement
+   accessibles.
+   Visiter le portail ADES
+
+   Carte des entités hydrogéologiques affleurantes du Référentiel
+   hydrogéologique BDLISA version 3, classées selon leur nature.
+
+   Carte des entités hydrogéologiques affleurantes du Référentiel
+   hydrogéologique BDLISA version 3, classées selon leur nature.
+
+   © BRGM
+
+BDLISA : le référentiel hydrogéologique français
+
+   Pour faciliter l’accès à la connaissance de l’état des nappes, et
+   permettre une meilleure gestion de la ressource par les services de
+   l’État et les collectivités, le BRGM a conduit 10 ans durant un vaste
+   chantier d’unification des données dans un référentiel évolutif : la
+   Base de Données des Limites des Systèmes Aquifères (BDLISA). Il s’agit
+   du référentiel cartographique du système d’information sur l’eau. Il
+   donne une vision spatiale des grandes masses d’eau souterraine
+   présentes sur le territoire. Son utilisation nécessite une formation,
+   que le BRGM dispense à son siège d’Orléans.
+
+   Le référentiel BDLISA peut être utilisé pour définir les nappes �
+   réserver à l’alimentation en eau potable en cas de déficit hydrique,
+   pour identifier les causes d’une inondation en mettant au jour le rôle
+   éventuel des nappes souterraines (débordement de nappes), pour
+   déterminer le risque d’intrusion marine dans les eaux souterraines en
+   zone côtière, ou encore pour étudier la faisabilité technique et
+   économique d’une solution de recharge artificielle.
+   Visiter le site web BDLISA
+
+   Page d’accueil du site web MétéEAU Nappes.
+
+   Page d’accueil du site web MétéEAU Nappes.
+
+   © BRGM
+
+MétéEAU Nappes, un outil de suivi en temps réel et de prévision du niveau des
+nappes
+
+   Le BRGM a développé le site internet MétéEAU Nappes, qui offre un
+   ensemble de services permettant le suivi du comportement actuel et
+   futur des aquifères en France. C’est un véritable outil d’aide à la
+   décision pour la gestion de la ressource en eau dans les territoires �
+   forts enjeux (gestion des étiages, risques d’inondation par remontée de
+   nappe...).
+
+   Ces données sont mises à disposition sous forme de cartes et de courbes
+   dynamiques basées sur des travaux de modélisation et de prévision des
+   niveaux des nappes en basses et hautes eaux. Des données
+   météorologiques, hydrologiques et piézométriques sont mises en ligne en
+   temps réel sur plusieurs sites représentatifs de France hexagonale.
+   Associées aux modèles globaux utilisés, ces données permettent de
+   prévoir le niveau des nappes. Ces prévisions, lancées sur 6 mois, sont
+   comparées à des seuils piézométriques (exemple : seuils sécheresse
+   issus des arrêtés préfectoraux de restriction d’usage en cours).
+   Visiter le site web MétéEAU Nappes
+
+   Pages d'accueil des SIGES par territoires.
+
+   Pages d'accueil des SIGES par territoires.
+
+   © BRGM
+
+SIGES : le système d'information pour la gestion des eaux souterraines
+
+   Depuis 2025, le SIGES (Système d'Information pour la Gestion des Eaux
+   Souterraines), portail de valorisation de l’information publique dans
+   le domaine des eaux souterraines, rassemble en un seul site web les
+   informations et données des différents territoires, selon un découpage
+   géographique lié aux régions administratives ou aux bassins versants.
+
+   Le SIGES s’articule autour de trois rubriques principales :
+     * Découvrir : des contenus pédagogiques pour le grand public et les
+       scolaires afin de mieux comprendre les enjeux de l’hydrogéologie.
+     * Mon SIGES : un espace conçu pour les professionnels, offrant un
+       accès aux contenus plus spécifiques des territoires : données
+       territoriales, bulletins de situation des nappes, études
+       régionales, spécialement conçus pour les collectivités, les
+       services de l’État et les experts.
+     * Outils : des fonctionnalités avancées pour explorer les cartes
+       interactives, les fiches territoriales, les modèles géologiques et
+       l’atlas des itinéraires hydrogéologiques, pour une analyse
+       approfondie des données.
+
+   Découvrir le SIGES
+   (BUTTON) Retour
+
+   Scan 3D d’une cavité souterraine dans le cadre d’un diagnostic de
+   stabilité
+   (BUTTON)
+   (BUTTON)
+   Newsletter
+   Abonnez-vous à la newsletter
+   Contacts et accès
+   Contacts
+   Contact presse
+   Plans d'accès
+   Nous suivre
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Mentions légales - Crédits
+     * Protection des données personnelles
+     * Gestion des cookies
+     * Accessibilité : non conforme
+     * Accès aux documents administratifs
+
+   Logo du BRGM avec le logo République française
+   Logo Certification ISO 9001 et 14001 Logo COFRAC Logo HRS4R Logo France
+   2030 Logo EuroGeoSurveys
+   BRGM - 3 avenue Claude-Guillemin - BP 36009 - 45060 Orléans Cedex 2 -
+   France - Tél. : +33 (0)2 38 64 34 34
+   Newsletter
+
+   Abonnez-vous à notre newsletter et recevez chaque mois nos actualités !
+
+   Email
+   *
+   ____________________ Confirmation d'inscription
+   *
+   [ ]
+   En renseignant mon adresse email et en confirmant mon inscription,
+   j'accepte de recevoir la newsletter BRGM Infos.
+   (JE M'ABONNE) JE M'ABONNE
+   * Champs obligatoires
+   (BUTTON) ×

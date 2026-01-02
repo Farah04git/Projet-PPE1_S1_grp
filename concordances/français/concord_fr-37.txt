@@ -1,0 +1,259 @@
+
+   Accueil > Langue française > Dictionnaire > état
+   Accueil > langue française > dictionnaire > état n.m. - états n.m.pl.
+     * Définitions
+--
+
+ état
+
+--
+       d'être de quelque chose dans ce qu'il a de durable : Véhicule en
+       bon état.
+     * 3. Manière d'être physique ou morale de quelqu'un : Le malade est
+       dans un état grave. Être dans un état de grande excitation.
+       Synonymes :
+       disposition - humeur
+     * 4. Fait d'être d'une manière relativement durable : L'état de
+       veille. L'état de siège est déclaré.
+     * 5. Situation de quelque chose à un moment donné : Quel est l'état
+       de la question ?
+     * 6. Document décrivant la situation de quelque chose à un moment
+       donné ; inventaire : Demander l'état des dépenses.
+       Synonymes :
+--
+     * 7. Littéraire. Situation sociale ou professionnelle ; condition :
+       L'état militaire. Il est avocat de son état.
+     * Cybernétique
+--
+       9. Condition d'une planche aux différents stades de son exécution,
+       depuis la première épreuve d'essai jusqu'à l'état définitif, ou
+       état de tirage. (Il y a des épreuves de premier état, de deuxième
+       état, etc. Dans le cas d'une gravure avec légende, on distingue les
+       états avant la lettre, à la lettre grise, à la lettre noire.)
+     * Informatique
+--
+
+ états
+
+--
+
+   (de état 1)
+     * En France, au Moyen Âge et sous l'Ancien Régime, chacun des trois
+       ordres (clergé, noblesse, tiers état) du corps social.
+     __________________________________________________________________
+--
+
+   état n.m.
+
+   Nature sous laquelle se présente un corps.
+   états n.m. pl.
+
+--
+   ordres...
+   Acte de l'état civil
+   Action d'état
+   À l'état (+ adjectif)
+   Bois en état
+   En état
+   En état de marche
+   En l'état
+   Équation d'état
+   État civil
+--
+   État de droit
+   état-major n.m.
+
+--
+
+   Action en contestation d'état
+   Aide médicale de l'État ou (couramment) d'État (AME)
+--
+   Avocat au Conseil d'État et à la Cour de cassation
+   Bulletin d'état civil
+   Bureau d'état-major
+   Capitalisme monopoliste d'État
+   Changement d'état
+   Chef de l'État
+   Chef de l'État français
+   Chef d'état-major
+   Chef d'état-major général des armées
+   Comité des chefs d'état-major
+   Conduite en état alcoolique ou en état d'ivresse
+   Continuité de l'État
+   Continuité de l'état liquide et de l'état gazeux
+   Contrôleur d'État
+   Corps d'état ou corps de métier
+   Déclaration de l'état civil
+   Département d'État
+   Dépérissement de l'État
+   Diagramme thermodynamique ou d'état
+   Donner accès à, sur, dans un lieu, à une situation, un état, etc.
+   Douma d'État
+   En état d'alerte, en alerte
+   En piteux état
+   En tout état de cause
+   État accréditaire
+--
+
+Expressions avec état
+
+ état
+
+   nom masculin
+     * À l'état (+ adjectif), indique la manière dont se présente quelque
+       chose, dans telle situation : À l'état brut.
+     * En état, en bon état : Il faut remettre l'appartement en état.
+     * En état de marche, susceptible de fonctionner correctement.
+     * En l'état, tel quel, sans changement.
+     * État de choses, circonstances, conjoncture particulière.
+--
+       de quelque chose.
+     * Être en état de, être dans cette situation : Être en état
+       d'arrestation ; être en mesure de, capable de.
+     * Être hors d'état, être incapable de : Être hors d'état de nuire ;
+       être inutilisable.
+     * Familier. Être, mettre quelqu'un dans tous ses états, être
+       extrêmement agité, énerver, perturber quelqu'un.
+     * Faire état de, tenir compte de quelque chose, en faire cas, s'en
+       prévaloir, le mentionner : Faire état d'un témoignage pour se
+       disculper.
+     * Mettre, tenir quelque chose en état, le préparer, le rendre ou le
+       garder prêt à servir.
+--
+     * Bâtiment et Travaux publics
+       État limite, état pour lequel une condition requise pour une
+       construction est strictement satisfaite et cesserait de l'être en
+       cas de modification défavorable d'une action extérieure. (La
+       théorie des états limites est la base de la vérification moderne de
+       la sécurité des ouvrages.)
+--
+     * Droit
+       Acte de l'état civil, acte authentique dressé dans chaque commune
+       par un officier de l'état civil et qui fournit une preuve certaine
+       de l'état des personnes (acte de naissance, de mariage, de décès,
+       de reconnaissance d'un enfant naturel, etc.).
+     * Action d'état, action en justice portant sur l'état d'une personne
+       (action en réclamation ou en contestation d'état, action en
+       divorce, etc.).
+--
+       vue de la jouissance et de l'exercice des droits civils ; service
+       public chargé des actes de l'état civil dans chaque commune.
+     * État des personnes, ensemble des règles qui déterminent l'existence
+       juridique et la situation familiale d'une personne dans la société
+       (nationalité, mariage, filiation). [L'état des personnes,
+       impérativement attaché à la personne, est indisponible,
+       imprescriptible et indivisible.]
+     * Fiche d'état civil, fiche relative à l'état civil d'une personne
+       (fiche individuelle d'état civil) ou d'une famille (fiche familiale
+       d'état civil) et autrefois délivrée à la mairie (jusqu'en 2000).
+     * Officier de l'état civil, dans chaque commune, le maire, seul
+       compétent pour délivrer des actes de l'état civil et responsable
+       des registres de l'état civil, tenus en double et dont l'un est
+       envoyé chaque année au greffe du tribunal de grande instance. (Le
+--
+       municipal.)
+     * Possession d'état, exercice par une personne des prérogatives
+       attachées à sa situation sociale ou professionnelle. (La possession
+       d'état comporte le nom, le traitement, la renommée.)
+     * Hydrologie
+--
+       moment de son histoire.
+     * Verbe d'état, verbe exprimant que le sujet de la phrase est dans un
+       état donné (par exempleêtre, devenir, paraître, etc.).
+     * Médecine
+       Période d'état, phase d'une maladie qui succède à la phase initiale
+       d'installation (d'invasion) et pendant laquelle les phénomènes
+--
+       État de la matière, manière d'être d'un corps, relative à sa
+       cohésion, à sa fluidité (états solide, liquide, gazeux), �
+       l'arrangement de ses atomes ou molécules (états amorphe,
+       cristallin, mésomorphe), à l'ionisation de ses atomes (états
+       neutre, ionisé), etc.
+--
+     * Sylviculture
+       Bois en état, arbre debout.
+     * Thermodynamique
+       Équation d'état, relation existant à l'équilibre entre les divers
+       paramètres macroscopiques d'un système (température, volume,
+       pression, énergie, nombre de particules).
+     * Fonction d'état, grandeur physique qui ne dépend que de l'état
+       thermodynamique d'un système et non de son évolution antérieure.
+
+ états
+
+--
+       composées des représentants de toutes les provinces du royaume
+       appartenant aux trois ordres (clergé, noblesse, tiers état).
+     * États provinciaux, assemblées composées de représentants des trois
+       ordres d'une province.
+     * Pays d'états, provinces possédant des états provinciaux.
+
+--
+
+Homonymes de état
+
+--
+
+Difficultés de état
+
+--
+       province.
+       Avec une minuscule dans tous les autres sens : état civil, tiers
+       état, états provinciaux.
+
+--
+
+Citations avec état
+
+     * André Breton (Tinchebray, Orne, 1896-Paris 1966)
+       L'œil existe à l'état sauvage.
+       Le Surréalisme et la Peinture, Gallimard
+     * Auguste Comte (Montpellier 1798-Paris 1857)
+       [Les trois états successifs de toute pensée et de toute
+       connaissance] : l'état théologique, ou fictif ; l'état
+       métaphysique, ou abstrait ; l'état scientifique, ou positif.
+       Cours de philosophie positive
+     * Remy de Gourmont (Bazoches-au-Houlme, Orne, 1858-Paris 1915)
+       La civilisation est un produit naturel, tout comme l'état sauvage ;
+       ce sont des fleurs différentes poussées dans la même forêt.
+--
+       Académie française, 1719
+       De toutes les circonstances de la vie, le choix d'un état est celle
+       où la méprise est plus ordinaire.
+--
+     * Alexandre Vinet (Ouchy 1797-Clarens 1847)
+       Les individus sont sortis de l'état sauvage, les nations y sont
+       restées.
+--
+
+   état, états
+   -
+--
+   -
+   étatique
+   -
+   étatisation
+   -
+   étatiser
+   -
+   étatisme
+   -
+--
+
+   Les états de la matière
+
+état. [PHYSIQUE]
+
+--
+
+état civil.
+
+   L'état civil désigne à la fois l'ensemble des qualités et des...
+   Ouverture des états généraux à Versailles, le 5 mai 1789
+
+états généraux.
+
+--
+
+états provinciaux.
+

@@ -2,10 +2,10 @@
 
 # voir encodage
 ## TODO :
-# Corriger occurences : le regex ne marche pas ?
 # Convertir ceux qui ne sont pas UTF-8 pour les convertir
 # centrer colonnes
 # script pour arboressence
+
 
 
 URL_FILE=$1
@@ -17,7 +17,7 @@ USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 DIR_ASPI="./aspirations/français"
 DIR_CONTXT="./contextes"
 DIR_DUMP="./dumps-text/français/"
-DIR_CONCORD="./concordances"
+DIR_CONCORD="./concordances/français"
 DIR_HTML_OUT="./tableaux/état_français.html"
 
 
@@ -75,60 +75,54 @@ echo "$TAB_HTML" > "$DIR_HTML_OUT"
 while read -r URL ; do
 	echo ">>> Requête vers : $URL"
 
-	# Toute la réponse HTTP (header + body), pour éviter trop de curl
-	full_response=$(curl -s -i -L -A "$USER_AGENT" "$URL")
-
-
+	# Création fichier temporaire (pour ne pas stocker HTML dans variable)
+	raw_file="/tmp/raw_$ID.html"
+	
 	# Code HTTP
-	http_code=$(echo "$full_response" | head -n 1 | cut -d ' ' -f 2)
-
+	http_code=$(curl -s -L -A "$USER_AGENT" -w "%{http_code}" -o "$raw_file" "$URL")
 
 	# Vérification HTTP
 	if [[ "$http_code" != "200" ]] ; then
-		echo "Erreur : $URL non traité (!=200)"
+		echo "Erreur : $URL non traité ($http_code)"
 		continue
 	fi
-
 	
-	# HTML + écriture dans fichiers aspiration
-	html_full=$(echo "$full_response" | sed -n '/^[[:space:]]*</,$p')
-	
+	# Envoi du HTML dans aspiration
 	filename_aspiration="$DIR_ASPI/fr-$ID.html"
-	echo "$html_full" > "$filename_aspiration"
+	cp "$raw_file" "$filename_aspiration"
 
+	encoding=$(file --mime-encoding --brief "$filename_aspiration")
+	echo 'l'encoding est = "$encoding"
 
-	# Détection encodage UTF-8
-	encoding=$(echo "$html_full" | grep -i -o 'UTF-8' | head -1)
 	
+	filename_dump="$DIR_DUMP/fr-$ID.txt"
 
 
-	if [[ -n "$encoding" ]]; then
-
-		# Écriture dump dans fichiers
-		filename_dump="$DIR_DUMP/fr-$ID.txt"
-
-		# Force lynx à traiter l'entrée en UTF-8
-		echo "$html_full" | lynx -dump -nolist -stdin \
-			-assume_charset=UTF-8 \
-			-display_charset=UTF-8 \
-        	-nomargins \
-		2>/dev/null > "$filename_dump"
-
-
-	else
-		continue
-		
+	# Écriture dump
+	if [[ "$encoding" =~ utf-8|binary ]]; then
+		sed -E 's|<head>|<head><meta charset="UTF-8">|I' "$filename_aspiration" > /tmp/withcharset.html
+		lynx -dump -nolist --assume_local_charset=UTF-8 --display_charset=UTF-8 /tmp/withcharset.html > "$filename_dump"
 	fi
 
+	if iconv -f UTF-8 -t UTF-8 "$filename_dump" > /dev/null 2>&1; then
+		echo "dump est valide UTF‑8"
+	else
+		echo "dump n’est pas UTF‑8 valide"
+	fi
 
 	# Comptage mots dump
 	total_words=$(egrep "\b[[:alnum:]]+\b" -o < "$filename_dump" | wc -l)
 	echo "$total_words"
 
 	# Comptage occurences dump
+	iconv -f UTF-8 -t UTF-8 "$filename_dump" -o /dev/null 2>/dev/null && echo "utf-8 valide"
+
 	total_occurences=$(grep -Eio "$REGEX" "$filename_dump" | wc -l)
 	echo "$total_occurences"
 	
+	filename_concord="$DIR_CONCORD/concord_fr-$ID.txt"
+	grep -E -C 1 "$REGEX" "$filename_dump" > "$filename_concord"
+
 
 	echo "<tr>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$ID" "</td>" >> "$DIR_HTML_OUT"
@@ -136,7 +130,7 @@ while read -r URL ; do
 	echo "<td>" "$http_code" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$encoding" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$total_occurences" "</td>" >> "$DIR_HTML_OUT"
-	echo "<td>" "<a href=\".$filename_html\" >HTML brute</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_aspiration\" >HTML brute</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\".$filename_dump\" >Dump</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "</tr>" >> "$DIR_HTML_OUT"
 	

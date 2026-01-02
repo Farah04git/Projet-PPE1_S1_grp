@@ -1,284 +1,535 @@
-IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N2DSNF
+     * Contenu principal
+     * Recherche
+     * Pied de page
 
-[tr?id=575260064955301&amp;ev=PageView&amp;noscript=1]
+   Aller au Journal
+   Le Club de Mediapart : Participez au débat
+     * Nous contacter
+     * Se connecter
+     * Journal
+     * Rechercher
+     * (BUTTON) Menu
 
-(BUTTON) PasseportSanté (BUTTON)
-  * Maladies
-  + Rechercher par rubrique :
-  + Maladies
-  + Symptômes
-  + Parties du corps
-  + Alzheimer
-  + Analyses médicales
-  + Spécialités médicales
-  + Examens et opérations
-  + Matériel médical
-  + Santé de la femme
-  + Santé de l'homme
-  + Hygiène et soins
-  + Allergies
-  + Allergies Saisonnières
-  + Arthrose
-  + Articulations
-  + Cancer
-  + Cancer de la prostate
-  + Cancer du col de l'utérus
-  + Cancer du sein
-  + Cholestérol
-  + Coronavirus
-  + Diabète
-  + Don de sang
-  + Endométriose
-  + Incontinence urinaire
-  + Maladie Cœliaque
-  + Mal de dos
-  + Maux de tête
-  + Ménopause
-  + Menstruations
-  + Prise de sang
-  + Santé des dents
-  + Soin de la peau
-  + SIDA
-  + Thyroïde
-  + Vue
-  + Santé pratique
-  + Le mois sans tabac
-  + Dossiers pratiques :
-  + Actualités
-  + Dossiers
-  + Tribunes
-  + Réponses d'experts
-  + Audio - Vidéo
-  + Guide d'achat
-  + Médicaments
-  + 10 choses à savoir sur l'effet placebo (BUTTON) Tous les médicaments
-  * Santé naturelle
-  + Produits de santé naturels
-  + Huiles Essentielles
-  + Huiles végétales
-  + Médicaments homéopathiques
-  + Thérapies
-  + Médecine chinoise
-  + Remèdes de grand-mère
-  + Phytothérapie
-  * Nutrition
-  + Bases de la nutrition
-  + Conseils et astuces
-  + Recettes
-  + Consommer responsable
-  + Diètes spéciales
-  + Aliments
-  + Nutriments
-  + Additifs alimentaires
-  + Fruits et légumes
-  + Perte de poids
-  + Régimes
-  + IMC
-  + Sport
-  + Yoga
-  * Famille
-  + Projet d'enfant
-  + Grossesse
-  + Accouchement
-  + Allaitement
-  + Petite enfance
-  + Enfance
-  + Adolescence
-  + Bien vieillir
-  + Seniors
-  * Santé mentale
-  + Stress & Anxiété
-  + Déprime & dépression
-  + Addictions
-  + Sommeil
-  + Phobies
-  + Psychologie
-  + Mémoire
-  + Travail
-  + Santé sexuelle
-  * Hiver
-  + Journées mondiales
-  + Journée mondiale du handicap
-  + Journée française de la maladie Huntington
-  + Semaine mondiale de l'allaitement
-  + Journée mondiale de la raclette
-  + Lutte contre le SIDA
-  + état des lieux Sida monde (BUTTON) En savoir plus
-  + Santé pendant les fêtes
-  + 8 conseils survivre fetes familiales (BUTTON) En savoir plus
-  * Actualités
-  + Santé
-  + Nutrition
-  + Minceur
-  + Seniors
-  + Santé Naturelle
-  + Hygiène et soins
-  + Sport
-  + Sexo
-  + Famille
-  + Psychologie
-  + Témoignages
-  + Maison
-  + Rappel conso
+   (BUTTON) Menu
+   Rechercher
+     * À la Une du Club
+     * Depuis 48h
+     * Les blogs
+     * Les éditions
+     * L’agenda
+     * La charte
+     * Participer
 
-(BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) ____________________ (BUTTON)
+   Titre du logo Journal Mediapart (BUTTON) Fermer
+   S’abonner au journal Se connecter
+     * À la Une
+       Édition du matin
+     * Vidéos
+     * Enquêtes
+     * Dossiers
+     * Séries
+     * (BUTTON) Rubriques
+          + International
+          + Écologie
+          + Économie et social
+          + France
+          + Politique
+          + Culture et idées
+     * Fil d’actualité
+     * (BUTTON) Multimédia
+          + Podcasts
+          + Portfolios
+          + Panoramiques
+          + Vidéos
+          + Documentaires
+     * (BUTTON) Le Club de Mediapart
+       Participez au débat
+          + À la Une du Club
+          + Depuis 48h
+          + Les blogs
+          + Les éditions
+          + L’agenda
+          + La charte
+          + Participer
 
-  * PasseportSanté
-  * Diaporama
+   Rechercher
 
-Qu'est-ce que l'état de choc ?
+   Newsletters
 
-Qu'est-ce que l'état de choc ?
-[profil-default-primary.webp] Par L'équipe PasseportSanté
-Rédaction
-(BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   Découvrez notre offre de newsletters
 
-Mis à jour le 13/12/2022
+   L’application Mediapart
 
-L'état de choc est une réaction du corps ayant subi un traumatisme. Il se
-produit en cas de ralentissement du système circulatoire quand l'apport de sang
-aux organes est insuffisant. Cet état peut être extrêmement dangereux car les
-cellules des organes vitaux comme le coeur, en manque de sang, finissent par
-mourir. Tout traumatisme, émotionnel ou physique, peut mener à un état de choc
-plus ou moins important. C'est pour cela que toute victime doit être traitée
-comme si elle était en état de choc. La sévérité de l'état de choc dépend
-toutefois de la gravité du traumatisme.
+   Découvrez notre application pour mobile & tablette
 
-Signes d'un état de choc
+   Nous suivre
 
-  * Pouls faible et rapide ;
+   Toutes les plateformes pour suivre et écouter Mediapart
+     * Informer la rédaction
+     * Contacter le service abonné·es
+     * Abonnements professionnels & collectifs
 
-  * Peau pâle, moite et froide ;
+   (BUTTON) Éditions
+   Éditions anglaise et espagnole
+     * English
+     * Español
 
-  * Agitation et faiblesse ;
-  * Difficulté à respirer et essoufflement ;
+     * La Rédaction de Mediapart
+     * Notre impact
+     * Mentions légales
+     * Charte de déontologie
+     * Charte de participation
+     * CGV
+     * Confidentialité
 
-  * Angoisse, crainte et impression de mort imminente ;
+   Saul Tresauren
 
-  * Nausées ou vomissements ;
-  * Baisse du niveau de conscience.
+   Abonné·e de Mediapart
 
-Comment y remédier : la procédure P-O-R-S-C-H-E
+   4 Billets
 
-Position confortable : desserrez les vêtements de la victime (cravates,
-ceintures, etc.) et placez-la dans une position confortable qui minimise tout
-effort.
+   0 Édition
 
-Oxygène : si une machine à oxygène est disponible, n'hésitez pas à administrer
-de l'oxygène à la victime, surtout si elle donne l'impression d'en manquer.
+   Billet de blog 7 décembre 2025
 
-Rassurer la victime. Alertez les secours si la victime est en état de choc car
-la situation peut facilement dégénérer. Parlez à la victime et essayez de la
-rassurer. Gardez votre calme : cela apaisera la victime.
+   Saul Tresauren
 
-Signes vitaux : évaluez les signes vitaux et l'état de conscience de la victime
-en permanence.
+   Abonné·e de Mediapart
 
-Chaleur : maintenez le corps à une température normale. Si la victime a froid,
-couvrez-la. Si la victime est au soleil ou si elle a chaud, mettez-la à l'ombre
-ou à l'abri de la chaleur.
+La démocratie dans tous ses états... Partie 1
 
-Haut les jambes : si la victime est semi-consciente ou inconsciente, placez-la
-en position latérale de sécurité. Si la victime est consciente, placez-la sur le
-dos les jambes relevées, afin de maximiser l'apport de sang vers les organes
-importants.
+   Face aux crises et à la montée des populismes, commençons par refondre
+   la démocratie...
+   Signalez ce contenu à notre équipe
 
-Eliminer la cause : traitez la cause de l'état de choc dans la mesure du
-possible. Par exemple, il peut s'agir d'une hémorragie, d'une crise cardiaque,
-d'une blessure, etc.
+   Saul Tresauren
 
-Attention : si une blessure à la colonne vertébrale est soupçonnée, il ne faut
-pas bouger la victime pour ne pas aggraver ses blessures. Si la victime a de la
-difficulté à respirer, il est préférable de la mettre en position semi-assise,
-appuyée contre un mur.
-L'équipe PasseportSanté L'équipe PasseportSanté
-Rédaction
+   Abonné·e de Mediapart
 
-Fondée au Québec en 1998, l'équipe PasseportSanté se compose d'experts, qui
-mettent au service des lecteurs des informations fiables dans le domaine de la
-santé... Voir le profil
-4
-38 avis
-Cet article vous a-t-il été utile ?
-[ ] Oui
-[ ] Non
-(BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   Ce blog est personnel, la rédaction n’est pas à l’origine de ses
+   contenus.
 
-Sur le même sujet :
+   Au moment où, pour la première fois, l’extrême droite parvient au
+   second tour d’une élection présidentielle sous la Veme république,
+   Lydie Salvaire publie un article dans le Monde nous invitant à nous
+   retourner, à ne pas juger, à comprendre et ne pas perdre cette bataille
+   qui nous sidère. Plus de vingt ans plus tard, nous voici, désemparés
+   devant ce qui apparaît comme un horizon indépassable, la victoire des
+   populistes, la renaissance des totalitarismes et de la guerre. Nous,
+   peuple de gauche, avons abandonné le combat et nous nous sommes reniés,
+   de petites lâchetés en compromissions voyantes et finalement en bêtise
+   collective.
 
-  * 10 choses à savoir sur nos yeux qui révèlent notre état de santé
-  * Les questions à poser à une victime : S-A-M-P-L-E
-  * Reconnaître l'état de conscience d'une victime
-  * 10 douleurs liées à votre état émotionnel
-  * 5 choses à savoir sur le syndrome du choc toxique
-  * Examiner une victime avant l'arrivée des secours
+   Les crises que nous traversons sont vertigineuses. Et ceux, nombreux,
+   qui nous disent qu’ils sauront y apporter des réponses sont des
+   opportunistes menteurs se contemplant, tel Narcisse, dans la mare
+   nauséabonde de nos doutes. Ils ne savent pas. Parce qu’aucun homme ou
+   femme providentiel.le ne viendra nous sauver, nous, du marasme dans
+   lequel nous nous sommes vautrés. C’est seulement par notre conscience,
+   la conscience de notre liberté que nous parviendrons peut-être �
+   répondre aux bouleversement du monde sans disparaître.
 
-Arrière-plan
+   Il faut commencer par cette affirmation. Un homme ou une femme seul
+   n’est jamais responsable de la vie de millions ou de milliards d’êtres
+   humains. Ceux qui sont au pouvoir peuvent le penser. Ils n’ont en fait
+   aucune conscience de ce qu’ils représentent, une sorte de crispation de
+   nos contradictions. Ils pensent agir sur le monde. Ils le subissent. Et
+   cela les rend violents et effroyablement médiocres.
 
-Abonnez-vous !
+   Alors, il faut sans doute débuter par cela : refonder nos organisations
+   démocratiques et sociales de manière à créer les conditions d’une
+   autonomie et d’une intelligence collective. La question essentielle
+   n’est pas de savoir qui a le pouvoir mais comment nous décidons de
+   notre vie collective, quelles sont les instruments de notre liberté.
 
-Recevez chaque jour des conseils d'experts pour prendre soin de vous.
-____________________ OK
+   La démocratie représentative, telle qu’est mise en place depuis le
+   siècle des Lumières, doit être, à cette aune, au moins interrogée. Nous
+   ne savons pas gérer en effet cette rumeur à grande échelle générée par
+   des réseaux sociaux et bientôt des intelligences artificielles qui
+   remplaceront les influenceurs patentés de leur égotisme. Nous sommes
+   désemparés devant l’ineptie qui s’y exprime. Et c’est pourtant là que
+   la parole, la pensée parfois, s’exprime. Il faut donc trouver un moyen
+   de crever ces bulles de certitude. Retrouver des moyens de se parler,
+   d’échanger, de trouver des compromis.
 
-*Votre adresse email sera utilisée par Digital Prisma Players pour vous envoyer
-votre newsletter contenant des offres commerciales personnalisées. Elle pourra
-également être transférée à certains de nos partenaires, sous forme
-pseudonymisée, si vous avez accepté dans notre bandeau cookies que vos données
-personnelles soient collectées via des traceurs et utilisées à des fins de
-publicité personnalisée. A tout moment, vous pourrez vous désinscrire en
-utilisant le lien de désabonnement intégré dans la newsletter et/ou refuser
-l’utilisation de traceurs via le lien « Préférences Cookies » figurant sur notre
-service. Pour en savoir plus et exercer vos droits , prenez connaissance de
-notre Charte de Confidentialité.
-Arrière-plan
+   La structure hiérarchique familiale, politique, sociale,
+   entrepreneuriale ne fonctionne plus ou mal. Les outils modernes peuvent
+   donner de l’espoir si nous savons les utiliser. Ils permettent
+   d’entrevoir un système dans lequel la démocratie participative n’est
+   pas un vain mot.
 
-Abonnez-vous !
+   Il s’agit de savoir où et comment se prend la décision ; de fixer les
+   strates et les niveaux de compétences en clarifiant d’abord notre
+   organisation territoriale.
 
-Recevez chaque jour des conseils d'experts pour prendre soin de vous.
-____________________ OK
+   Le bien nommé mille feuilles territorial ne permet pas de fixer les
+   conditions d’une répartition homogène des compétences avec une logique
+   de concurrence plus que de complémentarité. Il faut donc installer les
+   conditions d’un développement avec des échelons pertinents en fixant
+   une logique de territoire.
 
-*Votre adresse email sera utilisée par Digital Prisma Players pour vous envoyer
-votre newsletter contenant des offres commerciales personnalisées. Elle pourra
-également être transférée à certains de nos partenaires, sous forme
-pseudonymisée, si vous avez accepté dans notre bandeau cookies que vos données
-personnelles soient collectées via des traceurs et utilisées à des fins de
-publicité personnalisée. A tout moment, vous pourrez vous désinscrire en
-utilisant le lien de désabonnement intégré dans la newsletter et/ou refuser
-l’utilisation de traceurs via le lien « Préférences Cookies » figurant sur notre
-service. Pour en savoir plus et exercer vos droits , prenez connaissance de
-notre Charte de Confidentialité.
-PasseportSanté
-(BUTTON) (BUTTON) (BUTTON) (BUTTON)
-  * À propos
-  * Mentions légales
-  * Droit d'auteur
-  * Contactez-nous
+   L’échelle pertinente n’est plus la commune ni le département : Les
+   décisions relatives aux infrastructures et surtout au développement
+   d’une zone se prennent désormais à l’échelle des Métropoles et des
+   régions. Cette reconnaissance suppose de réfléchir et d’installer une
+   gouvernance qui permette aux citoyens de participer à la vie
+   démocratique et aux orientations qui relèvent de l’une ou l’autre
+   strate en supprimant la commune, le département et les préfectures.
 
-Newsletter ____________________ OK
+   L’idée serait de donner la possibilité à la population de réinvestir le
+   champ politique.
 
-*Votre adresse email sera utilisée par Digital Prisma Players pour vous envoyer
-votre newsletter contenant des offres commerciales personnalisées. Elle pourra
-également être transférée à certains de nos partenaires, sous forme
-pseudonymisée, si vous avez accepté dans notre bandeau cookies que vos données
-personnelles soient collectées via des traceurs et utilisées à des fins de
-publicité personnalisée. A tout moment, vous pourrez vous désinscrire en
-utilisant le lien de désabonnement intégré dans la newsletter et/ou refuser
-l’utilisation de traceurs via le lien « Préférences Cookies » figurant sur notre
-service. Pour en savoir plus et exercer vos droits , prenez connaissance de
-notre Charte de Confidentialité.
+   Chaque citoyen.ne d’un territoire appartiendrait ainsi à une commission
+   thématique (Éducation, Infrastructures… ) en fonction de son intérêt ou
+   de son choix relevé selon une durée à définir. Il serait amené à voter
+   électroniquement et à débattre sur des options relevant du champ de
+   compétence de cette instance. Une fois une majorité établie sur une
+   décision impactant la vie de la communauté, cette commission
+   désignerait un ou deux membres chargés de la représenter au sein d’un
+   comité intermédiaire qui validerait ou non les orientations prises par
+   les premières instances de manière à prendre en compte l’impact
+   transversal ou relevant d’autres thématiques des décisions
+   potentiellement prises.
 
-En cas de malaise ou de maladie, consultez d’abord un médecin ou un
-professionnel de la santé en mesure d’évaluer adéquatement votre état de santé.
-En utilisant ce site, vous reconnaissez avoir pris connaissance de l’avis de
-désengagement de responsabilité et vous consentez à ses modalités. Si vous n’y
-consentez pas, vous n’êtes pas autorisé à utiliser ce site.
-  * Maganimo
-  * Croq'Kilos
-  * CuisineAZ
-  * Fourchette&Bikini
-  * Météocity
-  * Déco
-  * RTL
+   Ce comité intermédiaire ne serait pas donc pas spécialisé : S’y
+   rencontreraient les représentant.es désigné.es des commissions de
+   premier niveau. Les orientations ainsi prises s’imposeraient au
+   Président.e ou au Maire (le qualificatif de Maire pourrait être
+   conservé pour désigner le représentant exécutif d’une unité territorial
+   cohérente. Une distinction serait établie en fonction de la taille de
+   la structure). Le Maire ou le.a Président.e n’aurait d’autre pouvoir
+   que de définir les modalités d’application des décisions prises. Il
+   pourrait intervenir dans le débat à ce titre en précisant les moyens et
+   les conditions de réussite.
 
-Reproduction et droit d'auteur © 1998-2025 DIGITAL PRISMA PLAYERS - Charte de
-confidentialité - Préférences cookies - CGU
+   Le comité intermédiaire pourrait également entendre à titre d’expert
+   les représentants du personnel avant de valider une décision.
+
+   Les élections ou leur désignation des Maires ou Président.e serait dès
+   lors fixé sur un programme permettant de déterminer le cadrage initial
+   des commissions et comité (budget notamment). Ils seraient élus ou
+   désignés pour une durée courte (4 ou 6 ans).
+
+   De manière à éviter une prise de pouvoir au sein des instances et �
+   maintenir la participation des citoyen.nes, la durée et le nombre des
+   mandats seraient strictement limités (4 ou 6 ans et 1 fois pour le
+   mandat de Maire ou de Président.e, pas plus de deux fois sur un même
+   mandat pour représenter la commission au sein du comité intermédiaire).
+
+   La démocratie participative a toute une place à prendre aux cotés et
+   avec la démocratie représentative. Elle en fera bouger les lignes,
+   renouveler les codes et les vocations. Dans cette approche, chaque
+   citoyen peut s’engager, s’impliquer pour agir sur son territoire. Dès
+   16 ans. Chaque citoyen a le devoir de le faire et le système scolaire
+   valorisera cet engagement.
+   Illustration 1
+   (BUTTON) Agrandir l’image : Illustration 1
+
+Agrandissement : Illustration 1
+
+   (BUTTON) Fermer [button] [capture-d-ecran-2025-12-07-231217.png]
+
+   Ce blog est personnel, la rédaction n’est pas à l’origine de ses
+   contenus.
+   (BUTTON) Partager en copiant le lien de la page
+
+   Le lien vers la page a été copié
+   (BUTTON) Partager la page via les fonctionalités de votre appareil
+   Commenter
+   (BUTTON) Le Club est l’espace de libre expression des abonné·e·s
+   de Mediapart
+
+   Bienvenue dans Le Club de Mediapart
+
+   Tout·e abonné·e à Mediapart dispose d’un blog et peut exercer
+   sa liberté d’expression dans le respect de notre charte
+   de participation.
+
+   Les textes ne sont ni validés, ni modérés en amont de leur publication.
+
+   Voir notre charte
+
+   #FREEGLEIZES
+
+   Depuis le 29 juin 2025, notre confrère Christophe Gleizes, journaliste
+   pour Society et So Foot, est emprisonné en Algérie.
+
+   Nous ne l’oublions pas et réclamons sa libération.
+
+   En savoir plus sur #FREEGLEIZES
+
+   Faites vivre le débat !
+
+   Abonnez-vous à partir de 1€ et écrivez votre premier billet
+   Je m’abonne
+
+   Les articles les plus lus
+     * Médias
+       L’Arcom tance CNews pour des propos discriminatoires à l’égard des
+       personnes musulmanes ou d’origine immigrée
+     * Habitat — Reportage
+       « Dormir dans le froid glace le sang » : les personnes sans abri
+       errent dans Paris en quête d’un toit
+     * Extrême droite
+       Fan de Dieudonné et proche de l’extrême droite radicale, le
+       candidat du RN à la mairie de Saint-Malo jette déjà l’éponge
+     * Défense et diplomatie — Analyse
+       Israël reconnaît le Somaliland et inquiète les États de la
+       péninsule Arabique
+     * Transparence et probité
+       Condamnation et démission du président de la Métropole de Lille,
+       Damien Castelain : la sévérité des juges, la mansuétude des élus
+
+   Recommandés par nos abonné·es
+     * Tribune
+       Entre politique et poétique. - À propos d’un colloque international
+       sur Gaza au Collège de France
+     * Billet de blog
+       Comment Bardot a dévoré Saint-Tropez
+     * Billet de blog
+       Nous ne l’emporterons pas dans nos paradis artificiels
+
+   À la Une de Mediapart
+     * Agriculture et alimentation
+       Six mégabassines en Charente-Maritime : la crainte d’un gouffre
+       écologique et économique
+       Le Syres 17, syndicat public de gestion de l’eau, prépare la
+       construction d’une demi-douzaine de réserves de substitution. En
+       plus de menacer l’écologie des cours d’eau, le projet repose sur un
+       modèle économique risqué pour les agriculteurs et coûteux pour les
+       finances publiques.
+       par Gilles Caprais
+     * Amériques
+       Zohran Mamdani, intronisé maire de New York, donne des ailes aux
+       candidats progressistes
+       Galvanisée par l’exemple de celui qui est devenu officiellement
+       maire le 1er janvier, la gauche rêve d’une percée aux élections de
+       mi-mandat prévues en novembre. En son sein, des voix s’élèvent
+       néanmoins pour ne pas perdre en intransigeance face au Parti
+       démocrate.
+       par Alexis Buisson
+     * Livres
+       Il y a deux cents ans, la révolte décembriste secouait la Russie
+       En 1825, de jeunes nobles tentent de mener, sans succès, une
+       révolte contre le pouvoir tsariste. Cette « première révolution
+       russe » s’inscrit dans un mouvement européen et vient contredire le
+       récit du Kremlin sur une opposition radicale entre la Russie et
+       l’Occident.
+       par Romaric Godin
+     * Idées — Entretien
+       Tim Ingold : « Il faut rapprocher l’éducation et la démocratie »
+       Pour échapper aux coups de boutoir des pouvoirs autoritaires et du
+       capitalisme, l’anthropologue invite à repenser notre rapport au
+       futur. Car être de bons ancêtres pour nos descendants requiert
+       d’aimer le monde afin de préparer la place des générations à venir.
+       par Jade Lindgaard
+
+   La sélection du Club
+     * Billet de blog
+       Quand le soin devient une variable économique
+       Depuis plusieurs années, un malaise diffus traverse de nombreuses
+       institutions de santé mentale. Ce malaise ne se manifeste pas
+       toujours par des conflits ouverts, mais plus insidieusement par un
+       silence institutionnel croissant. Il n’y a pas de soin sans
+       institution vivante. Et une institution vivante est une institution
+       qui parle, qui écoute et qui accepte de se laisser interroger.
+       par Coralie Guyot
+     * Billet de blog
+       Si je suis encore de ce monde, je le dois à notre système de santé
+       : lettre à ma députée
+       Je suis atteint depuis de nombreuses années de pathologies
+       invalidantes et je vis sur un fauteuil roulant. En votant le budget
+       de la Sécu qui fait porter les efforts sur ceux qui sont gravement
+       malades, vous dévoyez l'idéal qu'ont porté les grandes figures du
+       socialisme.
+       par Didier Gueldry
+     * Billet de blog
+       Prise en soin des personnes trans : à quand une restructuration du
+       système de santé ?
+       Un constat alarmant : des inégalités de santé persistantes et
+       évitables pour les personnes trans. Des professionnel·les de
+       santé appellent à une transformation structurelle du système de
+       soins pour garantir à tous.tes un accès aux soins digne,
+       équitable et respectueux, sans discrimination.
+       par Chloé B et Anaenza FM
+     * Billet de blog
+       Sur la dégradation des soins psychiatriques
+       La proposition de loi 385 (PPL) vise à faire entrer les centres
+       experts de la fondation FondaMental dans le code de la santé
+       publique. Remanié par la commission des affaires sociales du Sénat,
+       le texte présente des modifications uniquement cosmétiques pour
+       mieux anesthésier la contestation.
+       par Mathieu Bellahsen
+
+   Suivez Mediapart :
+     * Newsletters
+       Recevez chaque jour les titres à la Une
+     * Nous suivre
+       Suivez notre activité sur les réseaux sociaux
+
+   Le Journal
+     * International
+     * Écologie
+     * Économie et social
+     * France
+     * Politique
+     * Culture et idées
+     * Dossiers
+     * Fil d’actualités
+
+   Le Studio
+     * Vidéos
+     * Podcasts
+     * Documentaires
+     * Portfolios
+     * Panoramiques
+
+   Le Club
+     * Depuis 48 heures
+     * Les blogs
+     * Les éditions
+     * L’agenda
+     * La charte
+     * Participez
+
+   À Propos
+     * Qui sommes-nous ?
+     * Notre impact
+     * Besoin d’aide ?
+     * Nous contacter
+     * Partager des documents
+     * Abonnements pros
+     * Plan du site
+     * Recrutement
+
+     * Disponible sur Google Play - Téléchargez l’application sur votre
+       appareil Android
+     * Disponible dans l'App Store - Téléchargez l’application sur votre
+       iPhone ou votre iPad
+
+   Mediapart sur mobile
+
+     * Mentions légales
+     * Charte de déontologie
+     * Charte de participation
+     * CGV
+     * Confidentialité
+     * (BUTTON) Gestion des cookies
+
+   Le journal MEDIAPART est édité par la Société Editrice de Mediapart -
+   127 avenue Ledru-Rollin, 75011 Paris.
+   RCS Paris 500 631 932. Numéro de CPPAP : 1224Y90071 - Directeur de la
+   publication : Carine Fouteau
+
+   Votre choix pour vos données
+
+   Pour mettre le site et l’application mobile de Mediapart à votre
+   disposition nous utilisons des cookies ou technologies similaires qui
+   nous permettent de collecter des informations sur votre appareil.
+   Certaines de ces technologies sont nécessaires pour faire fonctionner
+   nos services correctement : vous ne pouvez pas les refuser. D’autres
+   sont optionnelles mais contribuent à faciliter votre expérience de
+   lecteur ou de lectrice et d’une certaine façon à soutenir Mediapart :
+   vous pouvez à tout moment donner ou retirer votre consentement.
+   Acceptez-vous que Mediapart emploie des cookies ou technologies
+   similaires utiles à son fonctionnement ?
+   (BUTTON) Refuser (BUTTON) Accepter
+   (BUTTON) Affiner mes choix
+   (BUTTON) Back
+
+   Paramètres de confidentialité
+
+   Les cookies et technologies similaires que nous utilisons sur Mediapart
+   sont de différentes natures et nous permettent de poursuivre
+   différentes finalités.
+   Certains sont nécessaires au fonctionnement du site et de l’application
+   mobile (vous ne pouvez pas les refuser). D’autres sont optionnels mais
+   contribuent à faciliter votre expérience de lecteur ou de lectrice et
+   d’une certaine façon à soutenir Mediapart. Vous pouvez les refuser ou
+   les accepter ci-dessous, selon leurs finalités.
+   Acceptez-vous que Mediapart utilise des cookies ou technologies
+   similaires pour les finalités suivantes ?
+   Vous pouvez faire votre choix, pour chaque catégorie, en activant ou
+   désactivant le bouton interrupteur.
+
+   Nécessaires au fonctionnement
+   du site ou de l’application
+   [X]
+
+   Connexion des abonné·es, mesure d’audience anonymisée, envoi des
+   notifications push, suivi des pannes, mise en avant de nos services :
+   ces outils sont nécessaires au suivi de l’activité de nos services et �
+   leur bon fonctionnement.
+   (BUTTON) en savoir plus
+
+   Voici les différents cookies et technologies similaires compris dans
+   cette catégorie :
+     * Cookies d’authentification : connexion des abonné·es.
+     * AT Internet : mesure d’audience anonymisée
+     * Affichage de contenus éditoriaux multimédias : vidéos (YouTube,
+       Dailymotion, Vimeo, INA), réseaux sociaux (Facebook, Instagram,
+       Pinterest, Twitter), documents (Scribd, Document Cloud,
+       Slideshare), sons (SoundCloud, Spotify, Deezer), cartes (Google
+       Maps, Mapbox, CartoDB, uMap), infographies (Highcharts, GitHub,
+       Datawrapper, Flourish, Infogram, ThingLink, jQuery, Google Fonts,
+       Bootstrap), live blogs (24liveblog, CoverItLive), aide �
+       l’intégration de média dans les publications Journal et Club
+       (Embedly).
+     * Typeform : questionnaires facultatifs pour recueillir les avis des
+       lecteurs sur nos produits numériques.
+     * Datadog (uniquement sur le site web) : indicateurs techniques et
+       équilibrage de charge.
+     * Selligent (uniquement sur le site web) : communication avec
+       l’abonné·e, mise en avant des services, offres et avantages.
+     * Batch (uniquement sur l’application) : envoi de notifications push
+       et de messages in-app.
+     * Firebase Cloud Messaging (uniquement sur l’application) :
+       nécessaire au fonctionnement des notifications push sur Android.
+     * Microsoft App Center (uniquement sur l’application) : système de
+       mise à jour et de suivi des pannes de l’application.
+
+   Statistiques
+   [ ]
+
+   Ces outils nous permettent de recueillir des statistiques de
+   fréquentation du site et de l’application mobile pour comprendre les
+   usages, détecter d’éventuels problèmes et optimiser l’ergonomie de nos
+   produits.
+   (BUTTON) en savoir plus
+
+   Voici les outils tiers compris dans cette catégorie :
+     * AT Internet : mesure d’audience reliée à l’identifiant d’abonné·e.
+     * CrazyEggs (uniquement sur le site web) : analyse de parcours
+       client.
+     * Nonli (uniquement sur le site web) : permet à notre équipe des
+       réseaux sociaux de publier les contenus Mediapart sur les réseaux
+       sociaux.
+     * Qiota (uniquement sur le site web) : gestion du système de
+       datawall.
+
+   Reciblage publicitaire
+   [ ]
+
+   Il n’y a pas de publicité sur Mediapart. Mais nous faisons la promotion
+   de nos contenus et services sur d’autres sites et réseaux sociaux. Pour
+   cela, nous utilisons les technologies mises à disposition par certains
+   acteurs publicitaires.
+   (BUTTON) en savoir plus
+
+   Voici les outils tiers compris dans cette catégorie :
+     * Facebook (uniquement sur le site web) : ciblage d’audience sur les
+       réseaux sociaux pour faire la promotion de Mediapart.
+
+   Gestion de l’accès aux contenus
+   [ ]
+
+   Nous utilisons le service Qiota d’Opper Marketing Suite pour configurer
+   l’activation d’un datawall sur certains de nos contenus (uniquement sur
+   le site web). Ce dispositif destiné aux utilisateur·ices non abonné·es
+   requiert la saisie d’une adresse email pour accéder aux contenus
+   concernés. En fournissant cette information, l’utilisateur consent à sa
+   collecte, son stockage et son utilisation à des fins statistiques.
+   Conformément à la réglementation en vigueur, les utilisateurs disposent
+   d’un droit d’accès, de rectification et de suppression de leurs
+   données, qu’ils peuvent exercer en contactant dpo@opper.io.
+   (BUTTON) Enregistrer et fermer

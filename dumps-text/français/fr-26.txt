@@ -1,230 +1,349 @@
-#Croissance et objectifs : un module pour tout contexte, conçu pour développer
-les compétences d'apprentissage » Feed JSON oEmbed (JSON) oEmbed (XML)
-
-"
-
-Skip to content
-
-Logo for Open Library Publishing Platform
-(BUTTON) Menu
-
-Primary Navigation
-  * Home
-  * Read
-  * Sign in
-  * Search in book: ____________________ (BUTTON) Search
-
-Want to create or adapt books like this? Learn more about how Pressbooks
-supports open publishing practices.
-
-Book Contents Navigation
-Contents
- 1. Informations
- 2. I. Main Body
- 1. Bienvenue ! Le temps est venu de vous approprier votre apprentissage !
- 2. Objectifs d’apprentissage visés
- 3. Un aperçu du module Croissance et objectifs
- 4. Phase de réflexion
- 5. Qualités de conscience
- 6. L’apprenant conscient…
- 7. Qu’est-ce qu’un état d’esprit?
- 8. Phase de planification
- 9. La métacognition
-10. La phase d’action
-11. Vérification de l'échéance 1
-12. Vérification de l'échéance 2
-13. Vérification de l'échéance 3
-14. Vérification de l'échéance 4
-15. Vérification avant l'échéance finale
-16. Synthèse du module
- 3. Glossaire
- 4. À propos des auteurs
-
-Croissance et objectifs : un module pour tout contexte, conçu pour développer
-les compétences d'apprentissage
-
-Qu’est-ce qu’un état d'esprit ?
-  ___________________________________________________________________________
-
-« Les états d’esprit sont des croyances, à propos de vous et de vos qualités et
-capacités de base. » (1)
-  ___________________________________________________________________________
-
-Qu’est-ce qu’un état d’esprit en évolution ?
-
-Fixed mindset versus Growth mindset
-
-D’après le livre Mindset: The New Psychology of Success, de Carol Dweck, « [Dans
-un état d’esprit en évolution,] les gens croient que leurs capacités et qualités
-de base peuvent évoluer et être cultivées à l’aide de dévouement et de travail
-acharné. Le cerveau et le talent ne sont qu’un point de départ. Ce point de vue
-crée l’amour de l’apprentissage ainsi que la résilience, deux qualités
-essentielles aux grands accomplissements. Presque toutes les personnes de grande
-valeur ont possédé ces qualités. » (2) Autrement dit : On ne naît pas grand
-apprenant, on le devient.
-
-Qu’est-ce qu’un état d’esprit fixe ?
-
-« Dans un état d’esprit fixe, la plupart des gens croient que leurs qualités de
-base, comme l’intelligence ou le talent, sont simplement des caractéristiques
-fixes. Ils consacrent leur temps à documenter leur intelligence ou leur talent
-au lieu de les cultiver. Ils croient également que le talent seul entraîne le
-succès, sans efforts. Ils se trompent. » (2)
-
-Mindsets
-
-
-
-Cliquez ici visionner une vidéo (en anglais seulement) qui illustre la
-différence entre un état d’esprit fixe et un état d’esprit en évolution. (3)
-
-The secret about growth mindsets
-
-
-
-Que faire si vous avez un état d’esprit fixe ? Cette vidéo (en anglais
-seulement) peut vous aider ! (4)
-
-
-
-Les efforts et l’échec mènent au succès
-
-Discussing success through failure
-
-Pendant que vous visionnez cette vidéo (en anglais seulement), songez aux
-différents liens que vous pourriez établir entre cet échec bien connu et vos
-propres expériences des efforts, de l’échec et du succès. (5)
-
-Vous pouvez poursuivre le module ou visionner d’autres vidéos inspirantes (en
-anglais seulement) sur la quantité d’efforts et d’échecs nécessaires �
-l’obtention du succès.(6)
-
-Après avoir réalisé l’Activité 8, vous serez en mesure de faire la distinction
-entre un état d’esprit en évolution et un état d’esprit fixe.
-
-IFRAME: about:blank
-
-
-Reconnaître et modifier la voix de votre état d’esprit fixe
-
-La transformation d’un état d’esprit fixe en état d’esprit en évolution comporte
-quatre étapes principales. (2)
-
-
-Apprendre à entendre la voix de votre état d’esprit fixe
-
-
-Pour tirer le maximum des possibilités d’apprentissage dans ce cours, vous devez
-reconnaître les moments où votre propre état d’esprit nuit à votre apprentissage
-et vous servir des stratégies pour le modifier. (5)  Une transcription(.pdf,
-80 kb)
-
-etape 2
-
-Reconnaître que vous avez le choix
-
-
-Lui répondre par la voix de l’état d’esprit en évolution
-
-
-
-Agir selon l’état d’esprit en évolution
-
-Avec la pratique, vous pouvez apprendre à décider quelle est la voix que vous
-écouterez et qui motivera vos actions.
-
-
-Idéalement, vous serez en mesure d’accomplir les actions suivantes :
-  * Accepter pleinement de relever le défi
-  * Apprendre de vos revers et réessayer
-  * Écouter la critique et y donner suite
-
-Exercez-vous à écouter les deux et à donner suite à celle de l’état d’esprit en
-évolution. Évaluez comment cela peut fonctionner pour vous. Au cours des
-prochaines activités, tâchez d’avoir conscience de la voix que vous entendez.
-
-Établir vos priorités
-
-Dans le cadre de la phase de réflexion de l’apprentissage autorégulé, il est
-important d’avoir une idée claire de vos priorités.
-
-Réalisez l’Activité 9 pour vous aider à atteindre ce degré de clarté.
-
-IFRAME: about:blank
-
-IFRAME: about:blank
-
-IFRAME: about:blank
-
-IFRAME: about:blank
-
-RÉFÉRENCES
- 1. MindsetWorks. mindsetworks.com
- 2. Dweck, C. S. Mindset: The New Psychology of Success; Gildan Media Corp,
-2007.
- 3. Mindsets: Fixed Versus Growth. youtu.be/M1CHPnZfFmU
- 4. The dirty little secret about growth mindset. youtu.be/zionUl13Dko
- 5. James Dyson discusses success through
-failure. youtube.com/watch?v=_hG79AwLw3s&t=1s
- 6. Failure playlist: goo.gl/rTMQ4e
-
-definition
-
-Comme déclaré par Carol Dweck dans Mindset: "« Les états d’esprit sont des
-croyances, à propos de vous et de vos qualités et capacités de base. » La
-détermination de votre état d'esprit actuel est essentielle à l’orientation et �
-la maîtrise de votre apprentissage. L’adoption d’un état d'esprit en évolution
-plutôt que d’un état d’esprit fixe vous permettra d’être plus ouvert, dynamique,
-motivé et dévoué à vos objectifs, à vos études et à votre travail.
-(BUTTON) ×Close definition
-
-Il s’agit du fait de croire que vos capacités de base peuvent être cultivées et
-améliorées à l’aide de travail acharné et de dévouement. Une personne qui
-possède un état d’esprit en évolution considère ses compétences et ses talents
-de base comme étant un point de départ, ce qui donne naissance à l’amour de
-l’apprentissage et à la résilience, deux qualités essentielles aux grands
-accomplissements. On ne naît pas grand apprenant, on le devient.
-(BUTTON) ×Close definition
-
-Il s’agit du fait de croire que vos capacités de base, comme l’intelligence ou
-le talent, sont des caractéristiques fixes qui ne peuvent être modifiées ou
-cultivées. Une personne qui possède un état d’esprit fixe documente son
-intelligence et ses compétences, plutôt que de travailler activement à les
-cultiver ou à les améliorer. Elle croit également que le succès découle
-uniquement du talent, mais elle se trompe. Le succès nécessite des efforts.
-(BUTTON) ×Close definition
-
-L'apprentissage autorégulé peut être réalisé par le biais du cycle AAR. Le cycle
-d’apprentissage autorégulé vous permet de maîtriser des stratégies d’atteinte
-des objectifs ainsi que d’être prêt et motivé à surmonter tous les défis et �
-saisir toutes les occasions qui peuvent se présenter tout au long de la
-concrétisation de vos objectifs. Le cycle d’AAR comporte trois phases :
-réflexion, planification et action. Idéalement, vous devriez refaire ce cycle
-plusieurs fois lorsque vous créez des objectifs et relevez des défis
-(BUTTON) ×Close definition
-
-Previous/next navigation
-Previous: L’apprenant conscient…
-Next: Phase de planification
-(BUTTON) Back to top
-
-License
-
-Icon for the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-International License
-
-Croissance et objectifs : un module pour tout contexte, conçu pour développer
-les compétences d'apprentissage Copyright © by Alison Flynn; Elizabeth Campbell
-Brown; Emily O'Connor; Ellyssa Walsh; Fergal O'Hagan; Gisèle Richard; and Kevin
-Roy is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
-4.0 International License, except where otherwise noted.
-
-Share This Book
-
-Pressbooks
-
-Powered by Pressbooks
-  * Pressbooks User Guide
-  * |Pressbooks Directory
-
-Pressbooks on YouTube Pressbooks on LinkedIn
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Historique de la recherche
+     * 2 En politique
+     * 3 Dans la pensée systémique
+     * 4 Collectif
+     * 5 Notes et références
+
+   [ ] Basculer la table des matières
+
+État d'esprit
+
+   [ ] 33 langues
+     * العربية
+     * Azərbaycanca
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Čeština
+     * Deutsch
+     * English
+     * Español
+     * فارسی
+     * Suomi
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Bahasa Indonesia
+     * Italiano
+     * Қазақша
+     * 한국어
+     * Кыргызча
+     * Bahasa Melayu
+     * Nederlands
+     * Polski
+     * Português
+     * Русский
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * Shqip
+     * Српски / srpski
+     * Svenska
+     * தமிழ்
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour l’article homonyme, voir État d'esprit (film).
+   Page d’aide sur l’homonymie
+
+   Pour d'autres utilisations, voir Mindset et Mentalité.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   Cet article ne cite pas suffisamment ses sources (juillet 2021).
+
+   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
+   connaissez des sites web de qualité traitant du thème abordé ici, merci
+   de compléter l'article en donnant les références utiles à sa
+   vérifiabilité et en les liant à la section « Notes et références ».
+   En pratique : Quelles sources sont attendues ? Comment ajouter mes
+   sources ?
+   [250px-Fixed_versus_growth_mindset.png] Schéma d'une conceptualisation
+   de l'esprit fixe et de l'esprit de croissance.
+
+   En théorie de la décision et en théorie générale des systèmes, un état
+   d'esprit est un ensemble d'hypothèses, de méthodes ou de notions
+   détenues par une ou plusieurs personnes ou groupes de personnes^[1]. Un
+   état d'esprit peut également être considéré comme découlant de la
+   vision du monde ou de la philosophie de vie d'une personne^[2].
+
+   Un état d'esprit peut être si fermement établi qu'il crée une puissante
+   incitation au sein de ces personnes ou groupes à continuer d'adopter ou
+   d'accepter des comportements, des choix ou des outils antérieurs. Ce
+   dernier phénomène est aussi parfois décrit comme une inertie mentale,
+   une « pensée de groupe », et il est souvent difficile de contrecarrer
+   ses effets sur les processus d'analyse et de prise de décision.
+
+   En psychologie cognitive, un état d'esprit représente les processus
+   cognitifs activés en réponse à une tâche donnée.
+
+Historique de la recherche
+
+   [modifier | modifier le code]
+
+   Il semblerait que certaines des premières explorations empiriques de
+   l'état d'esprit remontent au début des années 1900 (Gollwitzer 1990,
+   2012). Ces études sont identifiées comme fondatrices et précurseurs de
+   l'étude de la cognition (Gollwitzer 1990, 2012). L'attention portée �
+   l'état d'esprit dans le cadre de l'étude de la psychologie cognitive
+   s'est poursuivie relativement sans relâche. En plus du domaine de la
+   psychologie cognitive, l'utilisation de l'état d'esprit est évidente
+   dans les sciences sociales et dans plusieurs autres domaines (par
+   exemple, la psychologie positive). Une caractéristique de ce domaine
+   d'étude, dans toutes ses diverses manifestations, est l'utilisation
+   fragmentaire de la mentalité à travers l'académie.
+
+En politique
+
+   [modifier | modifier le code]
+
+   Un exemple, dans une période bien connue de l'Histoire, est l'« état
+   d'esprit de la Guerre froide » qui prévalait tant aux États-Unis qu'en
+   URSS, et qui incluait une confiance absolue dans la théorie des jeux �
+   deux joueurs, dans l'intégrité de la chaîne de commandement, dans le
+   contrôle des matières nucléaires, et dans la destruction mutuelle
+   assurée des deux en cas de guerre^[réf. nécessaire]. Bien que la
+   plupart considèrent que cet état d'esprit a utilement servi à prévenir
+   une attaque par l'un ou l'autre pays, les hypothèses sous-jacentes à la
+   théorie de la dissuasion ont fait des évaluations de l'efficacité de
+   l'état d'esprit de la guerre froide un sujet de controverse.
+
+   La plupart des théoriciens considèrent que la principale responsabilité
+   d'un groupe de pouvoir intégré est de remettre en question les
+   hypothèses qui constituent l'état d'esprit du groupe
+   lui-même^[réf. nécessaire]. Selon ces commentateurs, les groupes de
+   pouvoir qui ne parviennent pas à revoir ou à réviser leur état d'esprit
+   avec une régularité suffisante ne peuvent pas conserver le pouvoir
+   indéfiniment, car il est peu probable qu'un état d'esprit unique
+   possède la flexibilité et l'adaptabilité nécessaires pour faire face �
+   tous les événements futurs. Par exemple, les variations de mentalité
+   entre les présidents du Parti démocrate et du Parti républicain aux
+   États-Unis ont peut-être rendu ce pays plus apte à remettre en question
+   les hypothèses que le Kremlin, dont la bureaucratie est plus statique.
+
+   La théorie militaire moderne tente de remettre en question les
+   mentalités bien ancrées en traitant la guerre asymétrique, le
+   terrorisme et la prolifération des armes de destruction massive.
+   Combinées, ces menaces représentent « une révolution dans les affaires
+   militaires » et exigent une adaptation très rapide aux nouvelles
+   menaces et circonstances. Dans ce contexte, le coût de la
+   non-application des mentalités adaptatives ne peut être supporté.
+
+Dans la pensée systémique
+
+   [modifier | modifier le code]
+
+   S'appuyant sur le concept de Mindscape de Magoroh
+   Maruyama (en)^[3]^,^[4], la théorie du Mindset inclut des valeurs de
+   type orientation culturelle et sociale : Individualisme hiérarchique
+   (IH), Individualisme égalitaire (IE), Collectivisme hiérarchique (CH),
+   Collectivisme égalitaire (CE), Synergisme hiérarchique (SH), Synergisme
+   égalitaire (SE), Populisme hiérarchique (PH) et Populisme égalitaire
+   (PE)^[5].
+
+Collectif
+
+   [modifier | modifier le code]
+
+   Naturellement, la question de l'incarnation d'un état d'esprit
+   collectif vient à l'esprit. L'analyse d'Erikson (1974) sur les
+   identités de groupe et ce qu'il appelle un plan de vie semble
+   pertinente ici. Il raconte l'exemple des Indiens d'Amérique, qui
+   devaient subir un processus de rééducation destiné à leur inculquer un
+   « plan de vie » moderne visant à obtenir une maison et une richesse
+   exprimée par un compte en banque bien rempli. Erikson écrit que
+   l'identité historique collective des Indiens en tant que chasseurs de
+   bisons était orientée autour de raisons/objectifs si fondamentalement
+   différents que même la communication sur les « plans de vie »
+   divergents était difficile.
+
+   Il existe une double relation entre l'institution qui incarne par
+   exemple un état d'esprit entrepreneurial et ses performances
+   entrepreneuriales. Tout d'abord, une institution dotée d'une
+   philosophie entrepreneuriale fixera des objectifs et des stratégies
+   entrepreneuriales dans son ensemble, mais peut-être plus important
+   encore, elle favorisera un milieu entrepreneurial, permettant à chaque
+   entité de saisir les opportunités émergentes. En bref, la position
+   philosophique codifiée dans l'esprit, donc l'état d'esprit, conduit �
+   un climat qui, à son tour, engendre des valeurs qui conduisent à la
+   pratique.
+
+   Les mentalités collectives en ce sens sont décrites dans des ouvrages
+   tels que « Cognition in the wild » (1995) de Hutchin, qui analyse une
+   équipe entière de navigateurs navals en tant qu'unité cognitive ou
+   système informatique, ou l'ouvrage de Senges intitulé Knowledge
+   entrepreneurship in universities (2007). Il existe également des
+   parallèles avec le domaine émergent de « l'intelligence
+   collective »^[6]^[réf. incomplète] et l'exploitation de la « sagesse
+   des foules »^[7]^[réf. incomplète]) des parties prenantes. Zara note
+   que la réflexion collective étant plus explicite, discursive et
+   conversationnelle, elle a donc besoin d'un bon ¿gestell (en)? - surtout
+   lorsqu'il s'agit de technologies de l'information et de la
+   communication.
+
+   La plupart des historiens utilisent le concept de mentalité ou d'état
+   d'esprit pour désigner des dispositions mentales évoluant très
+   lentement et actives sur de longues périodes de temps, mais des efforts
+   ont parfois été déployés pour l'appliquer également à des situations
+   historiques évoluant beaucoup plus rapidement, comme la Révolution
+   française^[8]^[réf. incomplète] ou la courte période d'occupation de
+   l'Allemagne par les Alliés après la Seconde Guerre
+   mondiale^[9]^[réf. incomplète].
+
+Notes et références
+
+   [modifier | modifier le code]
+     * (en) Cet article est partiellement ou en totalité issu de l’article
+       de Wikipédia en anglais intitulé « Mindset » (voir la liste des
+       auteurs).
+
+    1. ↑ (en) « mindset », sur dictionary.cambridge.org (consulté le 31
+       juillet 2021)
+    2. ↑ « What is a Worldview? », sur web.engr.oregonstate.edu (consulté
+       le 31 juillet 2021)
+    3. ↑ Maruyama, M. (1980). Mindscapes and Science Theories, Current
+       Anthropology, Vol. 21, No. 5. (Oct., 1980), pp. 589-608
+    4. ↑ M. Maruyama, Dynamics among Business Practice, Aesthetics,
+       Science, Politics and Religion. Cultural Dynamics 1988; 1; 309-335
+    5. ↑ Yolles, M.I, Fink, G., 2014, Personality, pathology and mindsets:
+       part 1-3. Vol. 43 n.(1)
+    6. ↑ Par exemple Zara, 2004.
+    7. ↑ Surowiecki, 2005.
+    8. ↑ Michel Vovelle
+    9. ↑ Hentschel, 2007.
+
+     * icône décorative Portail de la psychologie
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=État_d%27esprit&oldid=2267
+   99804 ».
+   Catégorie :
+     * Biais cognitif
+
+   Catégories cachées :
+     * Article manquant de références depuis juillet 2021
+     * Article manquant de références/Liste complète
+     * Article à référence nécessaire
+     * Article contenant un appel à traduction en anglais
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Sciences/Articles liés
+
+     * La dernière modification de cette page a été faite le 26 juin 2025
+       à 10:15.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   État d'esprit
+   (BUTTON) 33 langues Ajouter un sujet
