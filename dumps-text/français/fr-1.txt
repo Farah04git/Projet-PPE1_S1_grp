@@ -1,34 +1,27 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
-
+   Link: canonical
+   Link: license
    Aller au contenu
-
    [ ] Menu principal
    Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Navigation
      * Page d’accueil
      * Portails thématiques
      * Article au hasard
      * Contact
-
    Contribuer
      * Débuter sur Wikipédia
      * Aide
      * Communauté
      * Pages spéciales
      * Modifications récentes
-
-   Wikipédia l'encyclopédie libre
+   [IMG] Wikipédia l'encyclopédie libre
    Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
+   _____________________
+   Rechercher
    [ ] Apparence
-
      * Faire un don
      * Créer un compte
      * Se connecter
-
    [ ] Outils personnels
      * Faire un don
      * Créer un compte
@@ -36,68 +29,55 @@
 
 Sommaire
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1 Étymologie
      * 2 Concepts proches
-       (BUTTON) Afficher / masquer la sous-section Concepts proches
-          + 2.1 État et gouvernement
-          + 2.2 État et État-nation
-          + 2.3 État et souveraineté
-          + 2.4 États souverains
-          + 2.5 État et société civile
+          * 2.1 État et gouvernement
+          * 2.2 État et État-nation
+          * 2.3 État et souveraineté
+          * 2.4 États souverains
+          * 2.5 État et société civile
      * 3 Histoire
-       (BUTTON) Afficher / masquer la sous-section Histoire
-          + 3.1 Préhistoire
-          + 3.2 Néolithique
-          + 3.3 L'État durant Antiquité
-          + 3.4 Émergence des États modernes en Europe
-               o 3.4.1 Origines des États modernes en Europe
-               o 3.4.2 Formation et conséquences de la bureaucratie
-                 étatique
-          + 3.5 La décolonisation et la mondialisation d'un système de
+          * 3.1 Préhistoire
+          * 3.2 Néolithique
+          * 3.3 L'État durant Antiquité
+          * 3.4 Émergence des États modernes en Europe
+               * 3.4.1 Origines des États modernes en Europe
+               * 3.4.2 Formation et conséquences de la bureaucratie étatique
+          * 3.5 La décolonisation et la mondialisation d'un système de
             gouvernance
-          + 3.6 Évolution récente
+          * 3.6 Évolution récente
      * 4 Caractérisation de l'État
-       (BUTTON) Afficher / masquer la sous-section Caractérisation de
-       l'État
-          + 4.1 Monopole de la violence légitime
-          + 4.2 Appareil politique et administratif
-          + 4.3 Séparation des pouvoirs et contre-pouvoirs
-          + 4.4 Théories juridiques concurrentes
+          * 4.1 Monopole de la violence légitime
+          * 4.2 Appareil politique et administratif
+          * 4.3 Séparation des pouvoirs et contre-pouvoirs
+          * 4.4 Théories juridiques concurrentes
      * 5 Role de l'État en économie
-       (BUTTON) Afficher / masquer la sous-section Role de l'État en
-       économie
-          + 5.1 Grandes fonctions
-          + 5.2 Différentes formes d'États-providence
-          + 5.3 Controverses concernant l'économie
+          * 5.1 Grandes fonctions
+          * 5.2 Différentes formes d'États-providence
+          * 5.3 Controverses concernant l'économie
      * 6 Courants de pensée
-       (BUTTON) Afficher / masquer la sous-section Courants de pensée
-          + 6.1 Marxisme
-          + 6.2 Libéralisme
-          + 6.3 Pluralisme
-          + 6.4 Pragmatisme
-          + 6.5 Institutionnalisme
-          + 6.6 Église catholique
+          * 6.1 Marxisme
+          * 6.2 Libéralisme
+          * 6.3 Pluralisme
+          * 6.4 Pragmatisme
+          * 6.5 Institutionnalisme
+          * 6.6 Église catholique
      * 7 Notes et références
-       (BUTTON) Afficher / masquer la sous-section Notes et références
-          + 7.1 Notes
-          + 7.2 Références
+          * 7.1 Notes
+          * 7.2 Références
      * 8 Bibliographie
-       (BUTTON) Afficher / masquer la sous-section Bibliographie
-          + 8.1 Utilisé pour la rédaction de l'article
-               o 8.1.1 Pour la section Histoire
-          + 8.2 Autre
+          * 8.1 Utilisé pour la rédaction de l'article
+               * 8.1.1 Pour la section Histoire
+          * 8.2 Autre
      * 9 Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 9.1 Articles connexes
-          + 9.2 Liens externes
-
+          * 9.1 Articles connexes
+          * 9.2 Liens externes
    [ ] Basculer la table des matières
 
-État
+                                      État
 
-   [ ] 184 langues
+   [ ] 184 langues
      * Afrikaans
      * Alemannisch
      * አማርኛ
@@ -123,7 +103,7 @@ Sommaire
      * Brezhoneg
      * Bosanski
      * Буряад
-     * Catal�
+     * Català
      * Нохчийн
      * Cebuano
      * ᏣᎳᎩ
@@ -282,28 +262,21 @@ Sommaire
      * 中文
      * 閩南語 / Bân-lâm-gí
      * 粵語
-
    Modifier les liens
-
      * Article
      * Discussion
-
    [ ] français
-
      * Lire
      * Modifier
      * Modifier le code
      * Voir l’historique
-
    [ ] Outils
    Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
      * Voir l’historique
-
    Général
      * Pages liées
      * Suivi des pages liées
@@ -313,386 +286,370 @@ Sommaire
      * Citer cette page
      * Obtenir l'URL raccourcie
      * Télécharger le code QR
-
    Imprimer / exporter
      * Créer un livre
      * Télécharger comme PDF
      * Version imprimable
-
    Dans d’autres projets
      * Wikimedia Commons
      * Wikinews
      * Wikiquote
      * Wikiversité
      * Élément Wikidata
-
    Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Un article de Wikipédia, l'encyclopédie libre.
    Page d’aide sur l’homonymie
 
    Pour les articles homonymes, voir État (homonymie).
-   [250px-Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait_headcrop.jpg]
-   Nicolas Machiavel fut un des premiers à faire usage du mot stato dans
-   le sens d'« unité politique d’un peuple qui le double et peut survivre
-   aux allées et venues non seulement des gouvernements mais aussi des
-   formes de gouvernement ».
 
-   Un État est une communauté humaine géographiquement délimitée dotée
-   d'une organisation politique centralisée formée d'institutions chargées
+   [IMG]Nicolas Machiavel fut un des premiers à faire usage du mot stato dans
+   le sens d'« unité politique d’un peuple qui le double et peut survivre aux
+   allées et venues non seulement des gouvernements mais aussi des formes de
+   gouvernement ».
+
+   Un État est une communauté humaine géographiquement délimitée dotée d'une
+   organisation politique centralisée formée d'institutions chargées
    d’élaborer, d'imposer, et de faire respecter un ensemble de
    règles^[1]^,^[note 1].
 
    Du point de vue organisationnel, l'État peut être défini comme une
-   structure centralisée par laquelle une société s'oriente et se
-   gouverne. Une définition devenue classique est celle du sociologue Max
-   Weber, pour qui l'État est une entité politique détenant le monopole de
-   l'usage légitime de la violence.
+   structure centralisée par laquelle une société s'oriente et se gouverne.
+   Une définition devenue classique est celle du sociologue Max Weber, pour
+   qui l'État est une entité politique détenant le monopole de l'usage
+   légitime de la violence.
 
    Sur le plan institutionnel, l'État correspond à l'ensemble des pouvoirs
    d'autorité et de contrainte collective que la nation exerce sur les
-   individus afin de faire prévaloir l'intérêt général, et, avec une
-   nuance éthique, le bien public ou le bien commun^[2].
+   individus afin de faire prévaloir l'intérêt général, et, avec une nuance
+   éthique, le bien public ou le bien commun^[2].
 
    Historiquement, de nombreuses formes d'États se sont développées,
    justifiant leur légitimité de façons diverses (droit divin, contrat
-   social, etc.). Aujourd'hui, l'État-nation constitue la forme
-   prédominante, bien que la nation ne se confonde pas avec l'État. En
-   droit international, un État souverain est défini comme une entité
-   territoriale délimitée, dotée d'une population permanente et
-   d'institutions capables d'exercer une autorité et un pouvoir effectif
-   sur ce territoire.
-   [250px-Max_Weber_1894.jpg] La définition de l'État de Max Weber comme
-   groupement politique détenant le monopole de la violence physique
-   légitime exerce toujours une influence considérable sur la pensée
-   politique moderne.
+   social, etc.). Aujourd'hui, l'État-nation constitue la forme prédominante,
+   bien que la nation ne se confonde pas avec l'État. En droit international,
+   un État souverain est défini comme une entité territoriale délimitée,
+   dotée d'une population permanente et d'institutions capables d'exercer une
+   autorité et un pouvoir effectif sur ce territoire.
+
+   [IMG]La définition de l'État de Max Weber comme groupement politique
+   détenant le monopole de la violence physique légitime exerce toujours une
+   influence considérable sur la pensée politique moderne.
 
 Étymologie
 
    [modifier | modifier le code]
 
-   « État » vient du latin status, dérivé du verbe stare qui signifie au
-   sens premier « se tenir debout », et au sens figuré « la
-   position »^[3]. Le mot « État » apparaît dans les langues européennes
-   dans son acception moderne au tournant des XV^e et XVI^e siècles. Au
-   XVIII^e siècle, l'État désigne également la condition d'une personne,
-   son « état civil ».
+   « État » vient du latin status, dérivé du verbe stare qui signifie au sens
+   premier « se tenir debout », et au sens figuré « la position »^[3]. Le mot
+   « État » apparaît dans les langues européennes dans son acception moderne
+   au tournant des XV^e et XVI^e siècles. Au XVIII^e siècle, l'État désigne
+   également la condition d'une personne, son « état civil ».
 
    Avec la renaissance du droit romain dans l'Europe du XIV^e siècle, le
    terme en est venu à faire référence au statut juridique des personnes
-   (comme le tiers état – nobles, communs et cléricaux ), notamment le
-   statut particulier du roi.^[réf. souhaitée] Les classes les plus
-   élevées, généralement celles qui possédaient le plus de richesse et de
-   rang social, étaient celles qui détenaient le pouvoir. Le mot avait
-   également des associations avec des idées romaines (remontant �
-   Cicéron) sur le « statut rei publicae » », la « condition des affaires
-   publiques ». Avec le temps, le mot a perdu sa référence à des groupes
-   sociaux particuliers et est devenu associé à l'ordre juridique de la
-   société tout entière et à l'appareil chargé de son application^[4].
+   (comme le tiers état – nobles, communs et cléricaux ), notamment le statut
+   particulier du roi.^[réf. souhaitée] Les classes les plus élevées,
+   généralement celles qui possédaient le plus de richesse et de rang social,
+   étaient celles qui détenaient le pouvoir. Le mot avait également des
+   associations avec des idées romaines (remontant à Cicéron) sur le « statut
+   rei publicae » », la « condition des affaires publiques ». Avec le temps,
+   le mot a perdu sa référence à des groupes sociaux particuliers et est
+   devenu associé à l'ordre juridique de la société tout entière et à
+   l'appareil chargé de son application^[4].
 
    Les œuvres de Machiavel du début du XVI^e siècle (en particulier Le
-   Prince) ont joué un rôle central dans la vulgarisation de l'utilisation
-   du mot « État » dans un sens similaire à son sens
-   moderne.^[réf. souhaitée]
+   Prince) ont joué un rôle central dans la vulgarisation de l'utilisation du
+   mot « État » dans un sens similaire à son sens moderne.^[réf. souhaitée]
 
 Concepts proches
 
    [modifier | modifier le code]
 
-État et gouvernement
+  État et gouvernement
 
    [modifier | modifier le code]
    Article connexe : Gouvernement.
 
-   Un État peut être distingué d'un gouvernement. L'État est
-   l'organisation tandis que le gouvernement est le groupe particulier de
-   personnes ou la bureaucratie administrative qui contrôle l'appareil
-   d'État à un moment donné^[5]^,^[6]^,^[7]. Autrement dit, les
-   gouvernements sont les moyens par lesquels le pouvoir de l'État est
-   utilisé. Les États sont servis par une succession continue de
-   gouvernements différents^[7]. Les États sont des objets sociaux
-   immatériels et non physiques, alors que les gouvernements sont des
-   groupes de personnes dotés de certains pouvoirs coercitifs.
+   Un État peut être distingué d'un gouvernement. L'État est l'organisation
+   tandis que le gouvernement est le groupe particulier de personnes ou la
+   bureaucratie administrative qui contrôle l'appareil d'État à un moment
+   donné^[5]^,^[6]^,^[7]. Autrement dit, les gouvernements sont les moyens
+   par lesquels le pouvoir de l'État est utilisé. Les États sont servis par
+   une succession continue de gouvernements différents^[7]. Les États sont
+   des objets sociaux immatériels et non physiques, alors que les
+   gouvernements sont des groupes de personnes dotés de certains pouvoirs
+   coercitifs.
 
    Chaque gouvernement successif est composé d'un corps spécialisé et
-   privilégié d'individus, qui monopolisent la prise de décision politique
-   et sont séparés par leur statut et leur organisation de l'ensemble de
-   la population.
+   privilégié d'individus, qui monopolisent la prise de décision politique et
+   sont séparés par leur statut et leur organisation de l'ensemble de la
+   population.
 
-État et État-nation
+  État et État-nation
 
    [modifier | modifier le code]
    Article connexe : État-nation.
 
-   Les États peuvent également être distingués du concept de « nation »,
-   où « nation » fait référence à une communauté culturelle et politique
-   de personnes. Un État-nation fait référence à une situation dans
-   laquelle une seule ethnie est associée à un État spécifique.
+   Les États peuvent également être distingués du concept de « nation », où
+   « nation » fait référence à une communauté culturelle et politique de
+   personnes. Un État-nation fait référence à une situation dans laquelle une
+   seule ethnie est associée à un État spécifique.
 
-État et souveraineté
+  État et souveraineté
 
    [modifier | modifier le code]
    Article connexe : Souveraineté.
 
-   La souveraineté est le droit exclusif d’exercer l’autorité politique
-   sur une zone géographique donnée. C’est une notion fort complexe qu’on
-   peut analyser tant sous l’angle sociologique que juridique.
+   La souveraineté est le droit exclusif d’exercer l’autorité politique sur
+   une zone géographique donnée. C’est une notion fort complexe qu’on peut
+   analyser tant sous l’angle sociologique que juridique.
 
-États souverains
+  États souverains
 
    [modifier | modifier le code]
    Article connexe : État en droit international.
 
    Le droit international donne des critères de reconnaissance de l'État
    comme entité sujet au droit international, on parle également d'États
-   souverains. Ainsi, un État souverain est une entité politique qui
-   possède une autorité suprême et indépendante sur un territoire délimité
-   et qui est reconnue par d'autres États souverains.
+   souverains. Ainsi, un État souverain est une entité politique qui possède
+   une autorité suprême et indépendante sur un territoire délimité et qui est
+   reconnue par d'autres États souverains.
 
-État et société civile
+  État et société civile
 
    [modifier | modifier le code]
    Article connexe : Société civile.
 
-   L’État moderne est distinct et connecté à la société civile. L’analyse
-   de cette connexion a été l’objet d’une attention considérable aussi
-   bien dans l’analyse du développement de l’État que dans les théories
-   normatives. Des penseurs comme Thomas Hobbes ou Bodin ou les juristes
-   de Richelieu mettaient l’accent sur la suprématie de l’État. Pourtant
-   proches d’eux, Hegel s’est intéressé aussi aux liens entre État et
-   société civile. Au XXI^e siècle, Jurgen Habermas avance que la société
-   civile forme une sphère publique lieu d’engagements
-   extra-institutionnels autonome de l’État et en interaction avec lui.
+   L’État moderne est distinct et connecté à la société civile. L’analyse de
+   cette connexion a été l’objet d’une attention considérable aussi bien dans
+   l’analyse du développement de l’État que dans les théories normatives. Des
+   penseurs comme Thomas Hobbes ou Bodin ou les juristes de Richelieu
+   mettaient l’accent sur la suprématie de l’État. Pourtant proches d’eux,
+   Hegel s’est intéressé aussi aux liens entre État et société civile. Au
+   XXI^e siècle, Jurgen Habermas avance que la société civile forme une
+   sphère publique lieu d’engagements extra-institutionnels autonome de
+   l’État et en interaction avec lui.
 
-   Des théoriciens marxistes, tel Antonio Gramsci, se sont interrogés sur
-   la distinction entre l’État et la société civile, en arguant que le
-   premier est intégré de nombreuses façons dans la
-   seconde^[réf. souhaitée]. D’autres, comme Louis Althusser, ont maintenu
-   que les organisations civiles comme l’Église, l’école et même les
-   syndicats étaient partie prenante d’un « appareil idéologique de
-   l’État ». Étant donné le rôle des groupes sociaux dans la politique
-   publique et leurs connexions avec la bureaucratie étatique, il devient
-   difficile d’identifier les frontières de l’État qui fluctuent également
-   au gré des privatisations, des nationalisations et de la création de
-   nouveaux organes. Souvent la nature d’organisation quasi-autonome n’est
-   pas très définie générant des débats parmi les spécialistes des
-   sciences politiques pour savoir si elles sont d’État ou de la société
-   civile. Certains spécialistes, tel Kjaer^[8], préfèrent parler de
-   réseaux politiques et de gouvernance décentralisée dans les sociétés
-   modernes plutôt que de bureaucraties d’État ou de contrôle direct par
-   l’État.
+   Des théoriciens marxistes, tel Antonio Gramsci, se sont interrogés sur la
+   distinction entre l’État et la société civile, en arguant que le premier
+   est intégré de nombreuses façons dans la seconde^[réf. souhaitée].
+   D’autres, comme Louis Althusser, ont maintenu que les organisations
+   civiles comme l’Église, l’école et même les syndicats étaient partie
+   prenante d’un « appareil idéologique de l’État ». Étant donné le rôle des
+   groupes sociaux dans la politique publique et leurs connexions avec la
+   bureaucratie étatique, il devient difficile d’identifier les frontières de
+   l’État qui fluctuent également au gré des privatisations, des
+   nationalisations et de la création de nouveaux organes. Souvent la nature
+   d’organisation quasi-autonome n’est pas très définie générant des débats
+   parmi les spécialistes des sciences politiques pour savoir si elles sont
+   d’État ou de la société civile. Certains spécialistes, tel Kjaer^[8],
+   préfèrent parler de réseaux politiques et de gouvernance décentralisée
+   dans les sociétés modernes plutôt que de bureaucraties d’État ou de
+   contrôle direct par l’État.
 
 Histoire
 
    [modifier | modifier le code]
 
-   En Histoire, le concept d'État sert de manière large à désigner les
-   formes concentrées de pouvoir politique, peu importe que les
-   populations l'aient conçu ou pas comme impersonnel ou légitime. De
-   manière spécifique, le phénomène d'État en Histoire se réfère aux modes
-   de gouvernement dont l'autonomie des institutions et la violence
-   légitime sont reconnues comme telles dans la société en question^[9].
+   En Histoire, le concept d'État sert de manière large à désigner les formes
+   concentrées de pouvoir politique, peu importe que les populations l'aient
+   conçu ou pas comme impersonnel ou légitime. De manière spécifique, le
+   phénomène d'État en Histoire se réfère aux modes de gouvernement dont
+   l'autonomie des institutions et la violence légitime sont reconnues comme
+   telles dans la société en question^[9].
 
-   Dans l'Histoire de l'humanité, il a toujours existé des formes
-   concentrées de pouvoir. Dans l'Histoire moderne et contemporaine du
-   monde, la formation d'États dans l'Europe de la fin du Moyen-Âge a eu
-   des répercussions majeures, notamment par leur diffusion à travers la
+   Dans l'Histoire de l'humanité, il a toujours existé des formes concentrées
+   de pouvoir. Dans l'Histoire moderne et contemporaine du monde, la
+   formation d'États dans l'Europe de la fin du Moyen-Âge a eu des
+   répercussions majeures, notamment par leur diffusion à travers la
    colonisation.
 
-Préhistoire
+  Préhistoire
 
    [modifier | modifier le code]
 
    La théorie évolutionniste traditionnelle postule une période précédant
-   l'existence des États durant laquelle les êtres humains vivaient dans
-   des sociétés sans État, caractérisées par l'absence d'autorité
-   concentrée et l'absence de grandes inégalités dans le pouvoir
-   économique et politique. L'État dans cette théorie est alors présenté
-   comme une évolution uniforme à toutes les sociétés. Cette vision était
-   corroborée par l'hypothèse que de nombreuses sociétés de
-   chasseurs-cueilleurs vivaient dans une organisation non étatique.
-   L'ethnologue Pierre Clastres montrera par la suite que cette
-   organisation non étatique relève d'un choix politique. À ce sujet
-   l'anthropologue Tim Ingold écrit :
+   l'existence des États durant laquelle les êtres humains vivaient dans des
+   sociétés sans État, caractérisées par l'absence d'autorité concentrée et
+   l'absence de grandes inégalités dans le pouvoir économique et politique.
+   L'État dans cette théorie est alors présenté comme une évolution uniforme
+   à toutes les sociétés. Cette vision était corroborée par l'hypothèse que
+   de nombreuses sociétés de chasseurs-cueilleurs vivaient dans une
+   organisation non étatique. L'ethnologue Pierre Clastres montrera par la
+   suite que cette organisation non étatique relève d'un choix politique. À
+   ce sujet l'anthropologue Tim Ingold écrit :
 
      « Il ne suffit pas d'observer, dans un idiome anthropologique
-     aujourd'hui plutôt dépassé, que les chasseurs-cueilleurs vivent dans
-     des "sociétés sans État", comme si leurs vies sociales étaient en
-     quelque sorte manquantes ou inachevées, attendant d'être complétées
-     par le développement évolutif d'un appareil d'État. Au contraire, le
-     principe de leur socialité, comme l'a dit Pierre Clastres, est
-     fondamentalement "contre" l'État^[10]. »
+     aujourd'hui plutôt dépassé, que les chasseurs-cueilleurs vivent dans des
+     "sociétés sans État", comme si leurs vies sociales étaient en quelque
+     sorte manquantes ou inachevées, attendant d'être complétées par le
+     développement évolutif d'un appareil d'État. Au contraire, le principe
+     de leur socialité, comme l'a dit Pierre Clastres, est fondamentalement
+     "contre" l'État^[10]. »
 
-   Cette vision évolutioniste est aujourd'hui mise à mal par les
-   découvertes archéologiques et anthropologiques récentes montrant que
-   des sociétés bien antérieures et possédant parfois un système
-   économique basé sur la cueillette et la chasse pouvait parfois
-   s'organiser aussi sous forme d'État. Comme le précisent Graeber et
-   Wengrow,
+   Cette vision évolutioniste est aujourd'hui mise à mal par les découvertes
+   archéologiques et anthropologiques récentes montrant que des sociétés bien
+   antérieures et possédant parfois un système économique basé sur la
+   cueillette et la chasse pouvait parfois s'organiser aussi sous forme
+   d'État. Comme le précisent Graeber et Wengrow,
 
-     « Le récit que livrent les données archéologiques est bien
-     différent. Tout au long de la dernière période glaciaire, marquée
-     par de forts contrastes saisonniers, nos lointains ancêtres ont vécu
-     une existence très similaire à celle des Inuits, des Nambikwaras ou
-     des Crows. […] Un même individu pouvait donc vivre alternativement
-     dans une société clanique, une société tribale et ce que nous
-     identifierions aujourd'hui comme un embryon d'État^[11]. »
+     « Le récit que livrent les données archéologiques est bien différent.
+     Tout au long de la dernière période glaciaire, marquée par de forts
+     contrastes saisonniers, nos lointains ancêtres ont vécu une existence
+     très similaire à celle des Inuits, des Nambikwaras ou des Crows. […] Un
+     même individu pouvait donc vivre alternativement dans une société
+     clanique, une société tribale et ce que nous identifierions aujourd'hui
+     comme un embryon d'État^[11]. »
 
-   Il est donc probablement impossible de remonter aux origines de l'État
-   car ce mode d'organisation semble avoir coexisté avec d'autres aussi
-   loin que les données archéologiques puissent remonter.
+   Il est donc probablement impossible de remonter aux origines de l'État car
+   ce mode d'organisation semble avoir coexisté avec d'autres aussi loin que
+   les données archéologiques puissent remonter.
 
-Néolithique
+  Néolithique
 
    [modifier | modifier le code]
 
-   Dans le passé, il a été suggéré que l'État centralisé a été développé
-   pour administrer de grands systèmes de travaux publics (tels que les
-   systèmes d'irrigation) et pour réguler des économies complexes. Ainsi,
+   Dans le passé, il a été suggéré que l'État centralisé a été développé pour
+   administrer de grands systèmes de travaux publics (tels que les systèmes
+   d'irrigation) et pour réguler des économies complexes. Ainsi,
    l'historiographie traditionnelle fait remonter le premier État à la
-   Mésopotamie, à la troisième dynastie d'Ur, certains remontant plus
-   loin. Selon cette vision, pour la majeure partie de son existence,
-   l’espèce humaine, nomade, vivait de cueillette et de chasse et ce style
-   de vie s’est modifié environ 9 000 ans av. J.-C. avec l’invention de
-   l’agriculture qui aurait poussé les hommes à s'installer de façon plus
-   ou moins permanente à certains endroits, près des zones qu’ils
-   cultivaient, engendrant un problème de contrôle de la terre. Dans cette
-   théorie toujours, émerge alors la propriété privée et, avec elle, les
-   premières « guerres » sur les désaccords concernant la propriété des
-   terres. Dans certaines parties du monde, notamment la Mésopotamie et la
-   vallée du Nil, les conditions naturelles ont fait que la propriété des
-   terres a été concentrée en peu de mains. Finalement, un petit groupe a
-   fini par contrôler les terres travaillées par les nombreuses personnes
-   qui en dépendaient. Ainsi sont nés les premiers États primitifs ou
+   Mésopotamie, à la troisième dynastie d'Ur, certains remontant plus loin.
+   Selon cette vision, pour la majeure partie de son existence, l’espèce
+   humaine, nomade, vivait de cueillette et de chasse et ce style de vie
+   s’est modifié environ 9 000 ans av. J.-C. avec l’invention de
+   l’agriculture qui aurait poussé les hommes à s'installer de façon plus ou
+   moins permanente à certains endroits, près des zones qu’ils cultivaient,
+   engendrant un problème de contrôle de la terre. Dans cette théorie
+   toujours, émerge alors la propriété privée et, avec elle, les premières
+   « guerres » sur les désaccords concernant la propriété des terres. Dans
+   certaines parties du monde, notamment la Mésopotamie et la vallée du Nil,
+   les conditions naturelles ont fait que la propriété des terres a été
+   concentrée en peu de mains. Finalement, un petit groupe a fini par
+   contrôler les terres travaillées par les nombreuses personnes qui en
+   dépendaient. Ainsi sont nés les premiers États primitifs ou
    « proto-État ».^[réf. souhaitée]
 
    Cependant, les preuves archéologiques et anthropologiques modernes ne
-   soutiennent pas cette thèse, soulignant l'existence de plusieurs
-   sociétés possédant des structures étatiques bien antérieurement^[12].
-   Il a également été montré que des formes d'États plus récentes ne
-   reposaient pas nécessairement sur la sédentarité ou l'agriculture. Les
-   travaux de Simon Berger montrent par exemple que l'empire nomade mongol
-   avait une forme polycentrique, sans véritable capitale et reposait sur
-   une économie hybride de chasse et cueillette et
-   d'agropastoralisme^[13]^,^[14].
+   soutiennent pas cette thèse, soulignant l'existence de plusieurs sociétés
+   possédant des structures étatiques bien antérieurement^[12]. Il a
+   également été montré que des formes d'États plus récentes ne reposaient
+   pas nécessairement sur la sédentarité ou l'agriculture. Les travaux de
+   Simon Berger montrent par exemple que l'empire nomade mongol avait une
+   forme polycentrique, sans véritable capitale et reposait sur une économie
+   hybride de chasse et cueillette et d'agropastoralisme^[13]^,^[14].
 
-L'État durant Antiquité
+  L'État durant Antiquité
 
    [modifier | modifier le code]
    Article connexe : Citoyenneté.
-   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
-   aide est la bienvenue ! Comment faire ?
+   [IMG]
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide
+   est la bienvenue ! Comment faire ?
 
-   Bien que des formes d'État aient existé avant l'avènement de l'empire
-   grec antique, les premiers écrits analysant rationnellement les
-   institutions politiques datent de l'antiquité grecque^[1]. Auparavant,
-   les États étaient décrits et justifiés en termes de mythes
-   religieux^[15].
+   Bien que des formes d'État aient existé avant l'avènement de l'empire grec
+   antique, les premiers écrits analysant rationnellement les institutions
+   politiques datent de l'antiquité grecque^[1]. Auparavant, les États
+   étaient décrits et justifiés en termes de mythes religieux^[15].
 
    Les fondements de nombreuses innovations politiques de l'Antiquité
-   classique, essentiels à la tradition occidentale de l'État, s'ancrent
-   dans les pratiques des Cités-États grecques et de la République
-   romaine, comme la notions droits de citoyenneté. À Athènes, ces droits
-   étaient combinés dans une forme de démocratie directe.
+   classique, essentiels à la tradition occidentale de l'État, s'ancrent dans
+   les pratiques des Cités-États grecques et de la République romaine, comme
+   la notions droits de citoyenneté. À Athènes, ces droits étaient combinés
+   dans une forme de démocratie directe.
 
-Émergence des États modernes en Europe
+  Émergence des États modernes en Europe
 
    [modifier | modifier le code]
 
-Origines des États modernes en Europe
+    Origines des États modernes en Europe
 
    [modifier | modifier le code]
    Article connexe : État souverain.
 
-   On peut observer au Moyen Âge des phénomènes de centralisation du
-   pouvoir qui joueront un rôle dans l’apparition des États modernes en
+   On peut observer au Moyen Âge des phénomènes de centralisation du pouvoir
+   qui joueront un rôle dans l’apparition des États modernes en
    Europe^[16]^[17].
 
-   Les spécialistes s'accordent généralement à dire que le système
-   étatique moderne est né avec la signature des traités de Westphalie en
-   1648, qui a établi le concept de souveraineté de l'État^[18]. Cet
-   événement a notamment marqué le passage de la pratique médiévale du
-   féodalisme à l'émergence de systèmes étatiques de plus en plus
-   centralisés qui détenaient le monopole de la violence et extrayaient
-   effectivement des revenus de leurs populations civiles.^[19]^,^[20]
-   Cette transition s'explique par deux facteurs : des changements
-   spectaculaires dans le climat politique, économique et culturel de
-   l'Europe et des changements dans l'environnement naturel de
-   l'Europe^[19].
+   Les spécialistes s'accordent généralement à dire que le système étatique
+   moderne est né avec la signature des traités de Westphalie en 1648, qui a
+   établi le concept de souveraineté de l'État^[18]. Cet événement a
+   notamment marqué le passage de la pratique médiévale du féodalisme à
+   l'émergence de systèmes étatiques de plus en plus centralisés qui
+   détenaient le monopole de la violence et extrayaient effectivement des
+   revenus de leurs populations civiles.^[19]^,^[20] Cette transition
+   s'explique par deux facteurs : des changements spectaculaires dans le
+   climat politique, économique et culturel de l'Europe et des changements
+   dans l'environnement naturel de l'Europe^[19].
 
    Le changement politique en Europe au cours de cette période peut être
-   attribué aux améliorations de la technologie militaire et �
-   l'intensification de la guerre entre les États d'Europe occidentale,
-   qui ont catalysé la formation de vastes armées contrôlées par l'État et
-   de grandes bureaucraties d'État chargées de lever des
-   impôts^[20]^,^[21].
+   attribué aux améliorations de la technologie militaire et à
+   l'intensification de la guerre entre les États d'Europe occidentale, qui
+   ont catalysé la formation de vastes armées contrôlées par l'État et de
+   grandes bureaucraties d'État chargées de lever des impôts^[20]^,^[21].
 
-Formation et conséquences de la bureaucratie étatique
+    Formation et conséquences de la bureaucratie étatique
 
    [modifier | modifier le code]
    Articles connexes : Bureaucratie, Constitution et État-nation.
 
-   C’est entre autres à travers la prise de pouvoir autocratique de
-   Napoléon Bonaparte et à la suite de ses guerres à travers l’Europe que
-   les États sont devenus une forme prédominante de
-   gouvernance^[22]^,^[23]. Cette évolution s’inscrit dans la continuité
-   du développement de la monarchie en France, que le règne de Louis XIV
-   avait fini de centraliser et de légaliser, précipitant ainsi la forme
-   étatique du pouvoir^[24]. Ce prolongement de la monarchie s’observe
-   aussi dans l’amplification dans l’État moderne de l’importance des
-   secrétaires^[25], des officiers^[26], et de la culture du document
-   écrit dans la féodalité monarchique française de l’époque des guerres
-   de religions^[27].
+   C’est entre autres à travers la prise de pouvoir autocratique de Napoléon
+   Bonaparte et à la suite de ses guerres à travers l’Europe que les États
+   sont devenus une forme prédominante de gouvernance^[22]^,^[23]. Cette
+   évolution s’inscrit dans la continuité du développement de la monarchie en
+   France, que le règne de Louis XIV avait fini de centraliser et de
+   légaliser, précipitant ainsi la forme étatique du pouvoir^[24]. Ce
+   prolongement de la monarchie s’observe aussi dans l’amplification dans
+   l’État moderne de l’importance des secrétaires^[25], des officiers^[26],
+   et de la culture du document écrit dans la féodalité monarchique française
+   de l’époque des guerres de religions^[27].
 
    En effet, un des procédés principaux par lequel les États se sont
-   constitués est celui de la création d’une classe de
-   fonctionnaires^[28], et particulièrement l’institution de services de
-   renseignement^[29]. La bureaucratie permet en effet une diffusion dans
-   la société des principes étatiques, par exemple la hiérarchie et le
-   dévouement à l’État^[30]. L’organisation de la police a aussi été un
-   facteur coercitif d’installation des formes étatiques dans les
-   populations européennes et dans celles des colonies exploitées par les
-   empires coloniaux européens^[31].
+   constitués est celui de la création d’une classe de fonctionnaires^[28],
+   et particulièrement l’institution de services de renseignement^[29]. La
+   bureaucratie permet en effet une diffusion dans la société des principes
+   étatiques, par exemple la hiérarchie et le dévouement à l’État^[30].
+   L’organisation de la police a aussi été un facteur coercitif
+   d’installation des formes étatiques dans les populations européennes et
+   dans celles des colonies exploitées par les empires coloniaux
+   européens^[31].
 
-La décolonisation et la mondialisation d'un système de gouvernance
+  La décolonisation et la mondialisation d'un système de gouvernance
 
    [modifier | modifier le code]
    Article connexe : Mondialisation.
 
    Pourtant, les pays victimes du colonialisme européen n’ont généralement
-   reçu que de façon indirecte les élaborations européennes d’États
-   orientées vers l’idéal de l’État de droit, car les gouvernements
-   colonisateurs agissaient sur un mode plus militaire que juridique^[32],
-   ce qui a entraîné des évolutions propres aussi dans le caractère
-   étatique de la plupart des formes postcoloniales de
-   gouvernance^[33]^,^[34]. Par exemple, en Colombie, la formation de
-   l’État au début du XX^e siècle est passée par une circulation de
-   l’idéologie du libéralisme et par une mobilisation de l’école comme
-   terrain de relations verticales entre l’État et la population^[35]. En
-   Algérie, l’État présente des articulations compliquées avec les autres
-   aspects de la société^[36]. Dans les tensions entre le Kurdistan et la
-   Turquie jouent également les conséquences du déploiement du modèle
-   étatique dans la région à travers la colonisation puis la république
-   kémaliste^[37].
+   reçu que de façon indirecte les élaborations européennes d’États orientées
+   vers l’idéal de l’État de droit, car les gouvernements colonisateurs
+   agissaient sur un mode plus militaire que juridique^[32], ce qui a
+   entraîné des évolutions propres aussi dans le caractère étatique de la
+   plupart des formes postcoloniales de gouvernance^[33]^,^[34]. Par exemple,
+   en Colombie, la formation de l’État au début du XX^e siècle est passée par
+   une circulation de l’idéologie du libéralisme et par une mobilisation de
+   l’école comme terrain de relations verticales entre l’État et la
+   population^[35]. En Algérie, l’État présente des articulations compliquées
+   avec les autres aspects de la société^[36]. Dans les tensions entre le
+   Kurdistan et la Turquie jouent également les conséquences du déploiement
+   du modèle étatique dans la région à travers la colonisation puis la
+   république kémaliste^[37].
 
    En Europe et aux États-Unis, vers la fin du XIX^e siècle, les États ont
-   connu une évolution vers l’État-providence en gérant de manière plus
-   fine la vie quotidienne des personnes dans ce qui est dès lors
-   considéré comme des territoires nationaux^[38], et en tentant de
-   monopoliser toutes les relations de solidarité^[39]. Cela passe
-   notamment par l’instauration du système des hôpitaux publics, au moyen
-   desquels la santé deviendrait « un instrument de discipline^[40] ».
-   Cela signifie aussi la centralisation de toutes les formes de défense
-   armée collective au sein d’armées nationales hiérarchisées, notamment
-   au moyen du service militaire obligatoire^[41]. Enfin, les solidarités
-   économiques sont aussi accaparées par les États dans cette phase
-   d’évolution des ordres étatiques occidentaux, à travers la promotion de
-   l’économie de marché extractiviste^[42], la gestion des caisses de
-   sécurité sociale^[43] et l’organisation par les politiques d’aide
-   sociale d’une mise en marché capitaliste des activités humaines
+   connu une évolution vers l’État-providence en gérant de manière plus fine
+   la vie quotidienne des personnes dans ce qui est dès lors considéré comme
+   des territoires nationaux^[38], et en tentant de monopoliser toutes les
+   relations de solidarité^[39]. Cela passe notamment par l’instauration du
+   système des hôpitaux publics, au moyen desquels la santé deviendrait « un
+   instrument de discipline^[40] ». Cela signifie aussi la centralisation de
+   toutes les formes de défense armée collective au sein d’armées nationales
+   hiérarchisées, notamment au moyen du service militaire obligatoire^[41].
+   Enfin, les solidarités économiques sont aussi accaparées par les États
+   dans cette phase d’évolution des ordres étatiques occidentaux, à travers
+   la promotion de l’économie de marché extractiviste^[42], la gestion des
+   caisses de sécurité sociale^[43] et l’organisation par les politiques
+   d’aide sociale d’une mise en marché capitaliste des activités humaines
    individuelles^[44].
 
-Évolution récente
+  Évolution récente
 
    [modifier | modifier le code]
    Article connexe : Néolibéralisme.
@@ -702,94 +659,93 @@ La décolonisation et la mondialisation d'un système de gouvernance
    européenne^[45]. Avec l'échec des stratégies d'industrialisation et des
    politiques de relance budgétaire, son rôle comme acteur économique
    principal devient mineur^[45]. De même, il a enregistré beaucoup de
-   faiblesses dans la protection du citoyen contre les grands risques
-   sociaux (éducation, maladie, chômage et vieillesse)^[45]. Les États
-   perdent une partie de leur pouvoir notamment en raison de la
-   mondialisation, surtout dans ses aspects économiques, qui augmente les
-   contraintes extérieures et diminue le pouvoir d’intervention des États
-   face aux marchés financiers. En Europe, les États se désengagent de
-   l’économie en privatisant les entreprises publiques. Ils
-   n’interviennent plus autant dans la prise de décision publique. Ils
-   perdent de leur pouvoir « par le haut », avec la construction
-   européenne, dont les directives s’imposent dans de plus en plus de
-   secteurs d’activité.
+   faiblesses dans la protection du citoyen contre les grands risques sociaux
+   (éducation, maladie, chômage et vieillesse)^[45]. Les États perdent une
+   partie de leur pouvoir notamment en raison de la mondialisation, surtout
+   dans ses aspects économiques, qui augmente les contraintes extérieures et
+   diminue le pouvoir d’intervention des États face aux marchés financiers.
+   En Europe, les États se désengagent de l’économie en privatisant les
+   entreprises publiques. Ils n’interviennent plus autant dans la prise de
+   décision publique. Ils perdent de leur pouvoir « par le haut », avec la
+   construction européenne, dont les directives s’imposent dans de plus en
+   plus de secteurs d’activité.
 
    En France, l’État perd son pouvoir « par le bas », avec la
-   décentralisation et l’augmentation du pouvoir des régions. En retour,
-   on doit également signaler les points suivants :
+   décentralisation et l’augmentation du pouvoir des régions. En retour, on
+   doit également signaler les points suivants :
+
     1. l'État préside toujours à la mise en place d'infrastructures ou de
-       mesures dont les effets sont sociétaux : réseaux de téléphonie
-       mobile, télévision numérique terrestre, vaccination.
+       mesures dont les effets sont sociétaux : réseaux de téléphonie mobile,
+       télévision numérique terrestre, vaccination.
     2. l'État conserve son effet sur les comportements des citoyens :
        bonus-malus écologique, taxe carbone.
     3. Depuis la fin des années 1990, de nombreux économistes keynésiens
        contemporains (Joseph Stiglitz, Paul Romer, Gregory Mankiw…)
-       considèrent que les pouvoirs publics ont plusieurs rôles positifs �
-       jouer afin de résoudre les défaillances du marché^[46]. Les
-       rigidités de l'emploi peuvent être assouplies en baissant les
-       cotisations sociales (voire en les supprimant dans certaines
-       tranches de salaires) concernant les emplois non qualifiés^[46].
-       Les sommes correspondantes doivent être supportées par des
-       organismes publics ad hoc. Les pouvoirs publics ont aussi la
-       possibilité d'encourager la demande portant sur les produits des
-       entreprises en les subventionnant^[46]. La subvention versée par le
-       Trésor au producteur a, en effet, pour conséquence directe de
-       baisser le prix du produit vendu, ce qui induit une augmentation
-       des quantités vendues (augmentation du bénéfice du producteur) et
-       une baisse des prix d'achat (accroissement du bénéfice du
-       consommateur)^[47]. La politique de baisse du taux d'intérêt permet
+       considèrent que les pouvoirs publics ont plusieurs rôles positifs à
+       jouer afin de résoudre les défaillances du marché^[46]. Les rigidités
+       de l'emploi peuvent être assouplies en baissant les cotisations
+       sociales (voire en les supprimant dans certaines tranches de salaires)
+       concernant les emplois non qualifiés^[46]. Les sommes correspondantes
+       doivent être supportées par des organismes publics ad hoc. Les
+       pouvoirs publics ont aussi la possibilité d'encourager la demande
+       portant sur les produits des entreprises en les subventionnant^[46].
+       La subvention versée par le Trésor au producteur a, en effet, pour
+       conséquence directe de baisser le prix du produit vendu, ce qui induit
+       une augmentation des quantités vendues (augmentation du bénéfice du
+       producteur) et une baisse des prix d'achat (accroissement du bénéfice
+       du consommateur)^[47]. La politique de baisse du taux d'intérêt permet
        d'améliorer la rentabilité des entreprises en faisant jouer le
-       mécanisme de l'effet de levier^[46]. Les entreprises peuvent
-       également tirer d'autres avantages de l'intervention publique^[46].
-       Celle-ci peut prendre la forme de protection des industries
-       naissantes conformément à la théorie de Friedrich List et (ou)
-       permettre aux entreprises nationales de conserver ou d'agrandir
-       leur part de marché en les protégeant de la concurrence
-       étrangère^[46]. Dans les pays émergents, ces économistes
-       considèrent que la place des pouvoirs publics reste
-       fondamentale^[46]. L'éducation, la formation, l'infrastructure de
-       base (routes, autoroutes, ports et nouvelles technologies de
-       l'information et de la communication) jouent un rôle de premier
-       plan dans l'industrialisation de ces pays^[46]. La Corée du Sud,
-       Singapour, Taiwan et Hong Kong constituent un modèle de
+       mécanisme de l'effet de levier^[46]. Les entreprises peuvent également
+       tirer d'autres avantages de l'intervention publique^[46]. Celle-ci
+       peut prendre la forme de protection des industries naissantes
+       conformément à la théorie de Friedrich List et (ou) permettre aux
+       entreprises nationales de conserver ou d'agrandir leur part de marché
+       en les protégeant de la concurrence étrangère^[46]. Dans les pays
+       émergents, ces économistes considèrent que la place des pouvoirs
+       publics reste fondamentale^[46]. L'éducation, la formation,
+       l'infrastructure de base (routes, autoroutes, ports et nouvelles
+       technologies de l'information et de la communication) jouent un rôle
+       de premier plan dans l'industrialisation de ces pays^[46]. La Corée du
+       Sud, Singapour, Taiwan et Hong Kong constituent un modèle de
        développement réussi donné en exemple^[46].
 
-   Enfin la crise bancaire (2008) a montré que les États restent la
-   puissance de dernier recours, et que les entreprises privées y ont
-   recours spontanément, même dans les pays considérés comme libéraux.
+   Enfin la crise bancaire (2008) a montré que les États restent la puissance
+   de dernier recours, et que les entreprises privées y ont recours
+   spontanément, même dans les pays considérés comme libéraux.
 
    Avec l'instauration de politiques de développement durable au début des
    années 2000, l'État retrouve un rôle de régulation. En Europe, la
-   politique européenne de développement durable se traduit par de
-   nombreuses directives, mais il revient aux États membres de contrôler
-   leur application, dans le respect du principe de subsidiarité. Chaque
-   État doit définir une stratégie nationale de développement durable. De
-   même, les États définissent de plus en plus souvent des politiques
-   publiques d'intelligence économique. C'est le cas aux États-Unis depuis
-   les années 1980, et en France depuis 2005. D'autre part, la crise
-   financière de 2008 a démontré qu'il n'était pas possible de laisser les
-   économies sous le seul pouvoir des marchés financiers, et que les États
-   (ou du moins des institutions possédant des traits de puissance
-   publique) pouvaient exercer un pouvoir de régulation^[48]. Néanmoins,
-   certains auteurs ont récemment^[C'est-à-dire ?] avancé le passage d'un
-   État dominateur de la société à un État acteur, soumis à l'impératif de
-   collaboration^[49].
+   politique européenne de développement durable se traduit par de nombreuses
+   directives, mais il revient aux États membres de contrôler leur
+   application, dans le respect du principe de subsidiarité. Chaque État doit
+   définir une stratégie nationale de développement durable. De même, les
+   États définissent de plus en plus souvent des politiques publiques
+   d'intelligence économique. C'est le cas aux États-Unis depuis les années
+   1980, et en France depuis 2005. D'autre part, la crise financière de 2008
+   a démontré qu'il n'était pas possible de laisser les économies sous le
+   seul pouvoir des marchés financiers, et que les États (ou du moins des
+   institutions possédant des traits de puissance publique) pouvaient exercer
+   un pouvoir de régulation^[48]. Néanmoins, certains auteurs ont
+   récemment^[C'est-à-dire ?] avancé le passage d'un État dominateur de la
+   société à un État acteur, soumis à l'impératif de collaboration^[49].
 
 Caractérisation de l'État
 
    [modifier | modifier le code]
-   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
-   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
-   ici pour en savoir plus.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
+   plus.Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus.
+   [IMG]
 
-   Les informations figurant dans cet article ou cette section doivent
-   être reliées aux sources mentionnées dans les sections
-   « Bibliographie », « Sources » ou « Liens externes » (janvier 2024).
-   Vous pouvez améliorer la vérifiabilité en associant ces informations �
-   des références à l'aide d'appels de notes.
-   [250px-Max_Weber_1917.jpg] Max Weber en 1917.
+   Les informations figurant dans cet article ou cette section doivent être
+   reliées aux sources mentionnées dans les sections « Bibliographie »,
+   « Sources » ou « Liens externes » (janvier 2024).
 
-Monopole de la violence légitime
+   Vous pouvez améliorer la vérifiabilité en associant ces informations à des
+   références à l'aide d'appels de notes.
+   [IMG]Max Weber en 1917.
+
+  Monopole de la violence légitime
 
    [modifier | modifier le code]
    Article détaillé : Monopole de la violence légitime.
@@ -801,261 +757,253 @@ Monopole de la violence légitime
 
    Cependant c'est par les travaux de Max Weber que cette analyse reste
    connue. Max Weber, dans sa réflexion au début du XX^e siècle, s’est
-   intéressé à l’État en tant qu’institution^[note 2], ainsi qu’aux
-   rapports entre politiques et administratifs. Max Weber, dans Économie
-   et société^[51], entend par État « une entreprise politique à caractère
-   institutionnel lorsque et tant que sa direction administrative
-   revendique avec succès, dans l’application de ses règlements, le
-   monopole de la contrainte physique légitime sur un territoire donné. »
-   Pour Weber donc, une entreprise politique à caractère institutionnel ne
-   peut être un État que pour autant que sa structure administrative
-   réussit à être la seule, directement ou par délégation (délégation de
-   service public, externalisation^[52]), à faire respecter les lois �
-   travers l'armée, la justice et la police. Dans le cadre de la
-   sociologie de Weber, la souveraineté résulte de la capacité de l’État �
-   voir reconnu comme légitime son monopole de la violence physique et
-   symbolique.
+   intéressé à l’État en tant qu’institution^[note 2], ainsi qu’aux rapports
+   entre politiques et administratifs. Max Weber, dans Économie et
+   société^[51], entend par État « une entreprise politique à caractère
+   institutionnel lorsque et tant que sa direction administrative revendique
+   avec succès, dans l’application de ses règlements, le monopole de la
+   contrainte physique légitime sur un territoire donné. » Pour Weber donc,
+   une entreprise politique à caractère institutionnel ne peut être un État
+   que pour autant que sa structure administrative réussit à être la seule,
+   directement ou par délégation (délégation de service public,
+   externalisation^[52]), à faire respecter les lois à travers l'armée, la
+   justice et la police. Dans le cadre de la sociologie de Weber, la
+   souveraineté résulte de la capacité de l’État à voir reconnu comme
+   légitime son monopole de la violence physique et symbolique.
 
    Certains courants de la sociologie insistent sur le fait que l’État
-   dispose également d’une capacité à exercer une violence symbolique sur
-   ses citoyens, ce que Pierre Bourdieu a appelé la « magie d'État ».
-   Cette notion renvoie à la capacité de l'État de catégoriser ses
-   citoyens, grâce à un nom au travers de l’état civil ou un numéro
-   d’immatriculation (comme le numéro de sécurité sociale en France), ou
-   par ses tribunaux en les déclarant coupables ou innocents.
+   dispose également d’une capacité à exercer une violence symbolique sur ses
+   citoyens, ce que Pierre Bourdieu a appelé la « magie d'État ». Cette
+   notion renvoie à la capacité de l'État de catégoriser ses citoyens, grâce
+   à un nom au travers de l’état civil ou un numéro d’immatriculation (comme
+   le numéro de sécurité sociale en France), ou par ses tribunaux en les
+   déclarant coupables ou innocents.
 
-Appareil politique et administratif
+  Appareil politique et administratif
 
    [modifier | modifier le code]
 
    L’État est administré par des gouvernants élus et des fonctionnaires
    gouvernants (Jacques Lagroye), c’est-à-dire que l’État est à la fois
    administratif et politique, avec une division du travail social (Émile
-   Durkheim) entre ces deux personnels. En général, l’État est composé de
-   ce qui constitue pour John Locke le gouvernement civil (le pouvoir
-   exécutif et le pouvoir législatif), de la justice (le pouvoir
-   judiciaire) et de tout un appareil militaire et administratif : forces
-   de polices et administration. L'État est une institution d'institutions
-   en interaction permanente dont chacune a une culture distincte —
-   c’est-à-dire des univers de sens et de pratiques différents. L’État
-   n'est donc pas un, ni unifié. Il est un espace où se développent et où
-   coexistent des cultures et des logiques institutionnelles quelquefois
-   différentes.
+   Durkheim) entre ces deux personnels. En général, l’État est composé de ce
+   qui constitue pour John Locke le gouvernement civil (le pouvoir exécutif
+   et le pouvoir législatif), de la justice (le pouvoir judiciaire) et de
+   tout un appareil militaire et administratif : forces de polices et
+   administration. L'État est une institution d'institutions en interaction
+   permanente dont chacune a une culture distincte — c’est-à-dire des univers
+   de sens et de pratiques différents. L’État n'est donc pas un, ni unifié.
+   Il est un espace où se développent et où coexistent des cultures et des
+   logiques institutionnelles quelquefois différentes.
 
-   Concernant la France, Alexis de Tocqueville dans son livre l’Ancien
-   Régime et la Révolution insiste sur deux points : la permanence des
-   institutions de l’État bâties à partir de Richelieu et l’influence de
-   la physiocratie sur les réformes introduites par la Révolution. Il
-   écrit à ce propos : « Toutes les institutions que la Révolution devait
-   abolir sans retour ont été l’objet particulier de leurs attaques ;
-   aucune n’a trouvé grâce à leurs yeux. Toutes celles, au contraire, qui
-   peuvent passer pour son œuvre propre ont été annoncées par eux �
-   l’avance et préconisées avec ardeur ; on citerait à peine une seule
-   dont le germe n’ait été déposé dans quelques-uns de leurs écrits ; on
-   trouve en eux tout ce qu’il y a de plus substantiel en elle »^[53].
+   Concernant la France, Alexis de Tocqueville dans son livre l’Ancien Régime
+   et la Révolution insiste sur deux points : la permanence des institutions
+   de l’État bâties à partir de Richelieu et l’influence de la physiocratie
+   sur les réformes introduites par la Révolution. Il écrit à ce propos :
+   « Toutes les institutions que la Révolution devait abolir sans retour ont
+   été l’objet particulier de leurs attaques ; aucune n’a trouvé grâce à
+   leurs yeux. Toutes celles, au contraire, qui peuvent passer pour son œuvre
+   propre ont été annoncées par eux à l’avance et préconisées avec ardeur ;
+   on citerait à peine une seule dont le germe n’ait été déposé dans
+   quelques-uns de leurs écrits ; on trouve en eux tout ce qu’il y a de plus
+   substantiel en elle »^[53].
 
-Séparation des pouvoirs et contre-pouvoirs
+  Séparation des pouvoirs et contre-pouvoirs
 
    [modifier | modifier le code]
-   [250px-John_Locke.jpg] John Locke.
+   [IMG]John Locke.
 
-   Les principes fondamentaux d’un État moderne, tels qu’ils ont été
-   énoncés par les grands philosophes politiques, incluent la séparation
-   des pouvoirs. John Locke, dans les deux traités du gouvernement civil
-   (1690), distingue le pouvoir exécutif et le pouvoir législatif.
-   Montesquieu, dans De l’esprit des lois, adjoindra ultérieurement un
-   troisième pouvoir, le pouvoir judiciaire. Si la constitution américaine
-   de 1787 s’inspire de ces deux philosophes, ainsi que des principes de
-   droit naturel de Samuel von Pufendorf, longtemps ce courant n’aura
-   qu’une influence très minime sur les institutions en France, en
-   Angleterre même, il perdra de son influence à partir de la première
-   moitié du XIX^e siècle. Pour Élie Halévy, l’idée de contre-force que
-   l’on trouve chez Montesquieu et chez les libéraux anglais qui ont fait
-   les révolutions au XVII^e siècle repose sur un pessimisme moral, sur un
-   doute sur les capacités de l’homme à comprendre son vrai intérêt et
-   celui de la cité, d’où la nécessité d’institutions destinées à affiner
-   la pensée et l’action des hommes, à l’obliger à comprendre ce que
-   pensent les autres. Elle s’inscrit dans un cadre où la « droite
-   raison » n’est pas purement abstraite mais doit se nourrir d’une
-   confrontation avec la réalité. Par ailleurs, pour ces hommes les lois
-   ne sont pas des commandements d’une quelconque entité supérieure mais
-   sont des relations. Aussi, Halévy note-t-il : « L’État libéral est un
-   État dont l’on peut dire, à volonté, qu’il est un État sans souverain,
-   ou qu’il renferme plusieurs souverains »^[54].
+   Les principes fondamentaux d’un État moderne, tels qu’ils ont été énoncés
+   par les grands philosophes politiques, incluent la séparation des
+   pouvoirs. John Locke, dans les deux traités du gouvernement civil (1690),
+   distingue le pouvoir exécutif et le pouvoir législatif. Montesquieu, dans
+   De l’esprit des lois, adjoindra ultérieurement un troisième pouvoir, le
+   pouvoir judiciaire. Si la constitution américaine de 1787 s’inspire de ces
+   deux philosophes, ainsi que des principes de droit naturel de Samuel von
+   Pufendorf, longtemps ce courant n’aura qu’une influence très minime sur
+   les institutions en France, en Angleterre même, il perdra de son influence
+   à partir de la première moitié du XIX^e siècle. Pour Élie Halévy, l’idée
+   de contre-force que l’on trouve chez Montesquieu et chez les libéraux
+   anglais qui ont fait les révolutions au XVII^e siècle repose sur un
+   pessimisme moral, sur un doute sur les capacités de l’homme à comprendre
+   son vrai intérêt et celui de la cité, d’où la nécessité d’institutions
+   destinées à affiner la pensée et l’action des hommes, à l’obliger à
+   comprendre ce que pensent les autres. Elle s’inscrit dans un cadre où la
+   « droite raison » n’est pas purement abstraite mais doit se nourrir d’une
+   confrontation avec la réalité. Par ailleurs, pour ces hommes les lois ne
+   sont pas des commandements d’une quelconque entité supérieure mais sont
+   des relations. Aussi, Halévy note-t-il : « L’État libéral est un État dont
+   l’on peut dire, à volonté, qu’il est un État sans souverain, ou qu’il
+   renferme plusieurs souverains »^[54].
 
-   En France, à la fin du XVIII^e siècle, l’idée de contre-force chère �
+   En France, à la fin du XVIII^e siècle, l’idée de contre-force chère à
    Montesquieu et aux libéraux anglais du XVIII^e siècle était fortement
-   combattue par François Quesnay et les physiocrates, c’est-à-dire si
-   l’on suit Tocqueville par un des courants qui a eu le plus d’influence
-   en France. Quesnay, dans les Maximes générales du gouvernement
-   économique d’un royaume agricole, écrit : « Le système des
-   contre-forces dans un gouvernement est une opinion funeste qui ne
-   laisse apercevoir que la discorde entre les grands et l’accablement des
-   petits »^[55]. Cette même opposition se trouve dans un courant
-   britannique important au XIX^e siècle qui a été influencé par les
-   physiocrates avant d’influencer à son tour des républicains français :
-   l’utilitarisme, appelé aussi par Élie Halévy le « radicalisme
-   philosophique » (Jeremy Bentham, Ricardo, John Stuart Mill). Élie
-   Halévy écrit quand il veut exposer ce qui différencie l’État libéral de
-   l’État radical : « L’État radical, au contraire, tel que le définit
+   combattue par François Quesnay et les physiocrates, c’est-à-dire si l’on
+   suit Tocqueville par un des courants qui a eu le plus d’influence en
+   France. Quesnay, dans les Maximes générales du gouvernement économique
+   d’un royaume agricole, écrit : « Le système des contre-forces dans un
+   gouvernement est une opinion funeste qui ne laisse apercevoir que la
+   discorde entre les grands et l’accablement des petits »^[55]. Cette même
+   opposition se trouve dans un courant britannique important au XIX^e siècle
+   qui a été influencé par les physiocrates avant d’influencer à son tour des
+   républicains français : l’utilitarisme, appelé aussi par Élie Halévy le
+   « radicalisme philosophique » (Jeremy Bentham, Ricardo, John Stuart Mill).
+   Élie Halévy écrit quand il veut exposer ce qui différencie l’État libéral
+   de l’État radical : « L’État radical, au contraire, tel que le définit
    l’utilitarisme de Bentham est un État qui confère la souveraineté au
-   peuple ; après le peuple se trouve contraint de déléguer un certain
-   nombre de fonctions politiques à une minorité d’individus… non pas pour
-   limiter lui-même sa puissance, pour abdiquer en partie sa souveraineté,
-   mais pour rendre au contraire plus efficaces et plus concentrées
-   l’expression, puis l’exécution de ses volontés. Le problème est alors
-   d’éviter que les représentants du peuple dérobent à ceux qui les ont
-   constitués tels tout ou partie de leur souveraineté. D’où la nécessité
-   de trouver des “contre-forces” capables de “tenir en échec” l’égoïsme
-   des fonctionnaires »^[54].
+   peuple ; après le peuple se trouve contraint de déléguer un certain nombre
+   de fonctions politiques à une minorité d’individus… non pas pour limiter
+   lui-même sa puissance, pour abdiquer en partie sa souveraineté, mais pour
+   rendre au contraire plus efficaces et plus concentrées l’expression, puis
+   l’exécution de ses volontés. Le problème est alors d’éviter que les
+   représentants du peuple dérobent à ceux qui les ont constitués tels tout
+   ou partie de leur souveraineté. D’où la nécessité de trouver des
+   “contre-forces” capables de “tenir en échec” l’égoïsme des
+   fonctionnaires »^[54].
 
-Théories juridiques concurrentes
+  Théories juridiques concurrentes
 
    [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (août 2024).
+   [IMG]
+   Cette section ne cite pas suffisamment ses sources (août 2024). 
    Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les passages
+   nécessitant une source.
 
    La théorie juridique a eu beaucoup de mal à définir ce qu’était l’État.
-   Plusieurs écoles se sont affrontées sur ce terrain ; on retiendra ici
-   les trois grandes perspectives de l’approche juridique.
+   Plusieurs écoles se sont affrontées sur ce terrain ; on retiendra ici les
+   trois grandes perspectives de l’approche juridique.
 
    Maurice Hauriou propose l'État de puissance. Cette théorie remonte aux
    ouvrages de Nicolas Machiavel, de Thomas Hobbes et de Jean Bodin. Dans
    cette approche, l’État est caractérisé par ses souverainetés interne et
-   externe. L’État est un Léviathan dont la fonction est de maintenir
-   l’ordre dans la société dont il assure la direction. Dans ses premières
+   externe. L’État est un Léviathan dont la fonction est de maintenir l’ordre
+   dans la société dont il assure la direction. Dans ses premières
    conceptions, l’État incarne l’intérêt général et dispose alors d’un
-   certain nombre de prérogatives qui émanent de sa souveraineté,
-   notamment le pouvoir de créer le droit et de prendre des actes
-   administratifs unilatéraux (AAU) qui s’imposent aux individus sans leur
-   consentement. L’État dispose alors de la personnalité morale, il est
-   une personne au même titre que le citoyen^[56]. Hauriou introduit au
-   début du XX^e siècle l’idée de l’élection du président de la République
-   au suffrage universel.
+   certain nombre de prérogatives qui émanent de sa souveraineté, notamment
+   le pouvoir de créer le droit et de prendre des actes administratifs
+   unilatéraux (AAU) qui s’imposent aux individus sans leur consentement.
+   L’État dispose alors de la personnalité morale, il est une personne au
+   même titre que le citoyen^[56]. Hauriou introduit au début du XX^e siècle
+   l’idée de l’élection du président de la République au suffrage universel.
 
-   En faveur du positivisme juridique, Hans Kelsen propose l'État de
-   droit. Pour cet Américain d’origine autrichienne et pour l’école
-   allemande de l’État de droit, ce n’est pas l’État qui produit le droit,
-   mais l’ordre juridique (c'est-à-dire la hiérarchie des normes) qui
-   produit l’État. L’État ne serait alors que l’émanation du droit qui
-   limiterait sa puissance d’arbitraire. Dans cette perspective, l’État
-   n'est plus défini comme dans la théorie de l’État de puissance par sa
-   souveraineté, mais par son identification à un ordre juridique et sa
-   soumission au droit^[57]. Cette théorie allemande de l’État de droit a
-   été reprise par Raymond Carré de Malberg qui a essayé de transposer
-   cette théorie en France. Pour assurer la pérennité du droit, il faut
-   que la hiérarchie des normes juridiques soit garantie et qu’il existe
-   un contrôle juridictionnel pour faire respecter cette hiérarchie des
-   normes de façon à forcer l’État à respecter le droit. Ce contrôle
-   juridictionnel de l’État existe depuis l’arrêt du Tribunal des conflits
-   (TC), 1873, Blanco.
+   En faveur du positivisme juridique, Hans Kelsen propose l'État de droit.
+   Pour cet Américain d’origine autrichienne et pour l’école allemande de
+   l’État de droit, ce n’est pas l’État qui produit le droit, mais l’ordre
+   juridique (c'est-à-dire la hiérarchie des normes) qui produit l’État.
+   L’État ne serait alors que l’émanation du droit qui limiterait sa
+   puissance d’arbitraire. Dans cette perspective, l’État n'est plus défini
+   comme dans la théorie de l’État de puissance par sa souveraineté, mais par
+   son identification à un ordre juridique et sa soumission au droit^[57].
+   Cette théorie allemande de l’État de droit a été reprise par Raymond Carré
+   de Malberg qui a essayé de transposer cette théorie en France. Pour
+   assurer la pérennité du droit, il faut que la hiérarchie des normes
+   juridiques soit garantie et qu’il existe un contrôle juridictionnel pour
+   faire respecter cette hiérarchie des normes de façon à forcer l’État à
+   respecter le droit. Ce contrôle juridictionnel de l’État existe depuis
+   l’arrêt du Tribunal des conflits (TC), 1873, Blanco.
 
-   Léon Duguit propose l'État de service. L’État n’est caractérisé ni par
-   la souveraineté, ni par son identification à un ordre juridique. Pour
-   Duguit, l’État n'est qu’une coquille vide, il n’a pas de personnalité,
-   ne peut disposer de droits subjectifs et ne saurait être en mesure
-   d’imposer quoi que ce soit à qui que ce soit. L’État est donc une
-   coquille vide derrière laquelle se cachent des gouvernants – or rien ne
-   garantit que ces gouvernants accepteront de limiter leur puissance pour
-   toujours et continueront à se soumettre au droit. Ce qui justifie,
-   selon Duguit, l’existence de l’État, c’est le service public. L’État
-   est en effet selon lui l’expression de la solidarité sociale. Les
-   hommes, regroupés en sociétés, sont devenus de plus en plus
-   interdépendants. Cette interdépendance a été accompagnée de la création
-   de normes, et pour faire respecter ces normes, des dirigeants ont
-   émergé. Mais ces dirigeants ne restent dirigeants qu’aussi longtemps
-   qu’ils continuent à se dévouer à la société et à l’organisation de la
-   solidarité sociale au moyen du service public. Pour Duguit, l’État
-   n'est alors que l’émanation de la société et non pas la conséquence
-   d’une quelconque souveraineté de l’État ou d'un ordre juridique
-   préexistant.
+   Léon Duguit propose l'État de service. L’État n’est caractérisé ni par la
+   souveraineté, ni par son identification à un ordre juridique. Pour Duguit,
+   l’État n'est qu’une coquille vide, il n’a pas de personnalité, ne peut
+   disposer de droits subjectifs et ne saurait être en mesure d’imposer quoi
+   que ce soit à qui que ce soit. L’État est donc une coquille vide derrière
+   laquelle se cachent des gouvernants – or rien ne garantit que ces
+   gouvernants accepteront de limiter leur puissance pour toujours et
+   continueront à se soumettre au droit. Ce qui justifie, selon Duguit,
+   l’existence de l’État, c’est le service public. L’État est en effet selon
+   lui l’expression de la solidarité sociale. Les hommes, regroupés en
+   sociétés, sont devenus de plus en plus interdépendants. Cette
+   interdépendance a été accompagnée de la création de normes, et pour faire
+   respecter ces normes, des dirigeants ont émergé. Mais ces dirigeants ne
+   restent dirigeants qu’aussi longtemps qu’ils continuent à se dévouer à la
+   société et à l’organisation de la solidarité sociale au moyen du service
+   public. Pour Duguit, l’État n'est alors que l’émanation de la société et
+   non pas la conséquence d’une quelconque souveraineté de l’État ou d'un
+   ordre juridique préexistant.
 
 Role de l'État en économie
 
    [modifier | modifier le code]
 
-   L'État à partir du XX^e siècle devient peu à peu plus présent, et �
+   L'État à partir du XX^e siècle devient peu à peu plus présent, et à
    l'État-gendarme qui ne s'occupait que de la justice de la police et de
    l'armée, lui succède la notion d'État-providence qui elle-même recouvre
    plusieurs réalités. Gosta Esping-Andersen distingue l'État-providence
    libéral, conservateur-corporatiste et social libéral. Selon Pierre
-   Rosanvallon, on serait passé de l’État régalien (faire respecter
-   l’ordre à travers la police, l’armée et la justice) à l’État
-   instituteur du social (unifier le pays à travers l'instruction publique
-   par exemple, comme ce fut le cas à la fin XIX^e siècle en France avec
-   les lois Ferry) puis à l’État-providence (1945) (redistribuer les
-   revenus grâce au développement de la solidarité nationale par le biais
-   de la protection sociale notamment). De nos jours l'on serait passé �
-   l’État promoteur économique : soutenir l’économie (Keynes à travers la
-   notion de multiplicateur, par exemple via une politique de grands
-   travaux).
+   Rosanvallon, on serait passé de l’État régalien (faire respecter l’ordre à
+   travers la police, l’armée et la justice) à l’État instituteur du social
+   (unifier le pays à travers l'instruction publique par exemple, comme ce
+   fut le cas à la fin XIX^e siècle en France avec les lois Ferry) puis à
+   l’État-providence (1945) (redistribuer les revenus grâce au développement
+   de la solidarité nationale par le biais de la protection sociale
+   notamment). De nos jours l'on serait passé à l’État promoteur économique :
+   soutenir l’économie (Keynes à travers la notion de multiplicateur, par
+   exemple via une politique de grands travaux).
 
-Grandes fonctions
+  Grandes fonctions
 
    [modifier | modifier le code]
 
    L'économiste américain Richard Musgrave^[58] définit trois fonctions
    économiques de l'État dans la Théorie des finances publiques :
+
     1. La régulation ou « stabilisation ». Dans une économie de marché,
        l'activité est souvent cyclique ; l'intervention publique va avoir
        pour but d'éviter de trop grandes fluctuations en pratiquant des
-       politiques de stabilisation comme cela a été le cas lors de la
-       crise économique de 2008-2009. Les pouvoirs publics interviennent
-       en faisant appel à deux moyens principaux^[59]. Tout d'abord, la
-       politique de "Stop and Go" permet à l'État soit de relancer
-       l'activité économique via une politique budgétaire expansionniste
-       afin de promouvoir la croissance économique et l'emploi ou la
-       réduire par la mise en place d'une politique de rigueur ou
-       d'austérité^[59]. Cette stratégie de "se serrer la ceinture" est
-       faite dans le but de réduire l'inflation et le déficit budgétaire
-       et de la balance des paiements^[60]. Ensuite, la mise en place de
-       règles dans des secteurs aussi divers que l'économie (protection
-       des petites entreprises et des consommateurs contre l'abus de
-       pouvoir des grandes entreprises) et la société (lois visant la
+       politiques de stabilisation comme cela a été le cas lors de la crise
+       économique de 2008-2009. Les pouvoirs publics interviennent en faisant
+       appel à deux moyens principaux^[59]. Tout d'abord, la politique de
+       "Stop and Go" permet à l'État soit de relancer l'activité économique
+       via une politique budgétaire expansionniste afin de promouvoir la
+       croissance économique et l'emploi ou la réduire par la mise en place
+       d'une politique de rigueur ou d'austérité^[59]. Cette stratégie de "se
+       serrer la ceinture" est faite dans le but de réduire l'inflation et le
+       déficit budgétaire et de la balance des paiements^[60]. Ensuite, la
+       mise en place de règles dans des secteurs aussi divers que l'économie
+       (protection des petites entreprises et des consommateurs contre l'abus
+       de pouvoir des grandes entreprises) et la société (lois visant la
        sécurité des salariés et la protection des intérêts des minorités
        ethniques)^[59].
     2. L'allocation des ressources ou « affectation ». Dans ce cas les
        pouvoirs publics interviennent pour prendre en charge les biens
        collectifs, réguler la concurrence et internaliser les externalités
        c'est-à-dire par exemple dans le cas des émissions de
-       CO[2][][][][][][][][][][][][][][], les instances publiques vont
-       créer un marché des droits à polluer ou créer une taxe carbone de
-       sorte que les acteurs économiques tiennent compte des conséquences
-       de leurs actes sur l'environnement. Il s'agit de remédier �
-       certaines défaillances du marché pour assurer l'allocation efficace
-       des ressources^[59]. Dans l'essentiel, ces activités correspondent
-       à la réalisation des services gratuits (éducation et santé
-       publiques) ou semi gratuits (routes et autoroutes) ou encore à des
-       situations de monopole naturel (gaz et électricité)^[59].
-    3. La distribution ou « répartition », qui a pour but d'influer sur
-       les inégalités. Ces politiques sont liées à des notions d'équité,
-       de justice sociale ou plus récemment^[C'est-à-dire ?] de capabilité
-       (un concept développé par Amartya Sen) ; En gros, ces mesures
-       publiques sont destinées à assurer le citoyen contre les quatre
-       risques majeurs (analphabétisme, pauvreté, maladie, chômage,
-       vieillesse) par le mécanisme de l'impôt conformément à la
-       conception faîte par Lord William Beveridge (système de l'État
-       providence) au milieu des années quarante^[59].
+       CO_2______________, les instances publiques vont créer un marché des
+       droits à polluer ou créer une taxe carbone de sorte que les acteurs
+       économiques tiennent compte des conséquences de leurs actes sur
+       l'environnement. Il s'agit de remédier à certaines défaillances du
+       marché pour assurer l'allocation efficace des ressources^[59]. Dans
+       l'essentiel, ces activités correspondent à la réalisation des services
+       gratuits (éducation et santé publiques) ou semi gratuits (routes et
+       autoroutes) ou encore à des situations de monopole naturel (gaz et
+       électricité)^[59].
+    3. La distribution ou « répartition », qui a pour but d'influer sur les
+       inégalités. Ces politiques sont liées à des notions d'équité, de
+       justice sociale ou plus récemment^[C'est-à-dire ?] de capabilité (un
+       concept développé par Amartya Sen) ; En gros, ces mesures publiques
+       sont destinées à assurer le citoyen contre les quatre risques majeurs
+       (analphabétisme, pauvreté, maladie, chômage, vieillesse) par le
+       mécanisme de l'impôt conformément à la conception faîte par Lord
+       William Beveridge (système de l'État providence) au milieu des années
+       quarante^[59].
 
    Récemment^[C'est-à-dire ?], la théorie de la croissance endogène a mis
    l'accent sur les effets de certaines interventions publiques sur la
    croissance potentielle de long terme. C'est ainsi que depuis peu, les
    États mènent des politiques en faveur de la recherche.
 
-   Pour J.-M. Albertini, maître de recherche au CNRS français, ces
-   nouvelles fonctions de l'État sont le résultat d'un changement de la
-   relation qu'entretient l'État à l'égard de l'homme : si avant la
-   Révolution française de la fin du dix-huitième siècle, la défense des
-   droits de l'homme se fait contre les pouvoirs publics, actuellement, et
-   surtout depuis l'avènement de l'État providence au milieu des années
-   1940, l'État est devenu au service de l'homme^[61]. Pour assurer le
-   plein emploi de la main d'oeuvre (ou lutter contre le chômage), l'État
-   accroît ses dépenses publiques par le mécanisme du déficit
-   budgétaire^[61].
+   Pour J.-M. Albertini, maître de recherche au CNRS français, ces nouvelles
+   fonctions de l'État sont le résultat d'un changement de la relation
+   qu'entretient l'État à l'égard de l'homme : si avant la Révolution
+   française de la fin du dix-huitième siècle, la défense des droits de
+   l'homme se fait contre les pouvoirs publics, actuellement, et surtout
+   depuis l'avènement de l'État providence au milieu des années 1940, l'État
+   est devenu au service de l'homme^[61]. Pour assurer le plein emploi de la
+   main d'oeuvre (ou lutter contre le chômage), l'État accroît ses dépenses
+   publiques par le mécanisme du déficit budgétaire^[61].
 
-Différentes formes d'États-providence
+  Différentes formes d'États-providence
 
    [modifier | modifier le code]
 
@@ -1064,308 +1012,300 @@ Différentes formes d'États-providence
    également tenir compte de deux autres éléments : « la manière dont les
    activités de l'État sont coordonnées avec les rôles du marché et de la
    famille dans la prévoyance sociale »^[62]. À partir de ce constat et de
-   trois indicateurs^[63] : le degré de « dé-marchandisation », le degré
-   de stratification sociale (c'est-à-dire l'effet des États-providence
-   sur les hiérarchies sociales et sur les inégalités issues du marché) et
-   la place accordée à la sphère publique et à la sphère privée. Il
-   établit une typologie des États-providence « qui constitue aujourd'hui
-   la pierre de touche de la recherche comparative internationale »^[64].
+   trois indicateurs^[63] : le degré de « dé-marchandisation », le degré de
+   stratification sociale (c'est-à-dire l'effet des États-providence sur les
+   hiérarchies sociales et sur les inégalités issues du marché) et la place
+   accordée à la sphère publique et à la sphère privée. Il établit une
+   typologie des États-providence « qui constitue aujourd'hui la pierre de
+   touche de la recherche comparative internationale »^[64].
 
-   « Un welfare state libéral, accordant un rôle principal aux mécanismes
-   de marché et limitant pour l'essentiel sa protection aux plus
-   faibles »^[65]. Les pays archétypes de ce modèle sont le Canada, les
-   États-Unis et l'Australie. Merrien^[66] hésite à classer le Royaume-Uni
-   dans ce modèle.
+   « Un welfare state libéral, accordant un rôle principal aux mécanismes de
+   marché et limitant pour l'essentiel sa protection aux plus faibles »^[65].
+   Les pays archétypes de ce modèle sont le Canada, les États-Unis et
+   l'Australie. Merrien^[66] hésite à classer le Royaume-Uni dans ce modèle.
 
-   « Un modèle conservateur-corporatiste ou encore bismarckien,
-   c'est-à-dire un modèle d'assurance sociale obligatoire généralisée
-   adossé au travail salarié »^[66]. Dans ce système, les revenus des
-   salariés sont partiellement maintenus en cas d'accident, de maladie, de
-   chômage ou lorsque vient l'âge de la retraite. Il y a pluralité de
-   régimes de sécurité sociale et la redistribution est relativement
-   faible. Pour Esping-Andersen, ces régimes sont modelés par l'État
-   « toujours prêt à se substituer au marché en tant que pourvoyeur de
-   bien-être » et par l'Église soucieuse de défendre des valeurs
-   familiales traditionnelles^[67]. Pour cet auteur, l'établissement de
-   droits sociaux par les conservateurs se comprend pour partie par une
-   volonté de maintenir les hiérarchies anciennes menacées par le
-   libéralisme, la démocratie et le capitalisme (du moins certaines formes
-   de ce dernier)^[68]. Pour cet auteur, qui reprend sur ce point d'autres
-   travaux, l'Allemagne de Bismarck ou l'Autriche par le biais des fonds
-   de retraite, ont fait émerger des classes spéciales telles que les
-   fonctionnaires ou les travailleurs de « condition plus élevée » avec
-   peut-être l'intention « de récompenser, ou peut-être garantir, une
-   loyauté et un asservissement »^[69]. Les pays emblématiques de ce
-   modèle sont : Autriche, Allemagne, France, Italie et Belgique.
+   « Un modèle conservateur-corporatiste ou encore bismarckien, c'est-à-dire
+   un modèle d'assurance sociale obligatoire généralisée adossé au travail
+   salarié »^[66]. Dans ce système, les revenus des salariés sont
+   partiellement maintenus en cas d'accident, de maladie, de chômage ou
+   lorsque vient l'âge de la retraite. Il y a pluralité de régimes de
+   sécurité sociale et la redistribution est relativement faible. Pour
+   Esping-Andersen, ces régimes sont modelés par l'État « toujours prêt à se
+   substituer au marché en tant que pourvoyeur de bien-être » et par l'Église
+   soucieuse de défendre des valeurs familiales traditionnelles^[67]. Pour
+   cet auteur, l'établissement de droits sociaux par les conservateurs se
+   comprend pour partie par une volonté de maintenir les hiérarchies
+   anciennes menacées par le libéralisme, la démocratie et le capitalisme (du
+   moins certaines formes de ce dernier)^[68]. Pour cet auteur, qui reprend
+   sur ce point d'autres travaux, l'Allemagne de Bismarck ou l'Autriche par
+   le biais des fonds de retraite, ont fait émerger des classes spéciales
+   telles que les fonctionnaires ou les travailleurs de « condition plus
+   élevée » avec peut-être l'intention « de récompenser, ou peut-être
+   garantir, une loyauté et un asservissement »^[69]. Les pays emblématiques
+   de ce modèle sont : Autriche, Allemagne, France, Italie et Belgique.
 
-   Un régime social-démocrate qui, au contraire du régime conservateur,
-   vise à « renforcer la possibilité d'une indépendance individuelle » et
-   dont « la spécificité la plus frappante… est peut-être sa fusion entre
+   Un régime social-démocrate qui, au contraire du régime conservateur, vise
+   à « renforcer la possibilité d'une indépendance individuelle » et dont
+   « la spécificité la plus frappante… est peut-être sa fusion entre
    protection sociale et travail »^[70]. Pour assurer un niveau élevé de
    protection sociale et une offre importante de services sociaux, il doit
    viser le plein emploi qui minimise les coûts et augmente les revenus de
    l'État. Les principaux pays qui se rapprochent de ce modèle : Danemark,
-   Finlande, Pays-Bas, Norvège et Suède. Très souvent, ces pays ont adopté
-   de fortes politiques d'investissement dans la recherche et
-   développement et cherchent à renforcer leur place dans le commerce
-   mondial.
+   Finlande, Pays-Bas, Norvège et Suède. Très souvent, ces pays ont adopté de
+   fortes politiques d'investissement dans la recherche et développement et
+   cherchent à renforcer leur place dans le commerce mondial.
 
-Controverses concernant l'économie
+  Controverses concernant l'économie
 
    [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (janvier 2024).
+   [IMG]
+   Cette section ne cite pas suffisamment ses sources (janvier 2024). 
    Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les passages
+   nécessitant une source.
 
-   Pour les économistes proches du libéralisme classique, l'État ne doit
-   pas imposer des règles extra-économiques à l'économie de marché, mais
+   Pour les économistes proches du libéralisme classique, l'État ne doit pas
+   imposer des règles extra-économiques à l'économie de marché, mais
    respecter son fonctionnement propre et protéger son épanouissement
    naturel. Les plus radicaux, partisans d'un État minimal comme Robert
-   Nozick, pensent que l'État doit uniquement garantir le libre
-   déplacement des capitaux, des biens et des personnes. La fonction
-   publique ne doit employer que des soldats, des policiers, des pompiers,
-   des ambulanciers, des médecins etc. et le produit de l'impôt sert donc
-   exclusivement à financer ces services publics vitaux. La levée de
-   l'impôt n'est sinon qu'une entreprise d'extorsion de fonds : par
-   exemple, dit Nozick, il est injuste d'être forcé par l'État à payer
-   pour les allocations des autres. S'il y a des injustices liées au
-   fonctionnement de l'économie, elles ne peuvent être prises en charge
-   que par les associations caritatives et donc par la charité privée, ce
-   qui implique de compter sur la bienveillance et le sens de la pitié des
-   différents membres de la société, à l'égard des perdants et des exclus.
-   De son côté, Friedrich von Hayek, socialiste converti au libéralisme et
-   représentant de l'école autrichienne d'économie, accuse l'État de
-   favoriser la pauvreté par ses interventions au nom de la « justice
-   sociale », concept qu'il juge totalement farfelu. Par exemple, les
-   salaires sont des indicateurs de l'utilité d'un poste de production au
-   sein de l'économie sociale ; ils signalent à chacun l'intérêt
-   économique de son emploi. Quand le gouvernement d'un État réglemente
-   les salaires (par exemple en imposant un salaire horaire minimum, comme
-   le SMIC, ou une progression salariale déterminée sur toute la durée
-   d'une carrière) ces indicateurs naturels sont alors faussées par
-   l'intervention de la puissance publique : des producteurs se croient
-   plus utiles qu'ils ne sont, et ne sont donc pas incités à se rendre
-   plus utiles (en cherchant un travail mieux rémunéré par exemple). Des
-   allocations sont cependant envisagées en faveur des producteurs inaptes
-   ou handicapés, provisoirement ou définitivement.
+   Nozick, pensent que l'État doit uniquement garantir le libre déplacement
+   des capitaux, des biens et des personnes. La fonction publique ne doit
+   employer que des soldats, des policiers, des pompiers, des ambulanciers,
+   des médecins etc. et le produit de l'impôt sert donc exclusivement à
+   financer ces services publics vitaux. La levée de l'impôt n'est sinon
+   qu'une entreprise d'extorsion de fonds : par exemple, dit Nozick, il est
+   injuste d'être forcé par l'État à payer pour les allocations des autres.
+   S'il y a des injustices liées au fonctionnement de l'économie, elles ne
+   peuvent être prises en charge que par les associations caritatives et donc
+   par la charité privée, ce qui implique de compter sur la bienveillance et
+   le sens de la pitié des différents membres de la société, à l'égard des
+   perdants et des exclus. De son côté, Friedrich von Hayek, socialiste
+   converti au libéralisme et représentant de l'école autrichienne
+   d'économie, accuse l'État de favoriser la pauvreté par ses interventions
+   au nom de la « justice sociale », concept qu'il juge totalement farfelu.
+   Par exemple, les salaires sont des indicateurs de l'utilité d'un poste de
+   production au sein de l'économie sociale ; ils signalent à chacun
+   l'intérêt économique de son emploi. Quand le gouvernement d'un État
+   réglemente les salaires (par exemple en imposant un salaire horaire
+   minimum, comme le SMIC, ou une progression salariale déterminée sur toute
+   la durée d'une carrière) ces indicateurs naturels sont alors faussées par
+   l'intervention de la puissance publique : des producteurs se croient plus
+   utiles qu'ils ne sont, et ne sont donc pas incités à se rendre plus utiles
+   (en cherchant un travail mieux rémunéré par exemple). Des allocations sont
+   cependant envisagées en faveur des producteurs inaptes ou handicapés,
+   provisoirement ou définitivement.
 
    Ces deux approches libérales partent du principe que la politique
    économique doit être plus ou moins débarrassée des valeurs morales :
    celles-ci auraient un faible intérêt économique (voire aucun intérêt
-   économique, comme l'a montré Mandeville au XVII^e siècle dans la Fable
-   des Abeilles). Paul A. Samuelson, l'économiste américain du MIT, montre
+   économique, comme l'a montré Mandeville au XVII^e siècle dans la Fable des
+   Abeilles). Paul A. Samuelson, l'économiste américain du MIT, montre
    l'inefficacité de l'intervention des pouvoirs publics à travers quatre
-   exemples^[71]. Premièrement, les pouvoirs publics, en établissant un
-   prix légal des produits alimentaires largement inférieur au prix du
-   marché libre, et que les vendeurs et les acheteurs doivent appliquer �
-   la lettre, provoquent le manque des produits correspondants en
-   décourageant l'approvisionnement^[71]. Jugeant le prix légal
-   insuffisant susceptible de laminer (ou faire disparaitre) leur profit,
-   les vendeurs vont apporter des quantités de produits de plus en plus
-   insuffisantes, ce qui pousse les autorités à déterminer les quantités �
-   vendre à chaque ménage (rationnement)^[71]. Ces perturbations de
-   l'équilibre du marché concurrentiel vont conduire au développement du
-   marché noir et à des situations indésirables comme les longues files
-   d'attente, le clientélisme et le favoritisme^[71]. Deuxièmement, la
-   fixation d'un salaire minimum (SMIG, G pour garanti ou SMIC, C pour
-   croissance, en France) a pour effet d'accroître le sous emploi de la
-   main d'œuvre. En effet, en fixant un salaire plus élevé que celui
-   déterminé par le marché concurrentiel, l'État accroît désormais le coût
-   du travail des entreprises qui vont embaucher de moins en moins pour
-   épargner leurs marges bénéficiaires^[71]. Troisièmement, le loyer des
-   maisons qui ne doit pas dépasser un certain montant fixé en dessous du
-   prix d'équilibre concurrentiel pousse les propriétaires, en quête d'un
-   loyer plus rémunérateur, à construire de moins en moins, ce qui aura
-   pour effet une pénurie de logements à long terme si la procédure reste
-   en vigueur^[71]. Quatrièmement, le taux d'intérêt fixé par les
-   autorités monétaires représentées par la banque centrale (appelée fed
-   aux États-Unis) à un maximum inférieur au taux d'intérêt du marché a
-   pour conséquence le manque, voire la pénurie des crédits qui pourrait
-   aboutir à des pratiques illégales comme l'usure^[71]. Ces blocages de
-   l'équilibre réalisé par la loi de l'offre et de la demande sont donc �
-   proscrire en période de paix^[71]. Les moyens généralement conseillés
-   pour lutter contre l'inflation sont inspirés, d'une part, de la
+   exemples^[71]. Premièrement, les pouvoirs publics, en établissant un prix
+   légal des produits alimentaires largement inférieur au prix du marché
+   libre, et que les vendeurs et les acheteurs doivent appliquer à la lettre,
+   provoquent le manque des produits correspondants en décourageant
+   l'approvisionnement^[71]. Jugeant le prix légal insuffisant susceptible de
+   laminer (ou faire disparaitre) leur profit, les vendeurs vont apporter des
+   quantités de produits de plus en plus insuffisantes, ce qui pousse les
+   autorités à déterminer les quantités à vendre à chaque ménage
+   (rationnement)^[71]. Ces perturbations de l'équilibre du marché
+   concurrentiel vont conduire au développement du marché noir et à des
+   situations indésirables comme les longues files d'attente, le clientélisme
+   et le favoritisme^[71]. Deuxièmement, la fixation d'un salaire minimum
+   (SMIG, G pour garanti ou SMIC, C pour croissance, en France) a pour effet
+   d'accroître le sous emploi de la main d'œuvre. En effet, en fixant un
+   salaire plus élevé que celui déterminé par le marché concurrentiel, l'État
+   accroît désormais le coût du travail des entreprises qui vont embaucher de
+   moins en moins pour épargner leurs marges bénéficiaires^[71].
+   Troisièmement, le loyer des maisons qui ne doit pas dépasser un certain
+   montant fixé en dessous du prix d'équilibre concurrentiel pousse les
+   propriétaires, en quête d'un loyer plus rémunérateur, à construire de
+   moins en moins, ce qui aura pour effet une pénurie de logements à long
+   terme si la procédure reste en vigueur^[71]. Quatrièmement, le taux
+   d'intérêt fixé par les autorités monétaires représentées par la banque
+   centrale (appelée fed aux États-Unis) à un maximum inférieur au taux
+   d'intérêt du marché a pour conséquence le manque, voire la pénurie des
+   crédits qui pourrait aboutir à des pratiques illégales comme l'usure^[71].
+   Ces blocages de l'équilibre réalisé par la loi de l'offre et de la demande
+   sont donc à proscrire en période de paix^[71]. Les moyens généralement
+   conseillés pour lutter contre l'inflation sont inspirés, d'une part, de la
    politique budgétaire, en réduisant les dépenses (subventions et autre
    dépenses) et en augmentant les recettes de l'État (impôts directs et
    indirects et taxes) et, d'autre part, de la politique monétaire (hausse
-   des taux d'intérêt) alors que les mesures précitées restent réservées
-   aux temps de guerre^[71]. C'est ce qui est contesté par leurs
-   principaux adversaires. Ce clivage correspond, sur l'échiquier
-   politique, à l'opposition entre les programmes d'inspiration libérale
-   d'une part, et d'inspiration social-démocrate de l'autre. Les premiers
-   donnent la priorité à la liberté des agents économiques, les seconds
-   font valoir le principe d'égalité des individus. De tous les
-   théoriciens qui donnent de la place au principe d'égalité, le plus
-   célèbre est John Rawls : dans la Théorie de la justice il essaye de
-   montrer l'irrationalité des libéraux à travers une hypothèse -
-   qu'est-ce que des individus rationnels attendraient de l'économie,
-   s'ils partaient tous du même point de départ, c'est-à-dire s'ils
-   ignoraient leur position dans l'échelle sociale et leurs avantages ou
-   handicaps économiques de départ (être né dans un quartier noir, ou dans
-   une banlieue résidentielle bourgeoise, avoir un héritage ou être
-   orphelin, etc.) ? Il en conclut que le plus rationnel serait que de
-   vouloir que chacun ait strictement les mêmes chances de réussir : c'est
-   le principe de l'égalité des chances, qui implique un impôt
-   redistributif, proportionnel aux ressources. Un argument important
+   des taux d'intérêt) alors que les mesures précitées restent réservées aux
+   temps de guerre^[71]. C'est ce qui est contesté par leurs principaux
+   adversaires. Ce clivage correspond, sur l'échiquier politique, à
+   l'opposition entre les programmes d'inspiration libérale d'une part, et
+   d'inspiration social-démocrate de l'autre. Les premiers donnent la
+   priorité à la liberté des agents économiques, les seconds font valoir le
+   principe d'égalité des individus. De tous les théoriciens qui donnent de
+   la place au principe d'égalité, le plus célèbre est John Rawls : dans la
+   Théorie de la justice il essaye de montrer l'irrationalité des libéraux à
+   travers une hypothèse - qu'est-ce que des individus rationnels
+   attendraient de l'économie, s'ils partaient tous du même point de départ,
+   c'est-à-dire s'ils ignoraient leur position dans l'échelle sociale et
+   leurs avantages ou handicaps économiques de départ (être né dans un
+   quartier noir, ou dans une banlieue résidentielle bourgeoise, avoir un
+   héritage ou être orphelin, etc.) ? Il en conclut que le plus rationnel
+   serait que de vouloir que chacun ait strictement les mêmes chances de
+   réussir : c'est le principe de l'égalité des chances, qui implique un
+   impôt redistributif, proportionnel aux ressources. Un argument important
    consiste à dire aussi que ce système aurait l'avantage de favoriser le
-   succès des individus les plus méritants, et pas des plus chanceux et
-   des mieux lotis. Le renouveau du principe d'égalité est aussi défendu
-   par Thomas Piketty, qui cherche à démontrer que le libéralisme conduit
-   en pratique à des écarts de richesse de plus en plus béants qui
-   expliquent les crises économiques les plus récentes (par exemple, selon
-   cette interprétation, c'est le recours massif de millions de pauvres au
-   crédit immobilier qui est à l'origine de la grande récession des années
-   2008 et suivantes ; tandis que les libéraux, eux, attribuent cette
-   crise à une réglementation excessive de l'économie).
+   succès des individus les plus méritants, et pas des plus chanceux et des
+   mieux lotis. Le renouveau du principe d'égalité est aussi défendu par
+   Thomas Piketty, qui cherche à démontrer que le libéralisme conduit en
+   pratique à des écarts de richesse de plus en plus béants qui expliquent
+   les crises économiques les plus récentes (par exemple, selon cette
+   interprétation, c'est le recours massif de millions de pauvres au crédit
+   immobilier qui est à l'origine de la grande récession des années 2008 et
+   suivantes ; tandis que les libéraux, eux, attribuent cette crise à une
+   réglementation excessive de l'économie).
 
    La controverse concerne donc essentiellement la priorité donnée au
-   principe de liberté totale par les libéraux. Il s'agit de décider,
-   d'une part, quelle place on fait au principe d'égalité, et d'autre
-   part, dans quelle mesure les jugements moraux ont leur place dans la
-   politique économique et permettent de favoriser la richesse de tous,
-   c'est-à-dire, le bien-être. L'analyse empirique, sociale, économique et
-   historique des crises économiques et des mécanismes de l'économie de
-   marché, devrait contribuer à résoudre ce débat, mais ne fait que le
-   perpétuer, puisque c'est avant tout le problème du type de société que
-   l'on souhaite qui se pose.
+   principe de liberté totale par les libéraux. Il s'agit de décider, d'une
+   part, quelle place on fait au principe d'égalité, et d'autre part, dans
+   quelle mesure les jugements moraux ont leur place dans la politique
+   économique et permettent de favoriser la richesse de tous, c'est-à-dire,
+   le bien-être. L'analyse empirique, sociale, économique et historique des
+   crises économiques et des mécanismes de l'économie de marché, devrait
+   contribuer à résoudre ce débat, mais ne fait que le perpétuer, puisque
+   c'est avant tout le problème du type de société que l'on souhaite qui se
+   pose.
 
 Courants de pensée
 
    [modifier | modifier le code]
 
    Plusieurs grandes traditions aussi bien en science politique qu’en
-   sociologie structurent les théories de l’État : les approches
-   marxistes, pluralistes, institutionnalistes et pragmatique ou
-   l'approche en termes de société civile a chacune été utilisée pour
-   arriver à une meilleure compréhension de l’État qui reste imparfaite eu
-   égard à la complexité du sujet étudié. D’une part les frontières de
-   l’État ne sont pas fixes mais constamment en mouvement, d’autre part,
-   l’État n’est pas seulement un lieu de conflits entre différentes
-   organisations, il est aussi un lieu de conflits à l’intérieur des
-   organisations. Si certains chercheurs parlent de l’intérêt de l’État,
-   il faut constater qu’il y a souvent des intérêts divergents entre les
-   parties constituant l’État.
+   sociologie structurent les théories de l’État : les approches marxistes,
+   pluralistes, institutionnalistes et pragmatique ou l'approche en termes de
+   société civile a chacune été utilisée pour arriver à une meilleure
+   compréhension de l’État qui reste imparfaite eu égard à la complexité du
+   sujet étudié. D’une part les frontières de l’État ne sont pas fixes mais
+   constamment en mouvement, d’autre part, l’État n’est pas seulement un lieu
+   de conflits entre différentes organisations, il est aussi un lieu de
+   conflits à l’intérieur des organisations. Si certains chercheurs parlent
+   de l’intérêt de l’État, il faut constater qu’il y a souvent des intérêts
+   divergents entre les parties constituant l’État.
 
-Marxisme
+  Marxisme
 
    [modifier | modifier le code]
 
    Pour Marx et Engels, l'État est un produit de la société de classes,
    lorsque la société scindée en classes aux intérêts antagonistes est en
    lutte permanente avec elle-même « le besoin s'impose d'un pouvoir qui,
-   placé en apparence au-dessus de la société, doit estomper le conflit,
-   le maintenir dans les limites de l'« ordre » ; et ce pouvoir, né de la
-   société, mais qui se place au-dessus d'elle et lui devient de plus en
-   plus étranger, c'est l'État (…) il est, dans la règle, l'État de la
-   classe la plus puissante, de celle qui domine au point de vue
-   économique et qui, grâce à lui, devient aussi classe politiquement
-   dominante et acquiert ainsi de nouveaux moyens pour mater et exploiter
-   la classe opprimée »^[72].
+   placé en apparence au-dessus de la société, doit estomper le conflit, le
+   maintenir dans les limites de l'« ordre » ; et ce pouvoir, né de la
+   société, mais qui se place au-dessus d'elle et lui devient de plus en plus
+   étranger, c'est l'État (…) il est, dans la règle, l'État de la classe la
+   plus puissante, de celle qui domine au point de vue économique et qui,
+   grâce à lui, devient aussi classe politiquement dominante et acquiert
+   ainsi de nouveaux moyens pour mater et exploiter la classe
+   opprimée »^[72].
 
    Quant à Lénine, évoquant le thème de l'État dans une conférence restée
-   célèbre à l'université sverdlov le 11 juillet 1919, il parle tout
-   d'abord de la difficulté du problème : « le problème de l'État est un
-   des problèmes les plus complexes, les plus difficiles, celui qui,
-   peut-être a été le plus embrouillé par les savants, les écrivains et
-   les philosophes bourgeois ». Il clarifie enfin sa vision des États
-   démocratiques modernes et du suffrage universel : « La puissance du
-   Capital, c'est tout ; la Bourse, c'est tout ; tandis que le Parlement,
-   les élections ne sont que pantins, que jeux de marionnettes… ». Il
-   envisage en conclusion de sa conférence le dépérissement de l'État dans
-   une société socialiste mondiale^[73].
+   célèbre à l'université sverdlov le 11 juillet 1919, il parle tout d'abord
+   de la difficulté du problème : « le problème de l'État est un des
+   problèmes les plus complexes, les plus difficiles, celui qui, peut-être a
+   été le plus embrouillé par les savants, les écrivains et les philosophes
+   bourgeois ». Il clarifie enfin sa vision des États démocratiques modernes
+   et du suffrage universel : « La puissance du Capital, c'est tout ; la
+   Bourse, c'est tout ; tandis que le Parlement, les élections ne sont que
+   pantins, que jeux de marionnettes… ». Il envisage en conclusion de sa
+   conférence le dépérissement de l'État dans une société socialiste
+   mondiale^[73].
 
-   En d'autres mots, comme le souligne François Châtelet : « L'État est
-   une administration appuyée par l'armée et par la police, dont toute la
+   En d'autres mots, comme le souligne François Châtelet : « L'État est une
+   administration appuyée par l'armée et par la police, dont toute la
    fonction est de renforcer, de légaliser et de faire apparaître comme
    morale l'oppression qu'exercent ceux qui possèdent les moyens de
-   production — terres, mines, outils, habitation et la commune de
-   ceux-ci, le Capital — sur ceux qui n'ont d'autre ressource pour
-   survivre que de vendre quotidiennement leur force de travail »^[74].
-   Cet État instrument de la classe dirigeante doit à terme disparaître en
-   même temps que disparaîtront les classes sociales. « Nous nous
-   rapprochons maintenant à pas rapides d'un stade de développement de la
-   production dans lequel l'existence de ces classes a non seulement cessé
-   d'être une nécessité, mais devient un obstacle positif à la production.
-   Ces classes tomberont aussi inévitablement qu'elles ont surgi
-   autrefois. L'État tombe inévitablement avec elles. La société, qui
-   réorganisera la production sur la base d'une association libre et
-   égalitaire des producteurs, reléguera toute la machine de l'État là où
-   sera dorénavant sa place : au musée des antiquités, à côté du rouet et
-   de la hache de bronze »^[72].
+   production — terres, mines, outils, habitation et la commune de ceux-ci,
+   le Capital — sur ceux qui n'ont d'autre ressource pour survivre que de
+   vendre quotidiennement leur force de travail »^[74]. Cet État instrument
+   de la classe dirigeante doit à terme disparaître en même temps que
+   disparaîtront les classes sociales. « Nous nous rapprochons maintenant à
+   pas rapides d'un stade de développement de la production dans lequel
+   l'existence de ces classes a non seulement cessé d'être une nécessité,
+   mais devient un obstacle positif à la production. Ces classes tomberont
+   aussi inévitablement qu'elles ont surgi autrefois. L'État tombe
+   inévitablement avec elles. La société, qui réorganisera la production sur
+   la base d'une association libre et égalitaire des producteurs, reléguera
+   toute la machine de l'État là où sera dorénavant sa place : au musée des
+   antiquités, à côté du rouet et de la hache de bronze »^[72].
 
    L'État sert donc toujours les intérêts de la classe sociale qui détient
-   les moyens de production. C'est ainsi qu'il représente la bourgeoisie
-   dans le cadre du capitalisme, puis « le prolétariat organisé en classe
-   dominante »^[75] avec l'avènement du socialisme et va enfin disparaitre
-   de lui-même lorsque ce système est remplacé par le communisme où les
-   moyens de production ne vont appartenir à aucune classe sociale^[76].
+   les moyens de production. C'est ainsi qu'il représente la bourgeoisie dans
+   le cadre du capitalisme, puis « le prolétariat organisé en classe
+   dominante »^[75] avec l'avènement du socialisme et va enfin disparaitre de
+   lui-même lorsque ce système est remplacé par le communisme où les moyens
+   de production ne vont appartenir à aucune classe sociale^[76].
 
    Pour les marxistes contemporains, comme Ralph Miliband^[77], la classe
-   dirigeante utilise l’État comme un instrument de domination de la
-   société en utilisant les liens personnels entre les hauts
-   fonctionnaires et les élites économiques. Pour cet auteur, l’État est
-   dominé par une élite qui a la même origine que la classe capitaliste.
-   Pour certains théoriciens néo-marxistes, cette question de qui contrôle
-   l’État est sans intérêt. Influencé par Antonio Gramsci, Nicos
-   Poulantzas remarquait que les États capitalistes ne suivaient pas
-   toujours la classe dirigeante et que, quand ils le faisaient, ce
-   n’était pas forcément consciemment mais parce que les structures de
-   l’État étaient telles que les intérêts à long terme des capitalistes
-   étaient toujours assurés.
+   dirigeante utilise l’État comme un instrument de domination de la société
+   en utilisant les liens personnels entre les hauts fonctionnaires et les
+   élites économiques. Pour cet auteur, l’État est dominé par une élite qui a
+   la même origine que la classe capitaliste. Pour certains théoriciens
+   néo-marxistes, cette question de qui contrôle l’État est sans intérêt.
+   Influencé par Antonio Gramsci, Nicos Poulantzas remarquait que les États
+   capitalistes ne suivaient pas toujours la classe dirigeante et que, quand
+   ils le faisaient, ce n’était pas forcément consciemment mais parce que les
+   structures de l’État étaient telles que les intérêts à long terme des
+   capitalistes étaient toujours assurés.
 
-Libéralisme
-
-   [modifier | modifier le code]
-
-   Pour la pensée libérale, l'État a pour fonction principale de protéger
-   les atteintes aux Droits Naturels des individus : liberté, propriété et
-   sûreté. Ce courant vise à minimiser autant que possible l'envahissement
-   de l'État dans tous les domaines de la société civile. L'économiste
-   libéral Frédéric Bastiat, dans un texte sur l'État publié en 1848 dans
-   le journal des débats définit l'État de la manière suivante : « La
-   grande fiction à travers laquelle tout le monde s'efforce de vivre aux
-   dépens de tout le monde »^[78]. Le courant libertarien va même jusqu'�
-   prôner une disparition totale de l'État (anarcho-capitalisme dont
-   l'économiste Murray Rothbard est un des grands représentants) ou une
-   réduction aussi forte que possible (minarchisme).
-
-Pluralisme
+  Libéralisme
 
    [modifier | modifier le code]
 
-   Si l’approche néo-marxiste a été influente en Europe dans les années
-   1960 et 1970, l’approche pluraliste a eu à la même époque une large
-   audience aux États-Unis. Pour Robert Dahl, l’État est à la fois comme
-   une arène neutre pour des intérêts en conflits et lui-même traversé de
-   conflits d’intérêts entre ses différents départements ou agences. La
-   politique pour lui est le produit d’un constant marchandage entre
-   groupes qui ont tous un moyen de pression sur l’État. Dahl nomme ce
-   type d’État une polyarchy^[79].
+   Pour la pensée libérale, l'État a pour fonction principale de protéger les
+   atteintes aux Droits Naturels des individus : liberté, propriété et
+   sûreté. Ce courant vise à minimiser autant que possible l'envahissement de
+   l'État dans tous les domaines de la société civile. L'économiste libéral
+   Frédéric Bastiat, dans un texte sur l'État publié en 1848 dans le journal
+   des débats définit l'État de la manière suivante : « La grande fiction à
+   travers laquelle tout le monde s'efforce de vivre aux dépens de tout le
+   monde »^[78]. Le courant libertarien va même jusqu'à prôner une
+   disparition totale de l'État (anarcho-capitalisme dont l'économiste Murray
+   Rothbard est un des grands représentants) ou une réduction aussi forte que
+   possible (minarchisme).
 
-Pragmatisme
+  Pluralisme
 
    [modifier | modifier le code]
 
-   Pour John Dewey, l'État n'a rien de métaphysique comme chez les
-   hégéliens. Il ne dépend pas non plus d'une cause unique comme la
-   volonté générale chez Jean-Jacques Rousseau, ni de raisons historiques
-   ou psychologiques comme la peur chez Hobbes. L'État est de nature
-   essentiellement fonctionnelle et tient à la nécessité de gérer les
-   conséquences des actes des hommes^[80]. Pour lui, il y a un État parce
-   que « les actes humains ont des conséquences sur d'autres hommes, que
-   certaines de ces conséquences sont perçues, et que leur perception mène
-   à un effort ultérieur pour contrôler l'action de sorte que certaines
-   conséquences soient évitées et d'autres assurées »^[81]. C'est
-   uniquement parce que les gens prennent conscience qu'une telle fonction
-   doit être assurée qu'un public se forme et constitue un État^[82]. Pour
-   Dewey, « l'État est l'organisation du public effectuée par le biais de
-   fonctionnaires pour la protection des intérêts partagés par ses
-   membres. Mais, ce qu'est le public, ce que sont les fonctionnaires,
-   s'ils assurent convenablement leur fonction, voilà des choses que nous
-   ne pouvons découvrir qu'en allant dans l'histoire »^[83].
+   Si l’approche néo-marxiste a été influente en Europe dans les années 1960
+   et 1970, l’approche pluraliste a eu à la même époque une large audience
+   aux États-Unis. Pour Robert Dahl, l’État est à la fois comme une arène
+   neutre pour des intérêts en conflits et lui-même traversé de conflits
+   d’intérêts entre ses différents départements ou agences. La politique pour
+   lui est le produit d’un constant marchandage entre groupes qui ont tous un
+   moyen de pression sur l’État. Dahl nomme ce type d’État une
+   polyarchy^[79].
 
-Institutionnalisme
+  Pragmatisme
+
+   [modifier | modifier le code]
+
+   Pour John Dewey, l'État n'a rien de métaphysique comme chez les hégéliens.
+   Il ne dépend pas non plus d'une cause unique comme la volonté générale
+   chez Jean-Jacques Rousseau, ni de raisons historiques ou psychologiques
+   comme la peur chez Hobbes. L'État est de nature essentiellement
+   fonctionnelle et tient à la nécessité de gérer les conséquences des actes
+   des hommes^[80]. Pour lui, il y a un État parce que « les actes humains
+   ont des conséquences sur d'autres hommes, que certaines de ces
+   conséquences sont perçues, et que leur perception mène à un effort
+   ultérieur pour contrôler l'action de sorte que certaines conséquences
+   soient évitées et d'autres assurées »^[81]. C'est uniquement parce que les
+   gens prennent conscience qu'une telle fonction doit être assurée qu'un
+   public se forme et constitue un État^[82]. Pour Dewey, « l'État est
+   l'organisation du public effectuée par le biais de fonctionnaires pour la
+   protection des intérêts partagés par ses membres. Mais, ce qu'est le
+   public, ce que sont les fonctionnaires, s'ils assurent convenablement leur
+   fonction, voilà des choses que nous ne pouvons découvrir qu'en allant dans
+   l'histoire »^[83].
+
+  Institutionnalisme
 
    [modifier | modifier le code]
 
@@ -1376,41 +1316,38 @@ Institutionnalisme
    tenants de la nouvelle approche institutionnaliste en politique, les
    comportements des individus sont fondamentalement modelés par les
    institutions et l’État n’est ni une arène ni un instrument et ne
-   fonctionne pas dans l’intérêt d’une seule classe. Les chercheurs de
-   cette école mettent l'accent sur la nécessité d’interposer la société
-   civile entre l’État et l’économie.
+   fonctionne pas dans l’intérêt d’une seule classe. Les chercheurs de cette
+   école mettent l'accent sur la nécessité d’interposer la société civile
+   entre l’État et l’économie.
 
    Theda Skocpol suggère que les membres de l’État ont un important degré
-   d’autonomie et qu’ils peuvent poursuivre leur intérêt indépendamment
-   (et parfois en conflit) des autres acteurs de la société^[84]. Comme
-   l’État possède les moyens de coercition et que les groupes de la
-   société civile sont dépendants de lui, les fonctionnaires peuvent
-   imposer dans une large mesure leur préférence à la société civile.
+   d’autonomie et qu’ils peuvent poursuivre leur intérêt indépendamment (et
+   parfois en conflit) des autres acteurs de la société^[84]. Comme l’État
+   possède les moyens de coercition et que les groupes de la société civile
+   sont dépendants de lui, les fonctionnaires peuvent imposer dans une large
+   mesure leur préférence à la société civile.
 
-Église catholique
+  Église catholique
 
    [modifier | modifier le code]
 
-   Dans l'encyclique Caritas in Veritate de juillet 2009, Benoît XVI
-   indique que les acteurs de la vie économique ne peuvent se limiter au
-   marché seul, mais que l'économie doit aussi impliquer l'État et la
-   société civile :
+   Dans l'encyclique Caritas in Veritate de juillet 2009, Benoît XVI indique
+   que les acteurs de la vie économique ne peuvent se limiter au marché seul,
+   mais que l'économie doit aussi impliquer l'État et la société civile :
 
      « La vie économique a sans aucun doute besoin du contrat pour
      réglementer les relations d’échange entre valeurs équivalentes. Mais
-     elle a tout autant besoin de lois justes et de formes de
-     redistribution guidées par la politique, ainsi que d’œuvres qui
-     soient marquées par l’esprit du don. L’économie mondialisée semble
-     privilégier la première logique, celle de l’échange contractuel
-     mais, directement ou indirectement, elle montre qu’elle a aussi
-     besoin des deux autres, de la logique politique et de la logique du
-     don sans contrepartie. Mon prédécesseur Jean-Paul II avait signalé
-     cette problématique quand, dans Centesimus annus, il avait relevé la
-     nécessité d’un système impliquant trois sujets : le marché, l’État
-     et la société civile^[85]. »
+     elle a tout autant besoin de lois justes et de formes de redistribution
+     guidées par la politique, ainsi que d’œuvres qui soient marquées par
+     l’esprit du don. L’économie mondialisée semble privilégier la première
+     logique, celle de l’échange contractuel mais, directement ou
+     indirectement, elle montre qu’elle a aussi besoin des deux autres, de la
+     logique politique et de la logique du don sans contrepartie. Mon
+     prédécesseur Jean-Paul II avait signalé cette problématique quand, dans
+     Centesimus annus, il avait relevé la nécessité d’un système impliquant
+     trois sujets : le marché, l’État et la société civile^[85]. »
 
-   L'encyclique Centesimus annus de 1991 soulignait déjà ce rôle de
-   l'État :
+   L'encyclique Centesimus annus de 1991 soulignait déjà ce rôle de l'État :
 
      « l'État a le devoir d'assurer la défense et la protection des biens
      collectifs que sont le milieu naturel et le milieu humain dont la
@@ -1421,47 +1358,44 @@ Notes et références
 
    [modifier | modifier le code]
 
-Notes
+  Notes
 
    [modifier | modifier le code]
     1. ↑ Cette définition rejoint celle de la première édition du
-       dictionnaire de l’Académie française de 1696, qui définit l'État
-       comme le « gouvernement d’un peuple vivant sous la domination d’un
-       prince ou en république »
-    2. ↑ Il y a institution quand des régularités comportementales
-       deviennent des règles, et qu’elles portent du sens. L’institution
-       est à la fois univers de pratiques (les règles comportementales) et
-       univers de sens (ces règles ont une signification propre qui
-       justifient leur existence). Les institutions établissent toujours
-       des relations entre des personnes : le mariage est une institution,
-       il implique des règles à respecter, ces règles sont porteuses d’une
-       signification et elles permettent à deux personnes de vivre une vie
-       commune
+       dictionnaire de l’Académie française de 1696, qui définit l'État comme
+       le « gouvernement d’un peuple vivant sous la domination d’un prince ou
+       en république »
+    2. ↑ Il y a institution quand des régularités comportementales deviennent
+       des règles, et qu’elles portent du sens. L’institution est à la fois
+       univers de pratiques (les règles comportementales) et univers de sens
+       (ces règles ont une signification propre qui justifient leur
+       existence). Les institutions établissent toujours des relations entre
+       des personnes : le mariage est une institution, il implique des règles
+       à respecter, ces règles sont porteuses d’une signification et elles
+       permettent à deux personnes de vivre une vie commune
 
-Références
+  Références
 
    [modifier | modifier le code]
-    1. ↑ ^a et b « Qu'est-ce que l'État ? », sur vie-publique.fr (consulté
-       le 16 novembre 2023)
+    1. ↑ ^a et b « Qu'est-ce que l'État ? », sur vie-publique.fr (consulté le
+       16 novembre 2023)
     2. ↑ Georges Burdeau, Traité de science politique, 1950.
     3. ↑ Larousse étymologique, Paris, France, 1971.
     4. ↑ (en) Terence Ball, James Farr et Russell L. Hanson, Political
-       Innovation and Conceptual Change, Cambridge University Press, 28
-       avril 1989 (ISBN 978-0-521-35978-8, lire en ligne)
+       Innovation and Conceptual Change, Cambridge University Press, 28 avril
+       1989 (ISBN 978-0-521-35978-8, lire en ligne)
     5. ↑ Le dictionnaire Blackwell de science politique : un guide de
        l'utilisateur sur ses termes, Wiley-Blackwell, 1999
        (ISBN 978-0-631-20695-8), « government », p. 147
     6. ↑ Sartwell, 2008 : livres?id=bk-aaMVGKO0C&pg=PA25 p. 25
-       « https://web.archive.org/web/20160623220736/https://books.google.c
-       om/books?id=bk-aaMVGKO0C&pg=PA25 »^(Archive.org • Wikiwix •
-       Archive.is • Google • Que faire ?), 23 juin 2016
+       « https://web.archive.org/web/20160623220736/https://books.google.com/books?id=bk-aaMVGKO0C&pg=PA25 »^(Archive.org
+       • Wikiwix • Archive.is • Google • Que faire ?), 23 juin 2016
     7. ↑ ^a et b Flint et Taylor, 2007 : p. 137.
-    8. ↑ (en) Kjaer, Anne Mette, Governance, Londres, 2004
-       (ISBN 0745629792)
+    8. ↑ (en) Kjaer, Anne Mette, Governance, Londres, 2004 (ISBN 0745629792)
     9. ↑ Sarah Foot, « L'État c'est quoi ? Questions sur l'historiographie
        des Anglo-Saxons », Histoire, économie & société, vol. 24e année,
-       n^o 1,‎ 2005, p. 5 (ISSN 0752-5702, DOI 10.3917/hes.051.0005, lire
-       en ligne, consulté le 29 novembre 2023)
+       n^o 1,‎ 2005, p. 5 (ISSN 0752-5702, DOI 10.3917/hes.051.0005, lire en
+       ligne, consulté le 29 novembre 2023)
    10. ↑ (en) Ingold, Tim et Daly, Richard Heywood, The Cambridge
        encyclopedia of hunters and gatherers, Cambridge University Press,
        1999 (ISBN 978-0-521-57109-8), « On the social relations of the
@@ -1470,15 +1404,14 @@ Références
    12. ↑ Wengrow et Graeber 2021, p. 147-148.
    13. ↑ Simon Berger, « Une armée en guise de peuple : la structure
        militaire de l'organisation politique et sociale des nomades
-       eurasiatiques à travers l'exemple mongol médiéval », EHESS
-       (thèse),‎ 12 décembre 2022 (lire en ligne, consulté le 7 novembre
-       2023)
+       eurasiatiques à travers l'exemple mongol médiéval », EHESS (thèse),‎
+       12 décembre 2022 (lire en ligne, consulté le 7 novembre 2023)
    14. ↑ Simon Berger, « IV. L’Empire mongol : un État nomade », dans Les
        empires médiévaux, Perrin, 18 avril 2019 (ISBN 978-2-262-04824-2,
        DOI 10.3917/perri.gougu.2019.01.0089, lire en ligne), p. 89-112
-   15. ↑ (en) Brian R. Nelson, The Making of the Modern State: A
-       Theoretical Evolution, Palgrave Macmillan, 16 mars 2006
-       (ISBN 978-1-4039-7189-0, lire en ligne), p. 17
+   15. ↑ (en) Brian R. Nelson, The Making of the Modern State: A Theoretical
+       Evolution, Palgrave Macmillan, 16 mars 2006 (ISBN 978-1-4039-7189-0,
+       lire en ligne), p. 17
    16. ↑ Picq 2009.
    17. ↑ Grunin 2019.
    18. ↑ Samuels 2017, p. 37.
@@ -1511,52 +1444,52 @@ Références
    42. ↑ Chancerel 2018.
    43. ↑ Capuano 2015.
    44. ↑ Chelle 2019.
-   45. ↑ ^a b et c « Les mots de l'économie aujourd'hui », Sciences
-       humaines - Hors série,‎ septembre / octobre 1998, p. 8
+   45. ↑ ^a b et c « Les mots de l'économie aujourd'hui », Sciences humaines
+       - Hors série,‎ septembre / octobre 1998, p. 8
    46. ↑ ^a b c d e f g h et i Jean-Francois Dortier, « Néokeynésiens :
        l'État réhabilité ? », Sciences humaines - Hors série,‎ septembre /
        octobre 1998, p. 21
-   47. ↑ Paul A. Samuelson, L'Economique, tome 2, Paris, Armand Colin,
-       1969, 1148 p., p. 599-600
+   47. ↑ Paul A. Samuelson, L'Economique, tome 2, Paris, Armand Colin, 1969,
+       1148 p., p. 599-600
    48. ↑ « Le plan français pour lutter contre la crise financière », sur
        gouvernement.fr
    49. ↑ Sur la notion d'État acteur, cf. en particulier Luc Gonin,
        L'obsolescence de l'État moderne : Analyse diachronique et
        contextuelle à l'exemple de l'État français, Éd. Schulthess :
        Genève/Zürich/Bâle 2011, pp. 381ss.
-   50. ↑ Wengrow et Graeber 2021, p. 455. « Mais le premier à avoir tenté
-       de forger une définition systématique de l’État est peut-être le
+   50. ↑ Wengrow et Graeber 2021, p. 455. « Mais le premier à avoir tenté de
+       forger une définition systématique de l’État est peut-être le
        philosophe allemand Rudolf von Jhering. À la fin du XIXe siècle, il
-       proposa de nommer « État » toute institution prétendant au monopole
-       de l’usage légitime de la force physique sur un périmètre donné
-       (une formule plus tard associée au sociologue Max Weber). »
+       proposa de nommer « État » toute institution prétendant au monopole de
+       l’usage légitime de la force physique sur un périmètre donné (une
+       formule plus tard associée au sociologue Max Weber). »
    51. ↑ Max Weber, Économie et société, 1921, p. 97
    52. ↑ Frot, O. (2012). État régalien et externalisation : l’exemple du
        Ministère de la défense.
    53. ↑ Tocqueville, 1988, p. 249
    54. ↑ ^a et b Halévy, 1995, p. 121
    55. ↑ Quesnay, 1969, p. 329-331
-   56. ↑ Emmanuel Tuchscherer, « Le Léviathan dans la doctrine de l’État
-       de Thomas Hobbes : sens et échec du décisionnisme politique »,
-       Astérion. Philosophie, histoire des idées, pensée politique,
-       n^o 2,‎ 1^er juillet 2004 (ISSN 1762-6110, DOI 10.4000/asterion.93,
+   56. ↑ Emmanuel Tuchscherer, « Le Léviathan dans la doctrine de l’État de
+       Thomas Hobbes : sens et échec du décisionnisme politique », Astérion.
+       Philosophie, histoire des idées, pensée politique, n^o 2,‎ 1^er
+       juillet 2004 (ISSN 1762-6110, DOI 10.4000/asterion.93, lire en ligne,
+       consulté le 26 août 2024)
+   57. ↑ Alexandre Viala, « Le positivisme juridique : Kelsen et l'héritage
+       kantien », Revue interdisciplinaire d'études juridiques, vol. 67,
+       n^o 2,‎ 2011, p. 95-117 (ISSN 0770-2310, DOI 10.3917/riej.067.0095,
        lire en ligne, consulté le 26 août 2024)
-   57. ↑ Alexandre Viala, « Le positivisme juridique : Kelsen et
-       l'héritage kantien », Revue interdisciplinaire d'études juridiques,
-       vol. 67, n^o 2,‎ 2011, p. 95-117 (ISSN 0770-2310,
-       DOI 10.3917/riej.067.0095, lire en ligne, consulté le 26 août 2024)
    58. ↑ A. Renaut, L'intervention publique et ses limites, dans Cahiers
        français, chap. 345, p. 72-76
    59. ↑ ^a b c d e et f Jean-Pierre Delas, Économie contemporaine, Faits,
        concepts, théories, Paris, Éditions Ellipses, 2008, 751 p.
        (ISBN 978-2-7298-3611-5), p. 39-40
    60. ↑ Jean-Pierre Delas..., p. 516
-   61. ↑ ^a et b J.-M. Albertini, Les rouages de l'économie nationale,
-       Paris, Les éditions ouvrières, octobre 1982, 317 p.
-       (ISBN 2-7082-0663-X), p. 92
+   61. ↑ ^a et b J.-M. Albertini, Les rouages de l'économie nationale, Paris,
+       Les éditions ouvrières, octobre 1982, 317 p. (ISBN 2-7082-0663-X),
+       p. 92
    62. ↑ Esping-Andersen, 2007, p. 35
-   63. ↑ François-Xavier Merrien, Les Différents Types de
-       l'État-providence, Cahiers français, 1^er trimestre 2006, chap. 330
+   63. ↑ François-Xavier Merrien, Les Différents Types de l'État-providence,
+       Cahiers français, 1^er trimestre 2006, chap. 330
    64. ↑ Ibid, Merrien, 2006, p. 4
    65. ↑ Merrien, 2006, p. 5
    66. ↑ ^a et b Ibid, Merrien, 2006, p. 5
@@ -1564,26 +1497,26 @@ Références
    68. ↑ Esping-Andersen, 2007, p. 58
    69. ↑ Esping-Andersen, 2007, p. 80
    70. ↑ Esping-Andersen, 2007, p. 43
-   71. ↑ ^a b c d e f g h et i Paul A. Samuelson, L'Economique, Paris,
-       Armand Colin, 1969, 1148 p., p. 603-608
-   72. ↑ ^a et b Friedrich Engels, L'Origine de la famille, de la
-       propriété privée et de l'État : (pour faire suite aux travaux de
-       Lewis H. Morgan) [« Ursprung der Familie, des Privateigenthums und
-       des Staats »], Paris, Carré, 1893 (1^re éd. 1884) (OCLC 313398699,
-       lire en ligne), Chap. 7 Barbarie et civilisation
+   71. ↑ ^a b c d e f g h et i Paul A. Samuelson, L'Economique, Paris, Armand
+       Colin, 1969, 1148 p., p. 603-608
+   72. ↑ ^a et b Friedrich Engels, L'Origine de la famille, de la propriété
+       privée et de l'État : (pour faire suite aux travaux de Lewis H.
+       Morgan) [« Ursprung der Familie, des Privateigenthums und des
+       Staats »], Paris, Carré, 1893 (1^re éd. 1884) (OCLC 313398699, lire en
+       ligne), Chap. 7 Barbarie et civilisation
    73. ↑ Lénine, Lénine, Moscou, Editions en langues étrangères, 1947,
        p. 411, 429-430
-   74. ↑ Karl Marx et Friedrich Engels (trad. Corinne Lyotard,
-       introduction, notes et commentaires de François Châtelet),
-       Manifeste du parti communiste (1848) et Critique du programme de
-       Gotha (1875) [« Manifest der Kommunistischen Partei / Kritik des
-       Gothaer Programms »], Paris, Librairie générale française,
-       coll. « Le Livre de poche, Les Classiques de la Philosophie », 2004
-       (1^re éd. septembre 1973), 155 p. (ISBN 2253014915 et
-       9782253014911, OCLC 496671293, lire en ligne), p. 20-21
-   75. ↑ Expression de Lénine cité par Jean-Marie Albertini, Capitalismes
-       et socialismes à l'épreuve, 1976, Paris, les Éditions Ouvrières,
-       304 p., p. 87
+   74. ↑ Karl Marx et Friedrich Engels (trad. Corinne Lyotard, introduction,
+       notes et commentaires de François Châtelet), Manifeste du parti
+       communiste (1848) et Critique du programme de Gotha (1875) [« Manifest
+       der Kommunistischen Partei / Kritik des Gothaer Programms »], Paris,
+       Librairie générale française, coll. « Le Livre de poche, Les
+       Classiques de la Philosophie », 2004 (1^re éd. septembre 1973), 155 p.
+       (ISBN 2253014915 et 9782253014911, OCLC 496671293, lire en ligne),
+       p. 20-21
+   75. ↑ Expression de Lénine cité par Jean-Marie Albertini, Capitalismes et
+       socialismes à l'épreuve, 1976, Paris, les Éditions Ouvrières, 304 p.,
+       p. 87
    76. ↑ Albertini 1976, p. 87
    77. ↑ Miliband, Ralph, 1983, Class power and state power, Londres
    78. ↑ « L’État - par Frédéric Bastiat », sur bastiat.org
@@ -1592,8 +1525,8 @@ Références
    81. ↑ Dewey 2003, p. 61.
    82. ↑ Dewey 2003, p. 85.
    83. ↑ Zask 2003, p. 38.
-   84. ↑ (en) Dietrich Rueschemeyer, Theda Skocpol, et Peter B. Evans
-       (éds), Bringing the State Back In, Cambridge University Press, 1985
+   84. ↑ (en) Dietrich Rueschemeyer, Theda Skocpol, et Peter B. Evans (éds),
+       Bringing the State Back In, Cambridge University Press, 1985
    85. ↑ Encyclique Caritas in Veritate, chapitre III, n^o 37 et 38
    86. ↑ Encyclique Centesimus annus, n^o 40
 
@@ -1601,37 +1534,36 @@ Bibliographie
 
    [modifier | modifier le code]
 
-Utilisé pour la rédaction de l'article
+  Utilisé pour la rédaction de l'article
 
    [modifier | modifier le code]
 
-Pour la section Histoire
+    Pour la section Histoire
 
    [modifier | modifier le code]
      * David J. Samuels, Comparative politics, Pearson, 2013
-       (ISBN 978-0-321-44974-0).  Ouvrage utilisé pour la rédaction de
+       (ISBN 978-0-321-44974-0). Ouvrage utilisé pour la rédaction de
        l'article
      * John Dewey (préf. Joëlle Zask), Le public et ses problèmes,
-       Publications de l'Université de Pau, 2003.  Ouvrage utilisé pour la
+       Publications de l'Université de Pau, 2003. Ouvrage utilisé pour la
        rédaction de l'article
      * Jean Picq, Une histoire de l’État en Europe, vol. 2e éd., Paris,
        Presses de Sciences Po, coll. « Les Manuels de Sciences Po », 2009,
-       19–40 p. (ISBN 978-2-7246-1103-8, lire en ligne), « Introduction.
-       Le surgissement des figures de l'État dans l'histoire de
-       l'Europe ».  Ouvrage utilisé pour la rédaction de l'article
-     * Jacques-Olivier Boudon, « L’incarnation de l’État de Brumaire �
-       Floréal », dans Du Directoire au Consulat 3. Brumaire dans
-       l'histoire du lien politique et de l'État-nation, Lille,
-       Publications de l’Institut de recherches historiques du
-       Septentrion, coll. « Histoire et littérature du Septentrion
-       (IRHiS) », 2 mai 2018, 333–345 p. (ISBN 978-2-490-29606-4, lire en
-       ligne).  Ouvrage utilisé pour la rédaction de l'article
+       19–40 p. (ISBN 978-2-7246-1103-8, lire en ligne), « Introduction. Le
+       surgissement des figures de l'État dans l'histoire de
+       l'Europe ». Ouvrage utilisé pour la rédaction de l'article
+     * Jacques-Olivier Boudon, « L’incarnation de l’État de Brumaire à
+       Floréal », dans Du Directoire au Consulat 3. Brumaire dans l'histoire
+       du lien politique et de l'État-nation, Lille, Publications de
+       l’Institut de recherches historiques du Septentrion, coll. « Histoire
+       et littérature du Septentrion (IRHiS) », 2 mai 2018, 333–345 p.
+       (ISBN 978-2-490-29606-4, lire en ligne). Ouvrage utilisé pour la
+       rédaction de l'article
      * Sébastien Laurent, « Pour une autre histoire de l'État. Le secret,
-       l'information politique et le renseignement », Vingtième Siècle.
-       Revue d'histoire, vol. 83, n^o 3,‎ 2004, p. 173–184
-       (ISSN 0294-1759, DOI 10.3917/ving.083.0173, lire en ligne, consulté
-       le 16 novembre 2023).  Ouvrage utilisé pour la rédaction de
-       l'article
+       l'information politique et le renseignement », Vingtième Siècle. Revue
+       d'histoire, vol. 83, n^o 3,‎ 2004, p. 173–184 (ISSN 0294-1759,
+       DOI 10.3917/ving.083.0173, lire en ligne, consulté le 16 novembre
+       2023). Ouvrage utilisé pour la rédaction de l'article
      * Emmanuel Blanchard, « Conclusion. Les forces de l’ordre colonial,
        entre conservatoires et laboratoires policiers
        (XVIII^e – XX^e siècle) », dans Polices d’Empires :
@@ -1641,96 +1573,92 @@ Pour la section Histoire
      * Alessandro Giovanazzi, « L’État italien entre administration
        et tutelle dans l’Empire français », dans Raison administrative et
        logiques d’empire (xvie-xixe siècle), Rome, Publications de l’École
-       française de Rome, coll. « Collection de l'École française de
-       Rome », 9 février 2021, 271–283 p. (ISBN 978-2-7283-1457-7, lire en
-       ligne)
-     * Pauline Valade, « Chapitre 4. Au crépuscule du Grand Siècle : un
-       État monarchique centralisé, fondé sur le compromis autant que sur
-       l’autorité », dans La construction de l'État monarchique en France
-       de 1380 à 1715, Paris, Armand Colin, coll. « Horizon », 2022,
-       273–336 p. (ISBN 978-2-200-63381-3, lire en ligne).  Ouvrage
-       utilisé pour la rédaction de l'article
+       française de Rome, coll. « Collection de l'École française de Rome »,
+       9 février 2021, 271–283 p. (ISBN 978-2-7283-1457-7, lire en ligne)
+     * Pauline Valade, « Chapitre 4. Au crépuscule du Grand Siècle : un État
+       monarchique centralisé, fondé sur le compromis autant que sur
+       l’autorité », dans La construction de l'État monarchique en France de
+       1380 à 1715, Paris, Armand Colin, coll. « Horizon », 2022, 273–336 p.
+       (ISBN 978-2-200-63381-3, lire en ligne). Ouvrage utilisé pour la
+       rédaction de l'article
      * Jean Le Bihan, « Chapitre VI. L’idéologie administrative », dans Au
-       service de l'État : Les fonctionnaires intermédiaires au xixe
-       siècle, Rennes, Presses universitaires de Rennes,
-       coll. « Histoire », 5 février 2015, 261–294 p.
-       (ISBN 978-2-7535-3124-6, lire en ligne)
-     * Sylvie Thénault, Les Empires coloniaux, XIX^e – XX^e siècles,
-       Seuil, 2013, –215-256. (lire en ligne), « L'Etat colonial »
-     * Émilien Ruiz, Trop de fonctionnaires ? Contribution à une histoire
-       de l'État par ses effectifs (France, 1850-1950), Ecole des Hautes
-       Etudes en Sciences Sociales (EHESS), 16 septembre 2013 (lire en
-       ligne)
+       service de l'État : Les fonctionnaires intermédiaires au xixe siècle,
+       Rennes, Presses universitaires de Rennes, coll. « Histoire », 5
+       février 2015, 261–294 p. (ISBN 978-2-7535-3124-6, lire en ligne)
+     * Sylvie Thénault, Les Empires coloniaux, XIX^e – XX^e siècles, Seuil,
+       2013, –215-256. (lire en ligne), « L'Etat colonial »
+     * Émilien Ruiz, Trop de fonctionnaires ? Contribution à une histoire de
+       l'État par ses effectifs (France, 1850-1950), Ecole des Hautes Etudes
+       en Sciences Sociales (EHESS), 16 septembre 2013 (lire en ligne)
      * Andrey Grunin, « Le Moyen Âge, une époque sans État ? Construire le
-       passé au présent », Perspectives médiévales, vol. 40,‎ janvier
-       2019, p. 1–21 (DOI 10.4000/peme.15221, lire en ligne, consulté le
-       16 novembre 2023)
-     * Jérémie Ferrer-Bartomeu, L’État à la lettre. Institutions de
-       l’écrit et configurations de la société administrative durant les
-       guerres de religion (vers 1570 - vers 1610. Royaume de France),
-       Paris, Ecole nationale des chartes, 9 décembre 2017 (lire en ligne)
-     * Philippe Batifoulier, Nicolas da Silva et Mehrdad Vahabi, La
-       Sociale contre l'Etat providence. Prédation et protection sociale,
-       février 2020 (lire en ligne)
+       passé au présent », Perspectives médiévales, vol. 40,‎ janvier 2019,
+       p. 1–21 (DOI 10.4000/peme.15221, lire en ligne, consulté le 16
+       novembre 2023)
+     * Jérémie Ferrer-Bartomeu, L’État à la lettre. Institutions de l’écrit
+       et configurations de la société administrative durant les guerres de
+       religion (vers 1570 - vers 1610. Royaume de France), Paris, Ecole
+       nationale des chartes, 9 décembre 2017 (lire en ligne)
+     * Philippe Batifoulier, Nicolas da Silva et Mehrdad Vahabi, La Sociale
+       contre l'Etat providence. Prédation et protection sociale, février
+       2020 (lire en ligne)
      * Myriam Catusse, L’État au péril des sociétés au Moyen-Orient,
        RomaTrePress, 2016, 35 p. (lire en ligne)
      * Cristina Moreno, La construction de l'État colombien au prisme de
        l'éducation. Nationalisation et modernisation pendant la République
-       Libérale (1930-1946), Université Sorbonne Paris Cité, 15 février
-       2018 (lire en ligne)
+       Libérale (1930-1946), Université Sorbonne Paris Cité, 15 février 2018
+       (lire en ligne)
      * Antoine Fersing, Idoines et suffisant: les officiers d'Etat et
        l'extension des droits du Prince en Lorraine ducale (début du XVIe
        siècle - 1633), Université de Strasbourg, 2021 (lire en ligne)
      * Tarik Dahou, « Les marges transnationales et locales de l'État
        algérien », Politique africaine, vol. 137,‎ 2015, p. 7–25 (lire en
        ligne, consulté le 16 novembre 2023)
-     * Jean-François Leguil-Bayart, « L'historicité de l'Etat importé »,
-       Les Cahiers du CERI, n^o 15,‎ 1996, p. 1–44 (lire en ligne,
-       consulté le 16 novembre 2023)
-     * Jérémie Ferrer-Bartomeu, « Pour une histoire rapprochée de l'État.
-       La représentation de l'écrit politique à la Renaissance
-       (Castille-Angleterre, 1590-1604) », Annales de l'Est, vol. 70e
-       année, n^o 1,‎ janvier 2020, p. 141–159 (lire en ligne, consulté le
-       16 novembre 2023)
-     * Oscar Ferreira, Histoire de la construction de l'État, Ellipses,
-       2022 (ISBN 978-2-340-07009-7, lire en ligne).  Ouvrage utilisé pour
-       la rédaction de l'article
+     * Jean-François Leguil-Bayart, « L'historicité de l'Etat importé », Les
+       Cahiers du CERI, n^o 15,‎ 1996, p. 1–44 (lire en ligne, consulté le 16
+       novembre 2023)
+     * Jérémie Ferrer-Bartomeu, « Pour une histoire rapprochée de l'État. La
+       représentation de l'écrit politique à la Renaissance
+       (Castille-Angleterre, 1590-1604) », Annales de l'Est, vol. 70e année,
+       n^o 1,‎ janvier 2020, p. 141–159 (lire en ligne, consulté le 16
+       novembre 2023)
+     * Oscar Ferreira, Histoire de la construction de l'État, Ellipses, 2022
+       (ISBN 978-2-340-07009-7, lire en ligne). Ouvrage utilisé pour la
+       rédaction de l'article
      * Marie Derrien, « L’administration face à la prise en charge des
        « aliénés militaires » internés : une renégociation des rôles entre
-       l’État et les pouvoirs locaux ? », dans Les mises en guerre de
-       l’État: 1914-1918 en perspective, ENS Éditions, 1^er décembre 2018
-       (lire en ligne)
+       l’État et les pouvoirs locaux ? », dans Les mises en guerre de l’État:
+       1914-1918 en perspective, ENS Éditions, 1^er décembre 2018 (lire en
+       ligne)
      * Marie-Bénédicte Vincent, « Le renforcement du contrôle étatique sur
        les civils en Allemagne : le service auxiliaire patriotique à Fulda
        (1916-1918) », dans Les mises en guerre de l’État: 1914-1918 en
        perspective, ENS Éditions, 1^er décembre 2018 (lire en ligne)
-     * Pierre Chancerel, « L’administration du marché du charbon par
-       l’État : l’action du Bureau national des charbons », dans Les mises
-       en guerre de l’État: 1914-1918 en perspective, ENS Éditions, 1^er
-       décembre 2018 (lire en ligne)
-     * Christophe Capuano, « État-providence, rationalisation
-       bureaucratique et traitement du social : l’« efficacité » des
-       caisses de Sécurité sociale et de leurs agents en question
-       (1945-années 1980) », Le Mouvement Social, vol. 251, n^o 2,‎ 2015,
-       p. 33–58 (ISSN 0027-2671, DOI 10.3917/lms.251.0033, lire en ligne,
-       consulté le 16 novembre 2023)
+     * Pierre Chancerel, « L’administration du marché du charbon par l’État :
+       l’action du Bureau national des charbons », dans Les mises en guerre
+       de l’État: 1914-1918 en perspective, ENS Éditions, 1^er décembre 2018
+       (lire en ligne)
+     * Christophe Capuano, « État-providence, rationalisation bureaucratique
+       et traitement du social : l’« efficacité » des caisses de Sécurité
+       sociale et de leurs agents en question (1945-années 1980) », Le
+       Mouvement Social, vol. 251, n^o 2,‎ 2015, p. 33–58 (ISSN 0027-2671,
+       DOI 10.3917/lms.251.0033, lire en ligne, consulté le 16 novembre 2023)
 
-Autre
+  Autre
 
    [modifier | modifier le code]
      * Hannah Arendt, Essai sur la révolution, édition originale, 1963;
        dernière édition : Paris, Gallimard, coll. Folio, 2013
        (ISBN 978-2-07-045079-4)
-     * Boris Barraud, L’État – Entre fait et droit, Paris, L'Harmattan,
-       coll. Logiques juridiques, 2015 (ISBN 978-2-343-06339-3)
+     * Boris Barraud, L’État – Entre fait et droit, Paris, L'Harmattan, coll.
+       Logiques juridiques, 2015 (ISBN 978-2-343-06339-3)
      * Bernard Charbonneau, L'État, version ronéotypée 1949 ; Paris,
        Economica, coll. « Classiques des sciences sociales », 1987
        (ISBN 978-2-71-781360-9)
-     * John Dewey, Reconstruction en philosophie, édition originale,
-       1920 ; dernière édition en français : Paris, Folio, 2014
+     * John Dewey, Reconstruction en philosophie, édition originale, 1920 ;
+       dernière édition en français : Paris, Folio, 2014
        (ISBN 978-2-07-045624-6)
-     * Gosta Esping-Andersen, Les trois mondes de l'État-providence,
-       édition originale, 1990, Paris, PUF, 2007 (ISBN 978-2-13-055916-0)
+     * Gosta Esping-Andersen, Les trois mondes de l'État-providence, édition
+       originale, 1990, Paris, PUF, 2007 (ISBN 978-2-13-055916-0)
      * Simone Goyard-Fabre, L'État, figure moderne de la politique, Paris,
        Armand Colin, coll. « Cursus », 1999. (ISBN 978-2-20-025105-5)
      * Élie Halévy, Le radicalisme philosophique, édition originale, 1904;
@@ -1740,48 +1668,45 @@ Autre
      * Jean Picq, Une histoire de l'État en Europe, Paris, Presses de
        Sciences Po, 2009 (ISBN 9782724611038).
      * Alexis de Tocqueville, L'ancien régime et la révolution, édition
-       originale, 1858; Paris, GF-Flammarion, 2005
-       (ISBN 978-2-07-032299-2)
-     * Max Weber, Économie et Société, édition originale, 1921 ; tomes 1
-       et 2, Paris, Pocket 2003 (ISBN 978-2266132442) /
-       (ISBN 978-2-26-606987-8)
+       originale, 1858; Paris, GF-Flammarion, 2005 (ISBN 978-2-07-032299-2)
+     * Max Weber, Économie et Société, édition originale, 1921 ; tomes 1 et
+       2, Paris, Pocket 2003 (ISBN 978-2266132442) / (ISBN 978-2-26-606987-8)
      * Lilian Truchon, Hobbes et la nature de l'État, Paris, Delga, 2018
      * David Wengrow et David Graeber (trad. Élise Roy), Au commencement
        était… : une nouvelle histoire de l'humanité, 2021
-       (ISBN 979-10-209-1030-1, OCLC 1287242266).  Ouvrage utilisé pour la
+       (ISBN 979-10-209-1030-1, OCLC 1287242266). Ouvrage utilisé pour la
        rédaction de l'article
      * Élisa Chelle, Gouverner les pauvres : Politiques sociales et
        administration du mérite, Rennes, Presses universitaires de Rennes,
-       coll. « Res publica », 19 juin 2019 (ISBN 978-2-7535-6265-3, lire
-       en ligne)
+       coll. « Res publica », 19 juin 2019 (ISBN 978-2-7535-6265-3, lire en
+       ligne)
 
    Autres ouvrages
 
-     * Gérard Bergeron, Petit traité de l'État, Paris, Presses
-       universitaires de France, Collection « La politique éclatée »,
-       1990.
+     * Gérard Bergeron, Petit traité de l'État, Paris, Presses universitaires
+       de France, Collection « La politique éclatée », 1990.
      * Giovanni Bianco, Sulla genesi dello Stato, dans Rivista
        dell'associazione italiana dei costituzionalisti, 2010.
      * Norberto Bobbio, Stato, dans Enciclopedia Einaudi, XIII, Einaudi,
        Turin, 1981.
-     * Pierre Bourdieu, Sur l'État. Cours au Collège de France
-       (1989-1992), Le Seuil, 2012 (ISBN 978-2-02-066224-6)
-     * Enzo Cheli, Lo Stato costituzionale. Radici e prospettive, Es,
-       Naples, 2006.
-     * Pierre Clastres, La Société contre l’État. Recherches
-       d'anthropologie politique, éd. originale; Minuit, 1974, réédition :
-       2011 (ISBN 978-2-70-732159-6)
+     * Pierre Bourdieu, Sur l'État. Cours au Collège de France (1989-1992),
+       Le Seuil, 2012 (ISBN 978-2-02-066224-6)
+     * Enzo Cheli, Lo Stato costituzionale. Radici e prospettive, Es, Naples,
+       2006.
+     * Pierre Clastres, La Société contre l’État. Recherches d'anthropologie
+       politique, éd. originale; Minuit, 1974, réédition : 2011
+       (ISBN 978-2-70-732159-6)
      * Eugène Enriquez, De la horde à l’État, Gallimard, 1983; réédition
        Gallimard, coll. Folio, 2003
      * Thomas Hobbes, Léviathan, ouvrage édité en 1651; Gallimard, coll.
        Folio (ISBN 978-2-07-075225-6).
-     * Lénine, L'État et la Révolution, édition originale, 1917; Éditions
-       du Progrès, 1981
+     * Lénine, L'État et la Révolution, édition originale, 1917; Éditions du
+       Progrès, 1981
      * Gaston Leval, L’État dans l’Histoire, édition originale non datée ;
        éditions du monde libertaire, 2006
      * John Locke, Les Deux Traités du gouvernement civil, 1690
-     * Nicolas Machiavel, Le Prince, ouvrage écrit au début du XVI^e
-       siècle; Le Livre de poche, 2000 (ISBN 978-2-25-306743-6)
+     * Nicolas Machiavel, Le Prince, ouvrage écrit au début du XVI^e siècle;
+       Le Livre de poche, 2000 (ISBN 978-2-25-306743-6)
      * Raymond Carré de Malberg, Contribution à la théorie générale de
        l'État, 1921; Dalloz, 2007; Ulan Press, 2012
      * Nicola Matteucci (it), Lo Stato, Il Mulino, Bologna, 2005.
@@ -1791,41 +1716,41 @@ Autre
        (ISBN 978-2-07-043975-1)
      * Platon, La République, ouvrage écrit au IV^e siècle av. J.-C.;
        Garnier-Flammarion, 2002 (ISBN 978-2-08-070653-9)
-     * Bakounine, Dieu et l'État, édition originale, 1871; Les Mille et
-       une Nuits, 2000 (ISBN 978-2-84-205074-0)
+     * Bakounine, Dieu et l'État, édition originale, 1871; Les Mille et une
+       Nuits, 2000 (ISBN 978-2-84-205074-0)
      * Geert Demuijnck, Pierre Vercauteren (dir.), L'État face à la
-       globalisation économique. Quelles formes de gouvernance ?, Éditions
-       du Sandre, 2009
+       globalisation économique. Quelles formes de gouvernance ?, Éditions du
+       Sandre, 2009
      * Sophie Guillouet-Rochefort, L'État, Ellipses, 2010.
        (ISBN 978-2-72-985388-4).
      * Georges Burdeau, L'État, Seuil, "Points Essais", 2009.
        (ISBN 978-2-75-781484-0).
-     * Renaud Denoix de Saint Marc, L'État, PUF, coll. "Que sais-je ?",
-       2004 (ISBN 978-2-13-053389-4).
+     * Renaud Denoix de Saint Marc, L'État, PUF, coll. "Que sais-je ?", 2004
+       (ISBN 978-2-13-053389-4).
      * Pierre Rosanvallon, L'État en France : de 1789 à nos jours, Seuil,
        coll. "Points Histoire", 1993. (ISBN 978-2-02-019403-7)
      * Pierre Rosanvallon, La crise de l'État-providence, Seuil, 1992
        (ISBN 978-2-02-014137-6)
-     * Jean-Michel Oudjani, L'État est une Personne, Auteurs associés,
-       2011 (ISBN 978-2-919490-03-5).
+     * Jean-Michel Oudjani, L'État est une Personne, Auteurs associés, 2011
+       (ISBN 978-2-919490-03-5).
      * Ruwen Ogien, L'État nous rend-il meilleurs ? Essai sur la liberté
        politique, Gallimard, coll. Folio, 2013 (ISBN 978-2-07-045191-3).
-     * Luc Gonin, L'obsolescence de l'État moderne: Analyse diachronique
-       et contextuelle à l'exemple de l'État français, Schulthess,
-       Collection genevoise, 2011 (ISBN 978-3-7255-6277-0)
+     * Luc Gonin, L'obsolescence de l'État moderne: Analyse diachronique et
+       contextuelle à l'exemple de l'État français, Schulthess, Collection
+       genevoise, 2011 (ISBN 978-3-7255-6277-0)
 
 Voir aussi
 
    [modifier | modifier le code]
 
    Sur les autres projets Wikimedia :
+
      * État, sur le Wiktionnaire
      * État, sur Wikiversity
      * État, sur Wikiquote
-
    Une catégorie est consacrée à ce sujet : État.
 
-Articles connexes
+  Articles connexes
 
    [modifier | modifier le code]
      * Anarchisme
@@ -1854,63 +1779,57 @@ Articles connexes
      * Sociologie historique du politique
      * Zomia
 
-Liens externes
+  Liens externes
 
    [modifier | modifier le code]
 
-     *
-     *
-     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
-       et modifier les données sur Wikidata  :
-          + Britannica
-          + Dizionario di Storia
-          + Encyclopédie de l'Ukraine moderne
-          + Larousse
-          + Store norske leksikon
-          + Treccani
-          + Universalis
-     * Notices d'autorité Voir et modifier les données sur Wikidata  :
-          + BnF (données)
-          + LCCN
-          + GND
-          + Japon
-          + Israël
-          + Tchéquie
-     * Histoire de l’État, Actes de la recherche en sciences sociales.
-       Vol. 116-117, mars 1997.
+     * * * Notices dans des dictionnaires ou encyclopédies généralistesVoir
+       et modifier les données sur Wikidata :
+          * Britannica
+          * Dizionario di Storia
+          * Encyclopédie de l'Ukraine moderne
+          * Larousse
+          * Store norske leksikon
+          * Treccani
+          * Universalis
+     * Notices d'autoritéVoir et modifier les données sur Wikidata :
+          * BnF (données)
+          * LCCN
+          * GND
+          * Japon
+          * Israël
+          * Tchéquie
+     * Histoire de l’État, Actes de la recherche en sciences sociales. Vol.
+       116-117, mars 1997.
 
-   v · m
+   v · m            
    Philosophie politique
-   Concepts de base
-     * Citoyenneté
-     * Constitution
-     * Droit
-     * Égalité
-     * État
-     * Gouvernement
-     * Guerre
-     * Idéologie
-     * Justice
-     * Liberté politique
-     * Loi
-     * Politique
-     * Pouvoir
-     * Régime politique
-     * Société
-     * Souveraineté
-     * Système international
-
-   Domaines
-     * Relations internationales
-     * Science politique
-     * Théories du contrat social
+                      * Citoyenneté                  
+                      * Constitution                 
+                      * Droit                        
+                      * Égalité                      
+                      * État                         
+                      * Gouvernement                 
+                      * Guerre                       
+                      * Idéologie                    
+   Concepts de base   * Justice                      
+                      * Liberté politique            
+                      * Loi                          
+                      * Politique                    
+                      * Pouvoir                      
+                      * Régime politique             
+                      * Société                      
+                      * Souveraineté                 
+                      * Système international        
+                      * Relations internationales    
+   Domaines           * Science politique            
+                      * Théories du contrat social   
 
      * icône décorative Portail du droit
      * icône décorative Portail de la politique
      * icône décorative Portail de la société
      * icône décorative Portail de la monarchie
      * icône décorative Portail de l’anarchisme
-
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=État&oldid=231856856 ».
    Catégories :
@@ -1918,7 +1837,6 @@ Liens externes
      * État
      * Géographie politique
      * Administration territoriale par type
-
    Catégories cachées :
      * Article contenant un lien mort
      * Article à référence souhaitée
@@ -1944,9 +1862,8 @@ Liens externes
      * Portail:Politique/Articles liés
      * Portail:Monarchie/Articles liés
      * Portail:Anarchisme/Articles liés
-
-     * La dernière modification de cette page a été faite le 27 décembre
-       2025 à 21:15.
+     * La dernière modification de cette page a été faite le 27 décembre 2025
+       à 21:15.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
@@ -1954,9 +1871,8 @@ Liens externes
        réutilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
        Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du code
+       fiscal des États-Unis.
      * Politique de confidentialité
      * À propos de Wikipédia
      * Avertissements
@@ -1967,14 +1883,11 @@ Liens externes
      * Statistiques
      * Déclaration sur les témoins (cookies)
      * Version mobile
-
      * Wikimedia Foundation
      * Powered by MediaWiki
-
-   (BUTTON) Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
+   Rechercher
+   _____________________
+   Rechercher
    [ ] Basculer la table des matières
    État
-   (BUTTON) 184 langues Ajouter un sujet
+   184 langues Ajouter un sujet

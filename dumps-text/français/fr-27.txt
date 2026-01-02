@@ -1,288 +1,256 @@
-   #alternate
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MWVD6L6
-
+   Link: canonical
+   Link: x-default x-default
+   Link: alternate fr-CA
      * Centre des médias
      * Carrières
      * S'abonner
-
-   (BUTTON) Search
-   ____________________ (BUTTON)
-   (BUTTON) banque de cerveaux
+   Search
+   _____________________ [ Submit ]
+   banque de cerveaux
    EN
      * FRANÇAIS
-
-   (BUTTON) Toggle Menu
-   (BUTTON) Close menu icon
-   The Decision Lab Logo The Decision Lab Logo
+   Toggle Menu
+   [IMG]The Decision Lab LogoThe Decision Lab Logo
      * Études de cas
      * Comment nous travaillons
      * Conseil
-     *
-     * (BUTTON) Main Menu
-         ______________________________________________________________
+     * * Main Menu
 
-       Conseil
+     ----------------------------------------------------------------------
 
-     * Données et analyses
-     * Innovation et conception
-     * Stratégie et finance d'entreprise
-     * Opérations
-     * Personnes et organisation
-     * Marketing et connaissance des consommateurs
-     * Risque et conformité
+  Conseil
 
-     Industries
+          * Données et analyses
+          * Innovation et conception
+          * Stratégie et finance d'entreprise
+          * Opérations
+          * Personnes et organisation
+          * Marketing et connaissance des consommateurs
+          * Risque et conformité
+     * Industries
+     * * Main Menu
 
+     ----------------------------------------------------------------------
 
+  Industries
 
-     (BUTTON) Main Menu
-     __________________________________________________________________
+          * Santé et bien-être
+          * L'éducation
+          * Comportement du consommateur
+          * Technologie et IA
+          * Climat et développement durable
+          * Développement et protection sociale
+          * Inclusion financière
+          * Politique publique
+          * Stratégie d'impact et gouvernance
+     * Resources
+     * * Main Menu
 
-Industries
+     ----------------------------------------------------------------------
 
-     * Santé et bien-être
-     * L'éducation
-     * Comportement du consommateur
-     * Technologie et IA
-     * Climat et développement durable
-     * Développement et protection sociale
-     * Inclusion financière
-     * Politique publique
-     * Stratégie d'impact et gouvernance
+  Resources
 
-     Resources
-
-
-
-     (BUTTON) Main Menu
-     __________________________________________________________________
-
-Resources
-
-     * Perspectives
-     * Podcasts
-     * Biais
-     * Penseurs
-     * Guide de référence
-
-     A propos / Notre mission
-
-     Carrières
-
-     Contact
-
+          * Perspectives
+          * Podcasts
+          * Biais
+          * Penseurs
+          * Guide de référence
+     * A propos / Notre mission
+     * Carrières
+     * Contact
    EN
-
-   The Decision Lab Logo The Decision Lab Logo
-
+   [IMG]The Decision Lab LogoThe Decision Lab Logo
    Comment nous travaillons
-   (BUTTON) Conseil
+   Conseil
 
 Conseil
 
    Données et analysesUtiliser l'apprentissage automatique et l'IA pour
    offrir une hyperpersonnalisationInnovation et conceptionConcevoir des
    produits et services de nouvelle génération centrés sur l'être
-   humainStratégie et finance d'entrepriseUtiliser des approches fondées
-   sur des données probantes pour résoudre des problèmes stratégiques
-   épineux
+   humainStratégie et finance d'entrepriseUtiliser des approches fondées sur
+   des données probantes pour résoudre des problèmes stratégiques épineux
    OpérationsTirer parti de la science du comportement pour atteindre
-   l'excellence opérationnellePersonnes et organisationCultiver les
-   talents et favoriser le bien-être grâce au design
-   comportementalMarketing et connaissance des consommateursComprendre la
-   prise de décision des consommateurs et comment concevoir des produits
-   en fonction de celle-ci
+   l'excellence opérationnellePersonnes et organisationCultiver les talents
+   et favoriser le bien-être grâce au design comportementalMarketing et
+   connaissance des consommateursComprendre la prise de décision des
+   consommateurs et comment concevoir des produits en fonction de celle-ci
    Risque et conformitéS'appuyer sur la science pour générer des
    comportements positifs et évolutifsConception comportementale de
-   produitsConstruire des produits numériques de classe mondiale grâce �
-   la science du comportement
-   (BUTTON) Industries
+   produitsConstruire des produits numériques de classe mondiale grâce à la
+   science du comportement
+   Industries
 
 Industries
 
-   Santé et bien-êtreFavoriser le bien-être holistique grâce à la science
-   et à la conceptionTechnologie et IALibérer le potentiel d'un produit
-   grâce à la conception comportementalePolitique publiqueGénérer des
-   interventions à faible coût et à fort impact dans les politiques
-   publiques
-   L'éducationExploiter le potentiel de chaque classe grâce à la science
-   du comportementClimat et développement durableUn avenir durable grâce
-   au nudgingInclusion financièrePermettre aux gens de prendre le contrôle
-   de leurs finances
-   Comportement du consommateurConcevoir des environnements de choix
-   positifs pour les consommateurs et les marquesDéveloppement et
-   protection socialeTraduire les bonnes intentions en progrès
-   évolutifsStratégie d'impact et gouvernanceAider les investisseurs �
-   éviter les préjugés et à accroître leur impact
-   (BUTTON) Ressources
+   Santé et bien-êtreFavoriser le bien-être holistique grâce à la science et
+   à la conceptionTechnologie et IALibérer le potentiel d'un produit grâce à
+   la conception comportementalePolitique publiqueGénérer des interventions à
+   faible coût et à fort impact dans les politiques publiques
+   L'éducationExploiter le potentiel de chaque classe grâce à la science du
+   comportementClimat et développement durableUn avenir durable grâce au
+   nudgingInclusion financièrePermettre aux gens de prendre le contrôle de
+   leurs finances
+   Comportement du consommateurConcevoir des environnements de choix positifs
+   pour les consommateurs et les marquesDéveloppement et protection
+   socialeTraduire les bonnes intentions en progrès évolutifsStratégie
+   d'impact et gouvernanceAider les investisseurs à éviter les préjugés et à
+   accroître leur impact
+   Ressources
 
 Ressources
 
-Ressources
+  Ressources
 
-   icon icon
+   [IMG]iconicon
    PerspectivesÉléments de réflexion sur la façon dont les sciences du
    comportement créent un impact positif
-   icon icon
-   PodcastsConversations avec certaines des voix les plus influentes du
-   monde
-   icon icon
+   [IMG]iconicon
+   PodcastsConversations avec certaines des voix les plus influentes du monde
+   [IMG]iconicon
    BiaisUn guide pratique sur la façon dont notre esprit comprend le monde
    qui nous entoure
-   icon icon
-   PenseursComment certains des penseurs les plus influents du monde y
-   sont parvenus
-   icon icon
-   Guide de référenceDes concepts fondamentaux pour vous aider �
-   comprendre la science des décisions
+   [IMG]iconicon
+   PenseursComment certains des penseurs les plus influents du monde y sont
+   parvenus
+   [IMG]iconicon
+   Guide de référenceDes concepts fondamentaux pour vous aider à comprendre
+   la science des décisions
 
-Tendance
+  Tendance
 
    PodcastL'équité en matière de santé pour les communautés noires avec le
    Dr. Onye Nnorom - FRENCH
    TechnologieLa prophétie auto-réalisatrice de l'indignation sur Internet
-   (BUTTON) A propos de nous
+   A propos de nous
 
 À propos de nous
 
    Notre missionNous avons pour mission de renforcer les moyens d'action
-   grâce à des choix fondés sur des données
-   probantes.CarrièresRejoignez-nous dans notre mission d'aider le monde �
-   prendre de meilleures décisions.
-   L'équipeDes perspectives diverses, réunies par la passion de
-   l'impactLes médiasDemander un entretien avec l'un de nos experts
-   ChroniqueursUn leadership éclairé en provenance des premières lignes de
-   la science du comportementÉtudes de casUn aperçu de quelques-uns de nos
+   grâce à des choix fondés sur des données probantes.CarrièresRejoignez-nous
+   dans notre mission d'aider le monde à prendre de meilleures décisions.
+   L'équipeDes perspectives diverses, réunies par la passion de l'impactLes
+   médiasDemander un entretien avec l'un de nos experts
+   ChroniqueursUn leadership éclairé en provenance des premières lignes de la
+   science du comportementÉtudes de casUn aperçu de quelques-uns de nos
    travaux les plus marquants
    Contact
-
-   Reference Guide Teoría de la mentalidad
-   (BUTTON)
+   Reference Guide  Teoría de la mentalidad
    enregistré en mémoire - icon
-   enregistré en mémoire (BUTTON)
+   enregistré en mémoire
    cite - icon
-   cite (BUTTON)
+   cite
    partager - icon
    partager
-   (BUTTON)
    linkedin - icon
-   linkedin (BUTTON)
+   linkedin
    twitter - icon
-   twitter (BUTTON)
+   twitter
    email - icon
-   email (BUTTON)
+   email
    copier le lien - icon
    copier le lien
    Link copied!
+   [ Submit ]
 
-   (BUTTON)
+                            Teoría de la mentalidad
 
-Teoría de la mentalidad
-
-   (BUTTON) La idea básica
+   La idea básica
    La idea básicaTérminos
    claveHistoriaPersonasConsecuenciasControversiasCasos prácticosRecursos
    relacionadosFuentes
-
-   La idea básicaTérminos claveHistoriaPersonas
-
-   Carol DweckConsecuenciasControversiasCasos prácticosRecursos
-   relacionadosFuentes
+   La idea básicaTérminos claveHistoriaPersonasCarol
+   DweckConsecuenciasControversiasCasos prácticosRecursos relacionadosFuentes
 
 La idea básica
 
-   Para algunas personas, parece que el cielo es el límite, mientras que
-   para otras el techo está un poco más bajo, más cerca de la tierra. A
-   veces vemos esta dicotomía como optimistas frente a pesimistas; los
-   ambiciosos frente a los menos motivados. Las clásicas frases populares
-   que empiezan con "hay dos tipos de personas en este mundo" no suelen
-   tener en cuenta a las personas que se encuentran en medio, pero eso no
-   significa que no podamos existir en un continuo de dos perspectivas.
+   Para algunas personas, parece que el cielo es el límite, mientras que para
+   otras el techo está un poco más bajo, más cerca de la tierra. A veces
+   vemos esta dicotomía como optimistas frente a pesimistas; los ambiciosos
+   frente a los menos motivados. Las clásicas frases populares que empiezan
+   con "hay dos tipos de personas en este mundo" no suelen tener en cuenta a
+   las personas que se encuentran en medio, pero eso no significa que no
+   podamos existir en un continuo de dos perspectivas.
 
-   Uno de estos espectros de perspectivas únicas es la mentalidad: la idea
-   de que las personas tienen creencias diferentes sobre la maleabilidad
-   de los ^atributos humanos.1 En un extremo está la opinión de que estos
-   atributos, como la inteligencia o la personalidad, pueden cambiarse con
-   esfuerzo y determinación, mientras que en el otro extremo se cree que
-   estos atributos son innatos y permanecen fijos a lo largo del tiempo.
-   La investigación ha explorado estas dos formas de mentalidad y ha
-   descubierto que estas creencias laicas pueden predecir diversos
-   resultados personales.
+   Uno de estos espectros de perspectivas únicas es la mentalidad: la idea de
+   que las personas tienen creencias diferentes sobre la maleabilidad de los
+   ^atributos humanos.1 En un extremo está la opinión de que estos atributos,
+   como la inteligencia o la personalidad, pueden cambiarse con esfuerzo y
+   determinación, mientras que en el otro extremo se cree que estos atributos
+   son innatos y permanecen fijos a lo largo del tiempo. La investigación ha
+   explorado estas dos formas de mentalidad y ha descubierto que estas
+   creencias laicas pueden predecir diversos resultados personales.
+
    “
 
-   En un mundo, el esfuerzo es algo malo. Al igual que el fracaso,
-   significa que no eres inteligente ni tienes talento. Si lo fueras, no
-   necesitarías esfuerzo. En el otro mundo, el esfuerzo es lo que te hace
-   inteligente o talentoso.
+     En un mundo, el esfuerzo es algo malo. Al igual que el fracaso,
+     significa que no eres inteligente ni tienes talento. Si lo fueras, no
+     necesitarías esfuerzo. En el otro mundo, el esfuerzo es lo que te hace
+     inteligente o talentoso.
 
-   - Carol Dweck
+     - Carol Dweck
 
 Read Next
 
-   [image?url=https%3A%2F%2Fimages.prismic.io%2Fthedecisionlab%2FaS75BXNYC
-   lf9ns--_connection.png%3Fauto%3Dformat%2Ccompress&amp;w=1920&amp;q=75]
+   [IMG]
    Reference Guide
 
-Algorithmic Fairness
+  Algorithmic Fairness
 
-   Icon of the EAST framework: four small diamonds arranged to form a
-   larger diamond, with each small diamond containing one letter—E, A, S,
-   and T.
+   Icon of the EAST framework: four small diamonds arranged to form a larger
+   diamond, with each small diamond containing one letter—E, A, S, and T.
    Reference Guide
 
-EAST Framework
+  EAST Framework
 
    three letter block icons of A,B, and C in black
    Reference Guide
 
-The ABC Model
+  The ABC Model
 
    An icon resembling a splatter shape, characterized by a central rounded
-   area with several elongated, irregular arms or splashes radiating
-   outward in different directions.
+   area with several elongated, irregular arms or splashes radiating outward
+   in different directions.
    Reference Guide
 
-Sludge
+  Sludge
 
    See All
+   Notes illustrationNotes illustration
 
-   Notes illustration Notes illustration
-
-Vous souhaitez savoir comment les sciences du comportement peuvent aider
-votre organisation ?
+Vous souhaitez savoir comment les sciences du comportement peuvent aider votre
+organisation ?
 
    Contactez nous
 
-Recevez chaque mois dans votre boîte de réception de nouvelles informations
-sur les sciences du comportement.
+Recevez chaque mois dans votre boîte de réception de nouvelles informations sur
+les sciences du comportement.
 
-   The Decision Lab Icon The Decision Lab Icon
+   The Decision Lab IconThe Decision Lab Icon
 
-Nous recrutons !
+  Nous recrutons !
 
-   Rejoignez notre équipe pour créer un impact significatif en appliquant
-   la science du comportement.
+   Rejoignez notre équipe pour créer un impact significatif en appliquant la
+   science du comportement.
+
    Visiter les carrières
 
-Collaborer avec nous
+  Collaborer avec nous
 
      * Perspectives
      * Interventions
      * Biais
      * Notre mission
      * Contact
-
      * Conseil en sciences du comportement
      * Conception comportementale
-
      * Facebook
      * Twitter
      * Linkedin
      * Instagram
 
    © 2026 The Decision Lab. Tous droits réservés
+
      * Conditions d'utilisation
      * Politique de confidentialité
-
-   (BUTTON) Retourner au site web
+   Retourner au site web

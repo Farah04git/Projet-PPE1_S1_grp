@@ -1,31 +1,31 @@
 
-Une étude sur l’état de santé des Français avant la pandémie de Covid-19 pour
-aider les décideurs à réduire le fardeau des maladies
+ Une étude sur l’état de santé des Français avant la pandémie de Covid-19 pour
+             aider les décideurs à réduire le fardeau des maladies
 --
 
-   Stéthoscope Une nouvelle étude dresse un panorama de l’état de santé
-   des Français juste avant la pandémie en 2019 ainsi que son évolution
+   StéthoscopeUne nouvelle étude dresse un panorama de l’état de santé des
+   Français juste avant la pandémie en 2019 ainsi que son évolution depuis
 --
    Pour mettre en place des politiques de santé publique adaptées, il est
    crucial de connaître l’état de santé de la population ainsi que son
    évolution au cours du temps. Ces connaissances sont d’autant plus
 --
-   nationale de l’Assurance Maladie (Cnam) et les collaborateurs de la
-   Global Burden of Diseases study (GBD), dresse un panorama de l’état de
-   santé des Français juste avant la pandémie en 2019, et son évolution
+   l’Assurance Maladie (Cnam) et les collaborateurs de la Global Burden of
+   Diseases study (GBD), dresse un panorama de l’état de santé des Français
+   juste avant la pandémie en 2019, et son évolution depuis 1990. Ce travail
 --
-   systèmes de surveillance habituels, de réaliser un diagnostic plus
-   précis de l’état de santé des Français avant la crise de la Covid-19,
-   notamment pour tenter d’analyser son impact spécifique sur différents
+   santé. Afin de relever ces défis, il est essentiel, au-delà des systèmes
+   de surveillance habituels, de réaliser un diagnostic plus précis de l’état
+   de santé des Français avant la crise de la Covid-19, notamment pour tenter
 --
-   présentée spécifiquement pour la France, pour décrire l’évolution de
-   l’état de santé en France à travers un ensemble d’indicateurs reflétant
-   notamment le statut sociodémographique des personnes, l’espérance de
+   Mais jamais cette richesse de données n’avait été exploitée et présentée
+   spécifiquement pour la France, pour décrire l’évolution de l’état de santé
+   en France à travers un ensemble d’indicateurs reflétant notamment le
 --
-     « Dans l’ensemble, ces résultats mettent en évidence une nette
-     tendance à l’amélioration de l’état de santé en France. Ils doivent
-     inciter les décideurs à concevoir des stratégies d’intervention pour
+     « Dans l’ensemble, ces résultats mettent en évidence une nette tendance
+     à l’amélioration de l’état de santé en France. Ils doivent inciter les
+     décideurs à concevoir des stratégies d’intervention pour réduire la
 --
-   ces mêmes indicateurs clés, afin de mettre en évidence des éventuelles
-   évolutions de l’état de santé de la population.
-
+   collectées à l’issue de la crise sanitaire sur ces mêmes indicateurs clés,
+   afin de mettre en évidence des éventuelles évolutions de l’état de santé
+   de la population.

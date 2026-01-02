@@ -1,179 +1,168 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N2DSNF
-
-   [tr?id=575260064955301&amp;ev=PageView&amp;noscript=1]
-
-   (BUTTON) PasseportSanté (BUTTON)
+   Link: canonical
+   [ Submit ] PasseportSanté [ Submit ]
      * Maladies
-          + Rechercher par rubrique :
-          + Maladies
-          + Symptômes
-          + Parties du corps
-          + Alzheimer
-          + Analyses médicales
-          + Spécialités médicales
-          + Examens et opérations
-          + Matériel médical
-          + Santé de la femme
-          + Santé de l'homme
-          + Hygiène et soins
-          + Allergies
-          + Allergies Saisonnières
-          + Arthrose
-          + Articulations
-          + Cancer
-          + Cancer de la prostate
-          + Cancer du col de l'utérus
-          + Cancer du sein
-          + Cholestérol
-          + Coronavirus
-          + Diabète
-          + Don de sang
-          + Endométriose
-          + Incontinence urinaire
-          + Maladie Cœliaque
-          + Mal de dos
-          + Maux de tête
-          + Ménopause
-          + Menstruations
-          + Prise de sang
-          + Santé des dents
-          + Soin de la peau
-          + SIDA
-          + Thyroïde
-          + Vue
-          + Santé pratique
-          + Le mois sans tabac
-          + Dossiers pratiques :
-          + Actualités
-          + Dossiers
-          + Tribunes
-          + Réponses d'experts
-          + Audio - Vidéo
-          + Guide d'achat
-          + Médicaments
-          + 10 choses à savoir sur l'effet placebo (BUTTON) Tous les
-            médicaments
+          * Rechercher par rubrique :
+          * Maladies
+          * Symptômes
+          * Parties du corps
+          * Alzheimer
+          * Analyses médicales
+          * Spécialités médicales
+          * Examens et opérations
+          * Matériel médical
+          * Santé de la femme
+          * Santé de l'homme
+          * Hygiène et soins
+          * Allergies
+          * Allergies Saisonnières
+          * Arthrose
+          * Articulations
+          * Cancer
+          * Cancer de la prostate
+          * Cancer du col de l'utérus
+          * Cancer du sein
+          * Cholestérol
+          * Coronavirus
+          * Diabète
+          * Don de sang
+          * Endométriose
+          * Incontinence urinaire
+          * Maladie Cœliaque
+          * Mal de dos
+          * Maux de tête
+          * Ménopause
+          * Menstruations
+          * Prise de sang
+          * Santé des dents
+          * Soin de la peau
+          * SIDA
+          * Thyroïde
+          * Vue
+          * Santé pratique
+          * Le mois sans tabac
+          * Dossiers pratiques :
+          * Actualités
+          * Dossiers
+          * Tribunes
+          * Réponses d'experts
+          * Audio - Vidéo
+          * Guide d'achat
+          * Médicaments
+          * 10 choses à savoir sur l'effet placebo Tous les médicaments
      * Santé naturelle
-          + Produits de santé naturels
-          + Huiles Essentielles
-          + Huiles végétales
-          + Médicaments homéopathiques
-          + Thérapies
-          + Médecine chinoise
-          + Remèdes de grand-mère
-          + Phytothérapie
+          * Produits de santé naturels
+          * Huiles Essentielles
+          * Huiles végétales
+          * Médicaments homéopathiques
+          * Thérapies
+          * Médecine chinoise
+          * Remèdes de grand-mère
+          * Phytothérapie
      * Nutrition
-          + Bases de la nutrition
-          + Conseils et astuces
-          + Recettes
-          + Consommer responsable
-          + Diètes spéciales
-          + Aliments
-          + Nutriments
-          + Additifs alimentaires
-          + Fruits et légumes
-          + Perte de poids
-          + Régimes
-          + IMC
-          + Sport
-          + Yoga
+          * Bases de la nutrition
+          * Conseils et astuces
+          * Recettes
+          * Consommer responsable
+          * Diètes spéciales
+          * Aliments
+          * Nutriments
+          * Additifs alimentaires
+          * Fruits et légumes
+          * Perte de poids
+          * Régimes
+          * IMC
+          * Sport
+          * Yoga
      * Famille
-          + Projet d'enfant
-          + Grossesse
-          + Accouchement
-          + Allaitement
-          + Petite enfance
-          + Enfance
-          + Adolescence
-          + Bien vieillir
-          + Seniors
+          * Projet d'enfant
+          * Grossesse
+          * Accouchement
+          * Allaitement
+          * Petite enfance
+          * Enfance
+          * Adolescence
+          * Bien vieillir
+          * Seniors
      * Santé mentale
-          + Stress & Anxiété
-          + Déprime & dépression
-          + Addictions
-          + Sommeil
-          + Phobies
-          + Psychologie
-          + Mémoire
-          + Travail
-          + Santé sexuelle
+          * Stress & Anxiété
+          * Déprime & dépression
+          * Addictions
+          * Sommeil
+          * Phobies
+          * Psychologie
+          * Mémoire
+          * Travail
+          * Santé sexuelle
      * Hiver
-          + Journées mondiales
-          + Journée mondiale du handicap
-          + Journée française de la maladie Huntington
-          + Semaine mondiale de l'allaitement
-          + Journée mondiale de la raclette
-          + Lutte contre le SIDA
-          + état des lieux Sida monde (BUTTON) En savoir plus
-          + Santé pendant les fêtes
-          + 8 conseils survivre fetes familiales (BUTTON) En savoir plus
+          * Journées mondiales
+          * Journée mondiale du handicap
+          * Journée française de la maladie Huntington
+          * Semaine mondiale de l'allaitement
+          * Journée mondiale de la raclette
+          * Lutte contre le SIDA
+          * état des lieux Sida monde En savoir plus
+          * Santé pendant les fêtes
+          * 8 conseils survivre fetes familiales En savoir plus
      * Actualités
-          + Santé
-          + Nutrition
-          + Minceur
-          + Seniors
-          + Santé Naturelle
-          + Hygiène et soins
-          + Sport
-          + Sexo
-          + Famille
-          + Psychologie
-          + Témoignages
-          + Maison
-          + Rappel conso
-
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) ____________________
-   (BUTTON)
-
+          * Santé
+          * Nutrition
+          * Minceur
+          * Seniors
+          * Santé Naturelle
+          * Hygiène et soins
+          * Sport
+          * Sexo
+          * Famille
+          * Psychologie
+          * Témoignages
+          * Maison
+          * Rappel conso
+   [ Submit ] [ Submit ] [ Submit ] [ Submit ] [ Submit ]
+   _____________________ [ Submit ]
      * PasseportSanté
      * Diaporama
 
-Qu'est-ce que l'état de choc ?
+                         Qu'est-ce que l'état de choc ?
 
    Qu'est-ce que l'état de choc ?
-   [profil-default-primary.webp] Par L'équipe PasseportSanté
+   Par L'équipe PasseportSanté
    Rédaction
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   [ Submit ] [ Submit ] [ Submit ][ Submit ]
 
    Mis à jour le 13/12/2022
 
-   L'état de choc est une réaction du corps ayant subi un traumatisme. Il
-   se produit en cas de ralentissement du système circulatoire quand
-   l'apport de sang aux organes est insuffisant. Cet état peut être
-   extrêmement dangereux car les cellules des organes vitaux comme le
-   coeur, en manque de sang, finissent par mourir. Tout traumatisme,
-   émotionnel ou physique, peut mener à un état de choc plus ou moins
-   important. C'est pour cela que toute victime doit être traitée comme si
-   elle était en état de choc. La sévérité de l'état de choc dépend
-   toutefois de la gravité du traumatisme.
+   L'état de choc est une réaction du corps ayant subi un traumatisme. Il se
+   produit en cas de ralentissement du système circulatoire quand l'apport de
+   sang aux organes est insuffisant. Cet état peut être extrêmement dangereux
+   car les cellules des organes vitaux comme le coeur, en manque de sang,
+   finissent par mourir. Tout traumatisme, émotionnel ou physique, peut mener
+   à un état de choc plus ou moins important. C'est pour cela que toute
+   victime doit être traitée comme si elle était en état de choc. La sévérité
+   de l'état de choc dépend toutefois de la gravité du traumatisme.
 
-Signes d'un état de choc
+  Signes d'un état de choc
 
      * Pouls faible et rapide ;
-
      * Peau pâle, moite et froide ;
-
      * Agitation et faiblesse ;
      * Difficulté à respirer et essoufflement ;
-
      * Angoisse, crainte et impression de mort imminente ;
-
      * Nausées ou vomissements ;
      * Baisse du niveau de conscience.
 
-Comment y remédier : la procédure P-O-R-S-C-H-E
+  Comment y remédier : la procédure P-O-R-S-C-H-E
 
    Position confortable : desserrez les vêtements de la victime (cravates,
-   ceintures, etc.) et placez-la dans une position confortable qui
-   minimise tout effort.
+   ceintures, etc.) et placez-la dans une position confortable qui minimise
+   tout effort.
 
-   Oxygène : si une machine à oxygène est disponible, n'hésitez pas �
-   administrer de l'oxygène à la victime, surtout si elle donne
-   l'impression d'en manquer.
+   Oxygène : si une machine à oxygène est disponible, n'hésitez pas à
+   administrer de l'oxygène à la victime, surtout si elle donne l'impression
+   d'en manquer.
 
-   Rassurer la victime. Alertez les secours si la victime est en état de
-   choc car la situation peut facilement dégénérer. Parlez à la victime et
-   essayez de la rassurer. Gardez votre calme : cela apaisera la victime.
+   Rassurer la victime. Alertez les secours si la victime est en état de choc
+   car la situation peut facilement dégénérer. Parlez à la victime et essayez
+   de la rassurer. Gardez votre calme : cela apaisera la victime.
 
    Signes vitaux : évaluez les signes vitaux et l'état de conscience de la
    victime en permanence.
@@ -183,32 +172,34 @@ Comment y remédier : la procédure P-O-R-S-C-H-E
    mettez-la à l'ombre ou à l'abri de la chaleur.
 
    Haut les jambes : si la victime est semi-consciente ou inconsciente,
-   placez-la en position latérale de sécurité. Si la victime est
-   consciente, placez-la sur le dos les jambes relevées, afin de maximiser
-   l'apport de sang vers les organes importants.
+   placez-la en position latérale de sécurité. Si la victime est consciente,
+   placez-la sur le dos les jambes relevées, afin de maximiser l'apport de
+   sang vers les organes importants.
 
-   Eliminer la cause : traitez la cause de l'état de choc dans la mesure
-   du possible. Par exemple, il peut s'agir d'une hémorragie, d'une crise
+   Eliminer la cause : traitez la cause de l'état de choc dans la mesure du
+   possible. Par exemple, il peut s'agir d'une hémorragie, d'une crise
    cardiaque, d'une blessure, etc.
 
-   Attention : si une blessure à la colonne vertébrale est soupçonnée, il
-   ne faut pas bouger la victime pour ne pas aggraver ses blessures. Si la
-   victime a de la difficulté à respirer, il est préférable de la mettre
-   en position semi-assise, appuyée contre un mur.
+   Attention : si une blessure à la colonne vertébrale est soupçonnée, il ne  
+   faut pas bouger la victime pour ne pas aggraver ses blessures. Si la       
+   victime a de la difficulté à respirer, il est préférable de la mettre en   
+   position semi-assise, appuyée contre un mur.                               
+
    L'équipe PasseportSanté L'équipe PasseportSanté
    Rédaction
 
    Fondée au Québec en 1998, l'équipe PasseportSanté se compose
    d'experts, qui mettent au service des lecteurs des informations fiables
    dans le domaine de la santé... Voir le profil
+
    4
    38 avis
    Cet article vous a-t-il été utile ?
    [ ] Oui
    [ ] Non
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   [ Submit ] [ Submit ] [ Submit ][ Submit ]
 
-Sur le même sujet :
+  Sur le même sujet :
 
      * 10 choses à savoir sur nos yeux qui révèlent notre état de santé
      * Les questions à poser à une victime : S-A-M-P-L-E
@@ -216,70 +207,74 @@ Sur le même sujet :
      * 10 douleurs liées à votre état émotionnel
      * 5 choses à savoir sur le syndrome du choc toxique
      * Examiner une victime avant l'arrivée des secours
+   Arrière-plan
+
+   Abonnez-vous !
+
+   Recevez chaque jour des conseils d'experts pour prendre soin de vous.
+
+   _____________________ [ OK ]
+
+   *Votre adresse email sera utilisée par Digital Prisma Players pour vous
+   envoyer votre newsletter contenant des offres commerciales personnalisées.
+   Elle pourra également être transférée à certains de nos partenaires, sous
+   forme pseudonymisée, si vous avez accepté dans notre bandeau cookies que
+   vos données personnelles soient collectées via des traceurs et utilisées à
+   des fins de publicité personnalisée. A tout moment, vous pourrez vous
+   désinscrire en utilisant le lien de désabonnement intégré dans la
+   newsletter et/ou refuser l’utilisation de traceurs via le lien «
+   Préférences Cookies » figurant sur notre service. Pour en savoir plus et
+   exercer vos droits , prenez connaissance de notre Charte de
+   Confidentialité.
 
    Arrière-plan
 
    Abonnez-vous !
 
    Recevez chaque jour des conseils d'experts pour prendre soin de vous.
-   ____________________ OK
+
+   _____________________ [ OK ]
 
    *Votre adresse email sera utilisée par Digital Prisma Players pour vous
-   envoyer votre newsletter contenant des offres commerciales
-   personnalisées. Elle pourra également être transférée à certains de nos
-   partenaires, sous forme pseudonymisée, si vous avez accepté dans notre
-   bandeau cookies que vos données personnelles soient collectées via des
-   traceurs et utilisées à des fins de publicité personnalisée. A tout
-   moment, vous pourrez vous désinscrire en utilisant le lien de
-   désabonnement intégré dans la newsletter et/ou refuser l’utilisation de
-   traceurs via le lien « Préférences Cookies » figurant sur notre
-   service. Pour en savoir plus et exercer vos droits , prenez
-   connaissance de notre Charte de Confidentialité.
-   Arrière-plan
+   envoyer votre newsletter contenant des offres commerciales personnalisées.
+   Elle pourra également être transférée à certains de nos partenaires, sous
+   forme pseudonymisée, si vous avez accepté dans notre bandeau cookies que
+   vos données personnelles soient collectées via des traceurs et utilisées à
+   des fins de publicité personnalisée. A tout moment, vous pourrez vous
+   désinscrire en utilisant le lien de désabonnement intégré dans la
+   newsletter et/ou refuser l’utilisation de traceurs via le lien «
+   Préférences Cookies » figurant sur notre service. Pour en savoir plus et
+   exercer vos droits , prenez connaissance de notre Charte de
+   Confidentialité.
 
-   Abonnez-vous !
-
-   Recevez chaque jour des conseils d'experts pour prendre soin de vous.
-   ____________________ OK
-
-   *Votre adresse email sera utilisée par Digital Prisma Players pour vous
-   envoyer votre newsletter contenant des offres commerciales
-   personnalisées. Elle pourra également être transférée à certains de nos
-   partenaires, sous forme pseudonymisée, si vous avez accepté dans notre
-   bandeau cookies que vos données personnelles soient collectées via des
-   traceurs et utilisées à des fins de publicité personnalisée. A tout
-   moment, vous pourrez vous désinscrire en utilisant le lien de
-   désabonnement intégré dans la newsletter et/ou refuser l’utilisation de
-   traceurs via le lien « Préférences Cookies » figurant sur notre
-   service. Pour en savoir plus et exercer vos droits , prenez
-   connaissance de notre Charte de Confidentialité.
    PasseportSanté
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   [ Submit ] [ Submit ] [ Submit ] [ Submit ]
      * À propos
      * Mentions légales
      * Droit d'auteur
      * Contactez-nous
-
-   Newsletter ____________________ OK
+   Newsletter
+   _____________________ [ OK ]
 
    *Votre adresse email sera utilisée par Digital Prisma Players pour vous
-   envoyer votre newsletter contenant des offres commerciales
-   personnalisées. Elle pourra également être transférée à certains de nos
-   partenaires, sous forme pseudonymisée, si vous avez accepté dans notre
-   bandeau cookies que vos données personnelles soient collectées via des
-   traceurs et utilisées à des fins de publicité personnalisée. A tout
-   moment, vous pourrez vous désinscrire en utilisant le lien de
-   désabonnement intégré dans la newsletter et/ou refuser l’utilisation de
-   traceurs via le lien « Préférences Cookies » figurant sur notre
-   service. Pour en savoir plus et exercer vos droits , prenez
-   connaissance de notre Charte de Confidentialité.
+   envoyer votre newsletter contenant des offres commerciales personnalisées.
+   Elle pourra également être transférée à certains de nos partenaires, sous
+   forme pseudonymisée, si vous avez accepté dans notre bandeau cookies que
+   vos données personnelles soient collectées via des traceurs et utilisées à
+   des fins de publicité personnalisée. A tout moment, vous pourrez vous
+   désinscrire en utilisant le lien de désabonnement intégré dans la
+   newsletter et/ou refuser l’utilisation de traceurs via le lien «
+   Préférences Cookies » figurant sur notre service. Pour en savoir plus et
+   exercer vos droits , prenez connaissance de notre Charte de
+   Confidentialité.
 
    En cas de malaise ou de maladie, consultez d’abord un médecin ou un
-   professionnel de la santé en mesure d’évaluer adéquatement votre état
-   de santé. En utilisant ce site, vous reconnaissez avoir pris
-   connaissance de l’avis de désengagement de responsabilité et vous
-   consentez à ses modalités. Si vous n’y consentez pas, vous n’êtes pas
-   autorisé à utiliser ce site.
+   professionnel de la santé en mesure d’évaluer adéquatement votre état de
+   santé. En utilisant ce site, vous reconnaissez avoir pris connaissance de
+   l’avis de désengagement de responsabilité et vous consentez à ses
+   modalités. Si vous n’y consentez pas, vous n’êtes pas autorisé à utiliser
+   ce site.
+
      * Maganimo
      * Croq'Kilos
      * CuisineAZ
@@ -288,5 +283,5 @@ Sur le même sujet :
      * Déco
      * RTL
 
-   Reproduction et droit d'auteur © 1998-2025 DIGITAL PRISMA PLAYERS -
-   Charte de confidentialité - Préférences cookies - CGU
+   Reproduction et droit d'auteur © 1998-2025 DIGITAL PRISMA PLAYERS - Charte
+   de confidentialité - Préférences cookies - CGU

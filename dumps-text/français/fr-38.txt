@@ -1,48 +1,39 @@
-   #alternate TF1 INFO - L'info pour tous et pour chacun
-
+   Link: canonical
    [ ]
-
-   (BUTTON) Fermer les notifications
+   Fermer les notifications
 
      * Aller au contenu principal
      * Aller à la recherche des programmes
      * Aller au pied de page
-
    Retour
    Tf1 Info - Retour à l'accueil
-   (BUTTON) (BUTTON) Se connecterDirects (BUTTON) 0Accéder aux
-   notifications (aucune notification en attente) (BUTTON) Accéder aux
-   menu secondaire et à la recherche
+   [ Submit ]Se connecterDirects0Accéder aux notifications (aucune
+   notification en attente)Accéder aux menu secondaire et à la recherche
    [ ]
-   (BUTTON) Fermer le menu
+   Fermer le menu
 
    Découvrez tout
    l’univers TF1 INFO
-   ____________________
-   (BUTTON) Lancer votre recherche de programme
-   (BUTTON) Créer un compte (BUTTON) Se connecter
+
+   _____________________
+   Lancer votre recherche de programme
+   Créer un compteSe connecter
      * Regarder le direct
      * Regarder les JT en direct
      * Regarder votre JT personnalisé
-
    Directs
-     * Guerre Ukraine-Russie : des négociations de paix à l'issue
-       incertaine
-     * Suisse : des dizaines de morts après une explosion dans une station
-       de ski
-
-   (BUTTON)
+     * Guerre Ukraine-Russie : des négociations de paix à l'issue incertaine
+     * Suisse : des dizaines de morts après une explosion dans une station de
+       ski
    Dans l’actualité en ce moment
-     * Drame à Crans-Montana : des dizaines de morts dans l'incendie d'un
-       bar le soir du Nouvel An
+     * Drame à Crans-Montana : des dizaines de morts dans l'incendie d'un bar
+       le soir du Nouvel An
      * Ukraine : 4ᵉ année de guerre
      * Ukraine-Russie : en marge des négociations, les attaques russes
        continuent
      * Dermatose nodulaire, Mercosur : les agriculteurs mobilisés
      * L’épidémie de grippe saisonnière
      * Tous les sujets
-
-   (BUTTON)
    Rubriques
      * Politique
      * Économie
@@ -69,53 +60,47 @@
      * Initiatives positives
      * Les Vérificateurs
      * Le 13H fête noël
-
-   (BUTTON)
    Émissions en replay
      * Toutes les émissions TF1 & LCI
-          + Émissions TF1
-          + Émissions LCI
+          * Émissions TF1
+          * Émissions LCI
      * Émissions TF1
-          + Bonjour ! La Matinale TF1
-          + Le 13H
-          + Le 20H
-          + Sept à huit
-          + Grands Reportages
-          + Top Info
-          + En Toute Franchise
+          * Bonjour ! La Matinale TF1
+          * Le 13H
+          * Le 20H
+          * Sept à huit
+          * Grands Reportages
+          * Top Info
+          * En Toute Franchise
      * Émissions LCI
-          + La Matinale
-          + En toute liberté
-          + Carte sur table
-          + Brunet Sans filtre
-          + LCI Direct
-          + Le Grand Dossier
-          + 24H Pujadas
-          + Face à Darius Rochebin
-          + 22h
-          + Fourest en liberté
-          + On ne plaisante pas avec l'info
-          + Les Vérificateurs
-          + LCI Midi
-          + 18H Darius Rochebin
-          + 18H Yves Calvi
-          + Histoires criminelles
-          + Impact Positif
-          + Vis leurs vies
-          + Un Oeil sur le Monde
-          + La Grande Confrontation
+          * La Matinale
+          * En toute liberté 
+          * Carte sur table
+          * Brunet Sans filtre
+          * LCI Direct
+          * Le Grand Dossier
+          * 24H Pujadas
+          * Face à Darius Rochebin
+          * 22h
+          * Fourest en liberté 
+          * On ne plaisante pas avec l'info
+          * Les Vérificateurs 
+          * LCI Midi
+          * 18H Darius Rochebin
+          * 18H Yves Calvi
+          * Histoires criminelles 
+          * Impact Positif
+          * Vis leurs vies
+          * Un Oeil sur le Monde
+          * La Grande Confrontation
      * Tous les replays TF1 & LCI
-          + Replay TF1
-          + Vidéos Replay TF1
-          + Replay LCI
-          + Vidéos Replay LCI
-
-   (BUTTON)
+          * Replay TF1
+          * Vidéos Replay TF1
+          * Replay LCI
+          * Vidéos Replay LCI
    Vidéos
      * Toutes les vidéos
      * TF1info Shorts
-
-   (BUTTON)
    Podcasts
      * Pourquoi faire compliqué ?
      * Intérieur crime
@@ -135,8 +120,6 @@
      * Histoires criminelles
      * Impact positif
      * Les gens qui lisent sont plus heureux
-
-   (BUTTON)
    Nos dossiers
      * Face aux Français : posez vos questions
      * Notre planète
@@ -146,40 +129,32 @@
      * Impact positif
      * Avec Elles
      * Le 13H au jardin
-
-   (BUTTON)
    Jeux
      * Jeux
-          + Solitaire
-          + Mots-fléchés
-          + Puzzle
-          + Mots-croisés
-          + Sudoku
-          + Quiz
-
-   (BUTTON)
+          * Solitaire
+          * Mots-fléchés
+          * Puzzle
+          * Mots-croisés
+          * Sudoku
+          * Quiz
    Sites du groupe
      * TF1+
      * TF1 Météo
      * SOS Villages
      * TF1 AdManager
-
-   (BUTTON)
    Nos engagements
      * La médiatrice vous répond
      * Charte Éditoriale
      * Charte sur l'intelligence artificielle
      * Nos engagements RSE
-
-   (BUTTON)
    Paramétrer mes cookies
-   (BUTTON) FACIL'iti : ADAPTEZ L'AFFICHAGE
+   FACIL'iti : ADAPTEZ L'AFFICHAGE
    Télécharger l'application TF1 info
      * Télécharger l’application mobile TF1 Info sur l’app store
      * Télécharger l’application TF1 Info sur le play store
 
-"Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait son
-compagnon décédé d'un cancer
+"Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait son compagnon
+                               décédé d'un cancer
 
    par La rédaction de TF1info (nouvelle fenêtre) | Reportage "Sept à Huit
    Life" : Julie DULAC, Marie DEMARQUE et Tony CASABIANCA
@@ -187,36 +162,35 @@ compagnon décédé d'un cancer
 
    Source : Sept à huit life
 
-     * Ils sont magnétiseurs, naturopathes ou hypnotiseurs, et certains
-       entretiennent la confusion avec la médecine véritable, devenant
-       parfois la dernière lueur d'espoir de patients gravement malades.
-     * Dans le cas de Paul, l'influence de l'un d'entre eux l'a maintenu
-       dans son déni, jusqu'à l'issue fatale.
-     * Sa compagne témoigne dans un reportage de "Sept à Huit Life".
+  * Ils sont magnétiseurs, naturopathes ou hypnotiseurs, et certains
+    entretiennent la confusion avec la médecine véritable, devenant parfois la
+    dernière lueur d'espoir de patients gravement malades.
+  * Dans le cas de Paul, l'influence de l'un d'entre eux l'a maintenu dans son
+    déni, jusqu'à l'issue fatale.
+  * Sa compagne témoigne dans un reportage de "Sept à Huit Life".
 
    Suivez la couverture complète
 
    Sept à huit
 
    Ils sont magnétiseurs, naturopathes ou hypnotiseurs. Ces nouveaux
-   guérisseurs ont remplacé les rebouteux d'antan, et séduisent des
-   patients en quête d'alternative ou d'une lueur d'espoir, comme on peut
-   le voir dans la vidéo en tête de cet article, replay d'un reportage de
-   "Sept à Huit Life" diffusé dimanche dernier. Mais ces pratiques ne sont
-   pas sans risque, quand elles tendent à se substituer à la médecine.
-   Parmi les personnes rencontrées par l'équipe du magazine de TF1,
-   Camilla raconte comment son compagnon, atteint d'un cancer, a subi
-   l'emprise d'un naturopathe qui l'a entretenu dans son rejet de la
-   médecine, jusqu'à l'issue fatale. Le charlatan a été condamné, mais
-   continue pourtant d'exercer, ont constaté les journalistes.
+   guérisseurs ont remplacé les rebouteux d'antan, et séduisent des patients
+   en quête d'alternative ou d'une lueur d'espoir, comme on peut le voir dans
+   la vidéo en tête de cet article, replay d'un reportage de "Sept à Huit
+   Life" diffusé dimanche dernier. Mais ces pratiques ne sont pas sans
+   risque, quand elles tendent à se substituer à la médecine. Parmi les
+   personnes rencontrées par l'équipe du magazine de TF1, Camilla raconte
+   comment son compagnon, atteint d'un cancer, a subi l'emprise d'un
+   naturopathe qui l'a entretenu dans son rejet de la médecine, jusqu'à
+   l'issue fatale. Le charlatan a été condamné, mais continue pourtant
+   d'exercer, ont constaté les journalistes.
 
-   Les signalements dans le domaine de la santé et du bien-être arrivent
-   en tête du dernier rapport (nouvelle fenêtre) de l'organisme officiel
-   de lutte contre les dérives sectaires (Miviludes), dépassant désormais
-   ceux concernant les cultes et la spiritualité. Avec comme premières
-   victimes les malades du cancer. C'était le cas de Paul, le compagnon de
-   Camilla, décédé en 2018, après avoir suivi le traitement d'un
-   naturopathe.
+   Les signalements dans le domaine de la santé et du bien-être arrivent en
+   tête du dernier rapport (nouvelle fenêtre) de l'organisme officiel de
+   lutte contre les dérives sectaires (Miviludes), dépassant désormais ceux
+   concernant les cultes et la spiritualité. Avec comme premières victimes
+   les malades du cancer. C'était le cas de Paul, le compagnon de Camilla,
+   décédé en 2018, après avoir suivi le traitement d'un naturopathe. 
 
    Getty Images
 
@@ -227,75 +201,74 @@ compagnon décédé d'un cancer
 
    À 39 ans, en 2016, Paul découvre qu'il est atteint d'un cancer des
    testicules, qui se soigne dans 97% des cas (nouvelle fenêtre) s'il est
-   localisé, et à plus de 70% pour les formes métastatiques. Mais hostile
-   à l'idée de se faire opérer et de subir une éventuelle ablation, ce
-   chef d'entreprise, passionné de produits bio, est séduit par le
-   discours de Miguel Barthéléry. Ce naturopathe se présente comme diplômé
-   d'Harvard, et titulaire d'un doctorat en recherche moléculaire. ""Son
-   idée, c'est d'affamer la tumeur et de la faire disparaître. Il lui a
-   fait un plan de santé qui consiste à faire des jeûnes suivis de purges,
-   et aussi un mélange d'huiles essentielles, d'élixirs, de synergie"",
-   décrit Camilla.
+   localisé, et à plus de 70% pour les formes métastatiques. Mais hostile à
+   l'idée de se faire opérer et de subir une éventuelle ablation, ce chef
+   d'entreprise, passionné de produits bio, est séduit par le discours de
+   Miguel Barthéléry. Ce naturopathe se présente comme diplômé d'Harvard, et
+   titulaire d'un doctorat en recherche moléculaire. "Son idée, c'est
+   d'affamer la tumeur et de la faire disparaître. Il lui a fait un plan de
+   santé qui consiste à faire des jeûnes suivis de purges, et aussi un
+   mélange d'huiles essentielles, d'élixirs, de synergie", décrit Camilla. 
 
-   En neuf mois, Paul passe de 80 à 59 kilos, et ses poumons se couvrent
-   de métastases. Camilla est impuissante. ""J'ai tout essayé,
-   c'est-à-dire que j'ai essayé le chantage en lui disant que j'allais le
-   quitter, au tout début, que je n'allais pas supporter ça, ni de le voir
-   mourir. Je pleurais, parfois je hurlais"". Elle essaie aussi ""de le
-   convaincre de manière rationnelle, mais ce n'était plus possible en
-   fait parce qu'il était dans le déni, et dans ce déni, il était
-   entretenu par Miguel Barthéléry"", assène-t-elle.
+   En neuf mois, Paul passe de 80 à 59 kilos, et ses poumons se couvrent de
+   métastases. Camilla est impuissante. "J'ai tout essayé, c'est-à-dire que
+   j'ai essayé le chantage en lui disant que j'allais le quitter, au tout
+   début, que je n'allais pas supporter ça, ni de le voir mourir. Je
+   pleurais, parfois je hurlais". Elle essaie aussi "de le convaincre de
+   manière rationnelle, mais ce n'était plus possible en fait parce qu'il
+   était dans le déni, et dans ce déni, il était entretenu par Miguel
+   Barthéléry", assène-t-elle. 
 
 "Il m'a demandé pardon parce qu'il ne m'avait pas écoutée"
 
-   Alors que Paul est placé sous oxygène, Miguel Barthéléry persévère.
-   Voici un extrait de leurs échanges par SMS. Paul lui écrit : ""Je suis
-   à l'hôpital. Les deux options qu'ils me proposent : transfert pour
-   chimio à Angoulême ou Bordeaux"". Le naturopathe lui répond : ""Ou
-   alors, tu décides de vidanger ton système lymphatique sérieusement,
-   c'est ta troisième option", "proposant clairement une alternative à la
-   parole médicale. Paul finit par accepter une chimiothérapie, mais il
-   est déjà trop tard.
+   Alors que Paul est placé sous oxygène, Miguel Barthéléry persévère. Voici
+   un extrait de leurs échanges par SMS. Paul lui écrit : "Je suis à
+   l'hôpital. Les deux options qu'ils me proposent : transfert pour chimio à
+   Angoulême ou Bordeaux". Le naturopathe lui répond : "Ou alors, tu décides
+   de vidanger ton système lymphatique sérieusement, c'est ta troisième
+   option", proposant clairement une alternative à la parole médicale. Paul
+   finit par accepter une chimiothérapie, mais il est déjà trop tard. 
 
-   ""À quelques heures de mourir, il m'a demandé pardon parce qu'il ne
-   m'avait pas écoutée"", se souvient Camilla. ""Je trouve que c'est
-   horrible de mourir comme ça, de mourir en demandant pardon parce qu'on
-   a fait le mauvais choix"", analyse-t-elle aujourd'hui. Camilla a porté
-   plainte en 2021. Miguel Barthéléry a été condamné en première instance,
-   puis en appel en 2023, à deux ans d'emprisonnement avec sursis, et
-   interdiction d'exercer comme naturopathe.
+   "À quelques heures de mourir, il m'a demandé pardon parce qu'il ne m'avait
+   pas écoutée", se souvient Camilla. "Je trouve que c'est horrible de mourir
+   comme ça, de mourir en demandant pardon parce qu'on a fait le mauvais
+   choix", analyse-t-elle aujourd'hui. Camilla a porté plainte en 2021.
+   Miguel Barthéléry a été condamné en première instance, puis en appel en
+   2023, à deux ans d'emprisonnement avec sursis, et interdiction d'exercer
+   comme naturopathe. 
 
 "Je témoigne pour qu'il soit mis hors d'état de nuire"
 
    Mais le pseudo-thérapeute, qui serait actuellement en Inde, n'a jamais
    interrompu ses consultations, qu'il pratique à distance en toute
-   illégalité. Il propose même une retraite de naturopathie en Inde.
-   L'équipe de "Sept à Huit Life" a pu joindre son assistante. ""Je
-   continue à prendre des rendez-vous pour Monsieur Barthéléry et je ne
-   m'en cacherai pas"", affirme-t-elle tout d'abord au téléphone, assurant
-   que ""l'affaire n'est pas terminée puisque ça se poursuit en
-   cassation"". Quand on lui rappelle que l'affaire est jugée et close,
-   elle maintient : ""Non, elle n'est pas close. La preuve, si je réponds
-   au téléphone, c'est qu'il ne fait pas ça dans l'illégalité, sinon ce
-   n'est pas vous qui m'appelleriez, c'est la police"".
+   illégalité. Il propose même une retraite de naturopathie en Inde. L'équipe
+   de "Sept à Huit Life" a pu joindre son assistante. "Je continue à prendre
+   des rendez-vous pour Monsieur Barthéléry et je ne m'en cacherai pas",
+   affirme-t-elle tout d'abord au téléphone, assurant que "l'affaire n'est
+   pas terminée puisque ça se poursuit en cassation". Quand on lui rappelle
+   que l'affaire est jugée et close, elle maintient : "Non, elle n'est pas
+   close. La preuve, si je réponds au téléphone, c'est qu'il ne fait pas ça
+   dans l'illégalité, sinon ce n'est pas vous qui m'appelleriez, c'est la
+   police". 
 
-   ""J'ai devant moi le papier de la Cour de cassation disant que la
-   décision est définitive"", insiste la journaliste. L'assistante bat
-   alors en retraite : ""Est-ce que vous avez la possibilité de me
-   l'envoyer parce que lui, visiblement, ne l'a pas reçu ?"". Cela fait
-   pourtant plus de deux ans que le naturopathe a été déchu de son pourvoi
-   en cassation, et est donc interdit d'exercice. ""Aujourd'hui, je
-   témoigne pour que Miguel Barthéléry soit mis hors d'état de nuire,
-   puisque rien ne l'arrête, et surtout qu'il arrête de faire des
-   victimes"", conclut Camilla. L'intéressé n'a jamais répondu aux
-   sollicitations de "Sept à Huit Life".
-     __________________________________________________________________
+   "J'ai devant moi le papier de la Cour de cassation disant que la décision
+   est définitive", insiste la journaliste. L'assistante bat alors en
+   retraite : "Est-ce que vous avez la possibilité de me l'envoyer parce que
+   lui, visiblement, ne l'a pas reçu ?". Cela fait pourtant plus de deux ans
+   que le naturopathe a été déchu de son pourvoi en cassation, et est donc
+   interdit d'exercice. "Aujourd'hui, je témoigne pour que Miguel Barthéléry
+   soit mis hors d'état de nuire, puisque rien ne l'arrête, et surtout qu'il
+   arrête de faire des victimes", conclut Camilla. L'intéressé n'a jamais
+   répondu aux sollicitations de "Sept à Huit Life".
+
+     ----------------------------------------------------------------------
 
    La rédaction de TF1info | Reportage "Sept à Huit Life" : Julie DULAC,
    Marie DEMARQUE et Tony CASABIANCA
 
    Sur le
    même thème
+
      * #santé
      * #Sept à huit
      * #Maladies et traitements
@@ -305,322 +278,343 @@ compagnon décédé d'un cancer
      * #Santé publique
      * #Cancer
      * #Modes de consommation
-
    [ ]
-     *
+     * "Ada était mon héroïne" : George Clooney en deuil après le décès de sa
+  sœur unique (nouvelle fenêtre)
 
-"Ada était mon héroïne" : George Clooney en deuil après le décès de sa sœur
-unique (nouvelle fenêtre)
        [Vidéo]
        Publié le 21 décembre 2025 à 16h43
-     *
+     * Suspendu pour avoir aidé des patients à mourir, ce médecin témoigne
+  (nouvelle fenêtre)
 
-Suspendu pour avoir aidé des patients à mourir, ce médecin témoigne (nouvelle
-fenêtre)
        [Vidéo]
        Publié le 16 septembre 2025 à 10h54
-     *
+     * "C'est une pratique commerciale pour un acte qui est médical" : pourquoi
+  les échographies "de plaisir" sont illégales (nouvelle fenêtre)
 
-"C'est une pratique commerciale pour un acte qui est médical" : pourquoi les
-échographies "de plaisir" sont illégales (nouvelle fenêtre)
        [Vidéo]
        Publié le 31 juillet 2025 à 12h06
-     *
+     * TÉMOIGNAGES - "J'ai peur de rater le coche" : faire congeler ses ovocytes
+  en France, une "chance"... mais des délais à rallonge (nouvelle fenêtre)
 
-TÉMOIGNAGES - "J'ai peur de rater le coche" : faire congeler ses ovocytes en
-France, une "chance"... mais des délais à rallonge (nouvelle fenêtre)
        [Vidéo]
        Publié le 24 juillet 2025 à 18h11
-     *
+     * Journée du don d'organes : "J'avais ma carte de donneur, je n'avais
+  jamais imaginé être receveur" (nouvelle fenêtre)
 
-Journée du don d'organes : "J'avais ma carte de donneur, je n'avais jamais
-imaginé être receveur" (nouvelle fenêtre)
        [Vidéo]
        Publié le 22 juin 2025 à 17h03
-     *
+     * "On nous a dit que tout allait bien" : les témoignages poignants de
+  victimes de graves erreurs médicales (nouvelle fenêtre)
 
-"On nous a dit que tout allait bien" : les témoignages poignants de victimes
-de graves erreurs médicales (nouvelle fenêtre)
        [Vidéo]
        Publié le 22 octobre 2024 à 20h39
-     *
+     * ENQUÊTE - Hypnose : de la pure arnaque ou une pratique réellement fiable
+  ? (nouvelle fenêtre)
 
-ENQUÊTE - Hypnose : de la pure arnaque ou une pratique réellement fiable ?
-(nouvelle fenêtre)
        [Vidéo]
        Publié le 25 octobre 2023 à 11h52
-     *
+     * PODCAST - Carole Helissey, oncologue : "Chacun de mes patients m’aide à
+  devenir un bon médecin" (nouvelle fenêtre)
 
-PODCAST - Carole Helissey, oncologue : "Chacun de mes patients m’aide �
-devenir un bon médecin" (nouvelle fenêtre)
        Publié le 27 juin 2023 à 10h05
-     *
+     * VÉRIF' - De simples traitements antiparasitaires peuvent-ils vraiment
+  avoir une efficacité contre le cancer ? (nouvelle fenêtre)
 
-VÉRIF' - De simples traitements antiparasitaires peuvent-ils vraiment avoir
-une efficacité contre le cancer ? (nouvelle fenêtre)
        [Vidéo]
        Publié le 12 décembre 2025 à 13h35
-     *
+     * VIDÉO - Thierry Casasnovas, le gourou du "crudivorisme", mis en examen
+  pour exercice illégal de la médecine (nouvelle fenêtre)
 
-VIDÉO - Thierry Casasnovas, le gourou du "crudivorisme", mis en examen pour
-exercice illégal de la médecine (nouvelle fenêtre)
        [Vidéo]
        Publié le 11 mars 2023 à 16h43
-
-   (BUTTON) Voir plus - Afficher tout
+   Voir plus - Afficher tout
 
    Tout
    TF1 Info
-   (BUTTON) Les + lus (BUTTON) Dernière minute (BUTTON) Tendance (BUTTON)
-   Dernières vidéos
+
+   Les + lusDernière minuteTendanceDernières vidéos
     1. 1
 
-Pourquoi l'année 2036 a-t-elle été projetée sur l'Arc de Triomphe pour le
-réveillon ? (nouvelle fenêtre)
+  Pourquoi l'année 2036 a-t-elle été projetée sur l'Arc de Triomphe pour le
+  réveillon ? (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 0h09
     2. 2
 
-"On ne pourra plus mentir en disant qu’on n’a pas reçu le colis" : face aux
-retours frauduleux, les e-commerçants font appel à la technologie (nouvelle
-fenêtre)
+  "On ne pourra plus mentir en disant qu’on n’a pas reçu le colis" : face aux
+  retours frauduleux, les e-commerçants font appel à la technologie (nouvelle
+  fenêtre)
+
        [Vidéo]
        Publié le 31 décembre 2025 à 17h00
     3. 3
 
-Des centaines de chaussures du XIXe siècle s'échouent sur une plage anglaise
-: des experts cherchent leur provenance (nouvelle fenêtre)
+  Des centaines de chaussures du XIXe siècle s'échouent sur une plage anglaise :
+  des experts cherchent leur provenance (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 14h00
     4. 4
 
-EN DIRECT - Incendie à Crans-Montana : la Suisse a demandé l’accueil de 8
-blessés supplémentaires en France (nouvelle fenêtre)
+  EN DIRECT - Incendie à Crans-Montana : la Suisse a demandé l’accueil de 8
+  blessés supplémentaires en France (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 6h54
     5. 5
 
-"Il ne faut pas trop en parler" : est-ce vraiment utile de posséder un
-coffre-fort chez soi ? (nouvelle fenêtre)
+  "Il ne faut pas trop en parler" : est-ce vraiment utile de posséder un
+  coffre-fort chez soi ? (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 7h30
     6. 6
 
-Moscou plongé dans le noir : "Les Ukrainiens ont détruit une bonne partie des
-capacités de raffinage de la Russie" (nouvelle fenêtre)
+  Moscou plongé dans le noir : "Les Ukrainiens ont détruit une bonne partie des
+  capacités de raffinage de la Russie" (nouvelle fenêtre)
+
        [Vidéo]
        Publié le 31 décembre 2025 à 17h48
     7. 7
 
-"Elle donnait aux téléspectateurs ce qu'ils recherchaient" : l'hommage
-d'Évelyne Dhéliat et Danièle Gilbert à Évelyne Leclercq (nouvelle fenêtre)
+  "Elle donnait aux téléspectateurs ce qu'ils recherchaient" : l'hommage
+  d'Évelyne Dhéliat et Danièle Gilbert à Évelyne Leclercq (nouvelle fenêtre)
+
        [Vidéo]
        Publié le 31 décembre 2025 à 14h11
     8. 8
 
-En Chine, les "maisons clous", cernées par les autoroutes, font de la
-résistance (nouvelle fenêtre)
+  En Chine, les "maisons clous", cernées par les autoroutes, font de la
+  résistance (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 8h30
     9. 9
 
-Météo : on vient de vivre la nuit du Nouvel An la plus froide depuis vingt
-ans ! (nouvelle fenêtre)
+  Météo : on vient de vivre la nuit du Nouvel An la plus froide depuis vingt ans
+  ! (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 9h11
    10. 10
 
-"L'une des pires tragédies que notre pays ait connues" : ce que l'on sait de
-l'incendie mortel à Crans-Montana en Suisse (nouvelle fenêtre)
+  "L'une des pires tragédies que notre pays ait connues" : ce que l'on sait de
+  l'incendie mortel à Crans-Montana en Suisse (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 12h03
-       (BUTTON) Voir plus d'actualités - Afficher tout
-
+       Voir plus d'actualités - Afficher tout
     1. 1
 
-EN DIRECT - Ukraine : Zelensky nomme le chef du renseignement militaire
-Kyrylo Boudanov pour diriger son cabinet (nouvelle fenêtre)
+  Mont-de-Marsan : un homme reconnait avoir tué son ex-femme le soir de Noël et
+  l'avoir enterrée dans son jardin (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 6h30
+       Publié aujourd'hui à 13h54
     2. 2
 
-"180 kilos de pâte à choux, 100 kilos de crème pralinée" : ces Bretons
-réalisent le plus long Paris-Brest du monde à Lannion (nouvelle fenêtre)
+  "Nous sommes armés et parés à intervenir" : pourquoi Donald Trump remet la
+  pression sur l'Iran (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 13h00
+       Publié aujourd'hui à 13h46
     3. 3
 
-Dermatose nodulaire contagieuse : un nouveau cas détecté dans un élevage en
-Ariège (nouvelle fenêtre)
+  EN DIRECT - Ukraine : Zelensky nomme le chef du renseignement militaire Kyrylo
+  Boudanov pour diriger son cabinet (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 12h55
+       Publié aujourd'hui à 6h30
     4. 4
 
-Contrôle technique, malus, prix du carburant… Tout ce qui change pour les
-automobilistes en 2026 (nouvelle fenêtre)
+  "180 kilos de pâte à choux, 100 kilos de crème pralinée" : ces Bretons
+  réalisent le plus long Paris-Brest du monde à Lannion (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 12h41
+       Publié aujourd'hui à 13h00
     5. 5
 
-"Vous n'avez pas les soucis du propriétaire" : louer sa voiture plutôt que
-l'acheter, une vraie bonne idée pour votre portefeuille ? (nouvelle fenêtre)
+  Dermatose nodulaire contagieuse : un nouveau cas détecté dans un élevage en
+  Ariège (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 12h22
+       Publié aujourd'hui à 12h55
     6. 6
 
-Marseille : un corps retrouvé dans le coffre d'une voiture incendiée
-(nouvelle fenêtre)
+  Contrôle technique, malus, prix du carburant… Tout ce qui change pour les
+  automobilistes en 2026 (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 12h13
+       Publié aujourd'hui à 12h41
     7. 7
 
-"Ça peut réduire de 30% les capacités de réaction..." : ces musiques que vous
-ne devez surtout pas écouter au volant pour éviter les accidents de la route
-(nouvelle fenêtre)
+  "Vous n'avez pas les soucis du propriétaire" : louer sa voiture plutôt que
+  l'acheter, une vraie bonne idée pour votre portefeuille ? (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 12h00
+       Publié aujourd'hui à 12h22
     8. 8
 
-"Je vise au moins 30 véhicules" : la location entre particuliers, une vraie
-bonne affaire ? (nouvelle fenêtre)
+  Marseille : un corps retrouvé dans le coffre d'une voiture incendiée (nouvelle
+  fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 11h48
+       Publié aujourd'hui à 12h13
     9. 9
 
-"Un embrasement généralisé éclair" : la principale hypothèse du drame de
-Crans-Montana expliquée par un pompier (nouvelle fenêtre)
+  "Ça peut réduire de 30% les capacités de réaction..." : ces musiques que vous
+  ne devez surtout pas écouter au volant pour éviter les accidents de la route
+  (nouvelle fenêtre)
+
        [Vidéo]
-       Publié aujourd'hui à 11h37
+       Publié aujourd'hui à 12h00
    10. 10
 
-L'hiver n'est pas l'ami de vos mains : les bons conseils pour en prendre soin
-quand il fait froid (nouvelle fenêtre)
-       [Vidéo]
-       Publié aujourd'hui à 11h30
-       (BUTTON) Voir plus d'actualités - Afficher tout
+  "Je vise au moins 30 véhicules" : la location entre particuliers, une vraie
+  bonne affaire ? (nouvelle fenêtre)
 
+       [Vidéo]
+       Publié aujourd'hui à 11h48
+       Voir plus d'actualités - Afficher tout
     1. 1
 
-Pourquoi les médecins libéraux seront en grève à partir du 5 janvier ?
-(nouvelle fenêtre)
+  Pourquoi les médecins libéraux seront en grève à partir du 5 janvier ?
+  (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 17h10
     2. 2
 
-En vacances, pour mieux se reposer, il ne faut pas rester dans son canapé
-(nouvelle fenêtre)
+  En vacances, pour mieux se reposer, il ne faut pas rester dans son canapé
+  (nouvelle fenêtre)
+
        [Vidéo]
        Publié le 30 décembre 2025 à 8h30
     3. 3
 
-"Un miracle de Noël" : 2 sœurs siamoises séparées avec succès (nouvelle
-fenêtre)
+  "Un miracle de Noël" : 2 sœurs siamoises séparées avec succès (nouvelle
+  fenêtre)
+
        [Vidéo]
        Publié le 27 décembre 2025 à 10h21
     4. 4
 
-Accès direct sans ordonnance, droit de prescription... ce que prévoit le
-décret qui élargit la mission des infirmières (nouvelle fenêtre)
+  Accès direct sans ordonnance, droit de prescription... ce que prévoit le
+  décret qui élargit la mission des infirmières (nouvelle fenêtre)
+
        [Vidéo]
        Publié le 26 décembre 2025 à 12h28
     5. 5
 
-5 conseils primordiaux pour atteindre l'orgasme (nouvelle fenêtre)
+  5 conseils primordiaux pour atteindre l'orgasme (nouvelle fenêtre)
+
        Publié le 18 décembre 2014 à 15h39
     6. 6
 
-L'étude sexo du jour : l'orgasme vaginal n'existe pas, tant mieux ! (nouvelle
-fenêtre)
+  L'étude sexo du jour : l'orgasme vaginal n'existe pas, tant mieux ! (nouvelle
+  fenêtre)
+
        Publié le 8 octobre 2014 à 17h18
     7. 7
 
-Dry January : ces bonnes raisons de ne pas boire pendant le mois de janvier
-(nouvelle fenêtre)
+  Dry January : ces bonnes raisons de ne pas boire pendant le mois de janvier
+  (nouvelle fenêtre)
+
        [Vidéo]
        Publié hier à 12h00
     8. 8
 
-"Des cas plus graves" : l'alerte d'une médecin urgentiste face à l'épidémie
-de grippe (nouvelle fenêtre)
+  "Des cas plus graves" : l'alerte d'une médecin urgentiste face à l'épidémie de
+  grippe (nouvelle fenêtre)
+
        [Vidéo]
        Publié le 29 décembre 2025 à 9h13
     9. 9
 
-"Le problème, c'est la rapidité avec laquelle on veut atteindre un objectif"
-: les conseils d'une experte pour tenir ses bonnes résolutions (nouvelle
-fenêtre)
+  "Le problème, c'est la rapidité avec laquelle on veut atteindre un objectif" :
+  les conseils d'une experte pour tenir ses bonnes résolutions (nouvelle
+  fenêtre)
+
        [Vidéo]
        Publié hier à 9h00
    10. 10
 
-Soirée du Nouvel An : 45 % des Français seront concernés par la question de
-l’alcool et de la conduite (nouvelle fenêtre)
+  Soirée du Nouvel An : 45 % des Français seront concernés par la question de
+  l’alcool et de la conduite (nouvelle fenêtre)
+
        [Vidéo]
        Publié le 30 décembre 2025 à 11h55
-       (BUTTON) Voir plus d'actualités - Afficher tout
-
+       Voir plus d'actualités - Afficher tout
     1. 1
 
-Allô le doc : Peut-on encore se faire vacciner contre la grippe ? (nouvelle
-fenêtre)
+  Allô le doc : Peut-on encore se faire vacciner contre la grippe ? (nouvelle
+  fenêtre)
+
        Publié aujourd'hui à 8h18
     2. 2
 
-Grands brûlés : hôpitaux saturés face à l’afflux des blessés (nouvelle
-fenêtre)
+  Grands brûlés : hôpitaux saturés face à l’afflux des blessés (nouvelle
+  fenêtre)
+
        Publié hier à 20h05
     3. 3
 
-Allô le doc : Appendicite, Vincent vous répond (nouvelle fenêtre)
+  Allô le doc : Appendicite, Vincent vous répond (nouvelle fenêtre)
+
        Publié hier à 9h36
     4. 4
 
-La maison Bonjour : Quelles plantes pour bien commencer l'année ? (nouvelle
-fenêtre)
+  La maison Bonjour : Quelles plantes pour bien commencer l'année ? (nouvelle
+  fenêtre)
+
        Publié hier à 9h10
     5. 5
 
-Allô le doc : Santé, 2026 est l'année de l'espoir (nouvelle fenêtre)
+  Allô le doc : Santé, 2026 est l'année de l'espoir (nouvelle fenêtre)
+
        Publié hier à 8h16
     6. 6
 
-Allô le doc : Eau ou café contre l'alcool... Vincent vous répond (nouvelle
-fenêtre)
+  Allô le doc : Eau ou café contre l'alcool... Vincent vous répond (nouvelle
+  fenêtre)
+
        Publié le 31 décembre 2025 à 9h37
     7. 7
 
-Allô le doc : Les bons gestes pour un réveillon en toute sécurité (nouvelle
-fenêtre)
+  Allô le doc : Les bons gestes pour un réveillon en toute sécurité (nouvelle
+  fenêtre)
+
        Publié le 31 décembre 2025 à 8h18
     8. 8
 
-Pile bouton : attention danger ! (nouvelle fenêtre)
+  Pile bouton : attention danger ! (nouvelle fenêtre)
+
        Publié le 30 décembre 2025 à 20h20
     9. 9
 
-Médecins : ces consultations qui vont coûter plus cher (nouvelle fenêtre)
+  Médecins : ces consultations qui vont coûter plus cher (nouvelle fenêtre)
+
        Publié le 30 décembre 2025 à 13h08
    10. 10
 
-Allô le doc : Bronchiolite chez le nourrisson... Vincent vous répond
-(nouvelle fenêtre)
-       Publié le 30 décembre 2025 à 9h33
-       (BUTTON) Voir plus d'actualités - Afficher tout
+  Allô le doc : Bronchiolite chez le nourrisson... Vincent vous répond (nouvelle
+  fenêtre)
 
+       Publié le 30 décembre 2025 à 9h33
+       Voir plus d'actualités - Afficher tout
      * Sujets de sociétéoutre-mer
      * Internationaldiplomatie
      * InternationalDrame à Crans-Montana : des dizaines de morts dans
        l'incendie d'un bar le soir du Nouvel An
-     * Culture, médias et divertissementBrigitte Bardot est décédée �
-       l'âge de 91 ans
-     * Police, justice et faits diversLe fléau du protoxyde d'azote en
-       France
-
+     * Culture, médias et divertissementBrigitte Bardot est décédée à l'âge
+       de 91 ans
+     * Police, justice et faits diversLe fléau du protoxyde d'azote en France
     1. Accueil
     2. -Santé et bien être
     3. -"Qu'il soit mis hors d'état de nuire" : un naturopathe conseillait
        son compagnon décédé d'un cancer
-
      * Mentions légales
      * Conditions générales d'utilisation
      * Politique de protection des données du service TF1 Info
@@ -635,7 +629,6 @@ Allô le doc : Bronchiolite chez le nourrisson... Vincent vous répond
      * La rédaction de TF1 Info
      * Plan du site
      * Accessibilité : partiellement conforme
-     * (BUTTON) Paramétrer mes choix
-
-   (BUTTON) FACIL'iti : ADAPTEZ L'AFFICHAGE
+     * Paramétrer mes choix
+   FACIL'iti : ADAPTEZ L'AFFICHAGE
    TF1 Info Copyright ©2026

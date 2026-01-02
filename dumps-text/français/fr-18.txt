@@ -1,34 +1,27 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
-
+   Link: canonical
+   Link: license
    Aller au contenu
-
    [ ] Menu principal
    Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Navigation
      * Page d’accueil
      * Portails thématiques
      * Article au hasard
      * Contact
-
    Contribuer
      * Débuter sur Wikipédia
      * Aide
      * Communauté
      * Pages spéciales
      * Modifications récentes
-
-   Wikipédia l'encyclopédie libre
+   [IMG] Wikipédia l'encyclopédie libre
    Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
+   _____________________
+   Rechercher
    [ ] Apparence
-
      * Faire un don
      * Créer un compte
      * Se connecter
-
    [ ] Outils personnels
      * Faire un don
      * Créer un compte
@@ -36,28 +29,23 @@
 
 Sommaire
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1 Création d'un État-nation
-       (BUTTON) Afficher / masquer la sous-section Création d'un
-       État-nation
-          + 1.1 Exemple français
-          + 1.2 Exemple allemand
+          * 1.1 Exemple français
+          * 1.2 Exemple allemand
      * 2 Cas de dissociation entre État et nation
      * 3 Critique de l'État-nation
      * 4 Exemples
      * 5 Notes et références
      * 6 Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 6.1 Articles connexes
-          + 6.2 Bibliographie
-          + 6.3 Liens externes
-
+          * 6.1 Articles connexes
+          * 6.2 Bibliographie
+          * 6.3 Liens externes
    [ ] Basculer la table des matières
 
-État-nation
+                                  État-nation
 
-   [ ] 70 langues
+   [ ] 70 langues
      * العربية
      * Asturianu
      * Azərbaycanca
@@ -66,7 +54,7 @@ Sommaire
      * Беларуская (тарашкевіца)
      * Български
      * বাংলা
-     * Catal�
+     * Català
      * کوردی
      * Čeština
      * Cymraeg
@@ -128,28 +116,21 @@ Sommaire
      * 中文
      * 閩南語 / Bân-lâm-gí
      * 粵語
-
    Modifier les liens
-
      * Article
      * Discussion
-
    [ ] français
-
      * Lire
      * Modifier
      * Modifier le code
      * Voir l’historique
-
    [ ] Outils
    Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
      * Voir l’historique
-
    Général
      * Pages liées
      * Suivi des pages liées
@@ -159,33 +140,30 @@ Sommaire
      * Citer cette page
      * Obtenir l'URL raccourcie
      * Télécharger le code QR
-
    Imprimer / exporter
      * Créer un livre
      * Télécharger comme PDF
      * Version imprimable
-
    Dans d’autres projets
      * Élément Wikidata
-
    Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Un article de Wikipédia, l'encyclopédie libre.
-   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
-   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
-   ici pour en savoir plus.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir
+   plus.Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus.
+   [IMG]
 
    Cet article présente des problèmes à corriger.
 
-   Vous pouvez aider à l'améliorer ou bien discuter des problèmes sur sa
-   page de discussion.
-     * Certaines informations devraient être mieux reliées aux sources
-       mentionnées dans la bibliographie ou les liens externes. Améliorez
-       sa vérifiabilité en les associant par des références. (Marqué
-       depuis février 2020)
-     * Il manque de repères chronologiques ou de dates qu'il faudrait
-       ajouter avec des sources. (Marqué depuis décembre 2015)
+   Vous pouvez aider à l'améliorer ou bien discuter des problèmes sur sa page
+   de discussion.
 
+     * Certaines informations devraient être mieux reliées aux sources
+       mentionnées dans la bibliographie ou les liens externes. Améliorez sa
+       vérifiabilité en les associant par des références. (Marqué depuis
+       février 2020)
+     * Il manque de repères chronologiques ou de dates qu'il faudrait ajouter
+       avec des sources. (Marqué depuis décembre 2015)
    Trouver des sources sur « État-nation » :
      * Archive Wikiwix
      * Bing
@@ -204,14 +182,13 @@ Sommaire
      * (wd) trouver des œuvres sur Wikidata
 
    Un État-nation est un type particulier d'État dans lequel les individus
-   sont censés appartenir dans leur majorité à une même nation^[1]. Il
-   repose donc sur la coïncidence entre une notion d'ordre identitaire,
+   sont censés appartenir dans leur majorité à une même nation^[1]. Il repose
+   donc sur la coïncidence entre une notion d'ordre identitaire,
    l'appartenance à un groupe, la nation, et une notion d'ordre juridique,
    l'existence d'une forme de souveraineté et d'institutions politiques et
-   administratives qui l'exercent, l'État. Sans cette coïncidence, on
-   parlera plutôt d'un État multinational ou d'un empire, deux modes
-   d'organisation politique favorables à la coexistence de minorités
-   ethniques^[1].
+   administratives qui l'exercent, l'État. Sans cette coïncidence, on parlera
+   plutôt d'un État multinational ou d'un empire, deux modes d'organisation
+   politique favorables à la coexistence de minorités ethniques^[1].
 
 Création d'un État-nation
 
@@ -219,131 +196,127 @@ Création d'un État-nation
 
    Les spécialistes ont longtemps défini deux modèles de formation de
    l'État-nation, le français et l'allemand, mais cette perspective a été
-   remise en cause au XXI^e siècle ; elle est considérée comme
-   eurocentrique, et réductrice^[2].
+   remise en cause au XXI^e siècle ; elle est considérée comme eurocentrique,
+   et réductrice^[2].
 
-   Selon l'enseignement traditionnel, il y aurait deux modèles canoniques
-   de processus de création d'un État-nation^[3] :
+   Selon l'enseignement traditionnel, il y aurait deux modèles canoniques de
+   processus de création d'un État-nation^[3] :
+
      * Dans certains pays (comme la France par exemple) la naissance de
        l'État a précédé celle de la Nation ; le sentiment nationaliste se
        développe après la formation de l'État ;
      * Dans d'autres (comme l'Allemagne et l'Italie) le fait de se
        reconnaître d'une même nation, en particulier dans le cas d'une
-       « nation ethnique » ou civique, et de manifester la volonté de
-       vivre ensemble, a précédé la naissance de l'État^[4].
+       « nation ethnique » ou civique, et de manifester la volonté de vivre
+       ensemble, a précédé la naissance de l'État^[4].
 
    Dans les deux cas, il s'agit d'une lente création résultant de la
    conjonction, sur la durée de plusieurs générations, de situations
    socio-économiques favorables et de prosélytismes politiques.
 
-Exemple français
+  Exemple français
 
    [modifier | modifier le code]
 
    En France, l'État s'est construit progressivement, et à partir du Moyen
-   Âge les rois de France ont étendu leur autorité sur un ensemble de plus
-   en plus grand. Le développement du nationalisme s'est fait
-   progressivement, et a clairement émergé au XVIII^e siècle (sans pour
-   autant porter ce nom) dans la bourgeoisie, intellectuelle, commerçante
-   et pré-industrielle, pour s'étendre progressivement à l'ensemble de la
-   population (ou presque). La langue française est devenue la seule
-   langue officielle après être devenue une langue véhiculaire
-   d'imprimerie, stimulée par le fait qu'elle a été imposée dans les actes
-   administratifs par l'ordonnance de Villers-Cotterêts en 1539. Le
-   nationalisme a été renforcé par le système politique démocratique, la
-   création d'une école gratuite, laïque et obligatoire par Jules Ferry �
-   la fin du XIX^e siècle, l'instauration du service militaire, et
-   entretenu par la création de divers symboles républicains,
-   régulièrement mis en avant, comme le drapeau français, la Marianne et
-   la Marseillaise.
+   Âge les rois de France ont étendu leur autorité sur un ensemble de plus en
+   plus grand. Le développement du nationalisme s'est fait progressivement,
+   et a clairement émergé au XVIII^e siècle (sans pour autant porter ce nom)
+   dans la bourgeoisie, intellectuelle, commerçante et pré-industrielle, pour
+   s'étendre progressivement à l'ensemble de la population (ou presque). La
+   langue française est devenue la seule langue officielle après être devenue
+   une langue véhiculaire d'imprimerie, stimulée par le fait qu'elle a été
+   imposée dans les actes administratifs par l'ordonnance de
+   Villers-Cotterêts en 1539. Le nationalisme a été renforcé par le système
+   politique démocratique, la création d'une école gratuite, laïque et
+   obligatoire par Jules Ferry à la fin du XIX^e siècle, l'instauration du
+   service militaire, et entretenu par la création de divers symboles
+   républicains, régulièrement mis en avant, comme le drapeau français, la
+   Marianne et la Marseillaise.
 
-Exemple allemand
+  Exemple allemand
 
    [modifier | modifier le code]
 
-   L'histoire de l'Allemagne est considérée comme paradigmatique du
-   deuxième cas de figure où la nation préexiste à l'État et finit par le
-   créer^[5].
+   L'histoire de l'Allemagne est considérée comme paradigmatique du deuxième
+   cas de figure où la nation préexiste à l'État et finit par le créer^[5].
 
    La création de l'État-nation peut procéder par unification progressive,
    comme dans le cas de l'Allemagne et de l'Italie^[6].
 
-   Elle peut aussi être le résultat de l'éclatement d'un Empire qui
-   n'avait pas homogénéisé ses populations ; ainsi des États-nations sont
-   nés de l'Empire austro-hongrois et de l'Empire ottoman^[6].
+   Elle peut aussi être le résultat de l'éclatement d'un Empire qui n'avait
+   pas homogénéisé ses populations ; ainsi des États-nations sont nés de
+   l'Empire austro-hongrois et de l'Empire ottoman^[6].
 
 Cas de dissociation entre État et nation
 
    [modifier | modifier le code]
      * Une nation peut ne pas être dotée d'un État. En effet, certaines
-       nations sans État disposent bien d'un territoire, d'une population,
-       et d'un sentiment d'identité propre mais n'ont pas d'organisation
+       nations sans État disposent bien d'un territoire, d'une population, et
+       d'un sentiment d'identité propre mais n'ont pas d'organisation
        politique pouvant assurer leur pleine souveraineté, elles ne
        disposent, au mieux, que d'une autorité territoriale. On peut citer
-       comme exemple la population québécoise qui est reconnue par le
-       Canada comme nation au sein de l'État canadien, les populations
-       berbères d'Afrique du nord ou la population catalane qui a
-       actuellement le statut en Espagne de « communauté historique » et
-       qui s'est vu refuser^[Quand ?] le statut à part entière de
-       « nation » par le conseil constitutionnel espagnol.
+       comme exemple la population québécoise qui est reconnue par le Canada
+       comme nation au sein de l'État canadien, les populations berbères
+       d'Afrique du nord ou la population catalane qui a actuellement le
+       statut en Espagne de « communauté historique » et qui s'est vu
+       refuser^[Quand ?] le statut à part entière de « nation » par le
+       conseil constitutionnel espagnol.
      * Un État peut englober plusieurs nations. Ce fut le cas de l'Empire
-       austro-hongrois, c'est aujourd'hui le cas du Royaume-Uni avec
-       quatre nations constitutives : Anglais, Gallois, Écossais et
-       Nord-Irlandais ; dans le Tournoi des Six Nations de rugby à XV, les
-       Britanniques d'Irlande du Nord et les Irlandais de la république
-       d'Irlande jouent au sein d'une même équipe sous l'égide d'une
-       fédération unique, l'IRFU).
-     * Une nation peut englober plusieurs ethnies. C'est aujourd'hui le
-       cas de la Turquie, qui n'admet sur son sol qu'une nation turque
-       constituée par des ethnies différentes (Turcomans, Albanais,
-       Arabes, Bosniaques, Kurdes, Lazes, Roms, etc.)^[7]. Les autres
-       revendications nationales telles que celles des Kurdes sont
-       fortement combattues.
+       austro-hongrois, c'est aujourd'hui le cas du Royaume-Uni avec quatre
+       nations constitutives : Anglais, Gallois, Écossais et Nord-Irlandais ;
+       dans le Tournoi des Six Nations de rugby à XV, les Britanniques
+       d'Irlande du Nord et les Irlandais de la république d'Irlande jouent
+       au sein d'une même équipe sous l'égide d'une fédération unique,
+       l'IRFU).
+     * Une nation peut englober plusieurs ethnies. C'est aujourd'hui le cas
+       de la Turquie, qui n'admet sur son sol qu'une nation turque constituée
+       par des ethnies différentes (Turcomans, Albanais, Arabes, Bosniaques,
+       Kurdes, Lazes, Roms, etc.)^[7]. Les autres revendications nationales
+       telles que celles des Kurdes sont fortement combattues.
      * Un État peut englober plusieurs communautés linguistiques et
-       culturelles. Selon Sylvain Kahn, la Suisse n'est pas un
-       État-nation, parce que la multiplicité des langues et des cultures
-       y est revendiquée^[2]. La Suisse, formée par une fédération de
-       cantons, réunit des populations parlant quatre langues nationales.
-       Toutefois, selon Thomas Riklin, la notion d'« entité nationale »
-       peut s'appliquer à la Suisse ; ces cantons partagent une identité
-       nationale, une histoire nationale et un héros national, Guillaume
-       Tell, et leur unité a été renforcée par un choix politique à la
-       suite de la guerre du Sonderbund (1847) et de la constitution
-       fédérale (1848), qui a mis fin à l'ordre confédéral précédent^[8].
-     * Un État peut être créé sans véritable base nationale, par exemple
-       en tant que successeur d'une circonscription administrative d'un
-       ancien empire colonial démantelé, mais avec la volonté de
-       constituer une nation unifiée dans le cadre de ses frontières.
-       C'est par exemple le cas de certains États de l'Afrique
-       contemporaine.
+       culturelles. Selon Sylvain Kahn, la Suisse n'est pas un État-nation,
+       parce que la multiplicité des langues et des cultures y est
+       revendiquée^[2]. La Suisse, formée par une fédération de cantons,
+       réunit des populations parlant quatre langues nationales. Toutefois,
+       selon Thomas Riklin, la notion d'« entité nationale » peut s'appliquer
+       à la Suisse ; ces cantons partagent une identité nationale, une
+       histoire nationale et un héros national, Guillaume Tell, et leur unité
+       a été renforcée par un choix politique à la suite de la guerre du
+       Sonderbund (1847) et de la constitution fédérale (1848), qui a mis fin
+       à l'ordre confédéral précédent^[8].
+     * Un État peut être créé sans véritable base nationale, par exemple en
+       tant que successeur d'une circonscription administrative d'un ancien
+       empire colonial démantelé, mais avec la volonté de constituer une
+       nation unifiée dans le cadre de ses frontières. C'est par exemple le
+       cas de certains États de l'Afrique contemporaine.
 
 Critique de l'État-nation
 
    [modifier | modifier le code]
-     * La plupart des pays colonisés par les Européens se sont vu imposer
-       le modèle de l'État-nation ; l'inadaptation de ce mode
-       d'organisation à nombre de pays asiatiques et africains a été
-       soulignée^[6]^,^[9]. Le découpage du territoire de l'État-nation
-       par les colonisateurs en fonction de leurs intérêts propres, sans
-       prise en compte des différents groupes concernés, a entraîné un
-       divorce entre la société et l'État^[6]. De plus, l'État-nation est
-       perçu par les sociétés anciennement colonisées comme une structure
-       étrangère, coloniale, de sorte qu'elles sont peu disposées à y
-       adhérer^[6]. Selon Yves Person, les colonies françaises ont subi
-       plus que les colonies britanniques des opérations d'homogénéisation
-       et d'unification, conformément au modèle français de l'État-nation,
-       alors que les Britanniques auraient davantage respecté les réalités
-       sociales dans les pays colonisés, en particulier les langues de ces
-       pays^[6]. De manière générale, l'État-nation a eu des effets
-       socialement destructeurs, dans la mesure où il a réduit la société
-       à « une masse atomisée d'individus isolés » et réprimé les liens
-       horizontaux^[6].
+     * La plupart des pays colonisés par les Européens se sont vu imposer le
+       modèle de l'État-nation ; l'inadaptation de ce mode d'organisation à
+       nombre de pays asiatiques et africains a été soulignée^[6]^,^[9]. Le
+       découpage du territoire de l'État-nation par les colonisateurs en
+       fonction de leurs intérêts propres, sans prise en compte des
+       différents groupes concernés, a entraîné un divorce entre la société
+       et l'État^[6]. De plus, l'État-nation est perçu par les sociétés
+       anciennement colonisées comme une structure étrangère, coloniale, de
+       sorte qu'elles sont peu disposées à y adhérer^[6]. Selon Yves Person,
+       les colonies françaises ont subi plus que les colonies britanniques
+       des opérations d'homogénéisation et d'unification, conformément au
+       modèle français de l'État-nation, alors que les Britanniques auraient
+       davantage respecté les réalités sociales dans les pays colonisés, en
+       particulier les langues de ces pays^[6]. De manière générale,
+       l'État-nation a eu des effets socialement destructeurs, dans la mesure
+       où il a réduit la société à « une masse atomisée d'individus isolés »
+       et réprimé les liens horizontaux^[6].
      * Le modèle français de l'État-nation, qui suppose une politique
-       volontariste d'unification, a été critiqué parce qu'il a conduit �
-       la destruction de la diversité culturelle française ; la France
-       était avant le XIX^e siècle l’État où la diversité linguistique
-       était la plus grande en Europe ; cet héritage a été sacrifié sur
-       l'autel de l’État-nation^[6].
+       volontariste d'unification, a été critiqué parce qu'il a conduit à la
+       destruction de la diversité culturelle française ; la France était
+       avant le XIX^e siècle l’État où la diversité linguistique était la
+       plus grande en Europe ; cet héritage a été sacrifié sur l'autel de
+       l’État-nation^[6].
      * La théorie de l'État-nation a été contestée, notamment par des
        fédéralistes européens comme Mario Albertini^[réf. nécessaire]. La
        nation est selon cette critique une construction politique
@@ -353,32 +326,33 @@ Critique de l'État-nation
        phase de l'évolution politique et aurait vocation à être dépassé en
        faveur de l'unité européenne.
      * La théorie de l'État-nation a également été critiquée par certains
-       marxistes^[Qui ?]. Pour eux, le sentiment identitaire ne se trouve
-       pas au sein de la nation, mais au sein de l'Humanité tout entière
-       (voir la phrase de Karl Marx : « Je suis un citoyen du Monde »,
-       paraphrasant le philosophe de la Grèce antique Diogène de Sinope
-       ainsi que les philosophes stoïciens)^[4]. En attendant la
-       disparition des États, la classe sociale dominée doit selon eux
-       faire preuve de solidarité internationale permanente : par exemple
-       le refus des guerres. De là, un ouvrier français est, selon eux,
-       plus proche d'un ouvrier de nationalité étrangère, que d'un
-       dirigeant français. C'est la « conscience de classe » (« Les
-       travailleurs n'ont pas de patrie » - Manifeste communiste).
+       marxistes^[Qui ?]. Pour eux, le sentiment identitaire ne se trouve pas
+       au sein de la nation, mais au sein de l'Humanité tout entière (voir la
+       phrase de Karl Marx : « Je suis un citoyen du Monde », paraphrasant le
+       philosophe de la Grèce antique Diogène de Sinope ainsi que les
+       philosophes stoïciens)^[4]. En attendant la disparition des États, la
+       classe sociale dominée doit selon eux faire preuve de solidarité
+       internationale permanente : par exemple le refus des guerres. De là,
+       un ouvrier français est, selon eux, plus proche d'un ouvrier de
+       nationalité étrangère, que d'un dirigeant français. C'est la
+       « conscience de classe » (« Les travailleurs n'ont pas de patrie » -
+       Manifeste communiste).
 
 Exemples
 
    [modifier | modifier le code]
 
    Voici des exemples clairs d'États-nations :
-     * Islande : bien que les habitants soient ethniquement apparentés �
-       d'autres groupes scandinaves, la culture et la langue nationales ne
-       se trouvent qu'en Islande. Il n'y a pas de minorités
-       transfrontalières - le pays le plus proche est trop éloigné.
-     * Japon : Le Japon est aussi traditionnellement considéré comme un
-       bon exemple d'État-nation, bien qu'il comprenne des minorités de
-       peuples Ryūkyū ethniquement distincts, des Coréens, des Chinois, et
-       sur l'île septentrionale d'Hokkaidō, la minorité autochtone Aïnou ;
-       voir aussi Démographie japonaise.
+
+     * Islande : bien que les habitants soient ethniquement apparentés à
+       d'autres groupes scandinaves, la culture et la langue nationales ne se
+       trouvent qu'en Islande. Il n'y a pas de minorités transfrontalières -
+       le pays le plus proche est trop éloigné.
+     * Japon : Le Japon est aussi traditionnellement considéré comme un bon
+       exemple d'État-nation, bien qu'il comprenne des minorités de peuples
+       Ryūkyū ethniquement distincts, des Coréens, des Chinois, et sur l'île
+       septentrionale d'Hokkaidō, la minorité autochtone Aïnou ; voir aussi
+       Démographie japonaise.
      * Portugal : bien qu'entourée d'autres terres et peuples, la nation
        portugaise occupe le même territoire depuis près de 900 ans. Il y a
        longtemps, le Portugal s'est formé à partir de groupes de personnes
@@ -388,53 +362,51 @@ Exemples
        anciens Méditerranéens (Grecs, Phéniciens, Romains), des peuples
        germaniques comme les Suèves et les Wisigoths, des envahisseurs
        berbères et arabes, et des Juifs.
-     * France et Angleterre : l'État s'est organisé autour de la nation,
-       par l’action centralisatrice et unificatrice du pouvoir royal.
-       Cette même action du pouvoir royal a contribué de manière décisive
-       à l’émergence de la nation et les guerres (Guerre de Cent ans,
-       Révolution française) ont soudé les populations dans l’adversité et
-       contribué de manière décisive à l’émergence de l’identité nationale
-       de part et d’autre de la Manche^[10].
+     * France et Angleterre : l'État s'est organisé autour de la nation, par
+       l’action centralisatrice et unificatrice du pouvoir royal. Cette même
+       action du pouvoir royal a contribué de manière décisive à l’émergence
+       de la nation et les guerres (Guerre de Cent ans, Révolution française)
+       ont soudé les populations dans l’adversité et contribué de manière
+       décisive à l’émergence de l’identité nationale de part et d’autre de
+       la Manche^[10].
 
 Notes et références
 
    [modifier | modifier le code]
     1. ↑ ^a et b « État-nation », sur scienceshumaines.com (consulté le 14
        juin 2023)
-    2. ↑ ^a et b Kahn, Sylvain, « L'État-nation comme mythe territorial de
-       la construction européenne », L’Espace géographique, 2014/3 (Tome
-       43), p. 240-250. DOI : 10.3917/eg.433.0240. URL :
-       https://www.cairn.info/revue-espace-geographique-2014-3-page-240.ht
-       m
-    3. ↑ Michel Pastoureau, Une histoire symbolique du Moyen Âge, Éditions
-       du Seuil, coll. « Points », 2014 (ISBN 978-2-7578-4106-8), « Des
+    2. ↑ ^a et b Kahn, Sylvain, « L'État-nation comme mythe territorial de la
+       construction européenne », L’Espace géographique, 2014/3 (Tome 43), p.
+       240-250. DOI : 10.3917/eg.433.0240. URL :
+       https://www.cairn.info/revue-espace-geographique-2014-3-page-240.htm
+    3. ↑ Michel Pastoureau, Une histoire symbolique du Moyen Âge, Éditions du
+       Seuil, coll. « Points », 2014 (ISBN 978-2-7578-4106-8), « Des
        armoiries aux drapeaux »
     4. ↑ ^a et b pdf_3_Rappel_de_NOTIONS_1.pdf sur Académie de Besançon
        (12/2015)
-    5. ↑ Des réserves peuvent être cependant émises concernant une
-       création "naturelle" ou non volontariste de l'État : l’État
-       allemand actuel résulte d'une politique unioniste volontariste de
-       Bismarck qui a cherché, et réussi, à rassembler sous le drapeau de
-       la Prusse une mosaïque d’États indépendants, aux langues
-       germaniques, en vue d’accroître sa puissance militaire, politique
-       et économique. Pour cela, il avait utilisé autant les intérêts
-       économiques des bourgeoisies de ces États, leur besoin de
-       protection militaire, que la propagande nationaliste, sentiment
-       nouveau répandu chez les lettrés depuis le début du XIX^e siècle.
-       L'évolution de cet assemblage échappa ensuite à ses prévisions.
+    5. ↑ Des réserves peuvent être cependant émises concernant une création
+       "naturelle" ou non volontariste de l'État : l’État allemand actuel
+       résulte d'une politique unioniste volontariste de Bismarck qui a
+       cherché, et réussi, à rassembler sous le drapeau de la Prusse une
+       mosaïque d’États indépendants, aux langues germaniques, en vue
+       d’accroître sa puissance militaire, politique et économique. Pour
+       cela, il avait utilisé autant les intérêts économiques des
+       bourgeoisies de ces États, leur besoin de protection militaire, que la
+       propagande nationaliste, sentiment nouveau répandu chez les lettrés
+       depuis le début du XIX^e siècle. L'évolution de cet assemblage échappa
+       ensuite à ses prévisions.
     6. ↑ ^a b c d e f g et h Yves Person, « L'État-Nation et l'Afrique »,
        Outre-Mers. Revue d'histoire, vol. 68, n^o 250,‎ 1981, p. 274–282
-       (DOI 10.3406/outre.1981.2301, lire en ligne, consulté le 15 juin
-       2023)
+       (DOI 10.3406/outre.1981.2301, lire en ligne, consulté le 15 juin 2023)
     7. ↑ (tr) « Ethnicites en Turquie - Article « Nombre des Kurds dans la
        Turquie » », 2008 (consulté le 6 juin 2008)
     8. ↑ (de) Thomas Riklin, « Worin unterscheidet sich die schweizerische
-       „Nation“ von der Französischen bzw. Deutschen „Nation“? » [archive
-       du 13 octobre 2006], sur unifr.ch, 2005
-    9. ↑ Relire Yves Person. L'État-nation face à la libération des
-       peuples africains, Textes réunis par Charles Becker, Roland Colin,
-       Liliane Daronian et Claude-Hélène Perrot, Paris, IMAF - Présence
-       Africaine, 2015
+       „Nation“ von der Französischen bzw. Deutschen „Nation“? » [archive du
+       13 octobre 2006], sur unifr.ch, 2005
+    9. ↑ Relire Yves Person. L'État-nation face à la libération des peuples
+       africains, Textes réunis par Charles Becker, Roland Colin, Liliane
+       Daronian et Claude-Hélène Perrot, Paris, IMAF - Présence Africaine,
+       2015
    10. ↑ Frank Baron, « L’idée de Nation », sur vie-publique.fr, 7 juillet
        2018 (consulté le 28 avril 2021)
 
@@ -443,9 +415,10 @@ Voir aussi
    [modifier | modifier le code]
 
    Sur les autres projets Wikimedia :
+
      * État-nation, sur le Wiktionnaire
 
-Articles connexes
+  Articles connexes
 
    [modifier | modifier le code]
      * Cité-État
@@ -460,59 +433,53 @@ Articles connexes
      * Portugal#L'État-nation portugais
      * Anticatalanisme
 
-Bibliographie
+  Bibliographie
 
    [modifier | modifier le code]
      * Ernest Renan, Qu'est-ce qu'une nation ?, Paris, Calmann Lévy, 1882
        (lire en ligne)
-     * Mario Albertini, L'État national, 1960, traduction française 1978,
-       Ed. Fédérop.
-     * Alain Bihr, Le Crépuscule des États-nations, transnationalisation
-       et crispations nationalistes, Ed. Page deux, 2000.
+     * Mario Albertini, L'État national, 1960, traduction française 1978, Ed.
+       Fédérop.
+     * Alain Bihr, Le Crépuscule des États-nations, transnationalisation et
+       crispations nationalistes, Ed. Page deux, 2000.
      * (en) Michael Billig, Banal Nationalism, Londres, SAGE Publications,
        1995, 200 p. (ISBN 0-8039-7525-2, lire en ligne)
-     * Rosa Luxemburg, La Question nationale et l'autonomie, 1908
-       (traduction française : Ed. Le Temps des cerises, 2001).
-     * Jean-René Trochet, La Géographie historique de la France, Paris,
-       PUF, 1997, 126p.
+     * Rosa Luxemburg, La Question nationale et l'autonomie, 1908 (traduction
+       française : Ed. Le Temps des cerises, 2001).
+     * Jean-René Trochet, La Géographie historique de la France, Paris, PUF,
+       1997, 126p.
      * Jean-Claude Barreau, Sans la nation, le chaos, Éditions du Toucan,
        2012
-     * Pierre-André Taguieff, La revanche du nationalisme : Néopopulistes
-       et xénophobes à l’assaut de l’Europe, Paris, PUF, 2015
-       (présentation en ligne, lire en ligne)
-     * (en) Ken'ichi Ōmae, The End of the Nation-State: the Rise of
-       Regional Economies, Simon and Schuster Inc., 1995, 214 p.
+     * Pierre-André Taguieff, La revanche du nationalisme : Néopopulistes et
+       xénophobes à l’assaut de l’Europe, Paris, PUF, 2015 (présentation en
+       ligne, lire en ligne)
+     * (en) Ken'ichi Ōmae, The End of the Nation-State: the Rise of Regional
+       Economies, Simon and Schuster Inc., 1995, 214 p.
 
-Liens externes
+  Liens externes
 
    [modifier | modifier le code]
 
-     *
-     *
-     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
-       et modifier les données sur Wikidata  :
-          + Britannica
-          + Encyclopédie de l'Ukraine moderne
-          + Store norske leksikon
-     * Notices d'autorité Voir et modifier les données sur Wikidata  :
-          + LCCN
-          + GND
-          + Japon
-          + Israël
-          + Tchéquie
-          + Lettonie
-
+     * * * Notices dans des dictionnaires ou encyclopédies généralistesVoir
+       et modifier les données sur Wikidata :
+          * Britannica
+          * Encyclopédie de l'Ukraine moderne
+          * Store norske leksikon
+     * Notices d'autoritéVoir et modifier les données sur Wikidata :
+          * LCCN
+          * GND
+          * Japon
+          * Israël
+          * Tchéquie
+          * Lettonie
      * icône décorative Portail de la politique
      * icône décorative Portail du nationalisme
-
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=État-nation&oldid=23019741
-   0 ».
+   « https://fr.wikipedia.org/w/index.php?title=État-nation&oldid=230197410 ».
    Catégories :
      * Géographie politique
      * Nationalisme
      * État
-
    Catégories cachées :
      * Article contenant un lien mort
      * Article avec source à lier
@@ -527,9 +494,8 @@ Liens externes
      * Article de Wikipédia avec notice d'autorité
      * Portail:Politique/Articles liés
      * Portail:Nationalisme/Articles liés
-
-     * La dernière modification de cette page a été faite le 30 octobre
-       2025 à 08:21.
+     * La dernière modification de cette page a été faite le 30 octobre 2025
+       à 08:21.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
@@ -537,9 +503,8 @@ Liens externes
        réutilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
        Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du code
+       fiscal des États-Unis.
      * Politique de confidentialité
      * À propos de Wikipédia
      * Avertissements
@@ -550,14 +515,11 @@ Liens externes
      * Statistiques
      * Déclaration sur les témoins (cookies)
      * Version mobile
-
      * Wikimedia Foundation
      * Powered by MediaWiki
-
-   (BUTTON) Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
+   Rechercher
+   _____________________
+   Rechercher
    [ ] Basculer la table des matières
    État-nation
-   (BUTTON) 70 langues Ajouter un sujet
+   70 langues Ajouter un sujet

@@ -1,37 +1,40 @@
-   #Resilience Institute » Feed Resilience Institute » Comments Feed JSON
-   oEmbed (JSON) oEmbed (XML) alternate alternate alternate alternate
-   alternate alternate
-
-   (BUTTON) Menu Fermer
-
+   Link: profile
+   Link: canonical
+   Link: shortlink
+   Link: alternate en
+   Link: alternate fr
+   Link: alternate es
+   Link: alternate de
+   Link: alternate ar
+   Link: alternate zh
+   Menu Fermer
      * Certifications
-          + Certification des entraîneurs
-          + Certification des formateurs
-          + Prestataire de formation agréé
+          * Certification des entraîneurs
+          * Certification des formateurs
+          * Prestataire de formation agréé
      * L'évaluation
      * Formation
-          + L'Europe
-          + Royaume-Uni
-          + États-Unis
-          + Canada
-          + Asie du Sud-Est
-          + Moyen-Orient
-          + Afrique du Sud
-          + Nouvelle-Zélande
-          + Australie
-          + Mondial
+          * L'Europe
+          * Royaume-Uni
+          * États-Unis
+          * Canada
+          * Asie du Sud-Est
+          * Moyen-Orient
+          * Afrique du Sud
+          * Nouvelle-Zélande
+          * Australie
+          * Mondial
      * Ressources
-          + Événements gratuits
-          + Blog
-          + Recherche
-          + Livres
-          + Podcast
+          * Événements gratuits
+          * Blog
+          * Recherche
+          * Livres
+          * Podcast
      * A propos de
-          + Notre équipe
-          + Études de cas
-          + Partenariats
+          * Notre équipe
+          * Études de cas
+          * Partenariats
      * Contact
-
    Resilience Institute
 
    Resilience Institute
@@ -39,37 +42,36 @@
    Formation, évaluation et certification en matière de résilience
 
      * Certifications
-          + Certification des entraîneurs
-          + Certification des formateurs
-          + Prestataire de formation agréé
+          * Certification des entraîneurs
+          * Certification des formateurs
+          * Prestataire de formation agréé
      * L'évaluation
      * Formation
-          + L'Europe
-          + Royaume-Uni
-          + États-Unis
-          + Canada
-          + Asie du Sud-Est
-          + Moyen-Orient
-          + Afrique du Sud
-          + Nouvelle-Zélande
-          + Australie
-          + Mondial
+          * L'Europe
+          * Royaume-Uni
+          * États-Unis
+          * Canada
+          * Asie du Sud-Est
+          * Moyen-Orient
+          * Afrique du Sud
+          * Nouvelle-Zélande
+          * Australie
+          * Mondial
      * Ressources
-          + Événements gratuits
-          + Blog
-          + Recherche
-          + Livres
-          + Podcast
+          * Événements gratuits
+          * Blog
+          * Recherche
+          * Livres
+          * Podcast
      * A propos de
-          + Notre équipe
-          + Études de cas
-          + Partenariats
+          * Notre équipe
+          * Études de cas
+          * Partenariats
      * Contact
 
-Qu'est-ce que l'état d'esprit résilient et comment le développer ?
+       Qu'est-ce que l'état d'esprit résilient et comment le développer ?
 
    Table des matières
-   Toggle
 
      * Un voyage vers des esprits flexibles et résilients
      * Qu'est-ce qu'un état d'esprit résilient ?
@@ -78,61 +80,59 @@ Qu'est-ce que l'état d'esprit résilient et comment le développer ?
 
 Un voyage vers des esprits flexibles et résilients
 
-   L'état d'esprit résilient apparaît comme un concept simple et
-   convaincant. Si nous pouvions acquérir un tel état d'esprit - peut-être
-   au moyen d'une pilule ou d'une application - la vie deviendrait
-   magiquement meilleure. Un état d'esprit résilient pourrait résoudre
-   toutes sortes de problèmes.
+   L'état d'esprit résilient apparaît comme un concept simple et convaincant.
+   Si nous pouvions acquérir un tel état d'esprit - peut-être au moyen d'une
+   pilule ou d'une application - la vie deviendrait magiquement meilleure. Un
+   état d'esprit résilient pourrait résoudre toutes sortes de problèmes.
 
-   Pour un esprit critique, le concept est complexe et déroutant.
-   Existe-t-il au moins une telle chose ? S'il existait, comment
-   pourrions-nous le développer et l'appliquer ?
+   Pour un esprit critique, le concept est complexe et déroutant. Existe-t-il
+   au moins une telle chose ? S'il existait, comment pourrions-nous le
+   développer et l'appliquer ?
 
-   Dans cet article, nous essayons de comprendre et de définir ce qu'est
-   un état d'esprit résilient et de voir s'il est possible de développer
-   un tel état d'esprit.
+   Dans cet article, nous essayons de comprendre et de définir ce qu'est un
+   état d'esprit résilient et de voir s'il est possible de développer un tel
+   état d'esprit.
 
 Qu'est-ce qu'un état d'esprit résilient ?
 
    Tout d'abord, nous devons définir un état d'esprit. La réponse la plus
-   accrocheuse est d'extraire l'état d'esprit de croissance de Carol
-   Dweck. Un état d'esprit fixe part du principe que les choses ne peuvent
-   être changées, même au prix d'efforts considérables. Par exemple : "Il
-   est inutile que j'essaie de changer les choses : "Il est inutile que
-   j'essaie de faire des mathématiques. Mon esprit n'est tout simplement
-   pas fait pour les mathématiques. Je ne peux tout simplement pas
-   résoudre ces problèmes. Cet exemple s'inspire de l'impuissance apprise
-   de Martin Seligman. Les recherches démontrent que cette impuissance
-   mène à une vie moins satisfaisante.
+   accrocheuse est d'extraire l'état d'esprit de croissance de Carol Dweck.
+   Un état d'esprit fixe part du principe que les choses ne peuvent être
+   changées, même au prix d'efforts considérables. Par exemple : "Il est
+   inutile que j'essaie de changer les choses : "Il est inutile que j'essaie
+   de faire des mathématiques. Mon esprit n'est tout simplement pas fait pour
+   les mathématiques. Je ne peux tout simplement pas résoudre ces problèmes.
+   Cet exemple s'inspire de l'impuissance apprise de Martin Seligman. Les
+   recherches démontrent que cette impuissance mène à une vie moins
+   satisfaisante.
 
    L'état d'esprit de croissance, précédemment appelé optimisme acquis par
    Seligman, part du principe que si je m'applique, je peux apprendre à le
-   maîtriser. Par exemple : "Les mathématiques sont un défi pour moi et
-   pour beaucoup d'autres : "Les mathématiques sont un défi pour moi et
-   pour beaucoup d'autres. Si je m'applique et m'entraîne suffisamment,
-   avec le soutien adéquat, je peux apprendre à résoudre ces problèmes".
-   La recherche démontre que cette croyance mène à une vie épanouie et
-   réussie.
+   maîtriser. Par exemple : "Les mathématiques sont un défi pour moi et pour
+   beaucoup d'autres : "Les mathématiques sont un défi pour moi et pour
+   beaucoup d'autres. Si je m'applique et m'entraîne suffisamment, avec le
+   soutien adéquat, je peux apprendre à résoudre ces problèmes". La recherche
+   démontre que cette croyance mène à une vie épanouie et réussie.
 
    Nous ne pouvons pas voir ces mentalités dans un scanner cérébral. Il
    s'agit de croyances concernant nos capacités et les défis qui se
    présentent à nous. Nous pourrions dire qu'un état d'esprit est une
-   croyance fortement ancrée. Il est prouvé - principalement par des
-   études de jumeaux - que certaines croyances ont jusqu'à 50 % d'origine
-   génétique. Les opinions conservatrices, le pessimisme, la prise de
-   risque et l'anxiété sont en corrélation avec l'hérédité.
+   croyance fortement ancrée. Il est prouvé - principalement par des études
+   de jumeaux - que certaines croyances ont jusqu'à 50 % d'origine génétique.
+   Les opinions conservatrices, le pessimisme, la prise de risque et
+   l'anxiété sont en corrélation avec l'hérédité.
 
    Néanmoins, nous pouvons devenir plus conscients de nos croyances et
    apprendre ainsi à les remettre en question et à les ajuster. Ainsi, la
-   thérapie cognitivo-comportementale (TCC) peut guérir la dépression
-   aussi bien, voire mieux, que les antidépresseurs. De même, une croyance
-   selon laquelle "ces gens" sont mauvais et horribles peut se
-   transformer, grâce à un engagement constructif, en une croyance selon
-   laquelle "ces gens" sont tout à fait comme moi.
+   thérapie cognitivo-comportementale (TCC) peut guérir la dépression aussi
+   bien, voire mieux, que les antidépresseurs. De même, une croyance selon
+   laquelle "ces gens" sont mauvais et horribles peut se transformer, grâce à
+   un engagement constructif, en une croyance selon laquelle "ces gens" sont
+   tout à fait comme moi.
 
    En résumé, un état d'esprit est une représentation mentale de la façon
-   dont les choses fonctionnent ou ne fonctionnent pas. Voici quelques
-   tests d'état d'esprit.
+   dont les choses fonctionnent ou ne fonctionnent pas. Voici quelques tests
+   d'état d'esprit.
 
 Quelle affirmation décrit votre état d'esprit ?
 
@@ -154,69 +154,68 @@ Quelle affirmation décrit votre état d'esprit ?
      * La vie est une avancée créative vers la nouveauté
 
    Veut-on vraiment un état d'esprit ? Peut-être qu'en cette ère de
-   polarisation, ce dont nous avons le plus besoin, ce sont des
-   perspectives flexibles. Plutôt que d'avoir des convictions arrêtées,
-   nous pourrions apprendre à explorer différentes perspectives en testant
-   les avantages et les inconvénients de chacune d'entre elles. La BBC
-   préconise un état d'esprit paradoxal. Il n'y a pas qu'une seule bonne
-   façon de voir les choses et, par conséquent, le terme "état d'esprit"
-   peut être trompeur. Nous votons pour des esprits flexibles.
+   polarisation, ce dont nous avons le plus besoin, ce sont des perspectives
+   flexibles. Plutôt que d'avoir des convictions arrêtées, nous pourrions
+   apprendre à explorer différentes perspectives en testant les avantages et
+   les inconvénients de chacune d'entre elles. La BBC préconise un état
+   d'esprit paradoxal. Il n'y a pas qu'une seule bonne façon de voir les
+   choses et, par conséquent, le terme "état d'esprit" peut être trompeur.
+   Nous votons pour des esprits flexibles.
 
-   Deuxièmement, nous devons définir la résilience. S'agit-il d'un
-   attribut génétique fixé dès le plus jeune âge ? S'agit-il plutôt d'un
-   ensemble de compétences acquises que nous pouvons tous acquérir avec
-   des efforts et du soutien ? Certains pensent qu'il s'agit de "rebondir"
-   face à l'adversité. D'autres pensent que l'adversité stimule la
-   croissance post-traumatique.
+   Deuxièmement, nous devons définir la résilience. S'agit-il d'un attribut
+   génétique fixé dès le plus jeune âge ? S'agit-il plutôt d'un ensemble de
+   compétences acquises que nous pouvons tous acquérir avec des efforts et du
+   soutien ? Certains pensent qu'il s'agit de "rebondir" face à l'adversité.
+   D'autres pensent que l'adversité stimule la croissance post-traumatique.
 
    Bien que chacun doive trouver sa propre définition, nos recherches
    montrent que la capacité acquise de rebondir, de se développer, de se
-   connecter et de s'flow est un ensemble intégré de compétences. Un
-   artiste habile s'attaque à des tâches de plus en plus difficiles.
-   L'adversité et l'échec sont inévitables. Il doit apprendre à rebondir
-   rapidement. En apprenant à rebondir, il développe des compétences
-   physiques, émotionnelles et mentales. Ces compétences sont mises en
-   relation au sein d'une équipe, d'un jeu ou d'une situation spécifique
-   afin d'atteindre le flow pour atteindre l'état de fluidité. Bien que
-   super-productif et satisfaisant, il y aura des revers.
+   connecter et de s'flow est un ensemble intégré de compétences. Un artiste
+   habile s'attaque à des tâches de plus en plus difficiles. L'adversité et
+   l'échec sont inévitables. Il doit apprendre à rebondir rapidement. En
+   apprenant à rebondir, il développe des compétences physiques,
+   émotionnelles et mentales. Ces compétences sont mises en relation au sein
+   d'une équipe, d'un jeu ou d'une situation spécifique afin d'atteindre le
+   flow pour atteindre l'état de fluidité. Bien que super-productif et
+   satisfaisant, il y aura des revers.
 
    Nous nous trouvons ici face à l'une des énigmes de notre époque.
    Devons-nous protéger nos enfants et nos concitoyens de l'adversité ?
    Devons-nous nous assurer que nous sommes physiquement en sécurité,
    émotionnellement choyés et mentalement complaisants ? Dans cet état
-   d'esprit, l'adversité est le problème. Les gens doivent être protégés.
-   La pression et les défis doivent être évités. Nous devons soutenir les
-   gens à tout prix et leur demander peu.
+   d'esprit, l'adversité est le problème. Les gens doivent être protégés. La
+   pression et les défis doivent être évités. Nous devons soutenir les gens à
+   tout prix et leur demander peu.
 
-   D'autre part, devrions-nous confronter les gens à l'adversité et au
-   risque ? Il est prouvé que l'adversité stimule la prise de conscience
-   et la croissance. En outre, les adversités graves relient les
-   communautés et renforcent la collaboration. Plutôt que de considérer
-   les gens comme vulnérables et victimes, nous considérons les capacités
-   humaines comme nobles. Nous attendons d'eux qu'ils s'améliorent et
-   fassent preuve d'altruisme.
+   D'autre part, devrions-nous confronter les gens à l'adversité et au risque
+   ? Il est prouvé que l'adversité stimule la prise de conscience et la
+   croissance. En outre, les adversités graves relient les communautés et
+   renforcent la collaboration. Plutôt que de considérer les gens comme
+   vulnérables et victimes, nous considérons les capacités humaines comme
+   nobles. Nous attendons d'eux qu'ils s'améliorent et fassent preuve
+   d'altruisme.
 
-   L'un ou l'autre peut devenir un état d'esprit de résilience fixe. Ce
-   sont les perspectives polarisées de l'humanisme libéral et de
-   l'autosuffisance stoïque. Poussées à l'extrême, ces deux perspectives
-   comportent des risques. Si l'on pousse la première, les gens peuvent
-   devenir fragiles (mal en point), craintifs (anxieux) et fragiles
-   (déprimés). Si nous appuyons sur la seconde, les gens peuvent se sentir
-   isolés, exploités et en détresse.
+   L'un ou l'autre peut devenir un état d'esprit de résilience fixe. Ce sont
+   les perspectives polarisées de l'humanisme libéral et de l'autosuffisance
+   stoïque. Poussées à l'extrême, ces deux perspectives comportent des
+   risques. Si l'on pousse la première, les gens peuvent devenir fragiles
+   (mal en point), craintifs (anxieux) et fragiles (déprimés). Si nous
+   appuyons sur la seconde, les gens peuvent se sentir isolés, exploités et
+   en détresse.
 
    Un esprit souple et résilient peut se demander si la sécurité est la
-   priorité ou si le défi et la responsabilité sont une meilleure
-   solution. Choisissez vos batailles avec sagesse et apprenez à vous
-   adapter aux nouvelles informations.
+   priorité ou si le défi et la responsabilité sont une meilleure solution.
+   Choisissez vos batailles avec sagesse et apprenez à vous adapter aux
+   nouvelles informations.
 
 Comment construire un esprit flexible et résilient ?
 
-   La mauvaise nouvelle, c'est que cela demande du temps, des efforts et
-   de la répétition. Une pilule ou une application n'est pas la solution.
-   C'est le travail acharné pendant des milliers d'heures qui définit la
-   voie à suivre. La bonne nouvelle, c'est que nous pouvons apprendre et
-   maîtriser des compétences bien établies et définies. Il existe même des
-   bio-hacks (raccourcis).
+   La mauvaise nouvelle, c'est que cela demande du temps, des efforts et de
+   la répétition. Une pilule ou une application n'est pas la solution. C'est
+   le travail acharné pendant des milliers d'heures qui définit la voie à
+   suivre. La bonne nouvelle, c'est que nous pouvons apprendre et maîtriser
+   des compétences bien établies et définies. Il existe même des bio-hacks
+   (raccourcis).
 
    L'objectif d'un esprit souple et résilient est le suivant :
 
@@ -230,102 +229,99 @@ Comment construire un esprit flexible et résilient ?
    maîtriser notre propre état et être capables de générer des options
    créatives pour la résoudre.
 
-   L'équipe de rugby des All Blacks a enseigné cette discipline sous le
-   nom de "red or blue, decide, do" (rouge ou bleu, décider, faire). Bien
-   expliqué par Ceri Evans, il s'agit d'une discipline qui consiste �
-   s'engager dans un moment difficile en sachant que l'on peut choisir
-   entre une approche "rouge" de réaction émotionnelle et une approche
-   "bleue" réfléchie et délibérée. Les joueurs s'entraînent à choisir le
-   "bleu" en prenant du recul, en s'élevant et en entrant. Ils prennent du
-   recul pour calmer le "rouge", puis s'élèvent pour avoir une vision
-   claire, et enfin s'engagent pleinement dans la situation de manière
-   délibérée.
+   L'équipe de rugby des All Blacks a enseigné cette discipline sous le nom
+   de "red or blue, decide, do" (rouge ou bleu, décider, faire). Bien
+   expliqué par Ceri Evans, il s'agit d'une discipline qui consiste à
+   s'engager dans un moment difficile en sachant que l'on peut choisir entre
+   une approche "rouge" de réaction émotionnelle et une approche "bleue"
+   réfléchie et délibérée. Les joueurs s'entraînent à choisir le "bleu" en
+   prenant du recul, en s'élevant et en entrant. Ils prennent du recul pour
+   calmer le "rouge", puis s'élèvent pour avoir une vision claire, et enfin
+   s'engagent pleinement dans la situation de manière délibérée.
 
-   Dans une situation difficile, le corps réagit souvent par la peur
-   (fuite), la colère (combat) ou le repli sur soi (gel). Ces émotions
-   négatives fortes empêchent de penser et de prendre des décisions
-   claires. Elles peuvent figer l'esprit.
+   Dans une situation difficile, le corps réagit souvent par la peur (fuite),
+   la colère (combat) ou le repli sur soi (gel). Ces émotions négatives
+   fortes empêchent de penser et de prendre des décisions claires. Elles
+   peuvent figer l'esprit.
 
    Le défi consiste à contenir les réactions fortes et négatives. Pour ce
-   faire, nous devons les nommer, les apprivoiser et les recadrer (prendre
-   du recul et se relever). Ce n'est que lorsque notre état émotionnel est
-   calme et positif que nous pouvons activer les compétences mentales
-   nécessaires pour évaluer, analyser et résoudre le problème.
+   faire, nous devons les nommer, les apprivoiser et les recadrer (prendre du
+   recul et se relever). Ce n'est que lorsque notre état émotionnel est calme
+   et positif que nous pouvons activer les compétences mentales nécessaires
+   pour évaluer, analyser et résoudre le problème.
 
    Notre bien-être physique est essentiel pour soutenir cet effort. Un
-   sommeil de qualité, un repos et une récupération adéquats, une bonne
-   forme physique et une alimentation intelligente sont nécessaires.
+   sommeil de qualité, un repos et une récupération adéquats, une bonne forme
+   physique et une alimentation intelligente sont nécessaires.
 
    Nous pouvons considérer nos ressources spirituelles comme de la foi. La
-   foi qu'avec une pratique délibérée, je peux/nous pouvons apprendre �
-   maîtriser cette situation (croissance et flow). La foi que prendre soin
-   de soi est un impératif éthique (grandir). La foi que les gens sont
+   foi qu'avec une pratique délibérée, je peux/nous pouvons apprendre à
+   maîtriser cette situation (croissance et flow). La foi que prendre soin de
+   soi est un impératif éthique (grandir). La foi que les gens sont
    fondamentalement bons (se connecter). La foi dans le fait qu'un travail
-   flexible et créatif peut résoudre les défis les plus difficiles
-   (rebondir, grandir, se connecter et flow'épanouir). La foi que ceux qui
-   nous aiment et nous soutiennent seront là quel que soit le résultat (se
-   connecter).
+   flexible et créatif peut résoudre les défis les plus difficiles (rebondir,
+   grandir, se connecter et flow'épanouir). La foi que ceux qui nous aiment
+   et nous soutiennent seront là quel que soit le résultat (se connecter).
 
    Pour appliquer cette approche dans votre propre vie, pensez à une
-   situation spécifique ou à un défi auquel vous êtes confronté en ce
-   moment. Décrivez clairement la situation par écrit. Réfléchissez à la
-   dernière fois que vous avez été confronté à cette situation. À quoi
-   pensiez-vous ? Quelles étaient les émotions en jeu ? Qu'avez-vous
-   ressenti dans votre corps ?
+   situation spécifique ou à un défi auquel vous êtes confronté en ce moment.
+   Décrivez clairement la situation par écrit. Réfléchissez à la dernière
+   fois que vous avez été confronté à cette situation. À quoi pensiez-vous ?
+   Quelles étaient les émotions en jeu ? Qu'avez-vous ressenti dans votre
+   corps ?
 
-   En décrivant comment vos ressources mentales, émotionnelles et
-   physiques s'adaptent à la situation, vous pouvez voir clairement
-   comment la situation a évolué. C'est ce que l'on appelle la conscience
-   de la situation et c'est le fondement d'un esprit, d'émotions et d'un
-   corps résilients.
+   En décrivant comment vos ressources mentales, émotionnelles et physiques
+   s'adaptent à la situation, vous pouvez voir clairement comment la
+   situation a évolué. C'est ce que l'on appelle la conscience de la
+   situation et c'est le fondement d'un esprit, d'émotions et d'un corps
+   résilients.
 
    Ensuite, définissez par écrit le type de résultat que vous aimeriez
    obtenir dans cette situation. Lorsque vous pouvez définir clairement le
    résultat actuel par rapport au résultat souhaité, vous avez créé une
-   tension - un écart que vous avez l'intention de combler. C'est
-   l'objectif d'un esprit souple et résilient. Nous pouvons faire appel �
-   la volonté pour combler l'écart.
+   tension - un écart que vous avez l'intention de combler. C'est l'objectif
+   d'un esprit souple et résilient. Nous pouvons faire appel à la volonté
+   pour combler l'écart.
 
-   Ensuite, vous devez appliquer les solutions créatives qui vous aideront
-   à combler l'écart. Il existe de nombreuses variantes que vous pouvez
+   Ensuite, vous devez appliquer les solutions créatives qui vous aideront à
+   combler l'écart. Il existe de nombreuses variantes que vous pouvez
    envisager et explorer. Quel nouveau mode de pensée pourriez-vous
    introduire ? Quelles émotions motiveront et inspireront l'action ? Quel
-   type de bien-être physique et d'engagement est nécessaire ? C'est ce
-   qu'on appelle l'agilité situationnelle. C'est le travail d'un esprit,
-   d'émotions et d'un corps résilients.
+   type de bien-être physique et d'engagement est nécessaire ? C'est ce qu'on
+   appelle l'agilité situationnelle. C'est le travail d'un esprit, d'émotions
+   et d'un corps résilients.
 
-   Une fois que vous pouvez élaborer quelques solutions potentielles au
-   défi, vous appliquez la résilience intégrale et l'agilité
-   situationnelle. Il se peut que cela ne fonctionne pas du premier coup.
-   Soyez prêt à tester ces options avec un collègue ou un coach. La
-   première fois que vous les appliquerez, vous vous sentirez mal à l'aise
-   et vous risquez de vous égarer. Asseyez-vous et réfléchissez en suivant
-   les étapes décrites. De quoi devez-vous être plus conscient ? Quelles
-   sont les autres options disponibles ? Comment pouvez-vous mettre en
-   pratique cette partie particulière de la solution ?
+   Une fois que vous pouvez élaborer quelques solutions potentielles au défi,
+   vous appliquez la résilience intégrale et l'agilité situationnelle. Il se
+   peut que cela ne fonctionne pas du premier coup. Soyez prêt à tester ces
+   options avec un collègue ou un coach. La première fois que vous les
+   appliquerez, vous vous sentirez mal à l'aise et vous risquez de vous
+   égarer. Asseyez-vous et réfléchissez en suivant les étapes décrites. De
+   quoi devez-vous être plus conscient ? Quelles sont les autres options
+   disponibles ? Comment pouvez-vous mettre en pratique cette partie
+   particulière de la solution ?
 
    Si vous êtes arrivé jusqu'ici, vous êtes sur la voie d'un état d'esprit
    résilient - pardon, d'un esprit flexible et résilient. C'est très bien.
 
    Lecture suggérée :
+
     1. L'état d'esprit : édition actualisée, Carol Dweck, 2017
     2. L'optimisme appris, Martin Seligman, 2006
     3. The Coddling the American Mind, Lukianoff et Haidt, 2019
     4. Performer sous pression, Ceri Evans, 2019
-
      * Catégorie : développement personnel
 
 Navigation postale
 
    Précédent : Previous post : Leadership en pleine conscience : comment
    créer une organisation calme et présente
-   Suivant : Article suivant : Présentation de la nouvelle évaluation de
-   la résilience : Un changement de cap pour la performance
-   organisationnelle
+   Suivant : Article suivant : Présentation de la nouvelle évaluation de la
+   résilience : Un changement de cap pour la performance organisationnelle
 
 Pied de page
 
-Liens rapides
+  Liens rapides
 
    Accueil
 
@@ -345,7 +341,7 @@ Liens rapides
 
    Podcast
 
-Confiance
+  Confiance
 
    Confiance
 
@@ -355,25 +351,24 @@ Confiance
 
    Vie privée
 
-Connecter
+  Connecter
+
+   [IMG]
+   [IMG]
 
    [ ] Français
      * English
      * Español
      * Deutsch
-     * العربية
+     * العربية‏
      * 中文 (简体)
-
    Copyright Resilience Institute Global 2025
 
    Devenez coach en résilience. Rejoignez notre communauté d'experts.
+
    En savoir plus
    X
 
-   (BUTTON) ×
-
-   IFRAME:
-   https://www.xe.com/currencyconverter/fx-widget?amount=995&from=EUR&to=U
-   SD
-
-   (BUTTON) ×
+   ×
+   IFrame
+   ×

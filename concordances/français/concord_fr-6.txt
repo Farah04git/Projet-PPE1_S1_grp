@@ -1,33 +1,34 @@
-          + Espagne
-          + Etats-Unis
-          + Trump
+          * Espagne
+          * Etats-Unis
+          * Trump
 --
 
-Etat
-
+                                      Etat                                    
+                                                                              
 --
-   nationale, d'exercer le pouvoir, au sein d'une société déterminée, dans
-   les limites fixées par la loi (lorsqu'il s'agit d'un Etat de droit), et
-   de représenter l'ensemble de la nation à l'extérieur des frontières.
+   d'exercer le pouvoir, au sein d'une société déterminée, dans les limites   
+   fixées par la loi (lorsqu'il s'agit d'un Etat de droit), et de représenter 
+   l'ensemble de la nation à l'extérieur des frontières.                      
 --
-
-   Selon Max Weber, l'Etat exerce le monopole de la violence légale. Tout
-   le problème est de savoir qui attribue ce pouvoir, et quelles en sont
+                                                                              
+   Selon Max Weber, l'Etat exerce le monopole de la violence légale. Tout le  
+   problème est de savoir qui attribue ce pouvoir, et quelles en sont les     
 --
-   est que c'est le peuple, via ses représentants, qui décide de l'ampleur
-   des fonctions exercées par l'Etat et qui veille à ce que les organismes
-   ou les personnes qui en sont chargées n'outrepassent pas leurs droits :
+   c'est le peuple, via ses représentants, qui décide de l'ampleur des        
+   fonctions exercées par l'Etat et qui veille à ce que les organismes ou les 
+   personnes qui en sont chargées n'outrepassent pas leurs droits : d'où      
 --
-   le plus fort qui impose ses règles, ce qui établit une distinction très
-   nette entre un Etat de droit  dans lequel les règles sont connues �
-   l'avance, et où chacun peut se prévaloir de ces règles pour empêcher
-   que l'Etat n'empiète sur ses droits  et les Etats arbitraires où les
-   règles, ou la façon dont elles sont appliquées, dépendent de ceux qui
+   sociétés non démocratiques, en revanche, c'est le plus fort qui impose ses 
+   règles, ce qui établit une distinction très nette entre un Etat de         
+   droit  dans lequel les règles sont connues à l'avance, et où chacun peut  
+   se prévaloir de ces règles pour empêcher que l'Etat n'empiète sur ses      
+   droits  et les Etats arbitraires où les règles, ou la façon dont elles    
+   sont appliquées, dépendent de ceux qui sont au pouvoir.                    
 --
-   s'effectue entre les domaines de compétence qui sont du ressort de
-   l'Etat fédéral (central) et ceux qui sont du ressort des Etats fédérés.
-   Dans une Confédération, ce partage est soumis à la volonté des Etats
-   confédérés, qui peuvent le modifier s'ils le souhaitent. Le siège du
-   pouvoir demeure donc, dans ce cas, les Etats confédérés, tandis que
-   l'Etat confédéral n'a d'existence que par délégation de pouvoir.
-
+   déterminé par la Constitution, c'est-à-dire le texte fondateur, s'effectue 
+   entre les domaines de compétence qui sont du ressort de l'Etat fédéral     
+   (central) et ceux qui sont du ressort des Etats fédérés. Dans une          
+   Confédération, ce partage est soumis à la volonté des Etats confédérés,    
+   qui peuvent le modifier s'ils le souhaitent. Le siège du pouvoir demeure   
+   donc, dans ce cas, les Etats confédérés, tandis que l'Etat confédéral n'a  
+   d'existence que par délégation de pouvoir.                                 

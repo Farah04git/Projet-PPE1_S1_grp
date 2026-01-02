@@ -97,12 +97,13 @@ while read -r URL ; do
 	
 	filename_dump="$DIR_DUMP/fr-$ID.txt"
 
-
 	# Écriture dump
-	if [[ "$encoding" =~ utf-8|binary ]]; then
-		sed -E 's|<head>|<head><meta charset="UTF-8">|I' "$filename_aspiration" > /tmp/withcharset.html
-		lynx -dump -nolist --assume_local_charset=UTF-8 --display_charset=UTF-8 /tmp/withcharset.html > "$filename_dump"
-	fi
+	#if [[ "$encoding" =~ utf-8|binary ]]; then
+		#sed -E 's|<head>|<head><meta charset="UTF-8">|I' "$filename_aspiration" > /tmp/withcharset.html
+		#links -dump /tmp/withcharset.html > "$filename_dump"
+	#fi
+
+	links -dump "$filename_aspiration" > "$filename_dump"
 
 	if iconv -f UTF-8 -t UTF-8 "$filename_dump" > /dev/null 2>&1; then
 		echo "dump est valide UTF‑8"

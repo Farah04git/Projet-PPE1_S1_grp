@@ -1,106 +1,107 @@
-   #alternate alternate alternate
-
-   (BUTTON)
+   Link: canonical
+   [ Submit ]
 
    Fermer
 
    L’actualité à portée de main
-   (BUTTON)
 
    Abonnez-vous
+
+   [IMG]
 
    Lire le journal
 
    Service Publicité
 
    Actualités
+
      * L'actu en continu
      * Nos dossiers
-     * (BUTTON) Régionchevron
-          + Toutes
-          + Marseille
-          + Vaucluse
-          + Aix - Pays dAix
-          + Alpes
-          + Arles
-          + Martigues - Istres
-          + Aubagne - La Ciotat
-          + Salon
-          + Vitrolles - Marignane
+     * Région
+          * Toutes
+          * Marseille
+          * Vaucluse
+          * Aix - Pays dAix
+          * Alpes
+          * Arles
+          * Martigues - Istres
+          * Aubagne - La Ciotat
+          * Salon
+          * Vitrolles - Marignane
      * Faits divers
-     * (BUTTON) OMchevron
-          + Toute l'actualité
-          + Mercato
-          + Calendrier 2024 - 2025
-          + Classement
-          + Olympien du match
-     * (BUTTON) Sportschevron
-          + A la une
-          + Football
-          + Open 13 Provence
-          + Hippisme
-          + Provence Rugby
-          + Sports Région
-          + Spartiates
-          + Boules
-          + Classement
+     * OM
+          * Toute l'actualité
+          * Mercato
+          * Calendrier 2024 - 2025
+          * Classement
+          * Olympien du match
+     * Sports
+          * A la une
+          * Football
+          * Open 13 Provence
+          * Hippisme
+          * Provence Rugby
+          * Sports Région
+          * Spartiates
+          * Boules
+          * Classement
      * Société
      * Politique
-     * (BUTTON) Électionschevron
-          + Municipales 2026
-          + Législatives 2024
-     * (BUTTON) Economiechevron
-          + Toute l'actualité
-          + Entreprise
-          + Immobilier
-          + Orientation formation
-          + Bourse
+     * Élections
+          * Municipales 2026
+          * Législatives 2024
+     * Economie
+          * Toute l'actualité
+          * Entreprise
+          * Immobilier
+          * Orientation formation
+          * Bourse
      * Rive Sud
      * Food
-     * (BUTTON) Culturechevron
-          + Toute l'actualité
-          + Musique
-          + BD - Livres
-          + Cinéma
-          + Festivals
-          + Télé
-          + Expos
-          + Spectacles
-     * (BUTTON) Sorties - Loisirschevron
-          + Toute l'actualité
-          + Bouvine
-          + Caves et Domaines
-          + Feria
-          + Histoire
-          + Histoire
-          + Gaming
+     * Culture
+          * Toute l'actualité
+          * Musique
+          * BD - Livres
+          * Cinéma
+          * Festivals
+          * Télé
+          * Expos
+          * Spectacles
+     * Sorties - Loisirs
+          * Toute l'actualité
+          * Bouvine
+          * Caves et Domaines
+          * Feria
+          * Histoire
+          * Histoire
+          * Gaming
      * Nos rendez-vous
      * Balades en Provence
-     * (BUTTON) Guide shoppingchevron
-          + Tous les bons plans
-          + High-Tech
-          + Electroménager
-          + Jeux & Paris
-          + Sports
-          + Maison & Jardin
-          + Mode
+     * Guide shopping
+          * Tous les bons plans
+          * High-Tech
+          * Electroménager
+          * Jeux & Paris
+          * Sports
+          * Maison & Jardin
+          * Mode
      * Santé
      * Environnement
      * France Monde
-     * (BUTTON) Rubriques Partenaireschevron
-          + Étudier en Provence
-          + Bien vieillir en Provence
-          + Votre argent avec Finance Héros
-
+     * Rubriques Partenaires
+          * Étudier en Provence
+          * Bien vieillir en Provence
+          * Votre argent avec Finance Héros
      * Vidéos
      * Audios
      * Podcasts
      * Newsletters
 
    Services
-     * (BUTTON) Carnet - Avis de décèschevron
-          + Déposer un avis
-          + Consulter les avis
+
+     * Carnet - Avis de décès
+          * Déposer un avis
+          * Consulter les avis
      * Jeux
      * Jeux concours
      * Boutique
@@ -108,18 +109,17 @@
      * Espace Presse
      * Les Balades de La Provence
      * Recrutements
-     * (BUTTON) Annonces Légaleschevron
-          + Publier un avis
-          + Consulter les avis Web
+     * Annonces Légales
+          * Publier un avis
+          * Consulter les avis Web
      * Formation
      * Petites annonces immo
      * Marchés publics
-
      * Carnet
        Déposer un avisConsulter les avis
      * Rubriques Partenaires
-       Étudier en ProvenceBien vieillir en ProvenceVotre argent avec
-       Finance Héros
+       Étudier en ProvenceBien vieillir en ProvenceVotre argent avec Finance
+       Héros
      * Annonces Légales et judiciaires
        Publier un avisConsulter les avis Web
      * Marchés Publics
@@ -128,98 +128,141 @@
      * Journal en ligne
      * Jeux
      * Service Publicité
-
-   (BUTTON) Ouvrir le menu latéral
+   Ouvrir le menu latéral
    Une du journal d’aujourd’hui - La Provence
 
    Le journal
+
    Accéder à la rubrique vidéos
 
    Vidéos
+
    Voir toutes les newsletters
 
    Newsletters
+
    Accéder à la rubrique audiosnouveau
 
    Audios
+
    La Provence
    La Provence
-   (BUTTON)
+   [ Submit ]
 
    Non abonné
+
    Une du journal d’aujourd’hui - La Provence
 
    Lire le journal
 
    02 janvier 2026
+
    Ma ProvenceNewslettersMes articles sauvegardésMes abonnementsMes
    facturesModifier le mot de passeRésilier mon abonnement
 
    Ma grille de jeux quotidienne
+
    Jouer
    Besoin d'aide ?
-   (BUTTON) Déconnexion
+   Déconnexion
      * À la Une
-     * En direct
-     * (BUTTON)
-       Ma ville
-       ____________________
-       Bouches-du-Rhône
-          + Marseille
-          + Aix-en-Provence
-          + Arles
-          + Aubagne
-          + La Ciotat
-          + Martigues
-          + Salon-de-Provence
-          + Vitrolles
-       Alpes-de-Haute-Provence
-          + Manosque
-          + Digne-les-Bains
-          + Sisteron
-          + Château-Arnoux-Saint-Auban
-          + Oraison
-          + Forcalquier
-       Vaucluse
-          + Avignon
-          + Cavaillon
-          + Carpentras
-          + L’Isle-sur-la-Sorgue
-          + Pertuis
-          + Orange
-          + Le Pontet
-          + Villeneuve-lès-Avignon
-     * Région
-     * Municipales 2026
-     * Économie
-     * Faits divers
-     * OM
-     * Sports
-     * Culture
-     * Loisirs & Traditions
-     * jeux-concours
-     * Shopping
-     *
 
-   À la uneFaits divers - JusticePris en flagrant délit de vol dans une
+     * En direct
+
+     * Ma ville
+
+       _____________________
+
+       Bouches-du-Rhône
+
+          * Marseille
+
+          * Aix-en-Provence
+
+          * Arles
+
+          * Aubagne
+
+          * La Ciotat
+
+          * Martigues
+
+          * Salon-de-Provence
+
+          * Vitrolles
+
+       Alpes-de-Haute-Provence
+
+          * Manosque
+
+          * Digne-les-Bains
+
+          * Sisteron
+
+          * Château-Arnoux-Saint-Auban
+
+          * Oraison
+
+          * Forcalquier
+
+       Vaucluse
+
+          * Avignon
+
+          * Cavaillon
+
+          * Carpentras
+
+          * L’Isle-sur-la-Sorgue
+
+          * Pertuis
+
+          * Orange
+
+          * Le Pontet
+
+          * Villeneuve-lès-Avignon
+
+     * Région
+
+     * Municipales 2026
+
+     * Économie
+
+     * Faits divers
+
+     * OM
+
+     * Sports
+
+     * Culture
+
+     * Loisirs & Traditions
+
+     * jeux-concours
+
+     * Shopping
+
+     * À la uneFaits divers - JusticePris en flagrant délit de vol dans une
    voiture à Marseille, il crache sur les policiers
 
-Pris en flagrant délit de vol dans une voiture à Marseille, il crache sur les
-policiers
+ Pris en flagrant délit de vol dans une voiture à Marseille, il crache sur les
+                                   policiers
 
    Par Marguerite DEGEZ
 
    Publié le 07/12/25 à 19:45
-   (BUTTON) Commenter (BUTTON) Partager
-   Le sans-abri interpellé dans le 6e arrondissement de Marseille
-   alcoolisé, sous médicament et cannabis en train de forcer une voiture a
-   été jugé trois jours plus tard par le tribunal correctionnel et
-   condamné à un an de prison ferme.
 
-   Le sans-abri interpellé dans le 6e arrondissement de Marseille
-   alcoolisé, sous médicament et cannabis en train de forcer une voiture a
-   été jugé trois jours plus tard par le tribunal correctionnel et
-   condamné à un an de prison ferme.
+   CommenterPartager
+   Le sans-abri interpellé dans le 6e arrondissement de Marseille alcoolisé,
+   sous médicament et cannabis en train de forcer une voiture a été jugé
+   trois jours plus tard par le tribunal correctionnel et condamné à un an de
+   prison ferme.
+
+   Le sans-abri interpellé dans le 6e arrondissement de Marseille alcoolisé,
+   sous médicament et cannabis en train de forcer une voiture a été jugé
+   trois jours plus tard par le tribunal correctionnel et condamné à un an de
+   prison ferme.
 
    Photo illustration M.DG.
 
@@ -228,10 +271,11 @@ policiers
    Chaque mardi
 
    Les enquêtes, affaires et grands procès de la région, tous les mardis
+
    S'inscrire
    Voir toutes les newsletters
-   (BUTTON) Écouter l'article(1:43) (BUTTON)
-   (BUTTON) Écouter le résumé(1:12) (BUTTON)
+   Écouter l'article(1:43)[ Submit ]
+   Écouter le résumé(1:12)[ Submit ]
    Nouveauté !
 
    Marseille
@@ -243,83 +287,93 @@ outrage et violence sur les fonctionnaires de police à un an de prison ferme.
    policiers n’ont pas eu de mal à croire Oussama T. lorsqu’il leur a
    expliqué qu’il ne gardait presque aucun souvenir de la scène qui lui
    valait de se retrouver dans les geôles d’un commissariat. Le
-   29 novembre 2025, cet Algérien de 32 ans avait été repéré rue Dragon,
-   dans le 6e arrondissement de Marseille, en train de forcer une voiture,
-   puis de tenter d’ouvrir une seconde.
-   À lire aussi : Un champion ciotaden de chasse sous-marine jugé pour
-   pêche illégale dans les calanques
+   29 novembre 2025, cet Algérien de 32 ans avait été repéré rue Dragon, dans
+   le 6e arrondissement de Marseille, en train de forcer une voiture, puis de
+   tenter d’ouvrir une seconde.
+
+   À lire aussi : Un champion ciotaden de chasse sous-marine jugé pour pêche
+   illégale dans les calanques
 
    Les riverains qui avaient donné l’alerte avaient ajouté qu’il s’était
    assis sur le pas d’une porte à quelques numéros des voitures. Les
    policiers n’avaient eu qu’à se rendre à l’adresse indiquée pour le
    cueillir.
 
-   IFRAME: iframe-video
+   IFrame: iframe-video
 
-   Enfin cueillir… Insultes, crachats et menaces : l’arrestation avait été
+   Enfin cueillir… Insultes, crachats et menaces : l’arrestation avait été
    particulièrement chaotique. Une scène qui a donc valu au jeune homme de
-   comparaître devant le tribunal correctionnel ce mardi 2 décembre, pour
-   tentative de vol, violence et outrage à personne dépositaire de
-   l’autorité publique.
+   comparaître devant le tribunal correctionnel ce mardi 2 décembre, pour
+   tentative de vol, violence et outrage à personne dépositaire de l’autorité
+   publique.
 
 "Il est lui-même sa première victime"
 
-   "J’étais ivre mort, je suis entré dans ce véhicule, mais pas pour
-   voler, c’était juste pour dormir", a tenté le prévenu face aux juges,
-   peu convaincus. Une caméra de vidéosurveillance avait capté son manège,
-   le montrant ouvrir la première voiture, y rentrer pendant six longues
-   minutes avant d’en ressortir pour tenter sa chance ailleurs.
+   "J’étais ivre mort, je suis entré dans ce véhicule, mais pas pour voler,
+   c’était juste pour dormir", a tenté le prévenu face aux juges, peu
+   convaincus. Une caméra de vidéosurveillance avait capté son manège, le
+   montrant ouvrir la première voiture, y rentrer pendant six longues minutes
+   avant d’en ressortir pour tenter sa chance ailleurs.
+
    À lire aussi : Un policier marseillais condamné pour avoir renseigné un
    narcotrafiquant
 
    Sa situation irrégulière et sa personnalité, marquée par l’errance, la
-   dépendance aux psychotropes et trois précédentes condamnations,
-   n’avaient rien pour rassurer non plus. La procureure Claire Remy a
-   prescrit une peine de 14 mois de prison, mettant en exergue "la
-   violence gratuite" à l’encontre des policiers et "le caractère
-   humiliant de se faire cracher dessus".
+   dépendance aux psychotropes et trois précédentes condamnations, n’avaient
+   rien pour rassurer non plus. La procureure Claire Remy a prescrit une
+   peine de 14 mois de prison, mettant en exergue "la violence gratuite" à
+   l’encontre des policiers et "le caractère humiliant de se faire cracher
+   dessus".
 
-   Les juges ont prononcé une peine de 12 mois ferme, écartant les
-   craintes de Julie Guichard, avocate de la défense, qu’une peine ferme
-   suivie d’une sortie ne vienne "renforcer sa marginalisation". "Il est
-   lui-même sa première victime", avait-elle tenté, pour recadrer le
-   débat.
-   (BUTTON) Démarrez la conversation
+   Les juges ont prononcé une peine de 12 mois ferme, écartant les craintes
+   de Julie Guichard, avocate de la défense, qu’une peine ferme suivie d’une
+   sortie ne vienne "renforcer sa marginalisation". "Il est lui-même sa
+   première victime", avait-elle tenté, pour recadrer le débat.
 
-   Votre opinion compte pour nous. Rejoignez la communauté laprovence.com
-   en réagissant sur l'article Pris en flagrant délit de vol dans une
-   voiture à Marseille, il crache sur les policiers.
+   Démarrez la conversation
+
+   Votre opinion compte pour nous. Rejoignez la communauté laprovence.com en
+   réagissant sur l'article Pris en flagrant délit de vol dans une voiture à
+   Marseille, il crache sur les policiers.
 
    En continu
-     *
-   12:41
+
+     * 12:41
+
        Dry January : notre sélection de 10 boissons sans alcool
-     *
-   12:31
-       Dépôts sauvages : le maire de Saint-Mitre instaure une amende
-       pouvant aller jusqu’à 2 400 euros
-     *
-   12:21
+
+     * 12:31
+
+       Dépôts sauvages : le maire de Saint-Mitre instaure une amende pouvant
+       aller jusqu’à 2 400 euros
+
+     * 12:21
+
        L’artiste Patricia Mouysset présente sa nouvelle exposition à la
        Galerie municipale de Miramas
-     *
-   12:01
+
+     * 12:01
+
        Nouveau chapitre pour la confrérie des Goutevins de l’Enclave des
        Papes
-     *
-   12:01
+
+     * 12:01
+
        Après la pompe à l'huile, une galette des Rois "surprise" à Peypin
-     *
-   12:01
-       Les danseurs de l’ASPTT Rock Swing se sont mobilisés en rythme pour
-       le Téléthon à Digne-les-Bains
-     *
-   12:00
-       Mort du botaniste français Francis Hallé à l’âge de 87 ans
-     *
-   11:47
-       Disney World : un employé blessé en protégeant des spectateurs de
-       la chute d’un rocher factice dans une attraction
+
+     * 12:01
+
+       Les danseurs de l’ASPTT Rock Swing se sont mobilisés en rythme pour le
+       Téléthon à Digne-les-Bains
+
+     * 12:00
+
+       Mort du botaniste français Francis Hallé à l’âge de 87 ans
+
+     * 11:47
+
+       Disney World : un employé blessé en protégeant des spectateurs de la
+       chute d’un rocher factice dans une attraction
 
    Plus d'infos
 
@@ -329,19 +383,22 @@ outrage et violence sur les fonctionnaires de police à un an de prison ferme.
 
    Les plus lus
 
-   Le Dr Isabelle Jaquet est addictologue à l'hôpital Sainte-Marguerite, �
+   Le Dr Isabelle Jaquet est addictologue à l'hôpital Sainte-Marguerite, à
    Marseille.
 
    1
-   Dry January : "En arrêtant de boire un mois, les gens vont ressentir
-   des effets positifs", assure le Dr Isabelle Jaquet
+
+   Dry January : "En arrêtant de boire un mois, les gens vont ressentir des
+   effets positifs", assure le Dr Isabelle Jaquet
    Santé
 
    2
-   Nouvel an 2026 : à Avignon, le premier bébé de l'année se prénomme Zaïd
+
+   Nouvel an 2026 : à Avignon, le premier bébé de l'année se prénomme Zaïd
    Société
 
    3
-   Fériés et ponts en 2026 : quels jours poser pour optimiser au maximum
-   vos congés cette année ?
+
+   Fériés et ponts en 2026 : quels jours poser pour optimiser au maximum vos
+   congés cette année ?
    Société

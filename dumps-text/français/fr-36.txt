@@ -1,34 +1,27 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
-
+   Link: canonical
+   Link: license
    Aller au contenu
-
    [ ] Menu principal
    Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Navigation
      * Page d’accueil
      * Portails thématiques
      * Article au hasard
      * Contact
-
    Contribuer
      * Débuter sur Wikipédia
      * Aide
      * Communauté
      * Pages spéciales
      * Modifications récentes
-
-   Wikipédia l'encyclopédie libre
+   [IMG] Wikipédia l'encyclopédie libre
    Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
+   _____________________
+   Rechercher
    [ ] Apparence
-
      * Faire un don
      * Créer un compte
      * Se connecter
-
    [ ] Outils personnels
      * Faire un don
      * Créer un compte
@@ -36,40 +29,31 @@
 
 Sommaire
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1 En droit français
      * 2 Articles connexes
      * 3 Lien externe
      * 4 Références
-
    [ ] Basculer la table des matières
 
-État des lieux (droit)
+                             État des lieux (droit)
 
    [ ] Ajouter des langues
-
    Ajouter des liens
-
      * Article
      * Discussion
-
    [ ] français
-
      * Lire
      * Modifier
      * Modifier le code
      * Voir l’historique
-
    [ ] Outils
    Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
      * Voir l’historique
-
    Général
      * Pages liées
      * Suivi des pages liées
@@ -79,36 +63,33 @@ Sommaire
      * Citer cette page
      * Obtenir l'URL raccourcie
      * Télécharger le code QR
-
    Imprimer / exporter
      * Créer un livre
      * Télécharger comme PDF
      * Version imprimable
-
    Dans d’autres projets
      * Élément Wikidata
-
    Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Un article de Wikipédia, l'encyclopédie libre.
+   [IMG]
 
    Cet article est une ébauche concernant le droit.
-   Vous pouvez partager vos connaissances en l’améliorant (comment ?)
-   selon les recommandations des projets correspondants.
+
+   Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon
+   les recommandations des projets correspondants.
    Page d’aide sur l’homonymie
 
    Pour les articles homonymes, voir État des lieux et EDL.
 
-   Un état des lieux (EDL) est une description d'un logement loué, des
-   pièces et des équipements de ce logement.
+   Un état des lieux (EDL) est une description d'un logement loué, des pièces
+   et des équipements de ce logement.
 
    Il se fait lors de l'entrée du locataire dans le logement et lors de la
    sortie.
 
-   En cas de dégradations visibles entre les deux états, il peut être
-   utilisé par le propriétaire du logement pour demander une somme
-   d'argent au locataire afin de remettre le logement dans son état
-   initial.
+   En cas de dégradations visibles entre les deux états, il peut être utilisé
+   par le propriétaire du logement pour demander une somme d'argent au
+   locataire afin de remettre le logement dans son état initial.
 
 En droit français
 
@@ -119,74 +100,70 @@ En droit français
 
    « S'il a été fait un état des lieux entre le bailleur et le preneur,
    celui-ci doit rendre la chose telle qu'il l'a reçue, suivant cet état,
-   excepté ce qui a péri ou a été dégradé par vétusté ou force majeure.
-   S'il n'a pas été fait d'état des lieux, le preneur est présumé les
-   avoir reçus en bon état de réparations locatives, et doit les rendre
-   tels, sauf la preuve contraire. »^[1]
+   excepté ce qui a péri ou a été dégradé par vétusté ou force majeure. S'il
+   n'a pas été fait d'état des lieux, le preneur est présumé les avoir reçus
+   en bon état de réparations locatives, et doit les rendre tels, sauf la
+   preuve contraire. »^[1]
 
-   En ce qui concerne les baux d'habitation, la loi 89-462 du 6 juillet
-   1982 impose l'état des lieux dans son article art. 3-2.
+   En ce qui concerne les baux d'habitation, la loi 89-462 du 6 juillet 1982
+   impose l'état des lieux dans son article art. 3-2.
 
-   « Un état des lieux est établi selon des modalités définies par décret
-   en Conseil d'Etat, pris après avis de la Commission nationale de
+   « Un état des lieux est établi selon des modalités définies par décret en
+   Conseil d'Etat, pris après avis de la Commission nationale de
    concertation, dans les mêmes formes et en autant d'exemplaires que de
    parties lors de la remise et de la restitution des clés. Il est établi
-   contradictoirement et amiablement par les parties ou par un tiers
-   mandaté par elles et joint au contrat de location.
+   contradictoirement et amiablement par les parties ou par un tiers mandaté
+   par elles et joint au contrat de location.
 
    Si l'état des lieux ne peut être établi dans les conditions prévues au
-   premier alinéa, il est établi par un huissier de justice, sur
-   l'initiative de la partie la plus diligente, à frais partagés par
-   moitié entre le bailleur et le locataire et à un coût fixé par décret
-   en Conseil d'Etat. Dans ce cas, les parties en sont avisées par
-   l'huissier au moins sept jours à l'avance, par lettre recommandée avec
-   demande d'avis de réception.
+   premier alinéa, il est établi par un huissier de justice, sur l'initiative
+   de la partie la plus diligente, à frais partagés par moitié entre le
+   bailleur et le locataire et à un coût fixé par décret en Conseil d'Etat.
+   Dans ce cas, les parties en sont avisées par l'huissier au moins sept
+   jours à l'avance, par lettre recommandée avec demande d'avis de réception.
 
    À défaut d'état des lieux ou de la remise d'un exemplaire de l'état des
    lieux à l'une des parties, la présomption établie par l'article 1731 du
-   code civil ne peut être invoquée par celle des parties qui a fait
-   obstacle à l'établissement de l'acte ou à sa remise à l'une des
-   parties.
+   code civil ne peut être invoquée par celle des parties qui a fait obstacle
+   à l'établissement de l'acte ou à sa remise à l'une des parties.
 
-   Le locataire peut demander au bailleur ou à son représentant de
-   compléter l'état des lieux d'entrée dans un délai de dix jours �
-   compter de son établissement. Si cette demande est refusée, le
-   locataire peut saisir la commission départementale de conciliation
-   territorialement compétente.
+   Le locataire peut demander au bailleur ou à son représentant de compléter
+   l'état des lieux d'entrée dans un délai de dix jours à compter de son
+   établissement. Si cette demande est refusée, le locataire peut saisir la
+   commission départementale de conciliation territorialement compétente.
 
    Pendant le premier mois de la période de chauffe, le locataire peut
    demander que l'état des lieux soit complété par l'état des éléments de
    chauffage.
 
-   Le propriétaire ou son mandataire complète les états des lieux d'entrée
-   et de sortie par les relevés des index pour chaque énergie, en présence
-   d'une installation de chauffage ou d'eau chaude sanitaire individuelle,
-   ou collective avec un comptage individuel. L'extrait de l'état des
-   lieux correspondant est mis à la disposition de la personne chargée
-   d'établir le diagnostic de performance énergétique prévu à l'article L.
-   134-1 du code de la construction et de l'habitation qui en fait la
-   demande, sans préjudice de la mise à disposition des factures. »
+   Le propriétaire ou son mandataire complète les états des lieux d'entrée et
+   de sortie par les relevés des index pour chaque énergie, en présence d'une
+   installation de chauffage ou d'eau chaude sanitaire individuelle, ou
+   collective avec un comptage individuel. L'extrait de l'état des lieux
+   correspondant est mis à la disposition de la personne chargée d'établir le
+   diagnostic de performance énergétique prévu à l'article L. 134-1 du code
+   de la construction et de l'habitation qui en fait la demande, sans
+   préjudice de la mise à disposition des factures. »
 
-   Le 8 mars 2023, la Cour de Cassation a estimé qu'un propriétaire
-   pouvait facturer au locataire une somme supérieure au montant de la
-   remise en état de manière à tenir compte du préjudice financier qu’il
-   subit en étant obligé de baisser son loyer pendant la durée de la
-   remise en état ou en étant obligé de retarder la date de remise en
-   location du bien.
+   Le 8 mars 2023, la Cour de Cassation a estimé qu'un propriétaire pouvait
+   facturer au locataire une somme supérieure au montant de la remise en état
+   de manière à tenir compte du préjudice financier qu’il subit en étant
+   obligé de baisser son loyer pendant la durée de la remise en état ou en
+   étant obligé de retarder la date de remise en location du bien.
 
    Le décret d'application est le décret 2016-382 du 30 mars 2016.
 
    En vigueur depuis juillet 2014, la loi Alur a fixé un nouveau cadre
    législatif aux états des lieux. en effet, la loi met en place un modèle
-   type d’état des lieux d’entrée et de sortie. L’objectif de la
-   législation est d’améliorer les rapports entre locataire et
-   propriétaire et réduire le nombre de litiges.
+   type d’état des lieux d’entrée et de sortie. L’objectif de la législation
+   est d’améliorer les rapports entre locataire et propriétaire et réduire le
+   nombre de litiges.
 
    La nouvelle réglementation permet aussi de faire un état des lieux
    dématérialisé et le fait de pouvoir l’illustrer. Enfin, la nouvelle
-   réglementation éclaircit la définition de la vétusté et permet au
-   bailleur et au locataire de convenir ensemble du respect d’une grille
-   de vétusté ayant fait l’objet d’un accord au préalable.
+   réglementation éclaircit la définition de la vétusté et permet au bailleur
+   et au locataire de convenir ensemble du respect d’une grille de vétusté
+   ayant fait l’objet d’un accord au préalable.
 
 Articles connexes
 
@@ -204,24 +181,18 @@ Références
 
    [modifier | modifier le code]
     1. ↑
-       http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000
-       006150285&cidTexte=LEGITEXT000006070721
-
+       http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150285&cidTexte=LEGITEXT000006070721
      * icône décorative Portail du droit
-
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=État_des_lieux_(droit)&old
-   id=226952763 ».
+   « https://fr.wikipedia.org/w/index.php?title=État_des_lieux_(droit)&oldid=226952763 ».
    Catégorie :
      * Droit immobilier
-
    Catégories cachées :
      * Wikipédia:ébauche droit
      * Portail:Droit/Articles liés
      * Portail:Société/Articles liés
-
-     * La dernière modification de cette page a été faite le 2 juillet
-       2025 à 14:53.
+     * La dernière modification de cette page a été faite le 2 juillet 2025 à
+       14:53.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
@@ -229,9 +200,8 @@ Références
        réutilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
        Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du code
+       fiscal des États-Unis.
      * Politique de confidentialité
      * À propos de Wikipédia
      * Avertissements
@@ -242,14 +212,11 @@ Références
      * Statistiques
      * Déclaration sur les témoins (cookies)
      * Version mobile
-
      * Wikimedia Foundation
      * Powered by MediaWiki
-
-   (BUTTON) Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
+   Rechercher
+   _____________________
+   Rechercher
    [ ] Basculer la table des matières
    État des lieux (droit)
-   (BUTTON) Ajouter des langues Ajouter un sujet
+   Ajouter des langues Ajouter un sujet

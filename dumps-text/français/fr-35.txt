@@ -1,17 +1,8 @@
-   REFRESH(1200 sec): file://localhost/tmp/withcharset.html
-   #search
-
-   [alpha.png]
-
-   (BUTTON)
-     * (BUTTON) Menu principal
-     *
-
-       Moteur de recherche
-
-       Rechercher ____________________ (BUTTON)
-
-     * (BUTTON) Menu principal
+   Link: canonical
+   [ Submit ]
+     * Menu principal
+     * Moteur de recherche Rechercher _____________________ [ Submit ]
+     * Menu principal
      * Vie pratique
      * Forum
      * Associations
@@ -20,131 +11,94 @@
      * Consommation
      * Santé
      * SOS Avocat
-
-   Moteur de recherche
-
-   Rechercher ____________________ (BUTTON)
-
-   Connexion Posez votre question
-
+   Moteur de recherche Rechercher _____________________ [ Submit ]
+   Connexion  Posez votre question
    Immobilier Patrimoine Impôts Famille Salariés Vie pratique Justice
-   Entreprise Forum
-
-   Forum Associations Assurances Automobile Consommation Santé Annonces
-   Immo Emploi
-
-   Selon la justice, le locataire qui d&eacute;grade un logement n'a rien
-   &agrave; payer si son propri&eacute;taire n&eacute;glige cette
-   formalit&eacute;
-
-   "Selon la justice, le locataire qui dégrade un logement n'a rien �
-   payer si son propriétaire néglige cette formalité"
-
+   Entreprise Forum Forum Associations Assurances Automobile Consommation
+   Santé Annonces  Immo  Emploi
+   Selon la justice, le locataire qui dégrade un logement n'a rien à payer si
+   son propriétaire néglige cette formalité
+   "Selon la justice, le locataire qui dégrade un logement n'a rien à payer
+   si son propriétaire néglige cette formalité"
    VIDEO
 
-Selon la justice, le locataire qui dégrade un logement n'a rien à payer si
-son propriétaire néglige cette formalité
+ Selon la justice, le locataire qui dégrade un logement n'a rien à payer si son
+                      propriétaire néglige cette formalité
 
    Selon un arrêt de la Cour de Cassation, c'est au bailleur de payer les
-   frais de remise en l'état du logement s'il oublie une formalité
-   importante au moment du départ du locataire.
+   frais de remise en l'état du logement s'il oublie une formalité importante
+   au moment du départ du locataire.
+
    Matthieu Blanc
    Matthieu Blanc
    24 novembre 2025 18:01
-   (BUTTON) Partager Partager
-     *
-     *
-     *
-     * (BUTTON) Copier
-
+   Partager
    Réagir
-   Article partagé avec succès !
-
-   Et si les meilleures astuces de la rédac arrivaient directement dans
-   votre boîte mail ?
-   ____________________ (BUTTON) Je m'abonne
-
-   En savoir plus sur notre politique de confidentialité
-   (BUTTON) Fermer
 
    Les frais de remise en l'état d'un logement sont une cause fréquente de
-   litige locatif. L'article 7 de la loi n° 89-462 du 6 juillet 1989
-   impose plusieurs obligations au locataire sur ce point. Il doit ainsi
-   répondre des dégradations et pertes qui surviennent pendant la durée du
-   contrat de bail. Le preneur doit en outre prendre à sa charge
-   l'entretien courant du logement, des équipements, les menues
-   réparations ainsi que les réparations locatives. En pratique, les
-   détériorations à la charge du locataire peuvent par exemple prendre la
-   forme de trous ou de taches sur les murs, d'un revêtement de sol brûlé
-   ou abîmé, d'une porte enfoncée, d'une plaque de cuisson cassée...
+   litige locatif. L'article 7 de la loi n° 89-462 du 6 juillet 1989 impose
+   plusieurs obligations au locataire sur ce point. Il doit ainsi répondre
+   des dégradations et pertes qui surviennent pendant la durée du contrat de
+   bail. Le preneur doit en outre prendre à sa charge l'entretien courant du
+   logement, des équipements, les menues réparations ainsi que les
+   réparations locatives. En pratique, les détériorations à la charge du
+   locataire peuvent par exemple prendre la forme de trous ou de taches sur
+   les murs, d'un revêtement de sol brûlé ou abîmé, d'une porte enfoncée,
+   d'une plaque de cuisson cassée...
 
    Le propriétaire est en droit de faire prendre en charge les réparations
-   par son locataire lorsque celles-ci sont constatées dans l'état des
-   lieux de sortie. Mais dans un arrêt du 16 novembre 2023, la 3e chambre
-   civile de la Cour de Cassation (arrêt n° 22-19422) a rappelé une
-   condition fondamentale pour que le bailleur puisse mettre en cause la
-   responsabilité de son locataire lorsque cette situation - très
-   fréquente - se présente.
+   par son locataire lorsque celles-ci sont constatées dans l'état des lieux
+   de sortie. Mais dans un arrêt du 16 novembre 2023, la 3e chambre civile de
+   la Cour de Cassation (arrêt n° 22-19422) a rappelé une condition
+   fondamentale pour que le bailleur puisse mettre en cause la responsabilité
+   de son locataire lorsque cette situation - très fréquente - se présente.
 
-   Dans cette affaire, le litige portait sur un défaut d'entretien du
-   jardin par le locataire. Le bailleur reprochait ainsi à ce dernier de
-   ne pas avoir désherber. Cette absence d'entretien était constatée dans
-   un état des lieux de sortie. Mais, souligne la Cour de Cassation, ce
-   document avait été établi unilatéralement par le mandataire du
-   bailleur, en l'absence du locataire. Or, pour les juges, le bailleur ne
-   démontrait pas avoir tenté d'établir amiablement l'état des lieux de
-   sortie de manière contradictoire, alors même qu'il savait que le
-   locataire allait quitter les lieux. Par conséquent, le document établi
-   par lui seul ne valait pas preuve des dégradations.
+   Dans cette affaire, le litige portait sur un défaut d'entretien du jardin
+   par le locataire. Le bailleur reprochait ainsi à ce dernier de ne pas
+   avoir désherber. Cette absence d'entretien était constatée dans un état
+   des lieux de sortie. Mais, souligne la Cour de Cassation, ce document
+   avait été établi unilatéralement par le mandataire du bailleur, en
+   l'absence du locataire. Or, pour les juges, le bailleur ne démontrait pas
+   avoir tenté d'établir amiablement l'état des lieux de sortie de manière
+   contradictoire, alors même qu'il savait que le locataire allait quitter
+   les lieux. Par conséquent, le document établi par lui seul ne valait
+   pas preuve des dégradations. 
 
    Dans les faits, le bailleur ne pouvait pas non plus prétexter que le
-   locataire refusait un état des lieux amiable. En effet, dans un tel
-   cas, la loi prévoit qu'il est nécessaire de faire appel à un
-   commissaire de justice (qui a remplacé l'ancien huissier de justice),
-   les frais d'état des lieux étant alors partagés par moitié. Or, dans
-   cette affaire, le mandataire du bailleur n'avait fait appel à personne
-   mais avait décidé d'établir lui-même l'état des lieux. Quitte à rédiger
-   un document n'ayant aucune valeur probante...
+   locataire refusait un état des lieux amiable. En effet, dans un tel cas,
+   la loi prévoit qu'il est nécessaire de faire appel à un commissaire de
+   justice (qui a remplacé l'ancien huissier de justice), les frais d'état
+   des lieux étant alors partagés par moitié. Or, dans cette affaire, le
+   mandataire du bailleur n'avait fait appel à personne mais avait décidé
+   d'établir lui-même l'état des lieux. Quitte à rédiger un document n'ayant
+   aucune valeur probante...
 
-     *
+     * [IMG]
 
-Succession : voici le montant qu'un héritier devra payer aux impôts en
-2026 selon sa part d'héritage
-     *
+  Succession : voici le montant qu'un héritier devra payer aux impôts en
+  2026 selon sa part d'héritage
 
-Les virements des retraites de janvier arrivent sur les comptes, voici les
-dates de versement annoncées
+     * [IMG]
+
+  Les virements des retraites de janvier arrivent sur les comptes, voici les
+  dates de versement annoncées
 
    Le bailleur a ainsi été condamné à verser à son locataire la somme
    de 1539,60 euros au titre de la restitution du dépôt de garantie et des
-   majorations de retard. Une somme que le propriétaire n'aurait pas eu �
-   verser s'il avait adressé à son locataire une demande d'état des lieux
-   par courrier recommandé avec avis de réception puis, à défaut de
-   réponse, fait appel à un commissaire de justice pour établir le
-   document. Des formalités que les bailleurs ne doivent donc pas négliger
-   lorsqu'ils reçoivent le préavis de départ de leur locataire, sous peine
-   de devoir prendre à leur charge les dégradations commises par ce
-   dernier.
-   (BUTTON) Partager Partager
-     *
-     *
-     *
-     * (BUTTON) Copier
+   majorations de retard. Une somme que le propriétaire n'aurait pas eu à
+   verser s'il avait adressé à son locataire une demande d'état des lieux par
+   courrier recommandé avec avis de réception puis, à défaut de réponse, fait
+   appel à un commissaire de justice pour établir le document. Des formalités
+   que les bailleurs ne doivent donc pas négliger lorsqu'ils reçoivent le
+   préavis de départ de leur locataire, sous peine de devoir prendre à leur
+   charge les dégradations commises par ce dernier.
 
+   Partager
    Réagir
-   Article partagé avec succès !
-
-   Et si les meilleures astuces de la rédac arrivaient directement dans
-   votre boîte mail ?
-   ____________________ (BUTTON) Je m'abonne
-
-   En savoir plus sur notre politique de confidentialité
-   (BUTTON) Fermer
-
-   Succession : voici le montant qu'un héritier devra payer aux impôts en
-   2026 selon sa part d'héritage
-   Il y a 1 heure Succession : voici le montant qu'un héritier devra payer
-   aux impôts en 2026 selon sa part d'héritage
+   Succession : voici le montant qu'un héritier devra payer aux impôts en
+   2026 selon sa part d'héritage
+   Il y a 1 heure Succession : voici le montant qu'un héritier devra payer
+   aux impôts en 2026 selon sa part d'héritage
    Les pensions Agirc-Arrco de nombreux retraités vont fortement baisser,
    voici qui est concerné
    Il y a 4 jours Les pensions Agirc-Arrco de nombreux retraités vont
@@ -153,17 +107,15 @@ dates de versement annoncées
    petits-enfants, mais la justice le leur refuse
    Il y a 4 jours Des grands-parents font valoir leur droit de visite pour
    voir leurs petits-enfants, mais la justice le leur refuse
-
    Focus
-     * Succession : voici le montant qu'un héritier devra payer aux impôts
-       en 2026 selon sa part d'héritage
-     * Les virements des retraites de janvier arrivent sur les comptes,
-       voici les dates de versement annoncées
-     * LEP : en ayant placé 6000 € cette année, voici les intérêts qu'un
+     * Succession : voici le montant qu'un héritier devra payer aux impôts en
+       2026 selon sa part d'héritage
+     * Les virements des retraites de janvier arrivent sur les comptes, voici
+       les dates de versement annoncées
+     * LEP : en ayant placé 6000 € cette année, voici les intérêts qu'un
        livret d'épargne populaire rapportera en janvier
-     * Mauvaise nouvelle pour les seniors : voici ce qu'un retraité devra
+     * Mauvaise nouvelle pour les seniors : voici ce qu'un retraité devra
        payer en plus dans quelques jours
-
      * Qui sommes-nous ?
      * Inscrivez-vous
      * Conditions générales
@@ -178,7 +130,6 @@ dates de versement annoncées
      * Annonceurs
      * Groupe Figaro
      * © 2025 CCM Benchmark
-
    CCM Benchmark Group
-   Journal des femmes Journal Du Net Linternaute CCM Copains d'avant
-   Viadeo JDN Ariase Phonandroid
+   Journal des femmes Journal Du Net Linternaute CCM Copains d'avant Viadeo
+   JDN Ariase Phonandroid
