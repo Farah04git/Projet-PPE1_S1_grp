@@ -2,7 +2,7 @@
 
 DUMP_DIR="./dumps-text/français"
 OUTPUT_PATH="./concordances/français"
-CONTEXT=7
+CONTEXT=5
 
 REGEX="[eéèêËE][tT][aàAÀ][tT]s?([-][A-Za-zàâäéèêëïîôöùûüÿçÀÂÄÉÈÊËÏÎÔÖÙÛÜŸÇ]+)?"
 
@@ -54,8 +54,15 @@ for file in "$DUMP_DIR"/*.txt; do
 
 
             # Champs gauche et droite
-            left=$(echo "$left_part" | awk -v n=$CONTEXT '{for(i=NF-n+1;i<=NF;i++) printf "%s ", $i}')
-            right=$(echo "$right_part" | awk -v n=$CONTEXT '{for(i=1;i<=n;i++) printf "%s ", $i}')
+            left=$(echo "$left_part" | awk -v n=$CONTEXT '{
+                start = NF - n + 1
+                if(start < 1) start = 1
+                for(i=start;i<=NF;i++) printf "%s ", $i
+            }')
+            right=$(echo "$right_part" | awk -v n=$CONTEXT '{
+                end = (NF < n ? NF : n)
+                for(i=1;i<=end;i++) printf "%s ", $i
+            }')
 
             # Ajout de la ligne au tableau
             echo "<tr><td>${left}</td><td><strong>${mot_etat}</strong></td><td>${right}</td></tr>" >> "$OUT_HTML"

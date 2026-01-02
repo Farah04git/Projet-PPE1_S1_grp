@@ -116,7 +116,9 @@ while read -r URL ; do
 	filename_contextes="$DIR_CONTXT/contxt_fr-$ID.txt"
 	grep -E -C 1 "$REGEX" "$filename_dump" | sed -E "s/($REGEX)/..\1../gi" > "$filename_contextes"
 
-
+	# Ajout Concordancier :
+	filename_concord="$DIR_CONCORD/concordancier-fr-$ID.html"
+	
 
 	echo "<tr>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$ID" "</td>" >> "$DIR_HTML_OUT"
@@ -127,6 +129,7 @@ while read -r URL ; do
 	echo "<td>" "<a href=\".$filename_aspiration\" >HTML brute</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\".$filename_dump\" >dump</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\".$filename_contextes\" >contxt</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_concord\" >contxt</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "</tr>" >> "$DIR_HTML_OUT"
 	
 	((ID++))
