@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# voir encodage
 ## TODO :
-# Convertir ceux qui ne sont pas UTF-8 pour les convertir
 # centrer colonnes
 # script pour arboressence
 
@@ -114,9 +112,9 @@ while read -r URL ; do
 	total_occurences=$(grep -Eio "$REGEX" "$filename_dump" | wc -l)
 	echo "$total_occurences"
 	
-	# Contexte - 1 ligne
+	# Contexte - 1 ligne : mise en avant avec .. ..
 	filename_contextes="$DIR_CONTXT/contxt_fr-$ID.txt"
-	grep -E -C 1 "$REGEX" "$filename_dump" > "$filename_contextes"
+	grep -E -C 1 "$REGEX" "$filename_dump" | sed -E "s/($REGEX)/..\1../gi" > "$filename_contextes"
 
 
 	echo "<tr>" >> "$DIR_HTML_OUT"
