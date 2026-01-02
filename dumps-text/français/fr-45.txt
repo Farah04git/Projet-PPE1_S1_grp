@@ -174,7 +174,7 @@
 
       Par Claire Dewerdt, Avocat.
 
-   75330 lectures 1re Parution: 6 octobre 2020 4.65  /5
+   75331 lectures 1re Parution: 6 octobre 2020 4.65  /5
 
    Niveau Expert 2
 
@@ -514,19 +514,19 @@
    Fuites de données, transparence des blockchains et mise en danger des      
    entrepreneurs : un angle mort de la réglementation crypto. 100             
    Management toxique : le harcèlement moral peut être retenu même si les     
-   méthodes de gestion ne concernent pas un salarié determiné. 89             
+   méthodes de gestion ne concernent pas un salarié determiné. 93             
    Grand excès de vitesse : la fin des contraventions, place au tribunal      
-   correctionnel ? 78                                                         
+   correctionnel ? 80                                                         
    Sélection Liberalis spécial Fêtes : Roi ou Reine d’un jour, ne manquez pas 
-   les plus belles galettes 2026 ! 59                                         
+   les plus belles galettes 2026 ! 61                                         
    Loyers impayés : comment expulser un locataire mauvais payeur en toute     
-   légalité en 2026 ? 56                                                      
+   légalité en 2026 ? 60                                                      
    Où vont les commissaires de justice ? Retour sur le Congrès national de la 
    profession. 55                                                             
    Rompre un bail commercial sans indemnité : les cas où le bailleur peut     
-   agir sans faute. 50                                                        
+   agir sans faute. 53                                                        
    La communication de pièces par lien de téléchargement est-elle régulière ? 
-   48                                                                         
+   49                                                                         
 
    Annonces d'Emploi
 
@@ -610,21 +610,15 @@
    PROFESSIONNELS DU DROIT
 
    Previous Next
-   [IMG] Cabinet d'avocat
+   [IMG]
 
     
 
-   Cabinet d'avocat
    [IMG] Collectif d'avocats et de médiateurs
 
     
 
    Collectif d'avocats et de médiateurs
-   [IMG] Association pour la prévention positive des cyberviolences
-
-    
-
-   Association pour la prévention positive des cyberviolences
    [IMG] Facilite l'accès aux professions du Droit
 
     
@@ -635,6 +629,16 @@
     
 
    Réseau de professionnels du Droit
+   [IMG] Bien plus que du droit.
+
+    
+
+   Bien plus que du droit.
+   [IMG] Association pour la prévention positive des cyberviolences
+
+    
+
+   Association pour la prévention positive des cyberviolences
    [IMG] Cabinet d'Avocats
 
     
@@ -646,43 +650,20 @@
     
 
    Procédure d’appel, procédure civile, conseil, contentieux, modes amiables
-   [IMG] Bien plus que du droit.
-
-    
-
-   Bien plus que du droit.
    [IMG] Réseau de cabinets d’avocats indépendants
 
     
 
    Réseau de cabinets d’avocats indépendants
-   [IMG]
+   [IMG] Cabinet d'avocat
 
     
+
+   Cabinet d'avocat
 
    Solutions
 
    Previous Next
-   [IMG]
-
-    
-
-   AI-powered Contract Management
-   [IMG]
-
-    
-
-   Editeur juridique
-   [IMG]
-
-    
-
-   Editeur juridique et de solutions de gestion pour les métiers du droit
-   [IMG]
-
-    
-
-   Traducteurs assermentés
    [IMG]
 
     
@@ -692,7 +673,7 @@
 
     
 
-   Solutions d'informations pour professionnels du droit.
+   Destruction et recyclage de documents confidentiels
    [IMG]
 
     
@@ -702,17 +683,17 @@
 
     
 
-   Destruction et recyclage de documents confidentiels
+   AI-powered Contract Management
    [IMG]
 
     
 
-   Association de gestion et de comptabilité pour Avocats
+   Créateur de confiance juridique
    [IMG]
 
     
 
-   1er service entièrement en ligne pour externaliser vos appels
+   Editeur juridique
    [IMG]
 
     
@@ -722,12 +703,27 @@
 
     
 
+   Lettre recommandée électronique
+   [IMG]
+
+    
+
    Maintenance informatique spécialisée pour les professionnels du droit
    [IMG]
 
     
 
-   Lettre recommandée électronique
+   1er service entièrement en ligne pour externaliser vos appels
+   [IMG]
+
+    
+
+   Traducteurs assermentés
+   [IMG]
+
+    
+
+   Editeur juridique et de solutions de gestion pour les métiers du droit
    [IMG]
 
     
@@ -737,7 +733,12 @@
 
     
 
-   Créateur de confiance juridique
+   Solutions d'informations pour professionnels du droit.
+   [IMG]
+
+    
+
+   Association de gestion et de comptabilité pour Avocats
 
    Formateurs
 
@@ -747,42 +748,42 @@
     
 
    Se former est une chance !
-   [IMG] Formation, recherche et innovation
-
-    
-
-   Formation, recherche et innovation
-   [IMG] La Compétence juridique se recrute !
-
-    
-
-   La Compétence juridique se recrute !
-   [IMG] L’école des nouveaux juristes !
-
-    
-
-   L’école des nouveaux juristes !
    [IMG] Des formations spécialisées
 
     
 
    Des formations spécialisées
+   [IMG] Formation, recherche et innovation
+
+    
+
+   Formation, recherche et innovation
+   [IMG] Se former aux métiers du Droit
+
+    
+
+   Se former aux métiers du Droit
+   [IMG] La Compétence juridique se recrute !
+
+    
+
+   La Compétence juridique se recrute !
    [IMG] Formations courtes ou longues à destination des professionnels du
    droit
 
     
 
    Formations courtes ou longues à destination des professionnels du droit
-   [IMG] Se former aux métiers du Droit
-
-    
-
-   Se former aux métiers du Droit
    [IMG] Cabinet juridique et organisme de formation
 
     
 
    Cabinet juridique et organisme de formation
+   [IMG] L’école des nouveaux juristes !
+
+    
+
+   L’école des nouveaux juristes !
 
    Nouveautés Édition juridique
 
@@ -875,7 +876,8 @@
    responsabilité civile - copropriété - preuve - formation professionnelle -
    protection des données - responsabilité bancaire - prescription -
    procédure civile - licenciement - sécurité juridique - contrat de travail
-   - contentieux administratif - procédure pénale - discrimination
+   - procédure pénale - contentieux administratif - responsabilité
+   contractuelle
 
    D'autres sites du réseau Legi Team
 

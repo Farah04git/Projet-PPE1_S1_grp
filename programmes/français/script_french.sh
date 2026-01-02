@@ -96,6 +96,8 @@ while read -r URL ; do
 	# links (!= lynx) pour dump
 	filename_dump="$DIR_DUMP/fr-$ID.txt"
 	links -dump "$filename_aspiration" > "$filename_dump"
+	sed -i 's/\([^[:alpha:]]\)[\/<>|*?_-]\([^[:alpha:]]\)/\1\2/g' "$filename_dump" # suprresion caractères spéciaux
+	
 
 	# debug######
 	if iconv -f UTF-8 -t UTF-8 "$filename_dump" > /dev/null 2>&1; then
