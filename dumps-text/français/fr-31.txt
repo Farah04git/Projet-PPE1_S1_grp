@@ -1,308 +1,295 @@
-   Aller au contenu principal
+Aller au contenu principal
 
-   Les chambres des Notaires
+Les chambres des Notaires
 
-   DU GRAND PARIS :
-   Lien externe
-   Ligne 1
+DU GRAND PARIS :
+Lien externe
+Ligne 1
 
-   NOTAIRES
-   Ligne 2
+NOTAIRES
+Ligne 2
 
-   du Grand PARIS
-   LogoNGP
-   Lien
-   http://notairesdugrandparis.fr
-   Instagram
-   http://instagram.com/chambrenotairesparis/
-   Linkedin
-   https://fr.linkedin.com/company/chambre-des-notaires-de-paris
-   Youtube
-   http://www.youtube.com/user/ParisNotairesInfoMag
-   Facebook
-   https://www.facebook.com/ChambredesNotairesdeParis/
-   Twitter
-   https://twitter.com/notairesdeparis
-   Accueil
-   ____________________________________________________________
-   (Ok) Ok
-   (BUTTON) Toggle navigation
+du Grand PARIS
+LogoNGP
+Lien
+http://notairesdugrandparis.fr
+Instagram
+http://instagram.com/chambrenotairesparis/
+Linkedin
+https://fr.linkedin.com/company/chambre-des-notaires-de-paris
+Youtube
+http://www.youtube.com/user/ParisNotairesInfoMag
+Facebook
+https://www.facebook.com/ChambredesNotairesdeParis/
+Twitter
+https://twitter.com/notairesdeparis
+Accueil
+____________________________________________________________
+(Ok) Ok
+(BUTTON) Toggle navigation
 
 Menu Principal 75
 
-     * Actualités
-     * La Chambre
-          + Histoire de la Chambre et du Notariat de Paris
-               o Les notaires du Châtelet
-               o L'histoire de la Chambre
-               o Les symboles du notariat
-          + Rapport d'activité
-          + Organisation et rôles
-          + Certification de la Chambre
-          + L'immeuble de la Place du Châtelet
-          + L'action internationale de la Chambre
-               o L'Europe
-          + Composition de la Chambre et de la Compagnie
-          + Égalité femmes-hommes
-          + L'invité(e) de la Chambre des notaires de Paris
-     * Services pour les particuliers
-          + CLAP
-          + Modalités d'accès au droit
-          + VIDOC : consultation des déclarations foncières de la Ville de
-            Paris
-          + Centre de Médiation et d'Arbitrage des Notaires de Paris
-            (CMANOT-Paris)
-          + Les réclamations concernant un notaire
-          + Les ventes aux enchères
-          + Divorce - Liquidation des intérêts patrimoniaux
-          + Les expertises immobilières
-     * Les métiers du notariat
-          + Notaire
-          + Juriste
-          + Assistant(e) ou secrétaire juridique
-          + Caissier - comptable
-          + Formaliste
-     * Presse
-          + Communication immobilière mensuelle
-          + Communiqué de presse
-          + Focus immobilier
-     * Outils & Services
-          + Annuaire
-               o Trouver un notaire en exercice
-               o Trouver un ancien notaire
-          + Newsletter
-               o Inscription à la Newsletter
-          + Carte des prix
-               o Prix de l'immobilier en Ile-de-France
-               o Prix de l'immobilier à Paris
-               o Immo Notaires Argus
-               o Prix au m² au 4e trimestre 2024 (IFI)
-          + Lexiques
-               o Lexique juridique
-               o Lexique du patrimoine
-          + Contacts
-               o Centre de médiation des notaires de Paris
-               o Le Club Notarial de l'Immobilier
-               o Problème technique
-               o Recherche de Notaire en charge d'une succession
-               o Relations Presse
-               o Réclamations concernant un notaire
-               o Club du Châtelet
-               o Demande de fiche de révision foncière
-          + Publications
-               o Copropriété : le guide
-               o Dépliants
-               o Flyers
-               o Infographies
-               o Votre notaire vous informe
-          + Evénements
-               o Conférence de Presse
-               o Conférences
-               o Evénements
-               o Permanence / Consultation
-          + Simulateurs
-               o Calcul des frais d'achat
-               o Calcul des frais de mainlevée
-               o Calcul des plus-values
-               o Calcul des droits de succession
-          + Charte de la confraternité
-          + Règlement de la Chambre
+  * ActualitÃ©s
+  * La Chambre
+  + Histoire de la Chambre et du Notariat de Paris
+  o Les notaires du ChÃ¢telet
+  o L'histoire de la Chambre
+  o Les symboles du notariat
+  + Rapport d'activitÃ©
+  + Organisation et rÃ´les
+  + Certification de la Chambre
+  + L'immeuble de la Place du ChÃ¢telet
+  + L'action internationale de la Chambre
+  o L'Europe
+  + Composition de la Chambre et de la Compagnie
+  + Ã‰galitÃ© femmes-hommes
+  + L'invitÃ©(e) de la Chambre des notaires de Paris
+  * Services pour les particuliers
+  + CLAP
+  + ModalitÃ©s d'accÃ¨s au droit
+  + VIDOC : consultation des dÃ©clarations fonciÃ¨res de la Ville de Paris
+  + Centre de MÃ©diation et d'Arbitrage des Notaires de Paris (CMANOT-Paris)
+  + Les rÃ©clamations concernant un notaire
+  + Les ventes aux enchÃ¨res
+  + Divorce - Liquidation des intÃ©rÃªts patrimoniaux
+  + Les expertises immobiliÃ¨res
+  * Les mÃ©tiers du notariat
+  + Notaire
+  + Juriste
+  + Assistant(e) ou secrÃ©taire juridique
+  + Caissier - comptable
+  + Formaliste
+  * Presse
+  + Communication immobiliÃ¨re mensuelle
+  + CommuniquÃ© de presse
+  + Focus immobilier
+  * Outils & Services
+  + Annuaire
+  o Trouver un notaire en exercice
+  o Trouver un ancien notaire
+  + Newsletter
+  o Inscription Ã  la Newsletter
+  + Carte des prix
+  o Prix de lâ€™immobilier en Ile-de-France
+  o Prix de lâ€™immobilier Ã  Paris
+  o Immo Notaires Argus
+  o Prix au mÂ² au 4e trimestre 2024 (IFI)
+  + Lexiques
+  o Lexique juridique
+  o Lexique du patrimoine
+  + Contacts
+  o Centre de mÃ©diation des notaires de Paris
+  o Le Club Notarial de l'Immobilier
+  o ProblÃ¨me technique
+  o Recherche de Notaire en charge d'une succession
+  o Relations Presse
+  o RÃ©clamations concernant un notaire
+  o Club du ChÃ¢telet
+  o Demande de fiche de rÃ©vision fonciÃ¨re
+  + Publications
+  o CopropriÃ©tÃ© : le guide
+  o DÃ©pliants
+  o Flyers
+  o Infographies
+  o Votre notaire vous informe
+  + EvÃ©nements
+  o ConfÃ©rence de Presse
+  o ConfÃ©rences
+  o EvÃ©nements
+  o Permanence / Consultation
+  + Simulateurs
+  o Calcul des frais d'achat
+  o Calcul des frais de mainlevÃ©e
+  o Calcul des plus-values
+  o Calcul des droits de succession
+  + Charte de la confraternitÃ©
+  + RÃ¨glement de la Chambre
 
-    1. Accueil
-    2. Actualités
-    3. Tout savoir sur l'état des lieux locatif
+ 1. Accueil
+ 2. ActualitÃ©s
+ 3. Tout savoir sur lâ€™Ã©tat des lieux locatif
 
-Tout savoir sur l'état des lieux locatif
+Tout savoir sur lâ€™Ã©tat des lieux locatif
 
-   Publié le
-   31/05/2017
-   mis à jour le
-   31/05/2017
-   Qu'est-ce qu'un état des lieux ? Que se passe-t-il en cas d'absence
-   d'état des lieux ? Quel est le contenu minimum de l'état des lieux
-   locatif ? Quelles formes doit revêtir l'état des lieux locatif ?
-   Combien coûte un état des lieux ?
-   [800-etat-des-lieux.jpg?itok=EfETZ15M]
+PubliÃ© le
+31/05/2017
+mis Ã  jour le
+31/05/2017
+Quâ€™est-ce quâ€™un Ã©tat des lieux ? Que se passe-t-il en cas dâ€™absence dâ€™Ã©tat des
+lieux ? Quel est le contenu minimum de lâ€™Ã©tat des lieux locatif ? Quelles formes
+doit revÃªtir lâ€™Ã©tat des lieux locatif ? Combien coÃ»te un Ã©tat des lieux ?
+[800-etat-des-lieux.jpg?itok=EfETZ15M]
 
-Qu'est-ce qu'un état des lieux ?
+Quâ€™est-ce quâ€™un Ã©tat des lieux ?
 
-   Il s'agit d'un document qui décrit le logement loué et son état
-   d'entretien.
-   C'est en comparant l'état des lieux dressé à l'arrivée et au départ du
-   locataire, que le propriétaire peut demander, le cas échéant, la
-   réparation de certains éléments détériorés.
-   Le locataire et le propriétaire doivent constater l'état des lieux d'un
-   commun accord, lors de la remise des clés et au moment de leur
-   restitution. Pour être valable, l'état des lieux doit être signé par
-   les deux parties. Il doit être joint au bail ou, à défaut, conservé par
-   chacune des parties.
-   Si l'une des parties refuse de dresser un état des lieux, l'autre peut
-   réclamer le concours d'un huissier pour l'établir. La rémunération de
-   l'huissier est alors partagée par moitié entre le propriétaire et le
-   locataire.
+Il s'agit d'un document qui dÃ©crit le logement louÃ© et son Ã©tat dâ€™entretien.
+C'est en comparant l'Ã©tat des lieux dressÃ© Ã  l'arrivÃ©e et au dÃ©part du
+locataire, que le propriÃ©taire peut demander, le cas Ã©chÃ©ant, la rÃ©paration de
+certains Ã©lÃ©ments dÃ©tÃ©riorÃ©s.
+Le locataire et le propriÃ©taire doivent constater l'Ã©tat des lieux d'un commun
+accord, lors de la remise des clÃ©s et au moment de leur restitution. Pour Ãªtre
+valable, l'Ã©tat des lieux doit Ãªtre signÃ© par les deux parties. Il doit Ãªtre
+joint au bail ou, Ã  dÃ©faut, conservÃ© par chacune des parties.
+Si l'une des parties refuse de dresser un Ã©tat des lieux, l'autre peut rÃ©clamer
+le concours d'un huissier pour l'Ã©tablir. La rÃ©munÃ©ration de l'huissier est
+alors partagÃ©e par moitiÃ© entre le propriÃ©taire et le locataire.
 
-Que se passe-t-il en cas d'absence d'état des lieux ?
+Que se passe-t-il en cas dâ€™absence dâ€™Ã©tat des lieux ?
 
-   Le propriétaire a intérêt à dresser un état des lieux. S'il ne le fait
-   pas, il devra faire la preuve que les dégradations qu'il invoque en fin
-   de bail ont été commises par le locataire.
-   Si le locataire fait obstacle l'établissement de l'état des lieux, il
-   sera présumé avoir reçu le logement « en bon état ».
+Le propriÃ©taire a intÃ©rÃªt Ã  dresser un Ã©tat des lieux. Sâ€™il ne le fait pas, il
+devra faire la preuve que les dÃ©gradations qu'il invoque en fin de bail ont Ã©tÃ©
+commises par le locataire.
+Si le locataire fait obstacle l'Ã©tablissement de l'Ã©tat des lieux, il sera
+prÃ©sumÃ© avoir reÃ§u le logement Â« en bon Ã©tat Â».
 
-Quel est le contenu minimum de l'état des lieux locatif ?
+Quel est le contenu minimum de lâ€™Ã©tat des lieux locatif ?
 
-   L'état des lieux doit décrire le logement et son état de conservation.
-   Il comporte au moins les informations suivantes :
-   A l'entrée et à la sortie du logement :
-     * le type d'état des lieux (d'entrée ou de sortie) ;
-     * sa date d'établissement ;
-     * la localisation du logement ;
-     * le nom ou la dénomination des parties et le domicile ou le siège
-       social du bailleur ;
-     * le cas échéant, le nom ou la dénomination et le domicile ou le
-       siège social des personnes mandatées pour réaliser l'état des lieux
-       ;
-     * le cas échéant, les relevés des compteurs individuels de
-       consommation d'eau ou d'énergie ;
-     * le détail et la destination des clés (quelles portes elles ouvrent)
-       ou de tout autre moyen d'accès aux locaux à usage privatif ou
-       commun ;
-     * pour chaque pièce et partie du logement, la description précise de
-       l'état des revêtements des sols, murs et plafonds, des équipements
-       et des éléments du logement (il peut être complété d'observations
-       ou de réserves et illustré d'images) ;
-     * la signature des parties ou des personnes mandatées pour réaliser
-       l'état des lieux.
+L'Ã©tat des lieux doit dÃ©crire le logement et son Ã©tat de conservation. Il
+comporte au moins les informations suivantes :
+A l'entrÃ©e et Ã  la sortie du logement :
+  * le type d'Ã©tat des lieux (d'entrÃ©e ou de sortie) ;
+  * sa date d'Ã©tablissement ;
+  * la localisation du logement ;
+  * le nom ou la dÃ©nomination des parties et le domicile ou le siÃ¨ge social du
+bailleur ;
+  * le cas Ã©chÃ©ant, le nom ou la dÃ©nomination et le domicile ou le siÃ¨ge social
+des personnes mandatÃ©es pour rÃ©aliser l'Ã©tat des lieux ;
+  * le cas Ã©chÃ©ant, les relevÃ©s des compteurs individuels de consommation d'eau
+ou d'Ã©nergie ;
+  * le dÃ©tail et la destination des clÃ©s (quelles portes elles ouvrent) ou de
+tout autre moyen d'accÃ¨s aux locaux Ã  usage privatif ou commun ;
+  * pour chaque piÃ¨ce et partie du logement, la description prÃ©cise de l'Ã©tat
+des revÃªtements des sols, murs et plafonds, des Ã©quipements et des Ã©lÃ©ments du
+logement (il peut Ãªtre complÃ©tÃ© d'observations ou de rÃ©serves et illustrÃ©
+d'images) ;
+  * la signature des parties ou des personnes mandatÃ©es pour rÃ©aliser l'Ã©tat des
+lieux.
 
-   A la sortie du logement :
-     * l'adresse du nouveau domicile ou du lieu d'hébergement du locataire
-       ;
-     * la date de réalisation de l'état des lieux d'entrée ;
-     * éventuellement, les évolutions de l'état de chaque pièce et partie
-       du logement constatées depuis l'établissement de l'état des lieux
-       d'entrée.
+A la sortie du logement :
+  * l'adresse du nouveau domicile ou du lieu d'hÃ©bergement du locataire ;
+  * la date de rÃ©alisation de l'Ã©tat des lieux d'entrÃ©e ;
+  * Ã©ventuellement, les Ã©volutions de l'Ã©tat de chaque piÃ¨ce et partie du
+logement constatÃ©es depuis l'Ã©tablissement de l'Ã©tat des lieux d'entrÃ©e.
 
-Quelles formes doit revêtir l'état des lieux locatif ?
+Quelles formes doit revÃªtir lâ€™Ã©tat des lieux locatif ?
 
-   L'état des lieux peut être établi sur un support papier ou sous forme
-   électronique. Il est remis en main propre ou par voie dématérialisée à
-   chacune des parties ou à leur mandataire au moment de sa signature.
-   Il doit permettre la comparaison de l'état du logement constaté à
-   l'entrée et à la sortie.
+Lâ€™Ã©tat des lieux peut Ãªtre Ã©tabli sur un support papier ou sous forme
+Ã©lectronique. Il est remis en main propre ou par voie dÃ©matÃ©rialisÃ©e Ã  chacune
+des parties ou Ã  leur mandataire au moment de sa signature.
+Il doit permettre la comparaison de lâ€™Ã©tat du logement constatÃ© Ã  lâ€™entrÃ©e et Ã
+la sortie.
 
-Combien coûte un état des lieux ?
+Combien coÃ»te un Ã©tat des lieux ?
 
-   Si l'état des lieux est fait directement entre le bailleur et le
-   locataire, il n'y a pas de frais.
-   Des honoraires peuvent être demandées si l'état des lieux est fait par
-   un professionnel (exemple : agent immobilier). Dans ce cas, le décret
-   n°2014-890 du 1er août 2014 dispose que l'état des lieux est à régler
-   conjointement par le bailleur et le locataire. Le montant des
-   honoraires payés par le locataire ne peut excéder celui payé par le
-   bailleur et doit être inférieur ou égal à 3 EUR par mètre carré de
-   surface habitable.
+Si lâ€™Ã©tat des lieux est fait directement entre le bailleur et le locataire, il
+nâ€™y a pas de frais.
+Des honoraires peuvent Ãªtre demandÃ©es si lâ€™Ã©tat des lieux est fait par un
+professionnel (exemple : agent immobilier). Dans ce cas, le dÃ©cret nÂ°2014-890 du
+1er aoÃ»t 2014 dispose que lâ€™Ã©tat des lieux est Ã  rÃ©gler conjointement par le
+bailleur et le locataire. Le montant des honoraires payÃ©s par le locataire ne
+peut excÃ©der celui payÃ© par le bailleur et doit Ãªtre infÃ©rieur ou Ã©gal Ã  3 â‚¬ par
+mÃ¨tre carrÃ© de surface habitable.
 
-   IFRAME: //v.calameo.com/?bkcode=00361614483c4fc414b2a&mode=mini
+IFRAME: //v.calameo.com/?bkcode=00361614483c4fc414b2a&mode=mini
 
-   (C) Photo : Fotolia
-   Immobilier
-   Pour aller plus loin...
+(C) Photo : Fotolia
+Immobilier
+Pour aller plus loin...
 
-Bail d'habitation : du changement depuis l'été 2015
+Bail d'habitation : du changement depuis lâ€™Ã©tÃ© 2015
 
-   Actualité
-   octobre 2015
-   Read more
+ActualitÃ©
+octobre 2015
+Read more
 
-Futur locataire : liste des pièces justificatives que le bailleur peut
-réclamer
+Futur locataire : liste des piÃ¨ces justificatives que le bailleur peut rÃ©clamer
 
-   Actualité
-   novembre 2015
-   Read more
+ActualitÃ©
+novembre 2015
+Read more
 
 La vente en viager
 
-   Publication
-   mars 2019
-   Voir le document
+Publication
+mars 2019
+Voir le document
 
-Location : comment établir l'état des lieux locatif ?
+Location : comment Ã©tablir l'Ã©tat des lieux locatif ?
 
-   Actualité
-   juillet 2016
-   Read more
+ActualitÃ©
+juillet 2016
+Read more
 
-Location immobilière : le bail notarié, un gage de sécurité
+Location immobiliÃ¨re : le bail notariÃ©, un gage de sÃ©curitÃ©
 
-   Actualité
-   juillet 2014
-   Read more
+ActualitÃ©
+juillet 2014
+Read more
 
-Locations immobilières : bien rédiger son contrat de bail pour éviter les
-impayés
+Locations immobiliÃ¨res : bien rÃ©diger son contrat de bail pour Ã©viter les
+impayÃ©s
 
-   Actualité
-   avril 2017
-   Read more
+ActualitÃ©
+avril 2017
+Read more
 
 Annuaire
 
-   /fr/annuaire?mot-cle=&search_api_fulltext_1=&departement=All&langues_pa
-   rlees=Al...
+/fr/annuaire?mot-cle=&search_api_fulltext_1=&departement=All&langues_parlees=Alâ€¦
 
 Carte des prix
 
-   /fr/carte-des-prix
+/fr/carte-des-prix
 
 Frais d'achat
 
-   /fr/outils-et-services/calcul-de-frais-d-achat
+/fr/outils-et-services/calcul-de-frais-d-achat
 
 Plus-values
 
-   /fr/outils-et-services/calcul-des-plus-values
+/fr/outils-et-services/calcul-des-plus-values
 
 Immo Notaires Argus
 
-   https://www.immonotairesargus.com
+https://www.immonotairesargus.com
 
 Lettre d'information
 
-   Inscrivez-vous pour recevoir régulièrement notre lettre d'information
-   ou les dates des prochaines ventes aux enchères.
-   Courriel ____________________________________________________________
-   [ ] J'accepte de recevoir des communications de la Chambre des Notaires
-   de Paris.
-   Voir un exemple
-   (S'abonner) S'abonner
-   Liens
-   Mentions légales
-   Données personnelles
-   Politique des cookies
-   Configurer les cookies
-   Liens 2e ligne
-   Accueil
-   Contact
-   Plan du site
-   Égalité femmes-hommes
-   Flux RSS
-   /fr/publication/rss.xml
-   Instagram
-   http://instagram.com/chambrenotairesparis/
-   Linkedin
-   https://fr.linkedin.com/company/chambre-des-notaires-de-paris/
-   Facebook
-   https://www.facebook.com/NotairesdeParisIDF/
-   Youtube
-   http://www.youtube.com/user/ParisNotairesInfoMag
-   Twitter
-   https://twitter.com/GdParisNotaires
+Inscrivez-vous pour recevoir rÃ©guliÃ¨rement notre lettre dâ€™information ou les
+dates des prochaines ventes aux enchÃ¨res.
+Courriel ____________________________________________________________
+[ ] J'accepte de recevoir des communications de la Chambre des Notaires de
+Paris.
+Voir un exemple
+(S'abonner) S'abonner
+Liens
+Mentions lÃ©gales
+DonnÃ©es personnelles
+Politique des cookies
+Configurer les cookies
+Liens 2e ligne
+Accueil
+Contact
+Plan du site
+Ã‰galitÃ© femmes-hommes
+Flux RSS
+/fr/publication/rss.xml
+Instagram
+http://instagram.com/chambrenotairesparis/
+Linkedin
+https://fr.linkedin.com/company/chambre-des-notaires-de-paris/
+Facebook
+https://www.facebook.com/NotairesdeParisIDF/
+Youtube
+http://www.youtube.com/user/ParisNotairesInfoMag
+Twitter
+https://twitter.com/GdParisNotaires
 
-   Chambre des Notaires de Paris
+Chambre des Notaires de Paris
 
-   12, avenue Victoria 75001 PARIS
+12, avenue Victoria 75001 PARIS
 
-   Tél : 01 44 82 24 00
+TÃ©l : 01 44 82 24 00
 
-   logo logo logo logo logo
+logo logo logo logo logo

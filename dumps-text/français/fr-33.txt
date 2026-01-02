@@ -1,255 +1,242 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+#Modifier WikipÃ©dia (fr) Flux Atom de WikipÃ©dia
 
-   Aller au contenu
+Aller au contenu
 
-   [ ] Menu principal
-   Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Navigation
-     * Page d'accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+[ ] Menu principal
+Menu principal
+(BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+Navigation
+  * Page dâ€™accueil
+  * Portails thÃ©matiques
+  * Article au hasard
+  * Contact
 
-   Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+Contribuer
+  * DÃ©buter sur WikipÃ©dia
+  * Aide
+  * CommunautÃ©
+  * Pages spÃ©ciales
+  * Modifications rÃ©centes
 
-   Wikipédia l'encyclopédie libre
-   Rechercher
-   ____________________
-   (BUTTON) Rechercher
+WikipÃ©dia l'encyclopÃ©die libre
+Rechercher
+____________________
+(BUTTON) Rechercher
 
-   [ ] Apparence
+[ ] Apparence
 
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+  * Faire un don
+  * CrÃ©er un compte
+  * Se connecter
 
-   [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+[ ] Outils personnels
+  * Faire un don
+  * CrÃ©er un compte
+  * Se connecter
 
 Sommaire
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
-     * 1 En droit français
-     * 2 Articles connexes
-     * 3 Lien externe
-     * 4 Références
+(BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+  * DÃ©but
+  * 1 En droit franÃ§ais
+  * 2 Articles connexes
+  * 3 Lien externe
+  * 4 RÃ©fÃ©rences
 
-   [ ] Basculer la table des matières
+[ ] Basculer la table des matiÃ¨res
 
-État des lieux (droit)
+Ã‰tat des lieux (droit)
 
-   [ ] Ajouter des langues
+[ ] Ajouter des langues
 
-   Ajouter des liens
+Ajouter des liens
 
-     * Article
-     * Discussion
+  * Article
+  * Discussion
 
-   [ ] français
+[ ] franÃ§ais
 
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l'historique
+  * Lire
+  * Modifier
+  * Modifier le code
+  * Voir lâ€™historique
 
-   [ ] Outils
-   Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l'historique
+[ ] Outils
+Outils
+(BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+Actions
+  * Lire
+  * Modifier
+  * Modifier le code
+  * Voir lâ€™historique
 
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
+GÃ©nÃ©ral
+  * Pages liÃ©es
+  * Suivi des pages liÃ©es
+  * TÃ©lÃ©verser un fichier
+  * Lien permanent
+  * Informations sur la page
+  * Citer cette page
+  * Obtenir l'URL raccourcie
+  * TÃ©lÃ©charger le code QR
 
-   Imprimer/exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
+Imprimerâ€¯/â€¯exporter
+  * CrÃ©er un livre
+  * TÃ©lÃ©charger comme PDF
+  * Version imprimable
 
-   Dans d'autres projets
-     * Élément Wikidata
+Dans dâ€™autres projets
+  * Ã‰lÃ©ment Wikidata
 
-   Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
+Apparence
+(BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+Un article de WikipÃ©dia, l'encyclopÃ©die libre.
 
-   Cet article est une ébauche concernant le droit.
-   Vous pouvez partager vos connaissances en l'améliorant (comment ?)
-   selon les recommandations des projets correspondants.
-   Page d'aide sur l'homonymie
+Cet article est une Ã©bauche concernant le droit.
+Vous pouvez partager vos connaissances en lâ€™amÃ©liorant (comment ?) selon les
+recommandations des projets correspondants.
+Page dâ€™aide sur lâ€™homonymie
 
-   Pour les articles homonymes, voir État des lieux et EDL.
+Pour les articles homonymes, voir Ã‰tat des lieux et EDL.
 
-   Un état des lieux (EDL) est une description d'un logement loué, des
-   pièces et des équipements de ce logement.
+Un Ã©tat des lieux (EDL) est une description d'un logement louÃ©, des piÃ¨ces et
+des Ã©quipements de ce logement.
 
-   Il se fait lors de l'entrée du locataire dans le logement et lors de la
-   sortie.
+Il se fait lors de l'entrÃ©e du locataire dans le logement et lors de la sortie.
 
-   En cas de dégradations visibles entre les deux états, il peut être
-   utilisé par le propriétaire du logement pour demander une somme
-   d'argent au locataire afin de remettre le logement dans son état
-   initial.
+En cas de dÃ©gradations visibles entre les deux Ã©tats, il peut Ãªtre utilisÃ© par
+le propriÃ©taire du logement pour demander une somme d'argent au locataire afin
+de remettre le logement dans son Ã©tat initial.
 
-En droit français
+En droit franÃ§ais
 
-   [modifier | modifier le code]
+[modifier | modifier le code]
 
-   L'état des lieux est mentionné aux articles 1730 et 1731 du code civil,
-   promulguée par la loi du 17 mars 1804 :
+L'Ã©tat des lieux est mentionnÃ© aux articles 1730 et 1731 du code civil,
+promulguÃ©e par la loi du 17 mars 1804 :
 
-   « S'il a été fait un état des lieux entre le bailleur et le preneur,
-   celui-ci doit rendre la chose telle qu'il l'a reçue, suivant cet état,
-   excepté ce qui a péri ou a été dégradé par vétusté ou force majeure.
-   S'il n'a pas été fait d'état des lieux, le preneur est présumé les
-   avoir reçus en bon état de réparations locatives, et doit les rendre
-   tels, sauf la preuve contraire. »^[1]
+Â« S'il a Ã©tÃ© fait un Ã©tat des lieux entre le bailleur et le preneur, celui-ci
+doit rendre la chose telle qu'il l'a reÃ§ue, suivant cet Ã©tat, exceptÃ© ce qui a
+pÃ©ri ou a Ã©tÃ© dÃ©gradÃ© par vÃ©tustÃ© ou force majeure. S'il n'a pas Ã©tÃ© fait d'Ã©tat
+des lieux, le preneur est prÃ©sumÃ© les avoir reÃ§us en bon Ã©tat de rÃ©parations
+locatives, et doit les rendre tels, sauf la preuve contraire. Â»^[1]
 
-   En ce qui concerne les baux d'habitation, la loi 89-462 du 6 juillet
-   1982 impose l'état des lieux dans son article art. 3-2.
+En ce qui concerne les baux d'habitation, la loi 89-462 du 6 juillet 1982 impose
+l'Ã©tat des lieux dans son article art. 3-2.
 
-   « Un état des lieux est établi selon des modalités définies par décret
-   en Conseil d'Etat, pris après avis de la Commission nationale de
-   concertation, dans les mêmes formes et en autant d'exemplaires que de
-   parties lors de la remise et de la restitution des clés. Il est établi
-   contradictoirement et amiablement par les parties ou par un tiers
-   mandaté par elles et joint au contrat de location.
+Â« Un Ã©tat des lieux est Ã©tabli selon des modalitÃ©s dÃ©finies par dÃ©cret en
+Conseil d'Etat, pris aprÃ¨s avis de la Commission nationale de concertation, dans
+les mÃªmes formes et en autant d'exemplaires que de parties lors de la remise et
+de la restitution des clÃ©s. Il est Ã©tabli contradictoirement et amiablement par
+les parties ou par un tiers mandatÃ© par elles et joint au contrat de location.
 
-   Si l'état des lieux ne peut être établi dans les conditions prévues au
-   premier alinéa, il est établi par un huissier de justice, sur
-   l'initiative de la partie la plus diligente, à frais partagés par
-   moitié entre le bailleur et le locataire et à un coût fixé par décret
-   en Conseil d'Etat. Dans ce cas, les parties en sont avisées par
-   l'huissier au moins sept jours à l'avance, par lettre recommandée avec
-   demande d'avis de réception.
+Si l'Ã©tat des lieux ne peut Ãªtre Ã©tabli dans les conditions prÃ©vues au premier
+alinÃ©a, il est Ã©tabli par un huissier de justice, sur l'initiative de la partie
+la plus diligente, Ã  frais partagÃ©s par moitiÃ© entre le bailleur et le locataire
+et Ã  un coÃ»t fixÃ© par dÃ©cret en Conseil d'Etat. Dans ce cas, les parties en sont
+avisÃ©es par l'huissier au moins sept jours Ã  l'avance, par lettre recommandÃ©e
+avec demande d'avis de rÃ©ception.
 
-   À défaut d'état des lieux ou de la remise d'un exemplaire de l'état des
-   lieux à l'une des parties, la présomption établie par l'article 1731 du
-   code civil ne peut être invoquée par celle des parties qui a fait
-   obstacle à l'établissement de l'acte ou à sa remise à l'une des
-   parties.
+Ã€ dÃ©faut d'Ã©tat des lieux ou de la remise d'un exemplaire de l'Ã©tat des lieux Ã
+l'une des parties, la prÃ©somption Ã©tablie par l'article 1731 du code civil ne
+peut Ãªtre invoquÃ©e par celle des parties qui a fait obstacle Ã  l'Ã©tablissement
+de l'acte ou Ã  sa remise Ã  l'une des parties.
 
-   Le locataire peut demander au bailleur ou à son représentant de
-   compléter l'état des lieux d'entrée dans un délai de dix jours à
-   compter de son établissement. Si cette demande est refusée, le
-   locataire peut saisir la commission départementale de conciliation
-   territorialement compétente.
+Le locataire peut demander au bailleur ou Ã  son reprÃ©sentant de complÃ©ter l'Ã©tat
+des lieux d'entrÃ©e dans un dÃ©lai de dix jours Ã  compter de son Ã©tablissement. Si
+cette demande est refusÃ©e, le locataire peut saisir la commission dÃ©partementale
+de conciliation territorialement compÃ©tente.
 
-   Pendant le premier mois de la période de chauffe, le locataire peut
-   demander que l'état des lieux soit complété par l'état des éléments de
-   chauffage.
+Pendant le premier mois de la pÃ©riode de chauffe, le locataire peut demander que
+l'Ã©tat des lieux soit complÃ©tÃ© par l'Ã©tat des Ã©lÃ©ments de chauffage.
 
-   Le propriétaire ou son mandataire complète les états des lieux d'entrée
-   et de sortie par les relevés des index pour chaque énergie, en présence
-   d'une installation de chauffage ou d'eau chaude sanitaire individuelle,
-   ou collective avec un comptage individuel. L'extrait de l'état des
-   lieux correspondant est mis à la disposition de la personne chargée
-   d'établir le diagnostic de performance énergétique prévu à l'article L.
-   134-1 du code de la construction et de l'habitation qui en fait la
-   demande, sans préjudice de la mise à disposition des factures. »
+Le propriÃ©taire ou son mandataire complÃ¨te les Ã©tats des lieux d'entrÃ©e et de
+sortie par les relevÃ©s des index pour chaque Ã©nergie, en prÃ©sence d'une
+installation de chauffage ou d'eau chaude sanitaire individuelle, ou collective
+avec un comptage individuel. L'extrait de l'Ã©tat des lieux correspondant est mis
+Ã  la disposition de la personne chargÃ©e d'Ã©tablir le diagnostic de performance
+Ã©nergÃ©tique prÃ©vu Ã  l'article L. 134-1 du code de la construction et de
+l'habitation qui en fait la demande, sans prÃ©judice de la mise Ã  disposition des
+factures. Â»
 
-   Le 8 mars 2023, la Cour de Cassation a estimé qu'un propriétaire
-   pouvait facturer au locataire une somme supérieure au montant de la
-   remise en état de manière à tenir compte du préjudice financier qu'il
-   subit en étant obligé de baisser son loyer pendant la durée de la
-   remise en état ou en étant obligé de retarder la date de remise en
-   location du bien.
+Le 8 mars 2023, la Cour de Cassation a estimÃ© qu'un propriÃ©taire pouvait
+facturer au locataire une somme supÃ©rieure au montant de la remise en Ã©tat de
+maniÃ¨re Ã  tenir compte du prÃ©judice financier quâ€™il subit en Ã©tant obligÃ© de
+baisser son loyer pendant la durÃ©e de la remise en Ã©tat ou en Ã©tant obligÃ© de
+retarder la date de remise en location du bien.
 
-   Le décret d'application est le décret 2016-382 du 30 mars 2016.
+Le dÃ©cret d'application est le dÃ©cret 2016-382 du 30 mars 2016.
 
-   En vigueur depuis juillet 2014, la loi Alur a fixé un nouveau cadre
-   législatif aux états des lieux. en effet, la loi met en place un modèle
-   type d'état des lieux d'entrée et de sortie. L'objectif de la
-   législation est d'améliorer les rapports entre locataire et
-   propriétaire et réduire le nombre de litiges.
+En vigueur depuis juillet 2014, la loi Alur a fixÃ© un nouveau cadre lÃ©gislatif
+aux Ã©tats des lieux. en effet, la loi met en place un modÃ¨le type dâ€™Ã©tat des
+lieux dâ€™entrÃ©e et de sortie. Lâ€™objectif de la lÃ©gislation est dâ€™amÃ©liorer les
+rapports entre locataire et propriÃ©taire et rÃ©duire le nombre de litiges.
 
-   La nouvelle réglementation permet aussi de faire un état des lieux
-   dématérialisé et le fait de pouvoir l'illustrer. Enfin, la nouvelle
-   réglementation éclaircit la définition de la vétusté et permet au
-   bailleur et au locataire de convenir ensemble du respect d'une grille
-   de vétusté ayant fait l'objet d'un accord au préalable.
+La nouvelle rÃ©glementation permet aussi de faire un Ã©tat des lieux dÃ©matÃ©rialisÃ©
+et le fait de pouvoir lâ€™illustrer. Enfin, la nouvelle rÃ©glementation Ã©claircit
+la dÃ©finition de la vÃ©tustÃ© et permet au bailleur et au locataire de convenir
+ensemble du respect dâ€™une grille de vÃ©tustÃ© ayant fait lâ€™objet dâ€™un accord au
+prÃ©alable.
 
 Articles connexes
 
-   [modifier | modifier le code]
-     * Contrat de bail en France
+[modifier | modifier le code]
+  * Contrat de bail en France
 
 Lien externe
 
-   [modifier | modifier le code]
-     * État des lieux d'entrée dans un bail d'habitation sur
-       Service-Public.fr
-     * État des lieux de sortie pour un bail sur Service-Public.fr
+[modifier | modifier le code]
+  * Ã‰tat des lieux d'entrÃ©e dans un bail d'habitation sur Service-Public.fr
+  * Ã‰tat des lieux de sortie pour un bail sur Service-Public.fr
 
-Références
+RÃ©fÃ©rences
 
-   [modifier | modifier le code]
-    1. ^|
-       http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000
-       006150285&cidTexte=LEGITEXT000006070721
+[modifier | modifier le code]
+ 1. â†‘
+http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150285&cid
+Texte=LEGITEXT000006070721
 
-     * icône décorative Portail du droit
+  * icÃ´ne dÃ©corative Portail du droit
 
-   Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=État_des_lieux_(droit)&old
-   id=226952763 ».
-   Catégorie:
-     * Droit immobilier
+Ce document provient de
+Â« https://fr.wikipedia.org/w/index.php?title=Ã‰tat_des_lieux_(droit)&oldid=226952
+763 Â».
+CatÃ©gorieâ€¯:
+  * Droit immobilier
 
-   Catégories cachées:
-     * Wikipédia:ébauche droit
-     * Portail:Droit/Articles liés
-     * Portail:Société/Articles liés
+CatÃ©gories cachÃ©esâ€¯:
+  * WikipÃ©dia:Ã©bauche droit
+  * Portail:Droit/Articles liÃ©s
+  * Portail:SociÃ©tÃ©/Articles liÃ©s
 
-     * La dernière modification de cette page a été faite le 2 juillet
-       2025 à 14:53.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d'autres
-       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
-       auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
+  * La derniÃ¨re modification de cette page a Ã©tÃ© faite le 2 juillet 2025 Ã
+14:53.
+  * Droit d'auteur : les textes sont disponibles sous licence Creative Commons
+attribution, partage dans les mÃªmes conditions ; dâ€™autres conditions peuvent
+sâ€™appliquer. Voyez les conditions dâ€™utilisation pour plus de dÃ©tails, ainsi que
+les crÃ©dits graphiques. En cas de rÃ©utilisation des textes de cette page, voyez
+comment citer les auteurs et mentionner la licence.
+WikipediaÂ® est une marque dÃ©posÃ©e de la Wikimedia Foundation, Inc., organisation
+de bienfaisance rÃ©gie par le paragraphe 501(c)(3) du code fiscal des Ã‰tats-Unis.
 
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Contacts juridiques & sécurité
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
+  * Politique de confidentialitÃ©
+  * Ã€ propos de WikipÃ©dia
+  * Avertissements
+  * Contact
+  * Contacts juridiques & sÃ©curitÃ©
+  * Code de conduite
+  * DÃ©veloppeurs
+  * Statistiques
+  * DÃ©claration sur les tÃ©moins (cookies)
+  * Version mobile
 
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+  * Wikimedia Foundation
+  * Powered by MediaWiki
 
-   (BUTTON) Rechercher
-   ____________________
-   (BUTTON) Rechercher
+(BUTTON) Rechercher
+____________________
+(BUTTON) Rechercher
 
-   [ ] Basculer la table des matières
-   État des lieux (droit)
-   (BUTTON) Ajouter des langues Ajouter un sujet
+[ ] Basculer la table des matiÃ¨res
+Ã‰tat des lieux (droit)
+(BUTTON) Ajouter des langues Ajouter un sujet

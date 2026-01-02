@@ -1,350 +1,339 @@
-   #alternate alternate alternate
+#alternate alternate alternate
 
-   (BUTTON)
+(BUTTON)
 
-   Fermer
+Fermer
 
-   L'actualité à portée de main
-   (BUTTON)
+Lâ€™actualitÃ© Ã  portÃ©e de main
+(BUTTON)
 
-   Abonnez-vous
+Abonnez-vous
 
-   Lire le journal
+Lire le journal
 
-   Service Publicité
+Service PublicitÃ©
 
-   Actualités
-     * L'actu en continu
-     * Nos dossiers
-     * (BUTTON) Régionchevron
-          + Toutes
-          + Marseille
-          + Vaucluse
-          + Aix - Pays dAix
-          + Alpes
-          + Arles
-          + Martigues - Istres
-          + Aubagne - La Ciotat
-          + Salon
-          + Vitrolles - Marignane
-     * Faits divers
-     * (BUTTON) OMchevron
-          + Toute l'actualité
-          + Mercato
-          + Calendrier 2024 - 2025
-          + Classement
-          + Olympien du match
-     * (BUTTON) Sportschevron
-          + A la une
-          + Football
-          + Open 13 Provence
-          + Hippisme
-          + Provence Rugby
-          + Sports Région
-          + Spartiates
-          + Boules
-          + Classement
-     * Société
-     * Politique
-     * (BUTTON) Électionschevron
-          + Municipales 2026
-          + Législatives 2024
-     * (BUTTON) Economiechevron
-          + Toute l'actualité
-          + Entreprise
-          + Immobilier
-          + Orientation formation
-          + Bourse
-     * Rive Sud
-     * Food
-     * (BUTTON) Culturechevron
-          + Toute l'actualité
-          + Musique
-          + BD - Livres
-          + Cinéma
-          + Festivals
-          + Télé
-          + Expos
-          + Spectacles
-     * (BUTTON) Sorties - Loisirschevron
-          + Toute l'actualité
-          + Bouvine
-          + Caves et Domaines
-          + Feria
-          + Histoire
-          + Histoire
-          + Gaming
-     * Nos rendez-vous
-     * Balades en Provence
-     * (BUTTON) Guide shoppingchevron
-          + Tous les bons plans
-          + High-Tech
-          + Electroménager
-          + Jeux & Paris
-          + Sports
-          + Maison & Jardin
-          + Mode
-     * Santé
-     * Environnement
-     * France Monde
-     * (BUTTON) Rubriques Partenaireschevron
-          + Étudier en Provence
-          + Bien vieillir en Provence
-          + Votre argent avec Finance Héros
+ActualitÃ©s
+  * L'actu en continu
+  * Nos dossiers
+  * (BUTTON) RÃ©gionchevron
+  + Toutes
+  + Marseille
+  + Vaucluse
+  + Aix - Pays dAix
+  + Alpes
+  + Arles
+  + Martigues - Istres
+  + Aubagne - La Ciotat
+  + Salon
+  + Vitrolles - Marignane
+  * Faits divers
+  * (BUTTON) OMchevron
+  + Toute l'actualitÃ©
+  + Mercato
+  + Calendrier 2024 - 2025
+  + Classement
+  + Olympien du match
+  * (BUTTON) Sportschevron
+  + A la une
+  + Football
+  + Open 13 Provence
+  + Hippisme
+  + Provence Rugby
+  + Sports RÃ©gion
+  + Spartiates
+  + Boules
+  + Classement
+  * SociÃ©tÃ©
+  * Politique
+  * (BUTTON) Ã‰lectionschevron
+  + Municipales 2026
+  + LÃ©gislatives 2024
+  * (BUTTON) Economiechevron
+  + Toute l'actualitÃ©
+  + Entreprise
+  + Immobilier
+  + Orientation formation
+  + Bourse
+  * Rive Sud
+  * Food
+  * (BUTTON) Culturechevron
+  + Toute l'actualitÃ©
+  + Musique
+  + BD - Livres
+  + CinÃ©ma
+  + Festivals
+  + TÃ©lÃ©
+  + Expos
+  + Spectacles
+  * (BUTTON) Sorties - Loisirschevron
+  + Toute l'actualitÃ©
+  + Bouvine
+  + Caves et Domaines
+  + Feria
+  + Histoire
+  + Histoire
+  + Gaming
+  * Nos rendez-vous
+  * Balades en Provence
+  * (BUTTON) Guide shoppingchevron
+  + Tous les bons plans
+  + High-Tech
+  + ElectromÃ©nager
+  + Jeux & Paris
+  + Sports
+  + Maison & Jardin
+  + Mode
+  * SantÃ©
+  * Environnement
+  * France Monde
+  * (BUTTON) Rubriques Partenaireschevron
+  + Ã‰tudier en Provence
+  + Bien vieillir en Provence
+  + Votre argent avec Finance HÃ©ros
 
-     * Vidéos
-     * Audios
-     * Podcasts
-     * Newsletters
+  * VidÃ©os
+  * Audios
+  * Podcasts
+  * Newsletters
 
-   Services
-     * (BUTTON) Carnet - Avis de décèschevron
-          + Déposer un avis
-          + Consulter les avis
-     * Jeux
-     * Jeux concours
-     * Boutique
-     * Unes personnalisées
-     * Espace Presse
-     * Les Balades de La Provence
-     * Recrutements
-     * (BUTTON) Annonces Légaleschevron
-          + Publier un avis
-          + Consulter les avis Web
-     * Formation
-     * Petites annonces immo
-     * Marchés publics
+Services
+  * (BUTTON) Carnet - Avis de dÃ©cÃ¨schevron
+  + DÃ©poser un avis
+  + Consulter les avis
+  * Jeux
+  * Jeux concours
+  * Boutique
+  * Unes personnalisÃ©es
+  * Espace Presse
+  * Les Balades de La Provence
+  * Recrutements
+  * (BUTTON) Annonces LÃ©galeschevron
+  + Publier un avis
+  + Consulter les avis Web
+  * Formation
+  * Petites annonces immo
+  * MarchÃ©s publics
 
-     * Carnet
-       Déposer un avisConsulter les avis
-     * Rubriques Partenaires
-       Étudier en ProvenceBien vieillir en ProvenceVotre argent avec
-       Finance Héros
-     * Annonces Légales et judiciaires
-       Publier un avisConsulter les avis Web
-     * Marchés Publics
-     * Boutique
-     * Aide
-     * Journal en ligne
-     * Jeux
-     * Service Publicité
+  * Carnet
+DÃ©poser un avisConsulter les avis
+  * Rubriques Partenaires
+Ã‰tudier en ProvenceBien vieillir en ProvenceVotre argent avec Finance HÃ©ros
+  * Annonces LÃ©gales et judiciaires
+Publier un avisConsulter les avis Web
+  * MarchÃ©s Publics
+  * Boutique
+  * Aide
+  * Journal en ligne
+  * Jeux
+  * Service PublicitÃ©
 
-   (BUTTON) Ouvrir le menu latéral
-   Une du journal d'aujourd'hui - La Provence
+(BUTTON) Ouvrir le menu latÃ©ral
+Une du journal dâ€™aujourdâ€™hui - La Provence
 
-   Le journal
-   Accéder à la rubrique vidéos
+Le journal
+AccÃ©der Ã  la rubrique vidÃ©os
 
-   Vidéos
-   Voir toutes les newsletters
+VidÃ©os
+Voir toutes les newsletters
 
-   Newsletters
-   Accéder à la rubrique audiosnouveau
+Newsletters
+AccÃ©der Ã  la rubrique audiosnouveau
 
-   Audios
-   La Provence
-   La Provence
-   (BUTTON)
+Audios
+La Provence
+La Provence
+(BUTTON)
 
-   Non abonné
-   Une du journal d'aujourd'hui - La Provence
+Non abonnÃ©
+Une du journal dâ€™aujourdâ€™hui - La Provence
 
-   Lire le journal
+Lire le journal
 
-   31 décembre 2025
-   Ma ProvenceNewslettersMes articles sauvegardésMes abonnementsMes
-   facturesModifier le mot de passeRésilier mon abonnement
+01 janvier 2026
+Ma ProvenceNewslettersMes articles sauvegardÃ©sMes abonnementsMes
+facturesModifier le mot de passeRÃ©silier mon abonnement
 
-   Ma grille de jeux quotidienne
-   Jouer
-   Besoin d'aide ?
-   (BUTTON) Déconnexion
-     * À la Une
-     * En direct
-     * (BUTTON)
-       Ma ville
-       ____________________
-       Bouches-du-Rhône
-          + Marseille
-          + Aix-en-Provence
-          + Arles
-          + Aubagne
-          + La Ciotat
-          + Martigues
-          + Salon-de-Provence
-          + Vitrolles
-       Alpes-de-Haute-Provence
-          + Manosque
-          + Digne-les-Bains
-          + Sisteron
-          + Château-Arnoux-Saint-Auban
-          + Oraison
-          + Forcalquier
-       Vaucluse
-          + Avignon
-          + Cavaillon
-          + Carpentras
-          + L'Isle-sur-la-Sorgue
-          + Pertuis
-          + Orange
-          + Le Pontet
-          + Villeneuve-lès-Avignon
-     * Région
-     * Municipales 2026
-     * Économie
-     * Faits divers
-     * OM
-     * Sports
-     * Culture
-     * Loisirs & Traditions
-     * jeux-concours
-     * Shopping
-     *
+Ma grille de jeux quotidienne
+Jouer
+Besoin d'aide ?
+(BUTTON) DÃ©connexion
+  * Ã€ la Une
+  * En direct
+  * (BUTTON)
+Ma ville
+____________________
+Bouches-du-RhÃ´ne
+  + Marseille
+  + Aix-en-Provence
+  + Arles
+  + Aubagne
+  + La Ciotat
+  + Martigues
+  + Salon-de-Provence
+  + Vitrolles
+Alpes-de-Haute-Provence
+  + Manosque
+  + Digne-les-Bains
+  + Sisteron
+  + ChÃ¢teau-Arnoux-Saint-Auban
+  + Oraison
+  + Forcalquier
+Vaucluse
+  + Avignon
+  + Cavaillon
+  + Carpentras
+  + Lâ€™Isle-sur-la-Sorgue
+  + Pertuis
+  + Orange
+  + Le Pontet
+  + Villeneuve-lÃ¨s-Avignon
+  * RÃ©gion
+  * Municipales 2026
+  * Ã‰conomie
+  * Faits divers
+  * OM
+  * Sports
+  * Culture
+  * Loisirs & Traditions
+  * jeux-concours
+  * Shopping
+  *
 
-   À la uneFaits divers - JusticePris en flagrant délit de vol dans une
-   voiture à Marseille, il crache sur les policiers
+Ã€ la uneFaits divers - JusticePris en flagrant dÃ©lit de vol dans une voiture Ã
+Marseille, il crache sur les policiers
 
-Pris en flagrant délit de vol dans une voiture à Marseille, il crache sur les
+Pris en flagrant dÃ©lit de vol dans une voiture Ã  Marseille, il crache sur les
 policiers
 
-   Par Marguerite DEGEZ
+Par Marguerite DEGEZ
 
-   Publié le 07/12/25 à 19:45
-   (BUTTON) Commenter (BUTTON) Partager
-   Le sans-abri interpellé dans le 6e arrondissement de Marseille
-   alcoolisé, sous médicament et cannabis en train de forcer une voiture a
-   été jugé trois jours plus tard par le tribunal correctionnel et
-   condamné à un an de prison ferme.
+PubliÃ© le 07/12/25 Ã  19:45
+(BUTTON) Commenter (BUTTON) Partager
+Le sans-abri interpellÃ© dans le 6e arrondissement de Marseille alcoolisÃ©, sous
+mÃ©dicament et cannabis en train de forcer une voiture a Ã©tÃ© jugÃ© trois jours
+plus tard par le tribunal correctionnel et condamnÃ© Ã  un an de prison ferme.
 
-   Le sans-abri interpellé dans le 6e arrondissement de Marseille
-   alcoolisé, sous médicament et cannabis en train de forcer une voiture a
-   été jugé trois jours plus tard par le tribunal correctionnel et
-   condamné à un an de prison ferme.
+Le sans-abri interpellÃ© dans le 6e arrondissement de Marseille alcoolisÃ©, sous
+mÃ©dicament et cannabis en train de forcer une voiture a Ã©tÃ© jugÃ© trois jours
+plus tard par le tribunal correctionnel et condamnÃ© Ã  un an de prison ferme.
 
-   Photo illustration M.DG.
+Photo illustration M.DG.
 
-   Faits divers
+Faits divers
 
-   Chaque mardi
+Chaque mardi
 
-   Les enquêtes, affaires et grands procès de la région, tous les mardis
-   S'inscrire
-   Voir toutes les newsletters
-   (BUTTON) Écouter l'article(1:43) (BUTTON)
-   (BUTTON) Écouter le résumé(1:12) (BUTTON)
-   Nouveauté !
+Les enquÃªtes, affaires et grands procÃ¨s de la rÃ©gion, tous les mardis
+S'inscrire
+Voir toutes les newsletters
+(BUTTON) Ã‰couter l'article(1:43) (BUTTON)
+(BUTTON) Ã‰couter le rÃ©sumÃ©(1:12) (BUTTON)
+NouveautÃ© !
 
-   Marseille
+Marseille
 
-Dans un état second lors de son interpellation, il a été condamné pour vol,
-outrage et violence sur les fonctionnaires de police à un an de prison ferme.
+Dans un Ã©tat second lors de son interpellation, il a Ã©tÃ© condamnÃ© pour vol,
+outrage et violence sur les fonctionnaires de police Ã  un an de prison ferme.
 
-   Médicaments, alcool et cannabis. Avec un tel cocktail - détonnant - les
-   policiers n'ont pas eu de mal à croire Oussama T. lorsqu'il leur a
-   expliqué qu'il ne gardait presque aucun souvenir de la scène qui lui
-   valait de se retrouver dans les geôles d'un commissariat. Le
-   29 novembre 2025, cet Algérien de 32 ans avait été repéré rue Dragon,
-   dans le 6e arrondissement de Marseille, en train de forcer une voiture,
-   puis de tenter d'ouvrir une seconde.
-   À lire aussi : Un champion ciotaden de chasse sous-marine jugé pour
-   pêche illégale dans les calanques
+MÃ©dicaments, alcool et cannabis. Avec un tel cocktail - dÃ©tonnant - les
+policiers nâ€™ont pas eu de mal Ã  croire Oussama T. lorsquâ€™il leur a expliquÃ©
+quâ€™il ne gardait presque aucun souvenir de la scÃ¨ne qui lui valait de se
+retrouver dans les geÃ´les dâ€™un commissariat. Le 29 novembre 2025, cet AlgÃ©rien
+de 32 ans avait Ã©tÃ© repÃ©rÃ© rue Dragon, dans le 6e arrondissement de Marseille,
+en train de forcer une voiture, puis de tenter dâ€™ouvrir une seconde.
+Ã€ lire aussi : Un champion ciotaden de chasse sous-marine jugÃ© pour pÃªche
+illÃ©gale dans les calanques
 
-   Les riverains qui avaient donné l'alerte avaient ajouté qu'il s'était
-   assis sur le pas d'une porte à quelques numéros des voitures. Les
-   policiers n'avaient eu qu'à se rendre à l'adresse indiquée pour le
-   cueillir.
+Les riverains qui avaient donnÃ© lâ€™alerte avaient ajoutÃ© quâ€™il sâ€™Ã©tait assis sur
+le pas dâ€™une porte Ã  quelques numÃ©ros des voitures. Les policiers nâ€™avaient eu
+quâ€™Ã  se rendre Ã  lâ€™adresse indiquÃ©e pour le cueillir.
 
-   IFRAME: iframe-video
+IFRAME: iframe-video
 
-   Enfin cueillir... Insultes, crachats et menaces : l'arrestation avait
-   été particulièrement chaotique. Une scène qui a donc valu au jeune
-   homme de comparaître devant le tribunal correctionnel ce mardi
-   2 décembre, pour tentative de vol, violence et outrage à personne
-   dépositaire de l'autorité publique.
+Enfin cueillirâ€¦ Insultes, crachats et menaces : lâ€™arrestation avait Ã©tÃ©
+particuliÃ¨rement chaotique. Une scÃ¨ne qui a donc valu au jeune homme de
+comparaÃ®tre devant le tribunal correctionnel ce mardi 2 dÃ©cembre, pour tentative
+de vol, violence et outrage Ã  personne dÃ©positaire de lâ€™autoritÃ© publique.
 
-"Il est lui-même sa première victime"
+"Il est lui-mÃªme sa premiÃ¨re victime"
 
-   "J'étais ivre mort, je suis entré dans ce véhicule, mais pas pour
-   voler, c'était juste pour dormir", a tenté le prévenu face aux juges,
-   peu convaincus. Une caméra de vidéosurveillance avait capté son manège,
-   le montrant ouvrir la première voiture, y rentrer pendant six longues
-   minutes avant d'en ressortir pour tenter sa chance ailleurs.
-   À lire aussi : Un policier marseillais condamné pour avoir renseigné un
-   narcotrafiquant
+"Jâ€™Ã©tais ivre mort, je suis entrÃ© dans ce vÃ©hicule, mais pas pour voler, câ€™Ã©tait
+juste pour dormir", a tentÃ© le prÃ©venu face aux juges, peu convaincus. Une
+camÃ©ra de vidÃ©osurveillance avait captÃ© son manÃ¨ge, le montrant ouvrir la
+premiÃ¨re voiture, y rentrer pendant six longues minutes avant dâ€™en ressortir
+pour tenter sa chance ailleurs.
+Ã€ lire aussi : Un policier marseillais condamnÃ© pour avoir renseignÃ© un
+narcotrafiquant
 
-   Sa situation irrégulière et sa personnalité, marquée par l'errance, la
-   dépendance aux psychotropes et trois précédentes condamnations,
-   n'avaient rien pour rassurer non plus. La procureure Claire Remy a
-   prescrit une peine de 14 mois de prison, mettant en exergue "la
-   violence gratuite" à l'encontre des policiers et "le caractère
-   humiliant de se faire cracher dessus".
+Sa situation irrÃ©guliÃ¨re et sa personnalitÃ©, marquÃ©e par lâ€™errance, la
+dÃ©pendance aux psychotropes et trois prÃ©cÃ©dentes condamnations, nâ€™avaient rien
+pour rassurer non plus. La procureure Claire Remy a prescrit une peine de 14
+mois de prison, mettant en exergue "la violence gratuite" Ã  lâ€™encontre des
+policiers et "le caractÃ¨re humiliant de se faire cracher dessus".
 
-   Les juges ont prononcé une peine de 12 mois ferme, écartant les
-   craintes de Julie Guichard, avocate de la défense, qu'une peine ferme
-   suivie d'une sortie ne vienne "renforcer sa marginalisation". "Il est
-   lui-même sa première victime", avait-elle tenté, pour recadrer le
-   débat.
-   (BUTTON) Démarrez la conversation
+Les juges ont prononcÃ© une peine de 12 mois ferme, Ã©cartant les craintes de
+Julie Guichard, avocate de la dÃ©fense, quâ€™une peine ferme suivie dâ€™une sortie ne
+vienne "renforcer sa marginalisation". "Il est lui-mÃªme sa premiÃ¨re victime",
+avait-elle tentÃ©, pour recadrer le dÃ©bat.
+(BUTTON) DÃ©marrez la conversation
 
-   Votre opinion compte pour nous. Rejoignez la communauté laprovence.com
-   en réagissant sur l'article Pris en flagrant délit de vol dans une
-   voiture à Marseille, il crache sur les policiers.
+Votre opinion compte pour nous. Rejoignez la communautÃ© laprovence.com en
+rÃ©agissant sur l'article Pris en flagrant dÃ©lit de vol dans une voiture Ã
+Marseille, il crache sur les policiers.
 
-   En continu
-     *
-   15:28
-       Nouvel an 2025 : amende, plainte... que risquez-vous si vous faites
-       trop de bruit durant la soirée du réveillon ?
-     *
-   15:25
-       Réveillon du Nouvel an : ne mangez pas ces huîtres ce mercredi soir
-       concernées par un rappel national
-     *
-   15:22
-       Des croix gammées et des injures découvertes sur les murs de la
-       propriété du maire de Beaulieu-sur-Loire
-     *
-   15:21
-       L'association "Fibromyalgie - Douleurs chroniques" d'Oraison lance
-       un appel à la solidarité après un piratage informatique
-     *
-   15:01
-       Quand la danse devient peinture : Michele Cavallaro sublime les
-       élèves du conservatoire du Grand Avignon
-     *
-   15:01
-       Les anciens de Gréasque ont fêté Noël autour d'un bon repas
-       agrémenté d'un spectacle
-     *
-   14:58
-       Clips cultes, concerts, émissions phares... MTV s'arrête en France
-       ce mercredi 31 décembre
-     *
-   14:57
-       Lotos, sorties, repas... un début d'année 2026 déjà chargé pour le
-       club taurin Lou Mamaï de Vallabrègues
+En continu
+  *
+14:31
+Le 697e bÃ©bÃ© nÃ© Ã  la clinique de Vitrolles est aussi le dernier de lâ€™annÃ©e 2025
+  *
+14:26
+LibÃ©ration de Steeve Rouyar au Togo : pourquoi le FranÃ§ais avait-t-il Ã©tÃ© arrÃªtÃ©
+?
+  *
+14:18
+OM - La vie des ex : AndrÃ© Ayew signe chez le dernier de D1 nÃ©erlandaise
+  *
+14:18
+Dry January : Alcool Info Service, un numÃ©ro d'Ã©coute et d'aide ouvert toute
+l'annÃ©e
+  *
+14:01
+CAN 2025 : Aubameyang banni de la sÃ©lection gabonaise ?
+  *
+14:00
+L'intercommunalitÃ© de Manosque prÃ©sente son nouveau plan de mobilitÃ© et mise sur
+les alternatives Ã  la voiture
+  *
+13:53
+EngagÃ©s, au plus prÃ¨s de vous... La Provence a plus de 300 correspondants tout
+terrain
+  *
+13:47
+"Lâ€™occasion de remercier les clients" : Ã  BelcodÃ¨ne, le bar tabac Ninou a offert
+une soirÃ©e tapas Ã  sa clientÃ¨le
 
-   Plus d'infos
+Plus d'infos
 
-   Une info ? Un témoignage ?
+Une info ? Un tÃ©moignage ?
 
-   Contactez-nous
+Contactez-nous
 
-   Les plus lus
+Les plus lus
 
-   L'exercice Garuda 2025 se déroule sur ce A330 MRTT, un ravitailleur de
-   l'armée de l'air.
+La victime aurait Ã©tÃ© attaquÃ©e par plusieurs individus rue Longue des Capucins
+ce mercredi soir vers 21 heures.
 
-   1
-   Un exercice militaire aérien qui tourne au vinaigre à Istres
-   Société
+1
+RÃ©veillon du Nouvel An : un homme tuÃ© Ã  lâ€™arme blanche en centre-ville Ã
+Marseille
+Faits divers - Justice
 
-   2
-   Réveillon du Nouvel An et match de l'Algérie à la CAN : la circulation
-   coupée autour du Vieux-Port mercredi soir
-   Sports
+2
+RÃ©veillon du Nouvel An et match de l'AlgÃ©rie Ã  la CAN : la circulation coupÃ©e
+autour du Vieux-Port mercredi soir
+Sports
 
-   3
-   OM : Pablo Longoria, Laurent Blanc, Philippe Diallo... plus d'un
-   millier de personnes réuni pour les obsèques de Jean-Louis Gasset
-   OM
+3
+Un exercice militaire aÃ©rien qui tourne au vinaigre Ã  Istres
+SociÃ©tÃ©

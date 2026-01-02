@@ -1,809 +1,766 @@
-   #alternate alternate
+#alternate alternate
 
-   Aller au contenu principal
+Aller au contenu principal
 
-   (BUTTON) Accessibilité
-   (BUTTON)
-   La rivière des Jonquilles, Corrèze
-   (BUTTON)
-   (BUTTON) Modifier le contraste
-   Modifier la taille du texte
-     * (BUTTON) Diminuer
-     * (BUTTON) Réinitialiser
-     * (BUTTON) Augmenter
+(BUTTON) AccessibilitÃ©
+(BUTTON)
+La riviÃ¨re des Jonquilles, CorrÃ¨ze
+(BUTTON)
+(BUTTON) Modifier le contraste
+Modifier la taille du texte
+  * (BUTTON) Diminuer
+  * (BUTTON) RÃ©initialiser
+  * (BUTTON) Augmenter
 
-   Accessibilité du site
-     * fr
-     * en
+AccessibilitÃ© du site
+  * fr
+  * en
 
-   (BUTTON) Le BRGM sur le web
-   (BUTTON)
-   La rivière des Jonquilles, Corrèze
-   (BUTTON)
-   InfoTerre
-   Le portail d'accès aux données scientifiques du BRGM
-   BRGM Emploi
-   Rejoignez le service géologique national
-   BRGM Boutique
-   Achetez nos cartes et livres
-   BRGM Formation
-   Formez-vous avec le BRGM
-   Rapport d'activité
-   Les temps forts et les résultats majeurs du BRGM.
-   Histoire du BRGM
-   L'histoire du BRGM, le service géologique national
-   Autres sites web
-     * Géorisques - Un portail pour mieux connaitre les risques sur le
-       territoire fran...
-     * ADES - Accès aux données sur les eaux souterraines
-     * SIGES - Système d'information pour la gestion des eaux souterraines
-     * RGF - Référentiel géologique de la France
-     * Après-mine opérationnelle - Département Prévention et Sécurité
-       minière du BRGM
-     * Géothermies - Tout savoir sur la géothermie
-     * Minéralinfo - Le portail français des ressources minérales non
-       énergétiques
-     * HAL-BRGM - Les publications scientifiques du BRGM
+(BUTTON) Le BRGM sur le web
+(BUTTON)
+La riviÃ¨re des Jonquilles, CorrÃ¨ze
+(BUTTON)
+InfoTerre
+Le portail d'accÃ¨s aux donnÃ©es scientifiques du BRGM
+BRGM Emploi
+Rejoignez le service gÃ©ologique national
+BRGM Boutique
+Achetez nos cartes et livres
+BRGM Formation
+Formez-vous avec le BRGM
+Rapport d'activitÃ©
+Les temps forts et les rÃ©sultats majeurs du BRGM.
+Histoire du BRGM
+L'histoire du BRGM, le service gÃ©ologique national
+Autres sites web
+  * GÃ©orisques - Un portail pour mieux connaitre les risques sur le territoire
+franâ€¦
+  * ADES - AccÃ¨s aux donnÃ©es sur les eaux souterraines
+  * SIGES - SystÃ¨me d'information pour la gestion des eaux souterraines
+  * RGF - RÃ©fÃ©rentiel gÃ©ologique de la France
+  * AprÃ¨s-mine opÃ©rationnelle - DÃ©partement PrÃ©vention et SÃ©curitÃ© miniÃ¨re du
+BRGM
+  * GÃ©othermies - Tout savoir sur la gÃ©othermie
+  * MinÃ©ralinfo - Le portail franÃ§ais des ressources minÃ©rales non Ã©nergÃ©tiques
+  * HAL-BRGM - Les publications scientifiques du BRGM
 
-   Tous les sites web
-     *
-     *
-     *
-     *
+Tous les sites web
+  *
+  *
+  *
+  *
 
-   Logo du BRGM avec le logo République française
-   Service
-   géologique
-   national
-   (BUTTON) Recherche
-   (BUTTON)
-   La rivière des Jonquilles, Corrèze
-   (BUTTON)
-   Rechercher
-   ____________________________________________________________
-   (OK) OK
-   (BUTTON) Je suis
-   (BUTTON)
-   La rivière des Jonquilles, Corrèze
-   (BUTTON)
-     * (BUTTON) Partenaire public, collectivité
-       (BUTTON) Retour
-       Partenaire public, collectivité
-       Partenaires publics : le BRGM à vos côtés
-       Expertise
-       Nos solutions
-       Réseau régional
-       Références et projets
-       Rapports publics
-       Publications scientifiques
-       Contacts
-     * (BUTTON) Entreprise
-       (BUTTON) Retour
-       Entreprise
-       Travailler avec le BRGM, mode d'emploi
-       Innovation et transfert
-       Nos solutions
-       Références et projets
-       Laboratoires et plateformes technologiques
-       Formation professionnelle continue
-       Devenir fournisseur du BRGM
-       Contacts
-     * (BUTTON) Chercheur
-       (BUTTON) Retour
-       Chercheur
-       Recherche scientifique
-       Rapports publics
-       Publications scientifiques
-       Références et projets
-       Laboratoires et plateformes technologiques
-       Livres et cartes géologiques
-       Formation professionnelle continue
-       Doctorat et post-doctorat
-     * (BUTTON) Étudiant
-       (BUTTON) Retour
-       Étudiant
-       Enseignement supérieur
-       Recrutement et carrières
-       Doctorat et post-doctorat
-       Alternance et stages
-       Livres et cartes géologiques
-       Rapports publics
-       Publications scientifiques
-       Actualités
-     * (BUTTON) Enseignant, élève
-       (BUTTON) Retour
-       Enseignant, élève
-       Comprendre les sciences de la Terre
-       Enseignement supérieur
-       Livres et cartes géologiques
-       Rapports publics
-       Publications scientifiques
-       Actualités
-     * (BUTTON) Journaliste
-       (BUTTON) Retour
-       Journaliste
-       Actualités et communiqués de presse
-       Événements
-       Références et projets
-       Rapports publics
-       Le BRGM en bref
-       Newsletter
-       Contact presse
-     * (BUTTON) Citoyen, association
-       (BUTTON) Retour
-       Citoyen, association
-       Actualités
-       Événements
-       Recrutement et carrières
-       Le BRGM en bref
-       Réseau régional
-       Comprendre les sciences de la Terre
-       Engagements
-       Newsletter
-       Résultats et données
+Logo du BRGM avec le logo RÃ©publique franÃ§aise
+Service
+gÃ©ologique
+national
+(BUTTON) Recherche
+(BUTTON)
+La riviÃ¨re des Jonquilles, CorrÃ¨ze
+(BUTTON)
+Rechercher
+____________________________________________________________
+(OK) OK
+(BUTTON) Je suis
+(BUTTON)
+La riviÃ¨re des Jonquilles, CorrÃ¨ze
+(BUTTON)
+  * (BUTTON) Partenaire public, collectivitÃ©
+(BUTTON) Retour
+Partenaire public, collectivitÃ©
+Partenaires publics : le BRGM Ã  vos cÃ´tÃ©s
+Expertise
+Nos solutions
+RÃ©seau rÃ©gional
+RÃ©fÃ©rences et projets
+Rapports publics
+Publications scientifiques
+Contacts
+  * (BUTTON) Entreprise
+(BUTTON) Retour
+Entreprise
+Travailler avec le BRGM, mode d'emploi
+Innovation et transfert
+Nos solutions
+RÃ©fÃ©rences et projets
+Laboratoires et plateformes technologiques
+Formation professionnelle continue
+Devenir fournisseur du BRGM
+Contacts
+  * (BUTTON) Chercheur
+(BUTTON) Retour
+Chercheur
+Recherche scientifique
+Rapports publics
+Publications scientifiques
+RÃ©fÃ©rences et projets
+Laboratoires et plateformes technologiques
+Livres et cartes gÃ©ologiques
+Formation professionnelle continue
+Doctorat et post-doctorat
+  * (BUTTON) Ã‰tudiant
+(BUTTON) Retour
+Ã‰tudiant
+Enseignement supÃ©rieur
+Recrutement et carriÃ¨res
+Doctorat et post-doctorat
+Alternance et stages
+Livres et cartes gÃ©ologiques
+Rapports publics
+Publications scientifiques
+ActualitÃ©s
+  * (BUTTON) Enseignant, Ã©lÃ¨ve
+(BUTTON) Retour
+Enseignant, Ã©lÃ¨ve
+Comprendre les sciences de la Terre
+Enseignement supÃ©rieur
+Livres et cartes gÃ©ologiques
+Rapports publics
+Publications scientifiques
+ActualitÃ©s
+  * (BUTTON) Journaliste
+(BUTTON) Retour
+Journaliste
+ActualitÃ©s et communiquÃ©s de presse
+Ã‰vÃ©nements
+RÃ©fÃ©rences et projets
+Rapports publics
+Le BRGM en bref
+Newsletter
+Contact presse
+  * (BUTTON) Citoyen, association
+(BUTTON) Retour
+Citoyen, association
+ActualitÃ©s
+Ã‰vÃ©nements
+Recrutement et carriÃ¨res
+Le BRGM en bref
+RÃ©seau rÃ©gional
+Comprendre les sciences de la Terre
+Engagements
+Newsletter
+RÃ©sultats et donnÃ©es
 
-   (BUTTON) Menu
-   (BUTTON)
-   La rivière des Jonquilles, Corrèze
-   (BUTTON)
+(BUTTON) Menu
+(BUTTON)
+La riviÃ¨re des Jonquilles, CorrÃ¨ze
+(BUTTON)
 
-     * Enjeux (BUTTON)
-       (BUTTON) Retour
-       Enjeux
-          + Géologie et modélisation du sous-sol
-          + Eau souterraine et préservation de la ressource
-          + Risques liés au sol et au sous-sol
-          + Ressources minérales et approvisionnement responsable
-          + Énergie du sous-sol et décarbonation
-          + Numérique pour les géosciences
-     * Activités (BUTTON)
-       (BUTTON) Retour
-       Activités
-          + Recherche scientifique
-          + Expertise
-          + Innovation et transfert
-          + Analyse et expérimentation
-          + Prévention et sécurité minière
-          + Enseignement supérieur
-          + Formation professionnelle continue
-          + Diffusion de la connaissance et science ouverte
-     * Devenir partenaire ou client (BUTTON)
-       (BUTTON) Retour
-       Devenir partenaire ou client
-          + Entreprises : travailler avec le BRGM, mode d'emploi
-          + Partenaires publics : le BRGM à vos côtés
-          + Nos solutions
-          + Laboratoires et plateformes technologiques
-          + Devenir fournisseur du BRGM
-     * Identité (BUTTON)
-       (BUTTON) Retour
-       Identité
-          + Le BRGM en bref
-          + Stratégie
-          + Gouvernance
-          + Histoire
-          + Engagements
-          + Filiales et participations
-     * Résultats et données (BUTTON)
-       (BUTTON) Retour
-       Résultats et données
-          + Références et projets
-          + Rapports publics
-          + Publications scientifiques
-          + Logiciels
-          + Sites web, applications et bases de données
-     * France et monde (BUTTON)
-       (BUTTON) Retour
-       France et monde
-          + Réseau régional
-          + Europe
-          + International
+  * Enjeux (BUTTON)
+(BUTTON) Retour
+Enjeux
+  + GÃ©ologie et modÃ©lisation du sous-sol
+  + Eau souterraine et prÃ©servation de la ressource
+  + Risques liÃ©s au sol et au sous-sol
+  + Ressources minÃ©rales et approvisionnement responsable
+  + Ã‰nergie du sous-sol et dÃ©carbonation
+  + NumÃ©rique pour les gÃ©osciences
+  * ActivitÃ©s (BUTTON)
+(BUTTON) Retour
+ActivitÃ©s
+  + Recherche scientifique
+  + Expertise
+  + Innovation et transfert
+  + Analyse et expÃ©rimentation
+  + PrÃ©vention et sÃ©curitÃ© miniÃ¨re
+  + Enseignement supÃ©rieur
+  + Formation professionnelle continue
+  + Diffusion de la connaissance et science ouverte
+  * Devenir partenaire ou client (BUTTON)
+(BUTTON) Retour
+Devenir partenaire ou client
+  + Entreprises : travailler avec le BRGM, mode d'emploi
+  + Partenaires publics : le BRGM Ã  vos cÃ´tÃ©s
+  + Nos solutions
+  + Laboratoires et plateformes technologiques
+  + Devenir fournisseur du BRGM
+  * IdentitÃ© (BUTTON)
+(BUTTON) Retour
+IdentitÃ©
+  + Le BRGM en bref
+  + StratÃ©gie
+  + Gouvernance
+  + Histoire
+  + Engagements
+  + Filiales et participations
+  * RÃ©sultats et donnÃ©es (BUTTON)
+(BUTTON) Retour
+RÃ©sultats et donnÃ©es
+  + RÃ©fÃ©rences et projets
+  + Rapports publics
+  + Publications scientifiques
+  + Logiciels
+  + Sites web, applications et bases de donnÃ©es
+  * France et monde (BUTTON)
+(BUTTON) Retour
+France et monde
+  + RÃ©seau rÃ©gional
+  + Europe
+  + International
 
-     * Actualités
-     * Événements
-     * Espace pédagogique
-     * État des nappes d'eau souterraine
-     * Recrutement et carrières
-     * Éditions du BRGM
-     * Newsletter
-     * Contacts
+  * ActualitÃ©s
+  * Ã‰vÃ©nements
+  * Espace pÃ©dagogique
+  * Ã‰tat des nappes dâ€™eau souterraine
+  * Recrutement et carriÃ¨res
+  * Ã‰ditions du BRGM
+  * Newsletter
+  * Contacts
 
-     * (BUTTON)
-       (BUTTON) Retour
-     * (BUTTON)
-       (BUTTON) Retour
+  * (BUTTON)
+(BUTTON) Retour
+  * (BUTTON)
+(BUTTON) Retour
 
-   Vue d'une opération de mesures de maintenance sur les sources des
-   Fonts, Lozère
-   (BUTTON)
+Vue d'une opÃ©ration de mesures de maintenance sur les sources des Fonts, LozÃ¨re
+(BUTTON)
 
-   Fil d'Ariane
-     * Accueil
-     * État des nappes d'eau souterraine : un suivi assuré par le BRGM
+Fil d'Ariane
+  * Accueil
+  * Ã‰tat des nappes dâ€™eau souterraine : un suivi assurÃ© par le BRGM
 
-État des nappes d'eau souterraine : un suivi assuré par le BRGM
+Ã‰tat des nappes dâ€™eau souterraine : un suivi assurÃ© par le BRGM
 
-   Partager
-     *
-     *
-     *
+Partager
+  *
+  *
+  *
 
-   Sommaire
+Sommaire
 
-   Le BRGM, service géologique national, assure la surveillance du niveau
-   des nappes phréatiques et de la qualité des eaux souterraines en France
-   hexagonale.
+Le BRGM, service gÃ©ologique national, assure la surveillance du niveau des
+nappes phrÃ©atiques et de la qualitÃ© des eaux souterraines en France hexagonale.
 
-   Afin de surveiller le niveau des nappes d'eau souterraine, le BRGM
-   assure le suivi du réseau national piézométrique qui comporte 1860
-   points de forage. Ces derniers permettent de connaître en temps réel
-   l'état quantitatif des grandes nappes phréatiques exploitées. À partir
-   de ces données, le BRGM édite notamment un bulletin de situation des
-   nappes afin de décrire l'état des nappes d'eau souterraine.
+Afin de surveiller le niveau des nappes dâ€™eau souterraine, le BRGM assure le
+suivi du rÃ©seau national piÃ©zomÃ©trique qui comporte 1860 points de forage. Ces
+derniers permettent de connaÃ®tre en temps rÃ©el lâ€™Ã©tat quantitatif des grandes
+nappes phrÃ©atiques exploitÃ©es. Ã€ partir de ces donnÃ©es, le BRGM Ã©dite notamment
+un bulletin de situation des nappes afin de dÃ©crire lâ€™Ã©tat des nappes dâ€™eau
+souterraine.
 
-Situation des nappes d'eau souterraine
+Situation des nappes dâ€™eau souterraine
 
-   Carte de France hexagonale de la situation des nappes d'eau souterraine
-   au 15 décembre 2025.
-   Actualité
-   Nappes d'eau souterraine au 15 décembre 2025
-   La recharge des nappes phréatiques est active avec 58% des niveaux en
-   hausse. La situation globale est satisfaisante avec 45% des points
-   d'observation au-dessus des normales mensuelles.
-   18 décembre 2025
-   Voir tous les bulletins de situation sur les nappes phréatiques
+Carte de France hexagonale de la situation des nappes d'eau souterraine au 15
+dÃ©cembre 2025.
+ActualitÃ©
+Nappes dâ€™eau souterraine au 15 dÃ©cembre 2025
+La recharge des nappes phrÃ©atiques est active avec 58% des niveaux en hausse. La
+situation globale est satisfaisante avec 45% des points dâ€™observation au-dessus
+des normales mensuelles.
+18 dÃ©cembre 2025
+Voir tous les bulletins de situation sur les nappes phrÃ©atiques
 
-   Cascades des tufs à Baume-les-Messieurs (Jura, 2022).
-   (BUTTON)
+Cascades des tufs Ã  Baume-les-Messieurs (Jura, 2022).
+(BUTTON)
 
-FAQ : Eau souterraine, sécheresse et inondations
+FAQ : Eau souterraine, sÃ©cheresse et inondations
 
-   Qu'est-ce qu'une nappe d'eau souterraine ? Comment sont mesurés les
-   niveaux des nappes phréatiques ? Qu'entend-on par sécheresse et à quoi
-   est-elle due ? Quelles sont les mesures de restriction mises en place
-   pour préserver les nappes ? Face au manque d'eau, quelles pistes de
-   solutions doivent être privilégiées ? Découvrez les réponses à toutes
-   ces questions et bien plus, pour tout comprendre sur l'eau souterraine.
+Quâ€™est-ce quâ€™une nappe dâ€™eau souterraine ? Comment sont mesurÃ©s les niveaux des
+nappes phrÃ©atiques ? Quâ€™entend-on par sÃ©cheresse et Ã  quoi est-elle due ?
+Quelles sont les mesures de restriction mises en place pour prÃ©server les nappes
+? Face au manque dâ€™eau, quelles pistes de solutions doivent Ãªtre privilÃ©giÃ©es ?
+DÃ©couvrez les rÃ©ponses Ã  toutes ces questions et bien plus, pour tout comprendre
+sur l'eau souterraine.
 
-   Vue des gorges du Verdon, France
-   Dossier thématique
-   Eau souterraine, sécheresse et inondations : FAQ - questions fréquentes
-   Découvrez dans notre FAQ les réponses à vos questions sur l'eau
-   souterraine et la sécheresse, le suivi des nappes phréatiques, ainsi
-   que les données sur cette ressource invisible mais essentielle.
-   26 septembre 2023
+Vue des gorges du Verdon, France
+Dossier thÃ©matique
+Eau souterraine, sÃ©cheresse et inondations : FAQ - questions frÃ©quentes
+DÃ©couvrez dans notre FAQ les rÃ©ponses Ã  vos questions sur l'eau souterraine et
+la sÃ©cheresse, le suivi des nappes phrÃ©atiques, ainsi que les donnÃ©es sur cette
+ressource invisible mais essentielle.
+26 septembre 2023
 
-   Les résurgences du cirque de Choranche, Isère
-   (BUTTON)
+Les rÃ©surgences du cirque de Choranche, IsÃ¨re
+(BUTTON)
 
-Les eaux souterraines : la ressource cachée de la France
+Les eaux souterraines : la ressource cachÃ©e de la France
 
-   L'eau souterraine est une ressource très utilisée : en France
-   hexagonale, elle représente près des deux tiers de la consommation
-   d'eau potable et plus du tiers de celle du monde agricole. Elle est
-   aussi largement exploitée dans le secteur industriel. Les nappes d'eau
-   souterraine dépendent de recharges cycliques.
+Lâ€™eau souterraine est une ressource trÃ¨s utilisÃ©e : en France hexagonale, elle
+reprÃ©sente prÃ¨s des deux tiers de la consommation dâ€™eau potable et plus du tiers
+de celle du monde agricole. Elle est aussi largement exploitÃ©e dans le secteur
+industriel. Les nappes dâ€™eau souterraine dÃ©pendent de recharges cycliques.
 
-   Schéma sur le cycle de l'eau terrestre.
+SchÃ©ma sur le cycle de l'eau terrestre.
 
-   Schéma sur le cycle de l'eau terrestre.
+SchÃ©ma sur le cycle de l'eau terrestre.
 
-   © BRGM
+Â© BRGM
 
-L'eau souterraine : de l'eau contenue dans les roches
+Lâ€™eau souterraine : de lâ€™eau contenue dans les roches
 
-   Après infiltration de la pluie sous nos pieds, elle circule dans les
-   pores et les fissures des roches, à une vitesse variable.
+AprÃ¨s infiltration de la pluie sous nos pieds, elle circule dans les pores et
+les fissures des roches, Ã  une vitesse variable.
 
-   Les formations géologiques qui contiennent des eaux souterraines
-   exploitables de façon significative sont appelées aquifères. L'aquifère
-   est un contenant, la nappe est son contenu.
+Les formations gÃ©ologiques qui contiennent des eaux souterraines exploitables de
+faÃ§on significative sont appelÃ©es aquifÃ¨res. Lâ€™aquifÃ¨re est un contenant, la
+nappe est son contenu.
 
-   Les nappes ne sont pas des lacs souterrains comme certains l'imaginent
-   parfois : l'eau qui circule n'occupe que les vides de la roche (pores,
-   fissures, fractures).
+Les nappes ne sont pas des lacs souterrains comme certains lâ€™imaginent parfois :
+lâ€™eau qui circule nâ€™occupe que les vides de la roche (pores, fissures,
+fractures).
 
-   Un aquifère est à la fois un réservoir capable d'emmagasiner des
-   volumes plus ou moins importants d'eau provenant des pluies infiltrées,
-   et un conducteur permettant les écoulements souterrains et la vidange
-   progressive du réservoir vers des exutoires naturels (les rivières ou
-   la mer).
+Un aquifÃ¨re est Ã  la fois un rÃ©servoir capable dâ€™emmagasiner des volumes plus ou
+moins importants dâ€™eau provenant des pluies infiltrÃ©es, et un conducteur
+permettant les Ã©coulements souterrains et la vidange progressive du rÃ©servoir
+vers des exutoires naturels (les riviÃ¨res ou la mer).
 
 Le cycle de l'eau et la recharge des nappes
 
-   Les nappes d'eau souterraine sont alimentées par la pluie. Elles se
-   rechargent essentiellement en automne et en hiver.
+Les nappes dâ€™eau souterraine sont alimentÃ©es par la pluie. Elles se rechargent
+essentiellement en automne et en hiver.
 
-   Alors qu'une partie des précipitations s'évacue par ruissellement, le
-   proche sous-sol s'humidifie progressivement. Une partie de ces eaux,
-   plus de 60% en France, est ensuite redistribuée vers l'atmosphère via
-   l'évaporation au niveau des sols et la transpiration des plantes. Le
-   reste s'infiltre plus profondément dans le sous-sol, contribuant à
-   l'alimentation des réservoirs d'eau souterraine et à la "recharge des
-   nappes".
+Alors qu'une partie des prÃ©cipitations s'Ã©vacue par ruissellement, le proche
+sous-sol s'humidifie progressivement. Une partie de ces eaux, plus de 60% en
+France, est ensuite redistribuÃ©e vers l'atmosphÃ¨re via l'Ã©vaporation au niveau
+des sols et la transpiration des plantes. Le reste s'infiltre plus profondÃ©ment
+dans le sous-sol, contribuant Ã  l'alimentation des rÃ©servoirs d'eau souterraine
+et Ã  la "recharge des nappes".
 
-   Une animation pédagogique sur le cycle de l'eau souterraine.
+Une animation pÃ©dagogique sur le cycle de l'eau souterraine.
 
-   L'eau s'évapore au-dessus de l'océan et forme des nuages. L'eau rejoint
-   alors le sol sous forme de pluie, mais, aussi, parfois, de grêle ou de
-   neige. Une partie de cette eau ruisselle sur le sol. Une autre
-   s'infiltre.
+L'eau s'Ã©vapore au-dessus de l'ocÃ©an et forme des nuages. L'eau rejoint alors le
+sol sous forme de pluie, mais, aussi, parfois, de grÃªle ou de neige. Une partie
+de cette eau ruisselle sur le sol. Une autre s'infiltre.
 
-   © BRGM / Agence de l'eau Adour-Garonne
+Â© BRGM / Agence de l'eau Adour-Garonne
 
 Transcription
 
-   L'eau s'évapore au-dessus de l'océan et forme des nuages. L'eau rejoint
-   alors le sol sous forme de pluie, mais, aussi, parfois, de grêle ou de
-   neige. Une partie de cette eau ruisselle sur le sol. Une autre
-   s'infiltre.
+L'eau s'Ã©vapore au-dessus de l'ocÃ©an et forme des nuages. L'eau rejoint alors le
+sol sous forme de pluie, mais, aussi, parfois, de grÃªle ou de neige. Une partie
+de cette eau ruisselle sur le sol. Une autre s'infiltre.
 
-   L'eau va traverser la terre végétale. En quelques heures, elle va
-   continuer sa descente en suivant les espaces entre les grains de la
-   roche. Il y a de l'air et de l'eau dans ces vides. La zone est dite non
-   saturée.
+L'eau va traverser la terre vÃ©gÃ©tale. En quelques heures, elle va continuer sa
+descente en suivant les espaces entre les grains de la roche. Il y a de l'air et
+de l'eau dans ces vides. La zone est dite non saturÃ©e.
 
-   Lorsque l'eau rencontre une couche imperméable, elle ne peut plus
-   descendre. Elle va s'accumuler et former une nappe où les espaces vides
-   entre les grains sont entièrement remplis d'eau. C'est la zone saturée.
-   L'eau va s'écouler horizontalement sur cette couche imperméable en se
-   déplaçant de quelques mètres par jour vers le point le plus bas.
+Lorsque l'eau rencontre une couche impermÃ©able, elle ne peut plus descendre.
+Elle va s'accumuler et former une nappe oÃ¹ les espaces vides entre les grains
+sont entiÃ¨rement remplis d'eau. C'est la zone saturÃ©e. L'eau va s'Ã©couler
+horizontalement sur cette couche impermÃ©able en se dÃ©plaÃ§ant de quelques mÃ¨tres
+par jour vers le point le plus bas.
 
-   Tant qu'il pleut, la nappe se remplit plus vite qu'elle ne se vide et
-   son niveau monte. Quand il ne pleut plus, le niveau baisse. On parle de
-   vidange de la nappe.
+Tant qu'il pleut, la nappe se remplit plus vite qu'elle ne se vide et son niveau
+monte. Quand il ne pleut plus, le niveau baisse. On parle de vidange de la
+nappe.
 
-   A partir du printemps et jusqu'à l'automne, même s'il pleut,
-   l'évaporation par la chaleur et par les plantes va utiliser toute l'eau
-   qui pénètre dans la terre végétale. Cette eau ne descend plus vers la
-   nappe. Au point le plus bas, elle continue à s'écouler dans la rivière.
-   Le niveau de la nappe baisse progressivement durant tout l'été et le
-   débit de la rivière diminue.
+A partir du printemps et jusqu'Ã  l'automne, mÃªme s'il pleut, l'Ã©vaporation par
+la chaleur et par les plantes va utiliser toute l'eau qui pÃ©nÃ¨tre dans la terre
+vÃ©gÃ©tale. Cette eau ne descend plus vers la nappe. Au point le plus bas, elle
+continue Ã  s'Ã©couler dans la riviÃ¨re. Le niveau de la nappe baisse
+progressivement durant tout l'Ã©tÃ© et le dÃ©bit de la riviÃ¨re diminue.
 
-   L'eau, qui descend à travers une couche poreuse, s'accumule sur la
-   couche imperméable et forme une nappe qui s'écoule horizontalement.
-   Lorsque l'eau passe sous une formation argileuse imperméable, la nappe
-   devient captive. Elle va s'écouler beaucoup plus lentement, mais,
-   surtout, son niveau ne peut plus monter. Il est bloqué vers le haut par
-   la couche imperméable. Dans cette nappe captive, l'eau va donc se
-   trouver sous pression. Si on fait un forage à travers la couche
-   imperméable, l'eau va monter dans le tube. S'il y a assez de pression,
-   elle va même jaillir spontanément à la surface. On dit que le forage
-   est artésien.
+L'eau, qui descend Ã  travers une couche poreuse, s'accumule sur la couche
+impermÃ©able et forme une nappe qui s'Ã©coule horizontalement. Lorsque l'eau passe
+sous une formation argileuse impermÃ©able, la nappe devient captive. Elle va
+s'Ã©couler beaucoup plus lentement, mais, surtout, son niveau ne peut plus
+monter. Il est bloquÃ© vers le haut par la couche impermÃ©able. Dans cette nappe
+captive, l'eau va donc se trouver sous pression. Si on fait un forage Ã  travers
+la couche impermÃ©able, l'eau va monter dans le tube. S'il y a assez de pression,
+elle va mÃªme jaillir spontanÃ©ment Ã  la surface. On dit que le forage est
+artÃ©sien.
 
-   Dans la nature, il y a souvent une superposition de plusieurs couches
-   poreuses et imperméables. Elles forment une sorte de millefeuille,
-   comme c'est le cas pour le Bassin aquitain.
+Dans la nature, il y a souvent une superposition de plusieurs couches poreuses
+et impermÃ©ables. Elles forment une sorte de millefeuille, comme c'est le cas
+pour le Bassin aquitain.
 
-   Cyclicité des nappes d'eau souterraine en France hexagonale.
+CyclicitÃ© des nappes d'eau souterraine en France hexagonale.
 
-   Cyclicité des nappes d'eau souterraine en France hexagonale.
+CyclicitÃ© des nappes d'eau souterraine en France hexagonale.
 
-   © BRGM
+Â© BRGM
 
-La période de recharge hivernale : six mois décisifs
+La pÃ©riode de recharge hivernale : six mois dÃ©cisifs
 
-   Le niveau des nappes varie au cours de l'année, entre des niveaux hauts
-   l'hiver (quand la végétation n'absorbe pas l'eau des pluies) et des
-   niveaux bas l'été (période classique de vidange des nappes).
+Le niveau des nappes varie au cours de lâ€™annÃ©e, entre des niveaux hauts lâ€™hiver
+(quand la vÃ©gÃ©tation nâ€™absorbe pas lâ€™eau des pluies) et des niveaux bas lâ€™Ã©tÃ©
+(pÃ©riode classique de vidange des nappes).
 
-   Le devenir d'une pluie est très différent selon la période de l'année
-   et l'état de la surface sur laquelle elle tombe. Traditionnellement, la
-   période de recharge des nappes s'étend du début de l'automne (septembre
-   - octobre) au début du printemps (mars - avril), semestre durant lequel
-   la végétation est en sommeil (avec une évapotranspiration faible) et
-   les précipitations sont en principe plus abondantes. Si l'hiver est
-   sec, la recharge des nappes est très faible.
+Le devenir d'une pluie est trÃ¨s diffÃ©rent selon la pÃ©riode de l'annÃ©e et l'Ã©tat
+de la surface sur laquelle elle tombe. Traditionnellement, la pÃ©riode de
+recharge des nappes s'Ã©tend du dÃ©but de l'automne (septembre - octobre) au dÃ©but
+du printemps (mars - avril), semestre durant lequel la vÃ©gÃ©tation est en sommeil
+(avec une Ã©vapotranspiration faible) et les prÃ©cipitations sont en principe plus
+abondantes. Si l'hiver est sec, la recharge des nappes est trÃ¨s faible.
 
-   À partir du printemps et durant l'été, la hausse des températures, la
-   reprise de la végétation, et donc l'augmentation de
-   l'évapotranspiration, limitent l'infiltration des pluies vers les
-   nappes. Entre mai et octobre, sauf événements pluviométriques
-   exceptionnels, la vidange des nappes se poursuit habituellement et les
-   niveaux continuent de baisser jusqu'à l'automne.
+Ã€ partir du printemps et durant lâ€™Ã©tÃ©, la hausse des tempÃ©ratures, la reprise de
+la vÃ©gÃ©tation, et donc lâ€™augmentation de lâ€™Ã©vapotranspiration, limitent
+lâ€™infiltration des pluies vers les nappes. Entre mai et octobre, sauf Ã©vÃ©nements
+pluviomÃ©triques exceptionnels, la vidange des nappes se poursuit habituellement
+et les niveaux continuent de baisser jusquâ€™Ã  lâ€™automne.
 
-   Schéma représentant les différents types d'aquifères.
+SchÃ©ma reprÃ©sentant les diffÃ©rents types dâ€™aquifÃ¨res.
 
-   Schéma représentant les différents types d'aquifères.
+SchÃ©ma reprÃ©sentant les diffÃ©rents types dâ€™aquifÃ¨res.
 
-   © BRGM - Marylène Imbault
+Â© BRGM - MarylÃ¨ne Imbault
 
-Cyclicité de la recharge des nappes : nappes inertielles et réactives
+CyclicitÃ© de la recharge des nappes : nappes inertielles et rÃ©actives
 
-   Les nappes s'écoulent plus ou moins rapidement selon la porosité
-   (pourcentage de vides dans la roche) et la perméabilité (capacité à
-   laisser circuler l'eau - connexion entre ces vides) des aquifères. Plus
-   les vides sont importants, grands et reliés entre eux, plus la nappe
-   s'écoulera vite.
+Les nappes s'Ã©coulent plus ou moins rapidement selon la porositÃ© (pourcentage de
+vides dans la roche) et la permÃ©abilitÃ© (capacitÃ© Ã  laisser circuler lâ€™eau â€“
+connexion entre ces vides) des aquifÃ¨res. Plus les vides sont importants, grands
+et reliÃ©s entre eux, plus la nappe sâ€™Ã©coulera vite.
 
-   Un même volume d'eau peut parcourir une même distance :
-     * en quelques années en milieu poreux : l'eau s'écoule dans les
-       interstices de la roche meuble (sables, graviers) ou consolidée
-       (grès, craie).
-     * en quelques mois en milieu fissuré : l'eau est contenue et circule
-       dans les failles ou les fissures de la roche (roches cristallines -
-       granites, schistes - roches volcaniques, calcaires non karstifiés).
-     * et en quelques jours, voire quelques heures, en milieu karstique
-       : les eaux ont dissout les fissures et créé des boyaux (karsts des
-       calcaires du Crétacé et du Jurassique).
+Un mÃªme volume dâ€™eau peut parcourir une mÃªme distance :
+  * en quelques annÃ©es en milieu poreux : lâ€™eau sâ€™Ã©coule dans les interstices de
+la roche meuble (sables, graviers) ou consolidÃ©e (grÃ¨s, craie).
+  * en quelques mois en milieu fissurÃ© : lâ€™eau est contenue et circule dans les
+failles ou les fissures de la roche (roches cristallines - granites, schistes -
+roches volcaniques, calcaires non karstifiÃ©s).
+  * et en quelques jours, voire quelques heures, en milieu karstique : les eaux
+ont dissout les fissures et crÃ©Ã© des boyaux (karsts des calcaires du CrÃ©tacÃ© et
+du Jurassique).
 
-   L'impact de la qualité de la recharge hivernale est différent selon la
-   cyclicité de la nappe, c'est-à-dire sa réactivité à l'infiltration
-   d'une pluie.
+L'impact de la qualitÃ© de la recharge hivernale est diffÃ©rent selon la cyclicitÃ©
+de la nappe, câ€™est-Ã -dire sa rÃ©activitÃ© Ã  lâ€™infiltration dâ€™une pluie.
 
-   Les nappes inertielles (craie, formations tertiaires et formations
-   volcaniques) ont une cyclicité pluriannuelle. Leur inertie,
-   caractérisée par des écoulements lents, leur permet de conserver des
-   niveaux peu dégradés à la sortie d'un hiver caractérisé par une
-   recharge déficitaire.
+Les nappes inertielles (craie, formations tertiaires et formations volcaniques)
+ont une cyclicitÃ© pluriannuelle. Leur inertie, caractÃ©risÃ©e par des Ã©coulements
+lents, leur permet de conserver des niveaux peu dÃ©gradÃ©s Ã  la sortie d'un hiver
+caractÃ©risÃ© par une recharge dÃ©ficitaire.
 
-   Au contraire, les nappes réactives à cyclicité annuelle (alluvions,
-   calcaires jurassiques et crétacés, grès triasiques et socle) sont très
-   sensibles au déficit de pluie efficace.
+Au contraire, les nappes rÃ©actives Ã  cyclicitÃ© annuelle (alluvions, calcaires
+jurassiques et crÃ©tacÃ©s, grÃ¨s triasiques et socle) sont trÃ¨s sensibles au
+dÃ©ficit de pluie efficace.
 
-   Récupération de données piézométriques
-   (BUTTON)
+RÃ©cupÃ©ration de donnÃ©es piÃ©zomÃ©triques
+(BUTTON)
 
 Comment la France surveille ses eaux souterraines
 
-   Au fil des décennies, les chercheurs ont développé une connaissance
-   intime du sous-sol français. Aujourd'hui, le pays dispose d'un ensemble
-   d'instruments de mesures qui lui donne une vision très étoffée de
-   l'état quantitatif et chimique des eaux souterraines. Le BRGM est en
-   charge de la coordination et de la mise en valeur de ces énormes masses
-   de données.
+Au fil des dÃ©cennies, les chercheurs ont dÃ©veloppÃ© une connaissance intime du
+sous-sol franÃ§ais. Aujourdâ€™hui, le pays dispose dâ€™un ensemble dâ€™instruments de
+mesures qui lui donne une vision trÃ¨s Ã©toffÃ©e de lâ€™Ã©tat quantitatif et chimique
+des eaux souterraines. Le BRGM est en charge de la coordination et de la mise en
+valeur de ces Ã©normes masses de donnÃ©es.
 
-   La France dispose de 6500 aquifères, dont 200 aquifères d'importance
-   régionale (superficie entre 1000 et 100 000 km2), abrités par des
-   roches variées.
+La France dispose de 6500 aquifÃ¨res, dont 200 aquifÃ¨res dâ€™importance rÃ©gionale
+(superficie entre 1000 et 100 000 km2), abritÃ©s par des roches variÃ©es.
 
-   La France dispose de 6500 aquifères, dont 200 aquifères d'importance
-   régionale (superficie entre 1000 et 100 000 km^2), abrités par des
-   roches variées.
+La France dispose de 6500 aquifÃ¨res, dont 200 aquifÃ¨res dâ€™importance rÃ©gionale
+(superficie entre 1000 et 100 000 km^2), abritÃ©s par des roches variÃ©es.
 
-   © BRGM
+Â© BRGM
 
-Connaître les réserves du sous-sol
+ConnaÃ®tre les rÃ©serves du sous-sol
 
-   Malgré la diversité de son sous-sol et les inconnues encore nombreuses,
-   la France possède des bases de données très riches pour la connaissance
-   des réservoirs aquifères du sous-sol. Elles sont aujourd'hui gérées et
-   développées par le BRGM en coopération avec ses partenaires. Environ
-   6500 nappes de toutes tailles ont été référencées sur le territoire
-   national, dont 200 aquifères d'envergure régionale (de 1000 à 100 000
-   km^2).
+MalgrÃ© la diversitÃ© de son sous-sol et les inconnues encore nombreuses, la
+France possÃ¨de des bases de donnÃ©es trÃ¨s riches pour la connaissance des
+rÃ©servoirs aquifÃ¨res du sous-sol. Elles sont aujourdâ€™hui gÃ©rÃ©es et dÃ©veloppÃ©es
+par le BRGM en coopÃ©ration avec ses partenaires. Environ 6500 nappes de toutes
+tailles ont Ã©tÃ© rÃ©fÃ©rencÃ©es sur le territoire national, dont 200 aquifÃ¨res
+dâ€™envergure rÃ©gionale (de 1000 Ã  100 000 km^2).
 
-   Afin de surveiller le niveau des nappes comme il est attendu dans la
-   directive-cadre sur l'eau, le BRGM assure le suivi du réseau national
-   piézométrique qui comporte 1860 points de forage. Ces derniers plongent
-   dans le sous-sol et permettent de connaitre en temps réel l'état
-   quantitatif des grandes nappes phréatiques exploitées, les piézomètres
-   (tubes d'observation du niveau de la nappe) étant pour la plupart
-   équipés d'une technologie particulière (le GRPS) qui transmet les
-   informations à distance. Une à deux fois par an, des techniciens se
-   rendent sur le terrain afin de vérifier manuellement que les données
-   envoyées par le GRPS sont conformes aux niveaux observés sur place.
+Afin de surveiller le niveau des nappes comme il est attendu dans la
+directive-cadre sur lâ€™eau, le BRGM assure le suivi du rÃ©seau national
+piÃ©zomÃ©trique qui comporte 1860 points de forage. Ces derniers plongent dans le
+sous-sol et permettent de connaitre en temps rÃ©el lâ€™Ã©tat quantitatif des grandes
+nappes phrÃ©atiques exploitÃ©es, les piÃ©zomÃ¨tres (tubes d'observation du niveau de
+la nappe) Ã©tant pour la plupart Ã©quipÃ©s dâ€™une technologie particuliÃ¨re (le GRPS)
+qui transmet les informations Ã  distance. Une Ã  deux fois par an, des
+techniciens se rendent sur le terrain afin de vÃ©rifier manuellement que les
+donnÃ©es envoyÃ©es par le GRPS sont conformes aux niveaux observÃ©s sur place.
 
-Surveiller la qualité des eaux souterraines
+Surveiller la qualitÃ© des eaux souterraines
 
-   En outre, le BRGM a fourni un effort considérable ces 15 dernières
-   années afin de coupler l'analyse quantitative des eaux à une analyse
-   qualitative. Le service géologique national intègre ainsi à son réseau
-   de mesures :
-     * Des outils permettant de relever la température des eaux
-       souterraines et leur conductivité électrique. Le but est ici de
-       mieux cerner le lien entre les eaux étudiées et l'augmentation du
-       niveau marin (avec les intrusions salines), ainsi que les échanges
-       avec les eaux de surface.
-     * Des outils d'analyse qualitative pour les risques de pollution. En
-       France, entreprises, collectivités ou agences liées à l'eau ont
-       installé au fil du temps pas moins de 75 000 qualitomètres
-       (distincts des piézomètres qui mesurent le niveau des nappes) sur
-       le territoire national. Cette énorme masse d'informations est
-       collectée par le portail ADES, développé et géré par le BRGM. Ses
-       scientifiques s'en servent pour améliorer la compréhension du
-       transport et de la transformation des contaminants dans le sol puis
-       dans les nappes (nitrates, pesticides ou polluants émergents comme
-       les résidus cosmétiques ou les produits phytosanitaires). Ces
-       travaux nécessitent de développer de nouveaux outils permettant par
-       exemple d'effectuer un "balayage" de tous les polluants présents
-       dans l'eau, et donc de mobiliser des moyens à la fois en
-       microbiologie, en hydrophysique, en métrologie, mais aussi dans
-       l'analytique et pour l'expérimentation. Ils permettront notamment
-       d'affiner les cartes de vulnérabilité des eaux souterraines et de
-       prédire l'impact des changements d'occupation du sol ou des mesures
-       de protection sur la qualité des eaux souterraines.
+En outre, le BRGM a fourni un effort considÃ©rable ces 15 derniÃ¨res annÃ©es afin
+de coupler lâ€™analyse quantitative des eaux Ã  une analyse qualitative. Le service
+gÃ©ologique national intÃ¨gre ainsi Ã  son rÃ©seau de mesures :
+  * Des outils permettant de relever la tempÃ©rature des eaux souterraines et
+leur conductivitÃ© Ã©lectrique. Le but est ici de mieux cerner le lien entre les
+eaux Ã©tudiÃ©es et lâ€™augmentation du niveau marin (avec les intrusions salines),
+ainsi que les Ã©changes avec les eaux de surface.
+  * Des outils d'analyse qualitative pour les risques de pollution. En France,
+entreprises, collectivitÃ©s ou agences liÃ©es Ã  lâ€™eau ont installÃ© au fil du temps
+pas moins de 75 000 qualitomÃ¨tres (distincts des piÃ©zomÃ¨tres qui mesurent le
+niveau des nappes) sur le territoire national. Cette Ã©norme masse dâ€™informations
+est collectÃ©e par le portail ADES, dÃ©veloppÃ© et gÃ©rÃ© par le BRGM. Ses
+scientifiques sâ€™en servent pour amÃ©liorer la comprÃ©hension du transport et de la
+transformation des contaminants dans le sol puis dans les nappes (nitrates,
+pesticides ou polluants Ã©mergents comme les rÃ©sidus cosmÃ©tiques ou les produits
+phytosanitaires). Ces travaux nÃ©cessitent de dÃ©velopper de nouveaux outils
+permettant par exemple dâ€™effectuer un "balayage" de tous les polluants prÃ©sents
+dans lâ€™eau, et donc de mobiliser des moyens Ã  la fois en microbiologie, en
+hydrophysique, en mÃ©trologie, mais aussi dans lâ€™analytique et pour
+lâ€™expÃ©rimentation. Ils permettront notamment dâ€™affiner les cartes de
+vulnÃ©rabilitÃ© des eaux souterraines et de prÃ©dire lâ€™impact des changements
+dâ€™occupation du sol ou des mesures de protection sur la qualitÃ© des eaux
+souterraines.
 
-Les sciences de la Terre, essentielles à la gestion quantitative et
-qualitative de l'eau
+Les sciences de la Terre, essentielles Ã  la gestion quantitative et qualitative
+de lâ€™eau
 
-   Le BRGM s'est penché très tôt sur la question de l'eau. Il développe
-   depuis sa création une expertise aujourd'hui internationalement
-   reconnue en matière de gestion quantitative et qualitative des eaux
-   souterraines. Le BRGM s'appuie sur des compétences solides en matière
-   de connaissance de la structure du sous-sol et de caractérisation des
-   hydrosystèmes (évaluation des ressources, compréhension des transferts
-   des pollutions dans les eaux souterraines).
+Le BRGM sâ€™est penchÃ© trÃ¨s tÃ´t sur la question de lâ€™eau. Il dÃ©veloppe depuis sa
+crÃ©ation une expertise aujourdâ€™hui internationalement reconnue en matiÃ¨re de
+gestion quantitative et qualitative des eaux souterraines. Le BRGM sâ€™appuie sur
+des compÃ©tences solides en matiÃ¨re de connaissance de la structure du sous-sol
+et de caractÃ©risation des hydrosystÃ¨mes (Ã©valuation des ressources,
+comprÃ©hension des transferts des pollutions dans les eaux souterraines).
 
-Connaître pour gérer : l'apport des géosciences
+ConnaÃ®tre pour gÃ©rer : lâ€™apport des gÃ©osciences
 
-   Le caractère « caché » des eaux souterraines et la grande inertie d'une
-   partie de ces réservoirs due à la lenteur des écoulements sont les deux
-   plus grands atouts de cette ressource, garantissant l'accès à une eau
-   de qualité préservée des pollutions de surface. Mais ces avantages ont
-   un revers, la caractérisation des gisements, la compréhension de leur
-   dynamique et leur exploitation sont rendus plus complexes que pour les
-   eaux de surface.
+Le caractÃ¨re Â« cachÃ© Â» des eaux souterraines et la grande inertie dâ€™une partie
+de ces rÃ©servoirs due Ã  la lenteur des Ã©coulements sont les deux plus grands
+atouts de cette ressource, garantissant lâ€™accÃ¨s Ã  une eau de qualitÃ© prÃ©servÃ©e
+des pollutions de surface. Mais ces avantages ont un revers, la caractÃ©risation
+des gisements, la comprÃ©hension de leur dynamique et leur exploitation sont
+rendus plus complexes que pour les eaux de surface.
 
-   L'apport des géosciences s'avère indispensable dans l'acquisition,
-   l'harmonisation et l'actualisation des données sur les formations
-   géologiques aquifères et les enveloppes protectrices des eaux
-   souterraines. Expert des ressources du sous-sol, le BRGM contribue
-   ainsi à l'évaluation précise des ressources en eau souterraine et au
-   développement d'outils de gestion pour les différents acteurs de l'eau
-   français, comme les agences de l'eau.
-   En savoir plus sur la gestion des eaux souterraines au BRGM
+Lâ€™apport des gÃ©osciences sâ€™avÃ¨re indispensable dans lâ€™acquisition,
+lâ€™harmonisation et lâ€™actualisation des donnÃ©es sur les formations gÃ©ologiques
+aquifÃ¨res et les enveloppes protectrices des eaux souterraines. Expert des
+ressources du sous-sol, le BRGM contribue ainsi Ã  lâ€™Ã©valuation prÃ©cise des
+ressources en eau souterraine et au dÃ©veloppement dâ€™outils de gestion pour les
+diffÃ©rents acteurs de lâ€™eau franÃ§ais, comme les agences de lâ€™eau.
+En savoir plus sur la gestion des eaux souterraines au BRGM
 
-   Nappe de la Craie, région Centre
-   (BUTTON)
+Nappe de la Craie, rÃ©gion Centre
+(BUTTON)
 
-Ressources et bases de données sur l'eau souterraine en France
+Ressources et bases de donnÃ©es sur l'eau souterraine en France
 
-   La France possède des bases de données très riches pour la connaissance
-   de ses eaux souterraines. Elles sont développées et gérées par le BRGM
-   en coopération avec ses partenaires.
+La France possÃ¨de des bases de donnÃ©es trÃ¨s riches pour la connaissance de ses
+eaux souterraines. Elles sont dÃ©veloppÃ©es et gÃ©rÃ©es par le BRGM en coopÃ©ration
+avec ses partenaires.
 
-   Carte de France hexagonale de la situation des nappes d'eau souterraine
-   au 1er juillet 2025.
+Carte de France hexagonale de la situation des nappes d'eau souterraine au 1er
+juillet 2025.
 
-   Carte de France hexagonale de la situation des nappes d'eau souterraine
-   au 1^er juillet 2025.
+Carte de France hexagonale de la situation des nappes d'eau souterraine au 1^er
+juillet 2025.
 
-   Carte établie le 4 juillet 2025 par le BRGM, à partir de données de la
-   banque ADES acquises jusqu'au 30 juin 2025.
+Carte Ã©tablie le 4 juillet 2025 par le BRGM, Ã  partir de donnÃ©es de la banque
+ADES acquises jusquâ€™au 30 juin 2025.
 
-   Source des données : banque ADES (ades.eaufrance.fr) / Hydroportail
-   (hydro.eaufrance.fr) / Fond de carte © IGN. Producteurs de données et
-   contribution : APRONA, BRGM, Conseil Départemental de la Vendée,
-   Conseil Départemental des Landes, Conseil Départemental du Lot, EPTB
-   Vistre Vistrenque, Parc Naturel Régional des Grandes Causses, Syndicat
-   Mixte d'Etudes et de Travaux de l'Astien (SMETA), Syndicat Mixte pour
-   la protection et la gestion des nappes souterraines de la plaine du
-   Roussillon (SMNPR).
+Source des donnÃ©es : banque ADES (ades.eaufrance.fr) / Hydroportail
+(hydro.eaufrance.fr) / Fond de carte Â© IGN. Producteurs de donnÃ©es et
+contribution : APRONA, BRGM, Conseil DÃ©partemental de la VendÃ©e, Conseil
+DÃ©partemental des Landes, Conseil DÃ©partemental du Lot, EPTB Vistre Vistrenque,
+Parc Naturel RÃ©gional des Grandes Causses, Syndicat Mixte dâ€™Etudes et de Travaux
+de lâ€™Astien (SMETA), Syndicat Mixte pour la protection et la gestion des nappes
+souterraines de la plaine du Roussillon (SMNPR).
 
-   Cette carte présente les indicateurs globaux traduisant les
-   fluctuations moyennes des nappes. Ils sont établis à partir des
-   indicateurs ponctuels relevés au niveau des points de surveillance du
-   niveau des nappes (piézomètres).
+Cette carte prÃ©sente les indicateurs globaux traduisant les fluctuations
+moyennes des nappes. Ils sont Ã©tablis Ã  partir des indicateurs ponctuels relevÃ©s
+au niveau des points de surveillance du niveau des nappes (piÃ©zomÃ¨tres).
 
-   L'indicateur "Niveau des nappes" compare le mois en cours par rapport
-   aux mêmes mois de l'ensemble de la chronique, soit au minimum 15 ans de
-   données, et jusqu'à plus de 100 ans. Il est réparti en 7 classes, du
-   niveau le plus bas (en rouge) au niveau le plus haut (en bleu foncé).
+L'indicateur "Niveau des nappes" compare le mois en cours par rapport aux mÃªmes
+mois de lâ€™ensemble de la chronique, soit au minimum 15 ans de donnÃ©es, et
+jusqu'Ã  plus de 100 ans. Il est rÃ©parti en 7 classes, du niveau le plus bas (en
+rouge) au niveau le plus haut (en bleu foncÃ©).
 
-   Les zones grises correspondent à des secteurs sans nappes libres,
-   c'est-à-dire avec une couche imperméable ou semi-perméable au-dessus de
-   la nappe, et/ou des secteurs comportant une très faible densité de
-   points de suivi. Ce dernier cas concerne notamment les zones
-   montagneuses dont les nappes sont petites et hétérogènes.
+Les zones grises correspondent Ã  des secteurs sans nappes libres, c'est-Ã -dire
+avec une couche impermÃ©able ou semi-permÃ©able au-dessus de la nappe, et/ou des
+secteurs comportant une trÃ¨s faible densitÃ© de points de suivi. Ce dernier cas
+concerne notamment les zones montagneuses dont les nappes sont petites et
+hÃ©tÃ©rogÃ¨nes.
 
-   L'indicateur "Évolution des niveaux" traduit la variation du niveau
-   d'eau du mois échu par rapport aux deux mois précédents (stable, à la
-   hausse ou à la baisse).
+L'indicateur "Ã‰volution des niveaux" traduit la variation du niveau d'eau du
+mois Ã©chu par rapport aux deux mois prÃ©cÃ©dents (stable, Ã  la hausse ou Ã  la
+baisse).
 
-   Ces indicateurs globaux rendent compte de situations et de tendances
-   générales et ne tiennent pas compte d'éventuelles disparités locales.
+Ces indicateurs globaux rendent compte de situations et de tendances gÃ©nÃ©rales
+et ne tiennent pas compte d'Ã©ventuelles disparitÃ©s locales.
 
-   © BRGM
+Â© BRGM
 
 Le bulletin de situation des nappes du BRGM : une vision statistique sur la
-durée
+durÃ©e
 
-   Le BRGM, service géologique national, publie chaque mois son bulletin
-   de situation des nappes (ou BSN) qui fait le point sur l'état
-   quantitatif des nappes d'eau souterraine. Ce point de situation compare
-   le mois en cours par rapport aux mêmes mois de l'ensemble de la
-   chronique, soit au minimum 15 ans de données.
+Le BRGM, service gÃ©ologique national, publie chaque mois son bulletin de
+situation des nappes (ou BSN) qui fait le point sur lâ€™Ã©tat quantitatif des
+nappes d'eau souterraine. Ce point de situation compare le mois en cours par
+rapport aux mÃªmes mois de lâ€™ensemble de la chronique, soit au minimum 15 ans de
+donnÃ©es.
 
-   En se basant sur les niveaux fournis par les piézomètres du réseau de
-   surveillance national, le BRGM établit des indicateurs de niveau afin
-   de faciliter l'interprétation des données. Quand un forage
-   piézométrique dispose d'un minimum de 15 ans de données, il est jugé
-   apte à établir des moyennes mensuelles et un écart à la moyenne. Telle
-   nappe sera ainsi considérée comme haute ou basse par rapport à la
-   moyenne du même mois sur au moins 15 années. Ladite moyenne évolue
-   elle-même au fil du temps car elle ajoute les niveaux de l'année
-   précédente. Les chroniques les plus anciennes du réseau piézométrique
-   national remontent à plus de 100 ans.
+En se basant sur les niveaux fournis par les piÃ©zomÃ¨tres du rÃ©seau de
+surveillance national, le BRGM Ã©tablit des indicateurs de niveau afin de
+faciliter lâ€™interprÃ©tation des donnÃ©es. Quand un forage piÃ©zomÃ©trique dispose
+dâ€™un minimum de 15 ans de donnÃ©es, il est jugÃ© apte Ã  Ã©tablir des moyennes
+mensuelles et un Ã©cart Ã  la moyenne. Telle nappe sera ainsi considÃ©rÃ©e comme
+haute ou basse par rapport Ã  la moyenne du mÃªme mois sur au moins 15 annÃ©es.
+Ladite moyenne Ã©volue elle-mÃªme au fil du temps car elle ajoute les niveaux de
+lâ€™annÃ©e prÃ©cÃ©dente. Les chroniques les plus anciennes du rÃ©seau piÃ©zomÃ©trique
+national remontent Ã  plus de 100 ans.
 
-   Depuis 2017, le calcul utilisé se base sur l'indicateur piézométrique
-   standardisé (IPS). Il est en cohérence avec l'indicateur standardisé
-   des précipitations développé par Météo-France, ce qui facilite la
-   comparaison de l'état des nappes avec les épisodes climatiques.
-   Voir tous les bulletins de suivi des nappes phréatiques
+Depuis 2017, le calcul utilisÃ© se base sur l'indicateur piÃ©zomÃ©trique
+standardisÃ© (IPS). Il est en cohÃ©rence avec lâ€™indicateur standardisÃ© des
+prÃ©cipitations dÃ©veloppÃ© par MÃ©tÃ©o-France, ce qui facilite la comparaison de
+lâ€™Ã©tat des nappes avec les Ã©pisodes climatiques.
+Voir tous les bulletins de suivi des nappes phrÃ©atiques
 
-   Risque sécheresse sur les nappes à enjeux en 2023 - avril 2023.
+Risque sÃ©cheresse sur les nappes Ã  enjeux en 2023 - avril 2023.
 
-   Risque sécheresse sur les nappes à enjeux en 2023 - avril 2023.
+Risque sÃ©cheresse sur les nappes Ã  enjeux en 2023 - avril 2023.
 
-   © BRGM
+Â© BRGM
 
-Prévisions saisonnières et carte du risque sécheresse
+PrÃ©visions saisonniÃ¨res et carte du risque sÃ©cheresse
 
-   Chaque mois, Météo-France produit un bulletin des grandes tendances
-   pour les trois mois à venir. Il ne s'agit pas de prévisions
-   météorologiques destinées à fournir des informations sur le temps
-   attendu en France tel ou tel jour, mais de dégager des tendances
-   probabilistes à l'échelle de l'Europe. Ces prévisions sont utilisées
-   par le BRGM pour réaliser une projection de l'état des nappes, intégrée
-   dans le bulletin mensuel sur l'état des nappes d'eau souterraine.
+Chaque mois, MÃ©tÃ©o-France produit un bulletin des grandes tendances pour les
+trois mois Ã  venir. Il ne sâ€™agit pas de prÃ©visions mÃ©tÃ©orologiques destinÃ©es Ã
+fournir des informations sur le temps attendu en France tel ou tel jour, mais de
+dÃ©gager des tendances probabilistes Ã  lâ€™Ã©chelle de lâ€™Europe. Ces prÃ©visions sont
+utilisÃ©es par le BRGM pour rÃ©aliser une projection de lâ€™Ã©tat des nappes,
+intÃ©grÃ©e dans le bulletin mensuel sur lâ€™Ã©tat des nappes dâ€™eau souterraine.
 
-   Le BRGM réalise en outre, depuis 2021, une carte des prévisions
-   saisonnières estivales sur la situation des nappes. L'élaboration de la
-   carte du risque sécheresse repose sur l'état initial des nappes après
-   la période de recharge hivernale, sur des prévisions saisonnières de
-   Météo-France, sur les prévisions saisonnières issues de modèles
-   hydrogéologiques ainsi que sur l'expertise des hydrogéologues régionaux
-   du BRGM.
+Le BRGM rÃ©alise en outre, depuis 2021, une carte des prÃ©visions saisonniÃ¨res
+estivales sur la situation des nappes. Lâ€™Ã©laboration de la carte du risque
+sÃ©cheresse repose sur lâ€™Ã©tat initial des nappes aprÃ¨s la pÃ©riode de recharge
+hivernale, sur des prÃ©visions saisonniÃ¨res de MÃ©tÃ©o-France, sur les prÃ©visions
+saisonniÃ¨res issues de modÃ¨les hydrogÃ©ologiques ainsi que sur lâ€™expertise des
+hydrogÃ©ologues rÃ©gionaux du BRGM.
 
 Le bulletin de situation hydrologique
 
-   Le bulletin national de situation hydrologique est constitué d'un
-   ensemble de cartes et de leurs commentaires qui présentent l'évolution
-   mensuelle des ressources en eau. Il décrit la situation quantitative
-   des milieux aquatiques (pluies efficaces, débits des cours d'eau,
-   niveau des nappes d'eau souterraine, état de remplissage des
-   barrages-réservoirs) et fournit une information synthétique sur les
-   arrêtés préfectoraux pris pour limiter les usages de l'eau durant la
-   période d'étiage.
+Le bulletin national de situation hydrologique est constituÃ© dâ€™un ensemble de
+cartes et de leurs commentaires qui prÃ©sentent lâ€™Ã©volution mensuelle des
+ressources en eau. Il dÃ©crit la situation quantitative des milieux aquatiques
+(pluies efficaces, dÃ©bits des cours dâ€™eau, niveau des nappes dâ€™eau souterraine,
+Ã©tat de remplissage des barrages-rÃ©servoirs) et fournit une information
+synthÃ©tique sur les arrÃªtÃ©s prÃ©fectoraux pris pour limiter les usages de lâ€™eau
+durant la pÃ©riode dâ€™Ã©tiage.
 
-   Le BRGM contribue au bulletin national de situation hydrologique pour
-   le volet eaux souterraines.
-   Consulter le bulletin de situation hydrologique sur le site EauFrance
+Le BRGM contribue au bulletin national de situation hydrologique pour le volet
+eaux souterraines.
+Consulter le bulletin de situation hydrologique sur le site EauFrance
 
-ADES : le portail national d'accès aux données sur les eaux souterraines en
+ADES : le portail national dâ€™accÃ¨s aux donnÃ©es sur les eaux souterraines en
 France
 
-   Le BRGM a mis en place une base de données et un site internet associé,
-   accessible à l'ensemble des acteurs de l'eau mais aussi au grand public
-   : ADES. Il rassemble les données quantitatives et qualitatives
-   relatives aux eaux souterraines en France hexagonale et dans les
-   départements d'outre-mer, obtenues grâce aux milliers de forages
-   piézométriques français et aux dizaines de milliers d'ouvrages dédiés
-   au suivi de la qualité des eaux souterraines. ADES constitue un outil
-   majeur de communication et d'aide à la gestion pour la surveillance des
-   eaux souterraines en mettant à disposition des données facilement
-   accessibles.
-   Visiter le portail ADES
+Le BRGM a mis en place une base de donnÃ©es et un site internet associÃ©,
+accessible Ã  lâ€™ensemble des acteurs de lâ€™eau mais aussi au grand public :
+ADES. Il rassemble les donnÃ©es quantitatives et qualitatives relatives aux eaux
+souterraines en France hexagonale et dans les dÃ©partements dâ€™outre-mer, obtenues
+grÃ¢ce aux milliers de forages piÃ©zomÃ©triques franÃ§ais et aux dizaines de
+milliers d'ouvrages dÃ©diÃ©s au suivi de la qualitÃ© des eaux souterraines.
+ADES constitue un outil majeur de communication et dâ€™aide Ã  la gestion pour la
+surveillance des eaux souterraines en mettant Ã  disposition des donnÃ©es
+facilement accessibles.
+Visiter le portail ADES
 
-   Carte des entités hydrogéologiques affleurantes du Référentiel
-   hydrogéologique BDLISA version 3, classées selon leur nature.
+Carte des entitÃ©s hydrogÃ©ologiques affleurantes du RÃ©fÃ©rentiel hydrogÃ©ologique
+BDLISA version 3, classÃ©es selon leur nature.
 
-   Carte des entités hydrogéologiques affleurantes du Référentiel
-   hydrogéologique BDLISA version 3, classées selon leur nature.
+Carte des entitÃ©s hydrogÃ©ologiques affleurantes du RÃ©fÃ©rentiel hydrogÃ©ologique
+BDLISA version 3, classÃ©es selon leur nature.
 
-   © BRGM
+Â© BRGM
 
-BDLISA : le référentiel hydrogéologique français
+BDLISA : le rÃ©fÃ©rentiel hydrogÃ©ologique franÃ§ais
 
-   Pour faciliter l'accès à la connaissance de l'état des nappes, et
-   permettre une meilleure gestion de la ressource par les services de
-   l'État et les collectivités, le BRGM a conduit 10 ans durant un vaste
-   chantier d'unification des données dans un référentiel évolutif : la
-   Base de Données des Limites des Systèmes Aquifères (BDLISA). Il s'agit
-   du référentiel cartographique du système d'information sur l'eau. Il
-   donne une vision spatiale des grandes masses d'eau souterraine
-   présentes sur le territoire. Son utilisation nécessite une formation,
-   que le BRGM dispense à son siège d'Orléans.
+Pour faciliter lâ€™accÃ¨s Ã  la connaissance de lâ€™Ã©tat des nappes, et permettre une
+meilleure gestion de la ressource par les services de lâ€™Ã‰tat et les
+collectivitÃ©s, le BRGM a conduit 10 ans durant un vaste chantier dâ€™unification
+des donnÃ©es dans un rÃ©fÃ©rentiel Ã©volutif : la Base de DonnÃ©es des Limites des
+SystÃ¨mes AquifÃ¨res (BDLISA). Il sâ€™agit du rÃ©fÃ©rentiel cartographique du systÃ¨me
+dâ€™information sur lâ€™eau. Il donne une vision spatiale des grandes masses dâ€™eau
+souterraine prÃ©sentes sur le territoire. Son utilisation nÃ©cessite une
+formation, que le BRGM dispense Ã  son siÃ¨ge dâ€™OrlÃ©ans.
 
-   Le référentiel BDLISA peut être utilisé pour définir les nappes à
-   réserver à l'alimentation en eau potable en cas de déficit hydrique,
-   pour identifier les causes d'une inondation en mettant au jour le rôle
-   éventuel des nappes souterraines (débordement de nappes), pour
-   déterminer le risque d'intrusion marine dans les eaux souterraines en
-   zone côtière, ou encore pour étudier la faisabilité technique et
-   économique d'une solution de recharge artificielle.
-   Visiter le site web BDLISA
+Le rÃ©fÃ©rentiel BDLISA peut Ãªtre utilisÃ© pour dÃ©finir les nappes Ã  rÃ©server Ã
+lâ€™alimentation en eau potable en cas de dÃ©ficit hydrique, pour identifier les
+causes dâ€™une inondation en mettant au jour le rÃ´le Ã©ventuel des nappes
+souterraines (dÃ©bordement de nappes), pour dÃ©terminer le risque dâ€™intrusion
+marine dans les eaux souterraines en zone cÃ´tiÃ¨re, ou encore pour Ã©tudier la
+faisabilitÃ© technique et Ã©conomique dâ€™une solution de recharge artificielle.
+Visiter le site web BDLISA
 
-   Page d'accueil du site web MétéEAU Nappes.
+Page dâ€™accueil du site web MÃ©tÃ©EAU Nappes.
 
-   Page d'accueil du site web MétéEAU Nappes.
+Page dâ€™accueil du site web MÃ©tÃ©EAU Nappes.
 
-   © BRGM
+Â© BRGM
 
-MétéEAU Nappes, un outil de suivi en temps réel et de prévision du niveau des
+MÃ©tÃ©EAU Nappes, un outil de suivi en temps rÃ©el et de prÃ©vision du niveau des
 nappes
 
-   Le BRGM a développé le site internet MétéEAU Nappes, qui offre un
-   ensemble de services permettant le suivi du comportement actuel et
-   futur des aquifères en France. C'est un véritable outil d'aide à la
-   décision pour la gestion de la ressource en eau dans les territoires à
-   forts enjeux (gestion des étiages, risques d'inondation par remontée de
-   nappe...).
+Le BRGM a dÃ©veloppÃ© le site internet MÃ©tÃ©EAU Nappes, qui offre un ensemble de
+services permettant le suivi du comportement actuel et futur des aquifÃ¨res en
+France. Câ€™est un vÃ©ritable outil dâ€™aide Ã  la dÃ©cision pour la gestion de la
+ressource en eau dans les territoires Ã  forts enjeux (gestion des Ã©tiages,
+risques dâ€™inondation par remontÃ©e de nappe...).
 
-   Ces données sont mises à disposition sous forme de cartes et de courbes
-   dynamiques basées sur des travaux de modélisation et de prévision des
-   niveaux des nappes en basses et hautes eaux. Des données
-   météorologiques, hydrologiques et piézométriques sont mises en ligne en
-   temps réel sur plusieurs sites représentatifs de France hexagonale.
-   Associées aux modèles globaux utilisés, ces données permettent de
-   prévoir le niveau des nappes. Ces prévisions, lancées sur 6 mois, sont
-   comparées à des seuils piézométriques (exemple: seuils sécheresse issus
-   des arrêtés préfectoraux de restriction d'usage en cours).
-   Visiter le site web MétéEAU Nappes
+Ces donnÃ©es sont mises Ã  disposition sous forme de cartes et de courbes
+dynamiques basÃ©es sur des travaux de modÃ©lisation et de prÃ©vision des niveaux
+des nappes en basses et hautes eaux. Des donnÃ©es mÃ©tÃ©orologiques, hydrologiques
+et piÃ©zomÃ©triques sont mises en ligne en temps rÃ©el sur plusieurs sites
+reprÃ©sentatifs de France hexagonale. AssociÃ©es aux modÃ¨les globaux utilisÃ©s, ces
+donnÃ©es permettent de prÃ©voir le niveau des nappes. Ces prÃ©visions, lancÃ©es sur
+6 mois, sont comparÃ©es Ã  des seuils piÃ©zomÃ©triques (exempleâ€¯: seuils sÃ©cheresse
+issus des arrÃªtÃ©s prÃ©fectoraux de restriction dâ€™usage en cours).
+Visiter le site web MÃ©tÃ©EAU Nappes
 
-   Pages d'accueil des SIGES par territoires.
+Pages d'accueil des SIGES par territoires.
 
-   Pages d'accueil des SIGES par territoires.
+Pages d'accueil des SIGES par territoires.
 
-   © BRGM
+Â© BRGM
 
-SIGES : le système d'information pour la gestion des eaux souterraines
+SIGES : le systÃ¨me d'information pour la gestion des eaux souterraines
 
-   Depuis 2025, le SIGES (Système d'Information pour la Gestion des Eaux
-   Souterraines), portail de valorisation de l'information publique dans
-   le domaine des eaux souterraines, rassemble en un seul site web les
-   informations et données des différents territoires, selon un découpage
-   géographique lié aux régions administratives ou aux bassins versants.
+Depuis 2025, le SIGES (SystÃ¨me d'Information pour la Gestion des Eaux
+Souterraines), portail de valorisation de lâ€™information publique dans le domaine
+des eaux souterraines, rassemble en un seul site web les informations et donnÃ©es
+des diffÃ©rents territoires, selon un dÃ©coupage gÃ©ographique liÃ© aux rÃ©gions
+administratives ou aux bassins versants.
 
-   Le SIGES s'articule autour de trois rubriques principales :
-     * Découvrir : des contenus pédagogiques pour le grand public et les
-       scolaires afin de mieux comprendre les enjeux de l'hydrogéologie.
-     * Mon SIGES : un espace conçu pour les professionnels, offrant un
-       accès aux contenus plus spécifiques des territoires : données
-       territoriales, bulletins de situation des nappes, études
-       régionales, spécialement conçus pour les collectivités, les
-       services de l'État et les experts.
-     * Outils : des fonctionnalités avancées pour explorer les cartes
-       interactives, les fiches territoriales, les modèles géologiques et
-       l'atlas des itinéraires hydrogéologiques, pour une analyse
-       approfondie des données.
+Le SIGES sâ€™articule autour de trois rubriques principales :
+  * DÃ©couvrir : des contenus pÃ©dagogiques pour le grand public et les scolaires
+afin de mieux comprendre les enjeux de lâ€™hydrogÃ©ologie.
+  * Mon SIGES : un espace conÃ§u pour les professionnels, offrant un accÃ¨s aux
+contenus plus spÃ©cifiques des territoires : donnÃ©es territoriales, bulletins de
+situation des nappes, Ã©tudes rÃ©gionales, spÃ©cialement conÃ§us pour les
+collectivitÃ©s, les services de lâ€™Ã‰tat et les experts.
+  * Outils : des fonctionnalitÃ©s avancÃ©es pour explorer les cartes interactives,
+les fiches territoriales, les modÃ¨les gÃ©ologiques et lâ€™atlas des itinÃ©raires
+hydrogÃ©ologiques, pour une analyse approfondie des donnÃ©es.
 
-   Découvrir le SIGES
-   (BUTTON) Retour
+DÃ©couvrir le SIGES
+(BUTTON) Retour
 
-   Scan 3D d'une cavité souterraine dans le cadre d'un diagnostic de
-   stabilité
-   (BUTTON)
-   (BUTTON)
-   Newsletter
-   Abonnez-vous à la newsletter
-   Contacts et accès
-   Contacts
-   Contact presse
-   Plans d'accès
-   Nous suivre
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
+Scan 3D dâ€™une cavitÃ© souterraine dans le cadre dâ€™un diagnostic de stabilitÃ©
+(BUTTON)
+(BUTTON)
+Newsletter
+Abonnez-vous Ã  la newsletter
+Contacts et accÃ¨s
+Contacts
+Contact presse
+Plans d'accÃ¨s
+Nous suivre
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
 
-     * Mentions légales - Crédits
-     * Protection des données personnelles
-     * Gestion des cookies
-     * Accessibilité : non conforme
-     * Accès aux documents administratifs
+  * Mentions lÃ©gales - CrÃ©dits
+  * Protection des donnÃ©es personnelles
+  * Gestion des cookies
+  * AccessibilitÃ© : non conforme
+  * AccÃ¨s aux documents administratifs
 
-   Logo du BRGM avec le logo République française
-   Logo Certification ISO 9001 et 14001 Logo COFRAC Logo HRS4R Logo France
-   2030 Logo EuroGeoSurveys
-   BRGM - 3 avenue Claude-Guillemin - BP 36009 - 45060 Orléans Cedex 2 -
-   France - Tél. : +33 (0)2 38 64 34 34
-   Newsletter
+Logo du BRGM avec le logo RÃ©publique franÃ§aise
+Logo Certification ISO 9001 et 14001 Logo COFRAC Logo HRS4R Logo France 2030
+Logo EuroGeoSurveys
+BRGM - 3 avenue Claude-Guillemin - BP 36009 - 45060 OrlÃ©ans Cedex 2 - France -
+TÃ©l. : +33 (0)2 38 64 34 34
+Newsletter
 
-   Abonnez-vous à notre newsletter et recevez chaque mois nos actualités !
+Abonnez-vous Ã  notre newsletter et recevez chaque mois nos actualitÃ©s !
 
-   Email
-   *
-   ____________________ Confirmation d'inscription
-   *
-   [ ]
-   En renseignant mon adresse email et en confirmant mon inscription,
-   j'accepte de recevoir la newsletter BRGM Infos.
-   (JE M'ABONNE) JE M'ABONNE
-   * Champs obligatoires
-   (BUTTON) ×
+Email
+*
+____________________ Confirmation d'inscription
+*
+[ ]
+En renseignant mon adresse email et en confirmant mon inscription, j'accepte de
+recevoir la newsletter BRGM Infos.
+(JE M'ABONNE) JE M'ABONNE
+* Champs obligatoires
+(BUTTON) Ã—

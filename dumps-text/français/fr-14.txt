@@ -1,564 +1,561 @@
-   #letudiant.fr Flux RSS letudiant.fr
+#letudiant.fr Flux RSS letudiant.fr
 
-   IFRAME: https://serv.letudiant.fr/ns.html?id=GTM-WZXR44F6
+IFRAME: https://serv.letudiant.fr/ns.html?id=GTM-WZXR44F6
 
-     * Contenu
-     * Pied de page
+  * Contenu
+  * Pied de page
 
-   (BUTTON)
-   (BUTTON)
-   ____________________
-   Se connecter (BUTTON)
-   (BUTTON) Menu précédent
+(BUTTON)
+(BUTTON)
+____________________
+Se connecter (BUTTON)
+(BUTTON) Menu prÃ©cÃ©dent
 
-   (BUTTON) ... Accueil
+(BUTTON) ... Accueil
 
-     * Salons
-     * (BUTTON) Orientation
-       (BUTTON) Fermer
-       Orientation Voir tout
-       (BUTTON) Collège
-       Collège Voir tout
-          + Tests d'orientation
-            Test
-          + Trouvez votre collège
-          + Réussir au collège
-          + Stage de 3ème
-          + Classement des collèges
-       (BUTTON) Lycée
-       Lycée Voir tout
-          + Tests d'orientation
-            Test
-          + Filière Générale et Technologique
-          + Lycée Pro : Bac pro - CAP
-          + Spécialités du lycée
-          + Simulateur des spécialités
-          + Classement des lycées (séries générales et technologiques)
-          + Classement des lycées professionnels
-          + Annuaire des lycées
-       (BUTTON) Parcoursup
-       Parcoursup Voir tout
-          + Réussir Parcoursup
-          + Guide Parcoursup
-          + Lettres de motivation et CV Parcoursup
-          + Réorientation
-       (BUTTON) Études supérieures
-       Études supérieures Voir tout
-          + Tous les domaines d'études
-          + BTS - BUT
-          + Classes prépas (CPGE)
-          + Écoles d'ingénieurs
-          + Écoles de commerce
-          + Études d'art
-          + Master / MBA / Mastère
-          + Médecine / Santé
-          + Université - Licences
-          + Sciences po - IEP
-          + Alternance
-          + Étudier à l'étranger
-          + Autres formations
-       (BUTTON) Nos outils d'orientation
-       Nos outils d'orientation
-          + Pour quels métiers êtes-vous fait ?
-            Test
-          + Quelles études pour vous ?
-            Test
-          + Nos guides d'orientation
-          + Tous les domaines d'études
-          + Nos classements
-          + Découvrir les diplômes
-          + Annuaire des formations
-          + Annuaire des établissements
-          + Schéma des études supérieures
-          + Les écoles se présentent
-          + Coaching en orientation par l'Etudiant
+  * Salons
+  * (BUTTON) Orientation
+(BUTTON) Fermer
+Orientation Voir tout
+(BUTTON) CollÃ¨ge
+CollÃ¨ge Voir tout
+  + Tests dâ€™orientation
+Test
+  + Trouvez votre collÃ¨ge
+  + RÃ©ussir au collÃ¨ge
+  + Stage de 3Ã¨me
+  + Classement des collÃ¨ges
+(BUTTON) LycÃ©e
+LycÃ©e Voir tout
+  + Tests dâ€™orientation
+Test
+  + FiliÃ¨re GÃ©nÃ©rale et Technologique
+  + LycÃ©e Pro : Bac pro â€“ CAP
+  + SpÃ©cialitÃ©s du lycÃ©e
+  + Simulateur des spÃ©cialitÃ©s
+  + Classement des lycÃ©es (sÃ©ries gÃ©nÃ©rales et technologiques)
+  + Classement des lycÃ©es professionnels
+  + Annuaire des lycÃ©es
+(BUTTON) Parcoursup
+Parcoursup Voir tout
+  + RÃ©ussir Parcoursup
+  + Guide Parcoursup
+  + Lettres de motivation et CV Parcoursup
+  + RÃ©orientation
+(BUTTON) Ã‰tudes supÃ©rieures
+Ã‰tudes supÃ©rieures Voir tout
+  + Tous les domaines d'Ã©tudes
+  + BTS - BUT
+  + Classes prÃ©pas (CPGE)
+  + Ã‰coles d'ingÃ©nieurs
+  + Ã‰coles de commerce
+  + Ã‰tudes d'art
+  + Master / MBA / MastÃ¨re
+  + MÃ©decine / SantÃ©
+  + UniversitÃ© - Licences
+  + Sciences po - IEP
+  + Alternance
+  + Ã‰tudier Ã  l'Ã©tranger
+  + Autres formations
+(BUTTON) Nos outils d'orientation
+Nos outils d'orientation
+  + Pour quels mÃ©tiers Ãªtes-vous fait ?
+Test
+  + Quelles Ã©tudes pour vous ?
+Test
+  + Nos guides d'orientation
+  + Tous les domaines dâ€™Ã©tudes
+  + Nos classements
+  + DÃ©couvrir les diplÃ´mes
+  + Annuaire des formations
+  + Annuaire des Ã©tablissements
+  + SchÃ©ma des Ã©tudes supÃ©rieures
+  + Les Ã©coles se prÃ©sentent
+  + Coaching en orientation par l'Etudiant
 
-Pour quels métiers êtes-vous fait ?
+Pour quels mÃ©tiers Ãªtes-vous fait ?
 
-ORI - Mon IA d'orientation
+ORI â€“ Mon IA dâ€™orientation
 
 Discutez avec un conseiller gratuitement
-     * Testez Ori
-     * (BUTTON) Révisions / Examens
-       (BUTTON) Fermer
-       Révisions / Examens
-       (BUTTON) Brevet 2026
-       Brevet 2026
-          + Réussir le brevet
-          + Simulateur du brevet
-          + Quiz de révision du brevet
-            Quiz
-          + Sujets et corrigés du brevet 2025
-          + Annales du brevet
-          + Fiches méthode, conseils et révisions
-          + Résultats du brevet 2025
-       (BUTTON) Bac 2026
-       Bac 2026 Voir tout
-          + Simulateur de moyenne au bac
-          + Quiz de révision du bac
-            Quiz
-          + Sujets et corrigés du bac 2025
-          + Annales du bac
-          + Révisions du bac
-          + Dates du bac
-          + Coefficients par matières au bac
-          + Bac professionnel
-          + Fiches méthode, conseils et révisions
-          + Résultats du bac 2025
-       (BUTTON) Concours
-       Concours
-          + Concours écoles de commerce
-          + Concours écoles d'ingénieurs
-          + Concours école fonction publique
-          + Concours Sciences po
-          + Quiz de préparation aux concours
-            Quiz
-       (BUTTON) Autres examens
-       Autres examens
-          + Partiels
-          + Tests et examens de langues
-            Quiz
-          + Quiz de langues
-            Quiz
-     * (BUTTON) Métiers
-       (BUTTON) Fermer
-       Métiers Voir tout
-       (BUTTON) Découverte des métiers
-       Découverte des métiers
-          + Les métiers par secteur
-          + Les fiches métiers
-       (BUTTON) Inspiration & Témoignages
-       Inspiration & Témoignages
-          + Portraits de pros
+  * Testez Ori
+  * (BUTTON) RÃ©visions / Examens
+(BUTTON) Fermer
+RÃ©visions / Examens
+(BUTTON) Brevet 2026
+Brevet 2026
+  + RÃ©ussir le brevet
+  + Simulateur du brevet
+  + Quiz de rÃ©vision du brevet
+Quiz
+  + Sujets et corrigÃ©s du brevet 2025
+  + Annales du brevet
+  + Fiches mÃ©thode, conseils et rÃ©visions
+  + RÃ©sultats du brevet 2025
+(BUTTON) Bac 2026
+Bac 2026 Voir tout
+  + Simulateur de moyenne au bac
+  + Quiz de rÃ©vision du bac
+Quiz
+  + Sujets et corrigÃ©s du bac 2025
+  + Annales du bac
+  + RÃ©visions du bac
+  + Dates du bac
+  + Coefficients par matiÃ¨res au bac
+  + Bac professionnel
+  + Fiches mÃ©thode, conseils et rÃ©visions
+  + RÃ©sultats du bac 2025
+(BUTTON) Concours
+Concours
+  + Concours Ã©coles de commerce
+  + Concours Ã©coles d'ingÃ©nieurs
+  + Concours Ã©cole fonction publique
+  + Concours Sciences po
+  + Quiz de prÃ©paration aux concours
+Quiz
+(BUTTON) Autres examens
+Autres examens
+  + Partiels
+  + Tests et examens de langues
+Quiz
+  + Quiz de langues
+Quiz
+  * (BUTTON) MÃ©tiers
+(BUTTON) Fermer
+MÃ©tiers Voir tout
+(BUTTON) DÃ©couverte des mÃ©tiers
+DÃ©couverte des mÃ©tiers
+  + Les mÃ©tiers par secteur
+  + Les fiches mÃ©tiers
+(BUTTON) Inspiration & TÃ©moignages
+Inspiration & TÃ©moignages
+  + Portraits de pros
 
-Quel métier est fait pour moi ?
+Quel mÃ©tier est fait pour moi ?
 
 Contacter un conseiller
 
-ORI - Mon IA d'orientation
+ORI â€“ Mon IA dâ€™orientation
 
-Tests d'orientation métiers
-     * (BUTTON) Vie étudiante
-       (BUTTON) Fermer
-       Vie étudiante Voir tout
-       (BUTTON) Conseils & actu
-       Conseils & actu
-          + Bourses & Prêts étudiants
-          + Logement étudiant
-          + Santé étudiante
-          + Engagement et vie associative
-       (BUTTON) Tests et quiz
-       Tests et quiz
-          + Tests de personnalité
-            Test
-          + Quiz de culture générale
-            Quiz
+Tests d'orientation mÃ©tiers
+  * (BUTTON) Vie Ã©tudiante
+(BUTTON) Fermer
+Vie Ã©tudiante Voir tout
+(BUTTON) Conseils & actu
+Conseils & actu
+  + Bourses & PrÃªts Ã©tudiants
+  + Logement Ã©tudiant
+  + SantÃ© Ã©tudiante
+  + Engagement et vie associative
+(BUTTON) Tests et quiz
+Tests et quiz
+  + Tests de personnalitÃ©
+Test
+  + Quiz de culture gÃ©nÃ©rale
+Quiz
 
 Classement des villes
 
 Vacances scolaires 2025-2026
 
 Trendy par l'Etudiant
-     * (BUTTON) Jobs, stages, alternance
-       (BUTTON) Fermer
-       Jobs, stages, alternance Voir tout
-       (BUTTON) Conseils
-       Conseils
-          + Tests emploi et carrière
-            Test
-          + Cv, lettres de motivation et entretiens d'embauche
-          + Stages : nos conseils
-          + Actu et conseils emploi
-       (BUTTON) Rechercher une offre
-       Rechercher une offre
-          + Rechercher un premier emploi
-          + Rechercher un stage
-          + Rechercher un job étudiant
-          + Rechercher une alternance
+  * (BUTTON) Jobs, stages, alternance
+(BUTTON) Fermer
+Jobs, stages, alternance Voir tout
+(BUTTON) Conseils
+Conseils
+  + Tests emploi et carriÃ¨re
+Test
+  + Cv, lettres de motivation et entretiens d'embauche
+  + Stages : nos conseils
+  + Actu et conseils emploi
+(BUTTON) Rechercher une offre
+Rechercher une offre
+  + Rechercher un premier emploi
+  + Rechercher un stage
+  + Rechercher un job Ã©tudiant
+  + Rechercher une alternance
 
 Les entreprises qui recrutent
 
-Révélateur de qualités
+RÃ©vÃ©lateur de qualitÃ©s
 
-Déposer une offre
+DÃ©poser une offre
 
 Service Civique
-     * Testez Ori
+  * Testez Ori
 
-   Nom d'utilisateur Mot de passe, sécurité, informations personnelles et
-   préférences
-   Se connecter
+Nom d'utilisateur Mot de passe, sÃ©curitÃ©, informations personnelles et
+prÃ©fÃ©rences
+Se connecter
 
-   Notifications
-   (BUTTON) Fermer
+Notifications
+(BUTTON) Fermer
 
-   Chargement
+Chargement
 
-   (BUTTON) Fermer
+(BUTTON) Fermer
 
-   Publicité
+PublicitÃ©
 
-   (BUTTON) Accéder au BO
+(BUTTON) AccÃ©der au BO
 
-    1. Accueil
-    2. Lycée
-    3. "État" ou "état" : une majuscule qui change tout !
+ 1. Accueil
+ 2. LycÃ©e
+ 3. "Ã‰tat" ou "Ã©tat" : une majuscule qui change tout !
 
-   Boîte à outils
+BoÃ®te Ã  outils
 
-"État" ou "état" : une majuscule qui change tout !
+"Ã‰tat" ou "Ã©tat" : une majuscule qui change tout !
 
-   (BUTTON) Ajouter aux favoris
+(BUTTON) Ajouter aux favoris
 
-   On le sait, la majuscule joue en français un rôle essentiel pour
-   distinguer les noms propres des noms communs, voire donner une nouvelle
-   acception à un mot. C'est le cas de "état" et "État". Si le second
-   procède du premier, il a depuis longtemps pris son envol !
+On le sait, la majuscule joue en franÃ§ais un rÃ´le essentiel pour distinguer les
+noms propres des noms communs, voire donner une nouvelle acception Ã  un mot.
+Câ€™est le cas de "Ã©tat" et "Ã‰tat". Si le second procÃ¨de du premier, il a depuis
+longtemps pris son envol !
 
-   Par Sandrine Campese du Projet Voltaire
+Par Sandrine Campese du Projet Voltaire
 
-   Publié le 27 janvier 2021
+PubliÃ© le 27 janvier 2021
 
-   3 min
+3 min
 
-   Partager
-     * Partager sur Bluesky
-     * Partager sur Linkedin
-     * Partager sur Messenger
-     * Partager sur Whatsapp
-     * Partager sur Facebook
-     * Copié
-       (BUTTON) Copier le lien
+Partager
+  * Partager sur Bluesky
+  * Partager sur Linkedin
+  * Partager sur Messenger
+  * Partager sur Whatsapp
+  * Partager sur Facebook
+  * CopiÃ©
+(BUTTON) Copier le lien
 
-   Avec une majuscule, "État" adopte le sens politique de "autorité
-   souveraine s'exerçant sur l'ensemble d'un peuple et d'un territoire
-   déterminés". Avec une majuscule, "État" adopte le sens politique de
-   "autorité souveraine s'exerçant sur l'ensemble d'un peuple et d'un
-   territoire déterminés".
-   © Adobe Stock/pixarno
+Avec une majuscule, "Ã‰tat" adopte le sens politique de "autoritÃ© souveraine
+sâ€™exerÃ§ant sur lâ€™ensemble dâ€™un peuple et dâ€™un territoire dÃ©terminÃ©s". Avec une
+majuscule, "Ã‰tat" adopte le sens politique de "autoritÃ© souveraine sâ€™exerÃ§ant
+sur lâ€™ensemble dâ€™un peuple et dâ€™un territoire dÃ©terminÃ©s".
+Â© Adobe Stock/pixarno
 
-   Chargement de votre vidéo.
+Chargement de votre vidÃ©o.
 
-   Désactivez votre bloqueur de publicité si celle-ci ne s'affiche pas.
+DÃ©sactivez votre bloqueur de publicitÃ© si celle-ci ne s'affiche pas.
 
-Avec une minuscule : une manière d'être
+Avec une minuscule : une maniÃ¨re dâ€™Ãªtre
 
-   C'est le sens premier du nom état, issu du latin status, "posture,
-   pose" : une "manière d'être" considérée dans ce qu'elle a de durable.
-   Oui, durable ! C'est pourquoi l'état s'oppose traditionnellement au
-   "devenir", mais aussi à l'action (les verbes d'état se distinguent des
-   verbes d'action).
+Câ€™est le sens premier du nom Ã©tat, issu du latin status, "posture, pose" : une
+"maniÃ¨re dâ€™Ãªtre" considÃ©rÃ©e dans ce quâ€™elle a de durable. Oui, durable ! Câ€™est
+pourquoi lâ€™Ã©tat sâ€™oppose traditionnellement au "devenir", mais aussi Ã  lâ€™action
+(les verbes dâ€™Ã©tat se distinguent des verbes dâ€™action).
 
-   Exemples : un état d'esprit, un état d'âme, un état de fait, un état de
-   santé, un état de choc, en tout état de cause...
+Exemples : un Ã©tat dâ€™esprit, un Ã©tat dâ€™Ã¢me, un Ã©tat de fait, un Ã©tat de santÃ©,
+un Ã©tat de choc, en tout Ã©tat de cause...
 
 Avec une majuscule : un sens politique
 
-   Comment est-on passé de "état" à "État" ? Sans doute par le biais du
-   verbe latin stare, "se tenir debout", "tenir bon", l'État se devant
-   d'être durable (encore cette idée !), fort, solide...
+Comment est-on passÃ© de "Ã©tat" Ã  "Ã‰tat" ? Sans doute par le biais du verbe latin
+stare, "se tenir debout", "tenir bon", lâ€™Ã‰tat se devant dâ€™Ãªtre durable (encore
+cette idÃ©e !), fort, solideâ€¦
 
-   C'est au début du XVe siècle que le nom État adopte une majuscule et le
-   sens moderne de "autorité souveraine s'exerçant sur l'ensemble d'un
-   peuple et d'un territoire déterminés".
+Câ€™est au dÃ©but du XVe siÃ¨cle que le nom Ã‰tat adopte une majuscule et le sens
+moderne de "autoritÃ© souveraine sâ€™exerÃ§ant sur lâ€™ensemble dâ€™un peuple et dâ€™un
+territoire dÃ©terminÃ©s".
 
-   Publicité
+PublicitÃ©
 
-   Exemples : un homme / une femme d'État, un coup d'État, un·e chef·fe
-   d'État, le Conseil d'État, un diplôme d'État, un secret (et un·e
-   secrétaire !) d'État, une affaire d'État...
+Exemples : un homme / une femme dâ€™Ã‰tat, un coup dâ€™Ã‰tat, unÂ·e chefÂ·fe dâ€™Ã‰tat, le
+Conseil dâ€™Ã‰tat, un diplÃ´me dâ€™Ã‰tat, un secret (et unÂ·e secrÃ©taire !) dâ€™Ã‰tat, une
+affaire dâ€™Ã‰tat...
 
-   Lire aussi
+Lire aussi
 
-   Pourquoi écrit-on "docteur ès sciences" ?
+Pourquoi Ã©crit-on "docteur Ã¨s sciences" ?
 
-État de grâce ou état de grâce ?
+Ã‰tat de grÃ¢ce ou Ã©tat de grÃ¢ce ?
 
-   L'état de grâce, avec une minuscule, est une période d'euphorie où tout
-   semble favorable. Ainsi, chaque chef d'État nouvellement élu bénéficie
-   d'un état de grâce.
+Lâ€™Ã©tat de grÃ¢ce, avec une minuscule, est une pÃ©riode dâ€™euphorie oÃ¹ tout semble
+favorable. Ainsi, chaque chef dâ€™Ã‰tat nouvellement Ã©lu bÃ©nÃ©ficie dâ€™un Ã©tat de
+grÃ¢ce.
 
-État de droit ou état de droit ?
+Ã‰tat de droit ou Ã©tat de droit ?
 
-   L'état de droit, avec une minuscule, désigne une situation (comme dans
-   état d'urgence, état de siège...). L'"État de droit" (avec une
-   majuscule comme dans État souverain, État démocratique...) désigne un
-   État où le droit prévaut sur le pouvoir politique.
+Lâ€™Ã©tat de droit, avec une minuscule, dÃ©signe une situation (comme dans Ã©tat
+dâ€™urgence, Ã©tat de siÃ¨geâ€¦). Lâ€™"Ã‰tat de droit" (avec une majuscule comme dans
+Ã‰tat souverain, Ã‰tat dÃ©mocratiqueâ€¦) dÃ©signe un Ã‰tat oÃ¹ le droit prÃ©vaut sur le
+pouvoir politique.
 
-   Un billet de Sandrine Campese, membre du comité d'experts Projet
-   Voltaire, autrice et formatrice en orthographe. Pour ne plus faire de
-   fautes, entraînez-vous avec le Projet Voltaire, n°1 de la formation en
-   orthographe et en expression avec plus de 7 millions d'utilisateurs
-   (écoles, entreprises, particuliers).
+Un billet de Sandrine Campese, membre du comitÃ© d'experts Projet Voltaire,
+autrice et formatrice en orthographe. Pour ne plus faire de fautes,
+entraÃ®nez-vous avec le Projet Voltaire, nÂ°1 de la formation en orthographe et en
+expression avec plus de 7 millions dâ€™utilisateurs (Ã©coles, entreprises,
+particuliers).
 
-   Partager
-     * Partager sur Bluesky
-     * Partager sur Linkedin
-     * Partager sur Messenger
-     * Partager sur Whatsapp
-     * Partager sur Facebook
-     * Copié
-       (BUTTON) Copier le lien
+Partager
+  * Partager sur Bluesky
+  * Partager sur Linkedin
+  * Partager sur Messenger
+  * Partager sur Whatsapp
+  * Partager sur Facebook
+  * CopiÃ©
+(BUTTON) Copier le lien
 
-   (BUTTON) Ajouter aux favoris
-   Partager
-   Remonter en haut de la page
+(BUTTON) Ajouter aux favoris
+Partager
+Remonter en haut de la page
 
-   Publicité
-   [0e8754645bac711f5aa202f02264f25a?trigram_entity=edt_article&amp;entity
-   _id=34408]
+PublicitÃ©
+[0e8754645bac711f5aa202f02264f25a?trigram_entity=edt_article&amp;entity_id=34408
+]
 
-Sur le même thème
+Sur le mÃªme thÃ¨me
 
-     * Orthographe
-     * Projet Voltaire
+  * Orthographe
+  * Projet Voltaire
 
 Tous nos outils
 
-   (BUTTON) Précédent (BUTTON) Suivant
-   (BUTTON) Précédent (BUTTON) Suivant
+(BUTTON) PrÃ©cÃ©dent (BUTTON) Suivant
+(BUTTON) PrÃ©cÃ©dent (BUTTON) Suivant
 
-   Dates des salons, agenda des JPO, liste des établissements... Passez
-   sereinement vos années lycée en filière techno ou générale avec nos
-   outils dédiés.
-   (BUTTON) Voir plus (BUTTON) Voir moins
+Dates des salons, agenda des JPO, liste des Ã©tablissementsâ€¦ Passez sereinement
+vos annÃ©es lycÃ©e en filiÃ¨re techno ou gÃ©nÃ©rale avec nos outils dÃ©diÃ©s.
+(BUTTON) Voir plus (BUTTON) Voir moins
 
 Les salons 2025-2026
 
-   Trouvez votre formation
+Trouvez votre formation
 
-Test métier
+Test mÃ©tier
 
-   Quel métier vous convient ?
+Quel mÃ©tier vous convient ?
 
-ORI - Mon IA d'orientation
+ORI â€“ Mon IA dâ€™orientation
 
-Meilleurs lycées
+Meilleurs lycÃ©es
 
-   Le classement 2026
+Le classement 2026
 
 Inscription Parcoursup
 
-   Faites vos voeux !
+Faites vos vÅ“ux !
 
-Spécialités
+SpÃ©cialitÃ©s
 
-   Bien choisir ses spécialités
+Bien choisir ses spÃ©cialitÃ©s
 
 Liste des licences
 
-   Les licences par domaine
+Les licences par domaine
 
 Agenda JPO
 
-   Venez rencontrer les établissements
+Venez rencontrer les Ã©tablissements
 
-Les écoles
+Les Ã©coles
 
-   Découvrir les établissements
+DÃ©couvrir les Ã©tablissements
 
-Tests études
+Tests Ã©tudes
 
-   Quelles études pour vous ?
+Quelles Ã©tudes pour vous ?
 
 Checklist Parcoursup
 
-   Les étapes à suivre
+Les Ã©tapes Ã  suivre
 
-Fiches études
+Fiches Ã©tudes
 
-   Etudes par secteur
+Etudes par secteur
 
-Fiches métiers
+Fiches mÃ©tiers
 
-   Découvrir les métiers
+DÃ©couvrir les mÃ©tiers
 
 Classements
 
-   Les meilleurs établissements
+Les meilleurs Ã©tablissements
 
 Simulateur bac
 
-   Calculez votre moyenne au bac
+Calculez votre moyenne au bac
 
 Annuaire
 
-   Annuaire des lycées
+Annuaire des lycÃ©es
 
 Orientation
 
-   Obtenez un coaching études
+Obtenez un coaching Ã©tudes
 
 Quiz bac
 
-   Révisez de manière ludique !
+RÃ©visez de maniÃ¨re ludique !
 
 Articles les plus lus
 
 "Ci-joint", "ci joints" ou "ci-jointes" les attestations : quel accord ?
 
-   3 min
-   (BUTTON) Ajouter aux favoris
+3 min
+(BUTTON) Ajouter aux favoris
 
-"J'ai des élèves qui s'orientent en fonction de ça" : le tabou du racisme à
-l'école
+"J'ai des Ã©lÃ¨ves qui s'orientent en fonction de Ã§a" : le tabou du racisme Ã
+l'Ã©cole
 
-   (BUTTON) Ajouter aux favoris
+(BUTTON) Ajouter aux favoris
 
 Ai, aie, aies, ait : choisir sans se faire avoir !
 
-   4 min
-   (BUTTON) Ajouter aux favoris
+4 min
+(BUTTON) Ajouter aux favoris
 
-"Ça permet de mieux comprendre l'oeuvre" : des lycéens décryptent le film
-"L'Etranger" avec François Ozon
+"Ã‡a permet de mieux comprendre lâ€™Å“uvre" : des lycÃ©ens dÃ©cryptent le film
+"L'Etranger" avec FranÃ§ois Ozon
 
-   5 min
-   (BUTTON) Ajouter aux favoris
+5 min
+(BUTTON) Ajouter aux favoris
 
-   Publicité
+PublicitÃ©
 
-Contenus supplémentaires
+Contenus supplÃ©mentaires
 
 Pour les 120 ans de la loi de 1905, un beer pong (sans alcool) pour parler de
-laïcité
+laÃ¯citÃ©
 
-   4 min
-   (BUTTON) Ajouter aux favoris
+4 min
+(BUTTON) Ajouter aux favoris
 
-PLF 2026 : quelles mesures pour les étudiants sont en attente du budget ?
+PLF 2026 : quelles mesures pour les Ã©tudiants sont en attente du budget ?
 
-   4 min
-   (BUTTON) Ajouter aux favoris
+4 min
+(BUTTON) Ajouter aux favoris
 
-Ils ne regrettent pas leur stage en télétravail : "Je pense que j'ai eu plus
-de responsabilités qu'en présentiel"
+Ils ne regrettent pas leur stage en tÃ©lÃ©travail : "Je pense que jâ€™ai eu plus de
+responsabilitÃ©s quâ€™en prÃ©sentiel"
 
-   5 min
-   (BUTTON) Ajouter aux favoris
+5 min
+(BUTTON) Ajouter aux favoris
 
-"Ce roman m'a subjugué" : des étudiants remettent le Prix du Roman France
+"Ce roman mâ€™a subjuguÃ©" : des Ã©tudiants remettent le Prix du Roman France
 Culture
 
-   5 min
-   (BUTTON) Ajouter aux favoris
+5 min
+(BUTTON) Ajouter aux favoris
 
-   Publicité
+PublicitÃ©
 
-   Retrouver toutes nos rubriques
+Retrouver toutes nos rubriques
 
-   Collège
-     * Collège
-     * Brevet
-     * Annuaire des collèges
-     * Résultats Brevet
-     * Simulateur note brevet
-     __________________________________________________________________
+CollÃ¨ge
+  * CollÃ¨ge
+  * Brevet
+  * Annuaire des collÃ¨ges
+  * RÃ©sultats Brevet
+  * Simulateur note brevet
+  ___________________________________________________________________________
 
-   Métiers
-     * Test d'orientation métier : quel métier est fait pour moi ?
-     * Métiers
-     * Les métiers par secteur
-     * Fiches métiers
-     * Métiers - Portraits de pros
-     * Tests d'orientation métiers
-     __________________________________________________________________
+MÃ©tiers
+  * Test d'orientation mÃ©tier : quel mÃ©tier est fait pour moi ?
+  * MÃ©tiers
+  * Les mÃ©tiers par secteur
+  * Fiches mÃ©tiers
+  * MÃ©tiers - Portraits de pros
+  * Tests d'orientation mÃ©tiers
+  ___________________________________________________________________________
 
-   Vie étudiante
-     * Tests de personnalité
-     * Quiz de culture générale
-     * Bourses
-     * Logement
-     * Santé
-     * Nos jeux concours
-     * Vie associative
-     __________________________________________________________________
+Vie Ã©tudiante
+  * Tests de personnalitÃ©
+  * Quiz de culture gÃ©nÃ©rale
+  * Bourses
+  * Logement
+  * SantÃ©
+  * Nos jeux concours
+  * Vie associative
+  ___________________________________________________________________________
 
-   Lycée
-     * Terminale
-     * Lycée Pro - Bac pro - CAP
-     * Spécialités au lycée
-     * Simulateur de spécialités
-     * Parcoursup
-     * Bac
-     * Dates du bac
-     * Coefficients bac par matière et série
-     * Révisions du bac
-     * Corrigés du bac
-     * Bac professionnel
-     * Simulateur de moyenne au bac
-     * Cours et Méthodologie
-     * Annuaire des lycées
-     * Résultats du bac
-     __________________________________________________________________
+LycÃ©e
+  * Terminale
+  * LycÃ©e Pro - Bac pro â€“ CAP
+  * SpÃ©cialitÃ©s au lycÃ©e
+  * Simulateur de spÃ©cialitÃ©s
+  * Parcoursup
+  * Bac
+  * Dates du bac
+  * Coefficients bac par matiÃ¨re et sÃ©rie
+  * RÃ©visions du bac
+  * CorrigÃ©s du bac
+  * Bac professionnel
+  * Simulateur de moyenne au bac
+  * Cours et MÃ©thodologie
+  * Annuaire des lycÃ©es
+  * RÃ©sultats du bac
+  ___________________________________________________________________________
 
-   Jobs, stages, alternance
-     * Jobs, stages
-     * Cv, lettres de motivation et entretiens d'embauche
-     * Simulateur de qualité
-     * Actu et conseils emploi
-     * Stages : nos conseils
-     * Jobs étudiants
-     * Stages étudiants
-     * Offres en Alternance
-     * Premier emploi
-     * Tests emploi et carrière
-     __________________________________________________________________
+Jobs, stages, alternance
+  * Jobs, stages
+  * Cv, lettres de motivation et entretiens d'embauche
+  * Simulateur de qualitÃ©
+  * Actu et conseils emploi
+  * Stages : nos conseils
+  * Jobs Ã©tudiants
+  * Stages Ã©tudiants
+  * Offres en Alternance
+  * Premier emploi
+  * Tests emploi et carriÃ¨re
+  ___________________________________________________________________________
 
-   Supérieur
-     * Résultats des examens
-     * Résultats des BTS
-     * BTS-BUT
-     * Université
-     * Classement des licences
-     * Classes prépas (CPGE)
-     * Classement des prépas
-     * Écoles d'ingénieurs
-     * Classement des écoles d'ingénieurs
-     * Écoles de commerce
-     * Classement des écoles de commerce
-     * Écoles spécialisées
-     * Master / MBA / Mastère
-     * Classement des masters
-     * International - Étudier à l'étranger
-     * Médecine / Santé
-     * Études d'art et de la création
-     * Alternance
-     * Sciences po - IEP
-     * Les études par région
-     * Nos fiches diplômes
-     __________________________________________________________________
+SupÃ©rieur
+  * RÃ©sultats des examens
+  * RÃ©sultats des BTS
+  * BTS-BUT
+  * UniversitÃ©
+  * Classement des licences
+  * Classes prÃ©pas (CPGE)
+  * Classement des prÃ©pas
+  * Ã‰coles d'ingÃ©nieurs
+  * Classement des Ã©coles d'ingÃ©nieurs
+  * Ã‰coles de commerce
+  * Classement des Ã©coles de commerce
+  * Ã‰coles spÃ©cialisÃ©es
+  * Master / MBA / MastÃ¨re
+  * Classement des masters
+  * International - Ã‰tudier Ã  l'Ã©tranger
+  * MÃ©decine / SantÃ©
+  * Ã‰tudes d'art et de la crÃ©ation
+  * Alternance
+  * Sciences po - IEP
+  * Les Ã©tudes par rÃ©gion
+  * Nos fiches diplÃ´mes
+  ___________________________________________________________________________
 
-     * TikTok
-     * Instagram
-     * Facebook
-     * YouTube
-     * LinkedIn
-     * Bluesky
-     * WhatsApp
+  * TikTok
+  * Instagram
+  * Facebook
+  * YouTube
+  * LinkedIn
+  * Bluesky
+  * WhatsApp
 
-     *
-     *
-     *
-     *
+  *
+  *
+  *
+  *
 
-     * Nous contacter
-     *
-     * Devenir annonceur
-     *
-     * Nous rejoindre
-     *
-     * Mentions légales
-     *
-     * CGU
-     *
-     * Cookies
-     *
-     * Charte de protection des données
-     *
-     * Accessibilité : partiellement conforme
-     *
-     * Charte responsabilité sociétale d'entreprise
-     *
-     * RGESN : partiellement conforme
-     * Votre navigation sur le site émet environ : 0,5g CO2e / visite
+  * Nous contacter
+  *
+  * Devenir annonceur
+  *
+  * Nous rejoindre
+  *
+  * Mentions lÃ©gales
+  *
+  * CGU
+  *
+  * Cookies
+  *
+  * Charte de protection des donnÃ©es
+  *
+  * AccessibilitÃ© : partiellement conforme
+  *
+  * Charte responsabilitÃ© sociÃ©tale d'entreprise
+  *
+  * RGESN : partiellement conforme
+  * Votre navigation sur le site Ã©met environ : 0,5g CO2e / visite

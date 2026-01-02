@@ -1,555 +1,533 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TB2J4SG
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TB2J4SG
 
-     * EN image
-     * ES image
-     * DE image
-     * IT image
+  * EN image
+  * ES image
+  * DE image
+  * IT image
 
-     * &#xf09a;
-     * [logo-X.png]
-     * &#xf16d;
-     * ·
+  * ÔÇö
+  * [logo-X.png]
+  * ÔÖ≠
+  * ÔÉ°
 
-     *
-     * Newsletter
+  *
+  * Newsletter
 
-   LAROUSSE
-   ____________________ (BUTTON) &#xe81e;
-   (BUTTON) Toggle navigation
-   LAROUSSE
-   (BUTTON) &#xe81e; (BUTTON) &#xe833;
-   ____________________ (BUTTON) &#xe81e;
-     * &#xe80a;LANGUE FRAN«AISE
-     * &#xe804;BILINGUES
-     * &#xe80d;FLASHCARDS
-     * &#xe822;TRADUCTEUR
-     * &#xe805;CONJUGATEUR
-     * &#xe819;ENCYCLOP…DIE
-     * &#xe809;CUISINE
-     * &#xe812;JEUX
-     * &#xe815;LIVRES
+LAROUSSE
+____________________ (BUTTON) Ó†û
+(BUTTON) Toggle navigation
+LAROUSSE
+(BUTTON) Ó†û (BUTTON) Ó†≥
+____________________ (BUTTON) Ó†û
+  * Ó†äLANGUE FRAN√áAISE
+  * Ó†ÑBILINGUES
+  * Ó†çFLASHCARDS
+  * Ó†¢TRADUCTEUR
+  * Ó†ÖCONJUGATEUR
+  * Ó†ôENCYCLOP√âDIE
+  * Ó†âCUISINE
+  * Ó†íJEUX
+  * Ó†ïLIVRES
 
-     *
-     * Newsletter
+  *
+  * Newsletter
 
-     * Suivez nous: &#xf09a; [logo-X.png] &#xf16d; ·
+  * Suivez nous: ÔÇö [logo-X.png] ÔÖ≠ ÔÉ°
 
-     * EN ES DE IT
+  * EN ES DE IT
 
-   Accueil > Langue franÁaise > Dictionnaire > Ètat
-   Accueil > langue franÁaise > dictionnaire > Ètat n.m. - Ètats n.m.pl.
-     * DÈfinitions
-     * Expressions
-     * Homonymes
-     * DifficultÈs
-     * Citations
+Accueil > Langue fran√ßaise > Dictionnaire > √©tat
+Accueil > langue fran√ßaise > dictionnaire > √©tat n.m. - √©tats n.m.pl.
+  * D√©finitions
+  * Expressions
+  * Homonymes
+  * Difficult√©s
+  * Citations
 
-     * D…FINITIONS
-     * EXPRESSIONS
-     * HOMONYMES
-     * DIFFICULT…S
-     * CITATIONS
+  * D√âFINITIONS
+  * EXPRESSIONS
+  * HOMONYMES
+  * DIFFICULT√âS
+  * CITATIONS
 
-   +
-   &#xe833;
++
+Ó†≥
 
-&#xe82c; Ètat
+Ó†¨ √©tat
 
-   nom masculin
+nom masculin
 
-   (latin status, de stare, se tenir)
-     * 1. Nature sous laquelle se prÈsente un corps : …tat liquide,
-       solide, gazeux.
-     * 2. Aspect gÈnÈral sous lequel se prÈsente quelque chose, maniËre
-       d'Ítre de quelque chose dans ce qu'il a de durable : VÈhicule en
-       bon Ètat.
-     * 3. ManiËre d'Ítre physique ou morale de quelqu'un : Le malade est
-       dans un Ètat grave.  tre dans un Ètat de grande excitation.
-       Synonymes :
-       disposition - humeur
-     * 4. Fait d'Ítre d'une maniËre relativement durable : L'Ètat de
-       veille. L'Ètat de siËge est dÈclarÈ.
-     * 5. Situation de quelque chose ‡ un moment donnÈ : Quel est l'Ètat
-       de la question ?
-     * 6. Document dÈcrivant la situation de quelque chose ‡ un moment
-       donnÈ ; inventaire : Demander l'Ètat des dÈpenses.
-       Synonymes :
-       bordereau - inventaire - mÈmoire - questionnaire - relevÈ -
-       rÈpertoire - rÙle - tableau
-     * 7. LittÈraire. Situation sociale ou professionnelle ; condition :
-       L'Ètat militaire. Il est avocat de son Ètat.
-     * CybernÈtique
-       8. Description d'un systËme dynamique par l'Ènergie que ses organes
-       sont capables d'emmagasiner.
-     * Gravure et lithographie
-       9. Condition d'une planche aux diffÈrents stades de son exÈcution,
-       depuis la premiËre Èpreuve d'essai jusqu'‡ l'Ètat dÈfinitif, ou
-       Ètat de tirage. (Il y a des Èpreuves de premier Ètat, de deuxiËme
-       Ètat, etc. Dans le cas d'une gravure avec lÈgende, on distingue les
-       Ètats avant la lettre, ‡ la lettre grise, ‡ la lettre noire.)
-     * Informatique
-       10. Ensemble des informations caractÈrisant ‡ un moment donnÈ un
-       signal, un ordinateur, etc.
+(latin status, de stare, se tenir)
+  * 1. Nature sous laquelle se pr√©sente un corps : √âtat liquide, solide, gazeux.
+  * 2. Aspect g√©n√©ral sous lequel se pr√©sente quelque chose, mani√®re d'√™tre de
+quelque chose dans ce qu'il a de durable : V√©hicule en bon √©tat.
+  * 3. Mani√®re d'√™tre physique ou morale de quelqu'un : Le malade est dans un
+√©tat grave. √ätre dans un √©tat de grande excitation.
+Synonymes :
+disposition - humeur
+  * 4. Fait d'√™tre d'une mani√®re relativement durable : L'√©tat de veille. L'√©tat
+de si√®ge est d√©clar√©.
+  * 5. Situation de quelque chose √† un moment donn√© : Quel est l'√©tat de la
+question ?
+  * 6. Document d√©crivant la situation de quelque chose √† un moment donn√© ;
+inventaire : Demander l'√©tat des d√©penses.
+Synonymes :
+bordereau - inventaire - m√©moire - questionnaire - relev√© - r√©pertoire - r√¥le -
+tableau
+  * 7. Litt√©raire. Situation sociale ou professionnelle ; condition : L'√©tat
+militaire. Il est avocat de son √©tat.
+  * Cybern√©tique
+8. Description d'un syst√®me dynamique par l'√©nergie que ses organes sont
+capables d'emmagasiner.
+  * Gravure et lithographie
+9. Condition d'une planche aux diff√©rents stades de son ex√©cution, depuis la
+premi√®re √©preuve d'essai jusqu'√† l'√©tat d√©finitif, ou √©tat de tirage. (Il y a
+des √©preuves de premier √©tat, de deuxi√®me √©tat, etc. Dans le cas d'une gravure
+avec l√©gende, on distingue les √©tats avant la lettre, √† la lettre grise, √† la
+lettre noire.)
+  * Informatique
+10. Ensemble des informations caract√©risant √† un moment donn√© un signal, un
+ordinateur, etc.
 
-&#xe82c; Ètats
+Ó†¨ √©tats
 
-   nom masculin pluriel
+nom masculin pluriel
 
-   (de Ètat 1)
-     * En France, au Moyen ¬ge et sous l'Ancien RÈgime, chacun des trois
-       ordres (clergÈ, noblesse, tiers Ètat) du corps social.
-     __________________________________________________________________
+(de √©tat 1)
+  * En France, au Moyen √Çge et sous l'Ancien R√©gime, chacun des trois ordres
+(clerg√©, noblesse, tiers √©tat) du corps social.
+  ___________________________________________________________________________
 
-   VOUS CHERCHEZ PEUT- TRE
-     __________________________________________________________________
+VOUS CHERCHEZ PEUT-√äTRE
+  ___________________________________________________________________________
 
-   Ètat n.m.
+√©tat n.m.
 
-   Nature sous laquelle se prÈsente un corps.
-   Ètats n.m. pl.
+Nature sous laquelle se pr√©sente un corps.
+√©tats n.m. pl.
 
-   En France, au Moyen ¬ge et sous l'Ancien RÈgime, chacun des trois
-   ordres...
-   Acte de l'Ètat civil
-   Action d'Ètat
-   ¿ l'Ètat (+ adjectif)
-   Bois en Ètat
-   En Ètat
-   En Ètat de marche
-   En l'Ètat
-   …quation d'Ètat
-   …tat civil
-   …tat de choses
-   …tat n.m.
+En France, au Moyen √Çge et sous l'Ancien R√©gime, chacun des trois ordres...
+Acte de l'√©tat civil
+Action d'√©tat
+√Ä l'√©tat (+ adjectif)
+Bois en √©tat
+En √©tat
+En √©tat de marche
+En l'√©tat
+√âquation d'√©tat
+√âtat civil
+√âtat de choses
+√âtat n.m.
 
-   SociÈtÈ politique rÈsultant de la fixation, sur un territoire
-   dÈlimitÈ...
-   Affaire d'…tat
-   Agents de l'…tat
-   Coup d'…tat
-   …tat de droit
-   Ètat-major n.m.
+Soci√©t√© politique r√©sultant de la fixation, sur un territoire d√©limit√©...
+Affaire d'√âtat
+Agents de l'√âtat
+Coup d'√âtat
+√âtat de droit
+√©tat-major n.m.
 
-   Groupe d'officiers (et de personnel qualifiÈ) chargÈ d'assister un chef
-   militaire dans l'exercice...
-   …tat-nation n.m.
+Groupe d'officiers (et de personnel qualifi√©) charg√© d'assister un chef
+militaire dans l'exercice...
+√âtat-nation n.m.
 
-   …tat dont les citoyens forment un peuple ou un ensemble...
-   …tat-parti n.m.
+√âtat dont les citoyens forment un peuple ou un ensemble...
+√âtat-parti n.m.
 
-   …tat dans lequel les fonctions clÈs du pouvoir (fonctions rÈgaliennes,
-   particuliËrement) sont...
-   citÈ-…tat n.f.
+√âtat dans lequel les fonctions cl√©s du pouvoir (fonctions r√©galiennes,
+particuli√®rement) sont...
+cit√©-√âtat n.f.
 
-   EntitÈ politique dont le territoire correspond globalement ‡ celui
-   d'une grande...
-   micro-…tat n.m.
+Entit√© politique dont le territoire correspond globalement √† celui d'une
+grande...
+micro-√âtat n.m.
 
-   …tat exceptionnellement petit par sa superficie, sa population et
-   ses...
-   narco-…tat n.m.
+√âtat exceptionnellement petit par sa superficie, sa population et ses...
+narco-√âtat n.m.
 
-   …tat qui, en raison de l'importance prise par le narcobanditisme...
-     __________________________________________________________________
+√âtat qui, en raison de l'importance prise par le narcobanditisme...
+  ___________________________________________________________________________
 
-   AUTRES TRADUCTIONS
-     __________________________________________________________________
+AUTRES TRADUCTIONS
+  ___________________________________________________________________________
 
-   Action en contestation d'Ètat
-   Aide mÈdicale de l'…tat ou (couramment) d'…tat (AME)
-   Appareil idÈologique d'…tat
-   Atteinte aux intÈrÍts fondamentaux de la nation (autrefois atteinte ‡
-   la s˚retÈ de l'…tat)
-   Attentat contre l'autoritÈ de l'…tat
-   Auditeur au Conseil d'…tat, auditeur ‡ la Cour des comptes
-   Avocat au Conseil d'…tat et ‡ la Cour de cassation
-   Bulletin d'Ètat civil
-   Bureau d'Ètat-major
-   Capitalisme monopoliste d'…tat
-   Changement d'Ètat
-   Chef de l'…tat
-   Chef de l'…tat franÁais
-   Chef d'Ètat-major
-   Chef d'Ètat-major gÈnÈral des armÈes
-   ComitÈ des chefs d'Ètat-major
-   Conduite en Ètat alcoolique ou en Ètat d'ivresse
-   ContinuitÈ de l'…tat
-   ContinuitÈ de l'Ètat liquide et de l'Ètat gazeux
-   ContrÙleur d'…tat
-   Corps d'Ètat ou corps de mÈtier
-   DÈclaration de l'Ètat civil
-   DÈpartement d'…tat
-   DÈpÈrissement de l'…tat
-   Diagramme thermodynamique ou d'Ètat
-   Donner accËs ‡, sur, dans un lieu, ‡ une situation, un Ètat, etc.
-   Douma d'…tat
-   En Ètat d'alerte, en alerte
-   En piteux Ètat
-   En tout Ètat de cause
-   …tat accrÈditaire
-   …tat accrÈditant
-   …tat cholestÈrique
-   …tat condensÈ
-   …tat crÈpusculaire
-   …tat d'abandon
-   …tat d'‚me
-   …tat dangereux
-   …tat de droit
-   Voirplus
-   &#xe827;
+Action en contestation d'√©tat
+Aide m√©dicale de l'√âtat ou (couramment) d'√âtat (AME)
+Appareil id√©ologique d'√âtat
+Atteinte aux int√©r√™ts fondamentaux de la nation (autrefois atteinte √† la s√ªret√©
+de l'√âtat)
+Attentat contre l'autorit√© de l'√âtat
+Auditeur au Conseil d'√âtat, auditeur √† la Cour des comptes
+Avocat au Conseil d'√âtat et √† la Cour de cassation
+Bulletin d'√©tat civil
+Bureau d'√©tat-major
+Capitalisme monopoliste d'√âtat
+Changement d'√©tat
+Chef de l'√âtat
+Chef de l'√âtat fran√ßais
+Chef d'√©tat-major
+Chef d'√©tat-major g√©n√©ral des arm√©es
+Comit√© des chefs d'√©tat-major
+Conduite en √©tat alcoolique ou en √©tat d'ivresse
+Continuit√© de l'√âtat
+Continuit√© de l'√©tat liquide et de l'√©tat gazeux
+Contr√¥leur d'√âtat
+Corps d'√©tat ou corps de m√©tier
+D√©claration de l'√©tat civil
+D√©partement d'√âtat
+D√©p√©rissement de l'√âtat
+Diagramme thermodynamique ou d'√©tat
+Donner acc√®s √†, sur, dans un lieu, √† une situation, un √©tat, etc.
+Douma d'√âtat
+En √©tat d'alerte, en alerte
+En piteux √©tat
+En tout √©tat de cause
+√âtat accr√©ditaire
+√âtat accr√©ditant
+√âtat cholest√©rique
+√âtat condens√©
+√âtat cr√©pusculaire
+√âtat d'abandon
+√âtat d'√¢me
+√âtat dangereux
+√âtat de droit
+Voirplus
+Ó†ß
 
-Expressions avec Ètat
+Expressions avec √©tat
 
-&#xe82c; Ètat
+Ó†¨ √©tat
 
-   nom masculin
-     * ¿ l'Ètat (+ adjectif), indique la maniËre dont se prÈsente quelque
-       chose, dans telle situation : ¿ l'Ètat brut.
-     * En Ètat, en bon Ètat : Il faut remettre l'appartement en Ètat.
-     * En Ètat de marche, susceptible de fonctionner correctement.
-     * En l'Ètat, tel quel, sans changement.
-     * …tat de choses, circonstances, conjoncture particuliËre.
-       Synonymes :
-       conjoncture - situation
-     * …tat gÈnÈral, condition physique de quelqu'un ; santÈ, prospÈritÈ
-       de quelque chose.
-     *  tre en Ètat de, Ítre dans cette situation :  tre en Ètat
-       d'arrestation ; Ítre en mesure de, capable de.
-     *  tre hors d'Ètat, Ítre incapable de :  tre hors d'Ètat de nuire ;
-       Ítre inutilisable.
-     * Familier.  tre, mettre quelqu'un dans tous ses Ètats, Ítre
-       extrÍmement agitÈ, Ènerver, perturber quelqu'un.
-     * Faire Ètat de, tenir compte de quelque chose, en faire cas, s'en
-       prÈvaloir, le mentionner : Faire Ètat d'un tÈmoignage pour se
-       disculper.
-     * Mettre, tenir quelque chose en Ètat, le prÈparer, le rendre ou le
-       garder prÍt ‡ servir.
-     * Agriculture
-       …tat d'un sol, aspect d'un sol en fonction de sa teneur en eau. (Il
-       peut Ítre sec, plastique ou liquide.)
-     * B‚timent et Travaux publics
-       …tat limite, Ètat pour lequel une condition requise pour une
-       construction est strictement satisfaite et cesserait de l'Ítre en
-       cas de modification dÈfavorable d'une action extÈrieure. (La
-       thÈorie des Ètats limites est la base de la vÈrification moderne de
-       la sÈcuritÈ des ouvrages.)
-       Synonyme :
-       borderline
-     * Droit
-       Acte de l'Ètat civil, acte authentique dressÈ dans chaque commune
-       par un officier de l'Ètat civil et qui fournit une preuve certaine
-       de l'Ètat des personnes (acte de naissance, de mariage, de dÈcËs,
-       de reconnaissance d'un enfant naturel, etc.).
-     * Action d'Ètat, action en justice portant sur l'Ètat d'une personne
-       (action en rÈclamation ou en contestation d'Ètat, action en
-       divorce, etc.).
-     * &#xe819;…tat civil, ensemble des qualitÈs qui assignent ‡ une
-       personne sa place dans la sociÈtÈ et la diffÈrencient des autres au
-       point de vue de la jouissance et de l'exercice des droits civils ;
-       service public chargÈ des actes de l'Ètat civil dans chaque
-       commune.
-     * …tat des personnes, ensemble des rËgles qui dÈterminent l'existence
-       juridique et la situation familiale d'une personne dans la sociÈtÈ
-       (nationalitÈ, mariage, filiation). [L'Ètat des personnes,
-       impÈrativement attachÈ ‡ la personne, est indisponible,
-       imprescriptible et indivisible.]
-     * Fiche d'Ètat civil, fiche relative ‡ l'Ètat civil d'une personne
-       (fiche individuelle d'Ètat civil) ou d'une famille (fiche familiale
-       d'Ètat civil) et autrefois dÈlivrÈe ‡ la mairie (jusqu'en 2000).
-     * Officier de l'Ètat civil, dans chaque commune, le maire, seul
-       compÈtent pour dÈlivrer des actes de l'Ètat civil et responsable
-       des registres de l'Ètat civil, tenus en double et dont l'un est
-       envoyÈ chaque annÈe au greffe du tribunal de grande instance. (Le
-       maire peut dÈlÈguer ses pouvoirs ‡ un adjoint ou ‡ un conseiller
-       municipal.)
-     * Possession d'Ètat, exercice par une personne des prÈrogatives
-       attachÈes ‡ sa situation sociale ou professionnelle. (La possession
-       d'Ètat comporte le nom, le traitement, la renommÈe.)
-     * Hydrologie
-       …tat de la mer, expression de l'agitation de la mer dÈfinie
-       numÈriquement soit par un degrÈ de l'Èchelle de Douglas, soit par
-       la hauteur de la vague significative, soit par le spectre de la
-       houle.
-     * Linguistique
-       …tat de langue, systËme dÈgagÈ ‡ partir de l'Ètude synchronique
-       d'une langue, c'est-‡-dire sa grammaire et son lexique ‡ un certain
-       moment de son histoire.
-     * Verbe d'Ètat, verbe exprimant que le sujet de la phrase est dans un
-       Ètat donnÈ (par exempleÍtre, devenir, paraÓtre, etc.).
-     * MÈdecine
-       PÈriode d'Ètat, phase d'une maladie qui succËde ‡ la phase initiale
-       d'installation (d'invasion) et pendant laquelle les phÈnomËnes
-       morbides sont relativement stables dans leur ensemble.
-     * Physique
-       …tat de la matiËre, maniËre d'Ítre d'un corps, relative ‡ sa
-       cohÈsion, ‡ sa fluiditÈ (Ètats solide, liquide, gazeux), ‡
-       l'arrangement de ses atomes ou molÈcules (Ètats amorphe,
-       cristallin, mÈsomorphe), ‡ l'ionisation de ses atomes (Ètats
-       neutre, ionisÈ), etc.
-     * …tat d'un systËme, ensemble des caractÈristiques d'un systËme
-       nÈcessaires et suffisantes ‡ sa description et ‡ la prÈvision de
-       son Èvolution.
-     * Psychanalyse et Psychiatrie
-       …tat limite, structure pathologique de la personnalitÈ caractÈrisÈe
-       par la combinaison de troubles psychotiques, nÈvrotiques et
-       caractÈriels, auxquels sont juxtaposÈs des ÈlÈments normaux. (La
-       validitÈ de ce concept n'est pas reconnue par certains auteurs.)
-     * Sylviculture
-       Bois en Ètat, arbre debout.
-     * Thermodynamique
-       …quation d'Ètat, relation existant ‡ l'Èquilibre entre les divers
-       paramËtres macroscopiques d'un systËme (tempÈrature, volume,
-       pression, Ènergie, nombre de particules).
-     * Fonction d'Ètat, grandeur physique qui ne dÈpend que de l'Ètat
-       thermodynamique d'un systËme et non de son Èvolution antÈrieure.
+nom masculin
+  * √Ä l'√©tat (+ adjectif), indique la mani√®re dont se pr√©sente quelque chose,
+dans telle situation : √Ä l'√©tat brut.
+  * En √©tat, en bon √©tat : Il faut remettre l'appartement en √©tat.
+  * En √©tat de marche, susceptible de fonctionner correctement.
+  * En l'√©tat, tel quel, sans changement.
+  * √âtat de choses, circonstances, conjoncture particuli√®re.
+Synonymes :
+conjoncture - situation
+  * √âtat g√©n√©ral, condition physique de quelqu'un ; sant√©, prosp√©rit√© de quelque
+chose.
+  * √ätre en √©tat de, √™tre dans cette situation : √ätre en √©tat d'arrestation ;
+√™tre en mesure de, capable de.
+  * √ätre hors d'√©tat, √™tre incapable de : √ätre hors d'√©tat de nuire ; √™tre
+inutilisable.
+  * Familier. √ätre, mettre quelqu'un dans tous ses √©tats, √™tre extr√™mement
+agit√©, √©nerver, perturber quelqu'un.
+  * Faire √©tat de, tenir compte de quelque chose, en faire cas, s'en pr√©valoir,
+le mentionner : Faire √©tat d'un t√©moignage pour se disculper.
+  * Mettre, tenir quelque chose en √©tat, le pr√©parer, le rendre ou le garder
+pr√™t √† servir.
+  * Agriculture
+√âtat d'un sol, aspect d'un sol en fonction de sa teneur en eau. (Il peut √™tre
+sec, plastique ou liquide.)
+  * B√¢timent et Travaux publics
+√âtat limite, √©tat pour lequel une condition requise pour une construction est
+strictement satisfaite et cesserait de l'√™tre en cas de modification d√©favorable
+d'une action ext√©rieure. (La th√©orie des √©tats limites est la base de la
+v√©rification moderne de la s√©curit√© des ouvrages.)
+Synonyme :
+borderline
+  * Droit
+Acte de l'√©tat civil, acte authentique dress√© dans chaque commune par un
+officier de l'√©tat civil et qui fournit une preuve certaine de l'√©tat des
+personnes (acte de naissance, de mariage, de d√©c√®s, de reconnaissance d'un
+enfant naturel, etc.).
+  * Action d'√©tat, action en justice portant sur l'√©tat d'une personne (action
+en r√©clamation ou en contestation d'√©tat, action en divorce, etc.).
+  * Ó†ô√âtat civil, ensemble des qualit√©s qui assignent √† une personne sa place
+dans la soci√©t√© et la diff√©rencient des autres au point de vue de la jouissance
+et de l'exercice des droits civils ; service public charg√© des actes de l'√©tat
+civil dans chaque commune.
+  * √âtat des personnes, ensemble des r√®gles qui d√©terminent l'existence
+juridique et la situation familiale d'une personne dans la soci√©t√© (nationalit√©,
+mariage, filiation). [L'√©tat des personnes, imp√©rativement attach√© √† la
+personne, est indisponible, imprescriptible et indivisible.]
+  * Fiche d'√©tat civil, fiche relative √† l'√©tat civil d'une personne (fiche
+individuelle d'√©tat civil) ou d'une famille (fiche familiale d'√©tat civil) et
+autrefois d√©livr√©e √† la mairie (jusqu'en 2000).
+  * Officier de l'√©tat civil, dans chaque commune, le maire, seul comp√©tent pour
+d√©livrer des actes de l'√©tat civil et responsable des registres de l'√©tat civil,
+tenus en double et dont l'un est envoy√© chaque ann√©e au greffe du tribunal de
+grande instance. (Le maire peut d√©l√©guer ses pouvoirs √† un adjoint ou √† un
+conseiller municipal.)
+  * Possession d'√©tat, exercice par une personne des pr√©rogatives attach√©es √† sa
+situation sociale ou professionnelle. (La possession d'√©tat comporte le nom, le
+traitement, la renomm√©e.)
+  * Hydrologie
+√âtat de la mer, expression de l'agitation de la mer d√©finie num√©riquement soit
+par un degr√© de l'√©chelle de Douglas, soit par la hauteur de la vague
+significative, soit par le spectre de la houle.
+  * Linguistique
+√âtat de langue, syst√®me d√©gag√© √† partir de l'√©tude synchronique d'une langue,
+c'est-√†-dire sa grammaire et son lexique √† un certain moment de son histoire.
+  * Verbe d'√©tat, verbe exprimant que le sujet de la phrase est dans un √©tat
+donn√© (par exemple√™tre, devenir, para√Ætre, etc.).
+  * M√©decine
+P√©riode d'√©tat, phase d'une maladie qui succ√®de √† la phase initiale
+d'installation (d'invasion) et pendant laquelle les ph√©nom√®nes morbides sont
+relativement stables dans leur ensemble.
+  * Physique
+√âtat de la mati√®re, mani√®re d'√™tre d'un corps, relative √† sa coh√©sion, √† sa
+fluidit√© (√©tats solide, liquide, gazeux), √† l'arrangement de ses atomes ou
+mol√©cules (√©tats amorphe, cristallin, m√©somorphe), √† l'ionisation de ses atomes
+(√©tats neutre, ionis√©), etc.
+  * √âtat d'un syst√®me, ensemble des caract√©ristiques d'un syst√®me n√©cessaires et
+suffisantes √† sa description et √† la pr√©vision de son √©volution.
+  * Psychanalyse et Psychiatrie
+√âtat limite, structure pathologique de la personnalit√© caract√©ris√©e par la
+combinaison de troubles psychotiques, n√©vrotiques et caract√©riels, auxquels sont
+juxtapos√©s des √©l√©ments normaux. (La validit√© de ce concept n'est pas reconnue
+par certains auteurs.)
+  * Sylviculture
+Bois en √©tat, arbre debout.
+  * Thermodynamique
+√âquation d'√©tat, relation existant √† l'√©quilibre entre les divers param√®tres
+macroscopiques d'un syst√®me (temp√©rature, volume, pression, √©nergie, nombre de
+particules).
+  * Fonction d'√©tat, grandeur physique qui ne d√©pend que de l'√©tat
+thermodynamique d'un syst√®me et non de son √©volution ant√©rieure.
 
-&#xe82c; Ètats
+Ó†¨ √©tats
 
-   nom masculin pluriel
-     * …tats de bailliage ou de sÈnÈchaussÈe, assemblÈes rÈunies aux xiv^e
-       et xv^e s., dans le cadre des bailliages et des sÈnÈchaussÈes, et
-       comprenant en gÈnÈral des reprÈsentants des trois ordres. (Cette
-       institution tomba en complËte dÈsuÈtude au xvii^e s.)
-     * &#xe819;…tats gÈnÈraux, assemblÈes convoquÈes par le roi de France
-       et composÈes des reprÈsentants de toutes les provinces du royaume
-       appartenant aux trois ordres (clergÈ, noblesse, tiers Ètat).
-     * &#xe819;…tats provinciaux, assemblÈes composÈes de reprÈsentants
-       des trois ordres d'une province.
-     * Pays d'Ètats, provinces possÈdant des Ètats provinciaux.
+nom masculin pluriel
+  * √âtats de bailliage ou de s√©n√©chauss√©e, assembl√©es r√©unies aux xiv^e et
+xv^e s., dans le cadre des bailliages et des s√©n√©chauss√©es, et comprenant en
+g√©n√©ral des repr√©sentants des trois ordres. (Cette institution tomba en compl√®te
+d√©su√©tude au xvii^e s.)
+  * Ó†ô√âtats g√©n√©raux, assembl√©es convoqu√©es par le roi de France et compos√©es des
+repr√©sentants de toutes les provinces du royaume appartenant aux trois ordres
+(clerg√©, noblesse, tiers √©tat).
+  * Ó†ô√âtats provinciaux, assembl√©es compos√©es de repr√©sentants des trois ordres
+d'une province.
+  * Pays d'√©tats, provinces poss√©dant des √©tats provinciaux.
 
-   &#xe81f;
+Ó†ü
 
-Homonymes de Ètat
+Homonymes de √©tat
 
-     * eta nom masculin
-     * Íta nom masculin invariable
+  * eta nom masculin
+  * √™ta nom masculin invariable
 
-   &#xe80d;
+Ó†ç
 
-DifficultÈs de Ètat
+Difficult√©s de √©tat
 
-     * ORTHOGRAPHE
-       Avec une majuscule quand il s'agit du pays, de la nation ou de son
-       autoritÈ souveraine : un chef d'…tat, un coup d'…tat, un secret
-       d'…tat, la raison d'…tat ; c'est un …tat nÈ de la scission d'une
-       province.
-       Avec une minuscule dans tous les autres sens : Ètat civil, tiers
-       Ètat, Ètats provinciaux.
+  * ORTHOGRAPHE
+Avec une majuscule quand il s'agit du pays, de la nation ou de son autorit√©
+souveraine : un chef d'√âtat, un coup d'√âtat, un secret d'√âtat, la raison
+d'√âtat ; c'est un √âtat n√© de la scission d'une province.
+Avec une minuscule dans tous les autres sens : √©tat civil, tiers √©tat, √©tats
+provinciaux.
 
-   &#xe818;
+Ó†ò
 
-Citations avec Ètat
+Citations avec √©tat
 
-     * AndrÈ Breton (Tinchebray, Orne, 1896-Paris 1966)
-       L'oeil existe ‡ l'Ètat sauvage.
-       Le SurrÈalisme et la Peinture, Gallimard
-     * Auguste Comte (Montpellier 1798-Paris 1857)
-       [Les trois Ètats successifs de toute pensÈe et de toute
-       connaissance] : l'Ètat thÈologique, ou fictif ; l'Ètat
-       mÈtaphysique, ou abstrait ; l'Ètat scientifique, ou positif.
-       Cours de philosophie positive
-     * Remy de Gourmont (Bazoches-au-Houlme, Orne, 1858-Paris 1915)
-       La civilisation est un produit naturel, tout comme l'Ètat sauvage ;
-       ce sont des fleurs diffÈrentes poussÈes dans la mÍme forÍt.
-       Promenades littÈraires, Mercure de France
-     * Jean-Baptiste Massillon (HyËres 1663-Beauregard-l'…vÍque,
-       Puy-de-DÙme, 1742)
-       AcadÈmie franÁaise, 1719
-       De toutes les circonstances de la vie, le choix d'un Ètat est celle
-       o˘ la mÈprise est plus ordinaire.
-       Sermons, Sur la vocation
-     * Alexandre Vinet (Ouchy 1797-Clarens 1847)
-       Les individus sont sortis de l'Ètat sauvage, les nations y sont
-       restÈes.
-       Philosophie et morale sociale
+  * Andr√© Breton (Tinchebray, Orne, 1896-Paris 1966)
+L'≈ìil existe √† l'√©tat sauvage.
+Le Surr√©alisme et la Peinture, Gallimard
+  * Auguste Comte (Montpellier 1798-Paris 1857)
+[Les trois √©tats successifs de toute pens√©e et de toute connaissance] : l'√©tat
+th√©ologique, ou fictif ; l'√©tat m√©taphysique, ou abstrait ; l'√©tat scientifique,
+ou positif.
+Cours de philosophie positive
+  * Remy de Gourmont (Bazoches-au-Houlme, Orne, 1858-Paris 1915)
+La civilisation est un produit naturel, tout comme l'√©tat sauvage ; ce sont des
+fleurs diff√©rentes pouss√©es dans la m√™me for√™t.
+Promenades litt√©raires, Mercure de France
+  * Jean-Baptiste Massillon (Hy√®res 1663-Beauregard-l'√âv√™que, Puy-de-D√¥me, 1742)
+Acad√©mie fran√ßaise, 1719
+De toutes les circonstances de la vie, le choix d'un √©tat est celle o√π la
+m√©prise est plus ordinaire.
+Sermons, Sur la vocation
+  * Alexandre Vinet (Ouchy 1797-Clarens 1847)
+Les individus sont sortis de l'√©tat sauvage, les nations y sont rest√©es.
+Philosophie et morale sociale
 
 Mots proches
 
-   Ètat, Ètats
-   -
-   …tat
-   -
-   Ètatique
-   -
-   Ètatisation
-   -
-   Ètatiser
-   -
-   Ètatisme
-   -
-   Ètant
-   -
-   Ètant_donnÈ
-   -
-   Ètape
-   -
-   Ètarque
-   -
-   Ètarquer
-   -
-     __________________________________________________________________
-     __________________________________________________________________
+√©tat, √©tats
+-
+√âtat
+-
+√©tatique
+-
+√©tatisation
+-
+√©tatiser
+-
+√©tatisme
+-
+√©tant
+-
+√©tant_donn√©
+-
+√©tape
+-
+√©tarque
+-
+√©tarquer
+-
+  ___________________________________________________________________________
 
-   ¿ CONSULTER …GALEMENT DANS L'ENCYCLOP…DIE
+Ó†ô
+  ___________________________________________________________________________
 
-   famille.
+√Ä CONSULTER √âGALEMENT DANS L'ENCYCLOP√âDIE
 
-   Ensemble de personnes qui ont des liens de parentÈ par le sang ou par
-   alliance.
+famille.
 
-   filiation.
+Ensemble de personnes qui ont des liens de parent√© par le sang ou par alliance.
 
-   Mode selon lequel se transmettent, dans un systËme de parentÈ...
+filiation.
 
-   identitÈ. [PHILOSOPHIE]
+Mode selon lequel se transmettent, dans un syst√®me de parent√©...
 
-   CaractËre permanent et fondamental de quelqu'un, d'un groupe, qui
-   fait...
+identit√©. [PHILOSOPHIE]
 
-   matiËre. [PHYSIQUE]
+Caract√®re permanent et fondamental de quelqu'un, d'un groupe, qui fait...
 
-   Substance constituant les corps, douÈe de propriÈtÈs physiques.
+mati√®re. [PHYSIQUE]
 
-   rÈsistance. […LECTRICIT…]
+Substance constituant les corps, dou√©e de propri√©t√©s physiques.
 
-   Quotient de la tension U aux bornes d'une rÈsistance idÈale par le
-   courant...
+r√©sistance. [√âLECTRICIT√â]
 
-   sol.
+Quotient de la tension U aux bornes d'une r√©sistance id√©ale par le courant...
 
-   Couche superficielle de l'Ècorce terrestre considÈrÈe quant ‡ sa nature
-   ou ‡...
+sol.
 
-   Ancien RÈgime.
+Couche superficielle de l'√©corce terrestre consid√©r√©e quant √† sa nature ou √†...
 
-   RÈgime social et politique de la France depuis le rËgne...
+Ancien R√©gime.
 
-   bourgeoisie.
+R√©gime social et politique de la France depuis le r√®gne...
 
-   Avant la RÈvolution franÁaise, ensemble des bourgeois.
+bourgeoisie.
 
-   Bourgogne.
+Avant la R√©volution fran√ßaise, ensemble des bourgeois.
 
-   Ancienne RÈgion administrative de l'est de la France, qui est plus une
-   unitÈ historique que gÈographique, appartenant depuis 2016 ‡ la RÈgion
-   Bourgogne-Franche-ComtÈ.
+Bourgogne.
 
-   FranÁois I^er.
+Ancienne R√©gion administrative de l'est de la France, qui est plus une unit√©
+historique que g√©ographique, appartenant depuis 2016 √† la R√©gion
+Bourgogne-Franche-Comt√©.
 
-   Roi de France...
+Fran√ßois I^er.
 
-   Henri IV.
+Roi de France...
 
-   Roi de France et de Navarre...
+Henri IV.
 
-   Louis XIII.
+Roi de France et de Navarre...
 
-   Roi de France...
+Louis XIII.
 
-   Louis XIV.
+Roi de France...
 
-   Roi de France...
+Louis XIV.
 
-   Louis XV.
+Roi de France...
 
-   Roi de France...
+Louis XV.
 
-   Louis XVI.
+Roi de France...
 
-   Roi de France...
+Louis XVI.
 
-   Philippe IV le Bel.
+Roi de France...
 
-   Roi de France...
+Philippe IV le Bel.
 
-   Religion (guerres de).
+Roi de France...
 
-   Conflits qui opposËrent catholiques et calvinistes, en France, de 1562
-   ‡...
+Religion (guerres de).
 
-   RÈvolution franÁaise.
+Conflits qui oppos√®rent catholiques et calvinistes, en France, de 1562 √†...
 
-   Ensemble des mouvements rÈvolutionnaires qui mirent fin en France ‡
-   l'Ancien...
+R√©volution fran√ßaise.
 
-   SieyËs.
+Ensemble des mouvements r√©volutionnaires qui mirent fin en France √† l'Ancien...
 
-   Emmanuel Joseph SieyËs. Homme politique franÁais...
+Siey√®s.
 
-   ¿ D…COUVRIR DANS L'ENCYCLOP…DIE
-     * Afrique.
-     * architecture. [DOSSIER].
-     * blaireau. [FAUNE]
-     * carpe diem.
-     * Code civil.
-     * Copernic. Nicolas Copernic.
-     * daim. [FAUNE]
-     * Dumas. Alexandre Dumas.
-     * …sope. [LITT…RATURE]
-     * histoire de la mÈdecine.
-     * Hongkong.
-     * invasions. [HISTOIRE]
-     * LÈnine. Vladimir Ilitch Oulianov, dit LÈnine.
-     * ONU.
-     * principes de plaisir et de rÈalitÈ.
-     * rÈduction. [M…DECINE]
-     __________________________________________________________________
+Emmanuel Joseph Siey√®s. Homme politique fran√ßais...
 
-   DANS L'ENCYCLOPEDIE
-     __________________________________________________________________
+√Ä D√âCOUVRIR DANS L'ENCYCLOP√âDIE
+  * Afrique.
+  * architecture. [DOSSIER].
+  * blaireau. [FAUNE]
+  * carpe diem.
+  * Code civil.
+  * Copernic. Nicolas Copernic.
+  * daim. [FAUNE]
+  * Dumas. Alexandre Dumas.
+  * √âsope. [LITT√âRATURE]
+  * histoire de la m√©decine.
+  * Hongkong.
+  * invasions. [HISTOIRE]
+  * L√©nine. Vladimir Ilitch Oulianov, dit L√©nine.
+  * ONU.
+  * principes de plaisir et de r√©alit√©.
+  * r√©duction. [M√âDECINE]
+  ___________________________________________________________________________
 
-   Les Ètats de la matiËre
+DANS L'ENCYCLOPEDIE
+  ___________________________________________________________________________
 
-Ètat. [PHYSIQUE]
+Les √©tats de la mati√®re
 
-   Nature sous laquelle se prÈsente un corps.
+√©tat. [PHYSIQUE]
 
-Ètat civil.
+Nature sous laquelle se pr√©sente un corps.
 
-   L'Ètat civil dÈsigne ‡ la fois l'ensemble des qualitÈs et des...
-   Ouverture des Ètats gÈnÈraux ‡ Versailles, le 5 mai 1789
+√©tat civil.
 
-Ètats gÈnÈraux.
+L'√©tat civil d√©signe √† la fois l'ensemble des qualit√©s et des...
+Ouverture des √©tats g√©n√©raux √† Versailles, le 5 mai 1789
 
-   Dans l'ancienne monarchie franÁaise, jusqu'‡ la RÈvolution de 1789...
+√©tats g√©n√©raux.
 
-Ètats provinciaux.
+Dans l'ancienne monarchie fran√ßaise, jusqu'√† la R√©volution de 1789...
 
-   Ils se rÈunissent rÈguliËrement dans les provinces du domaine royal...
-     __________________________________________________________________
+√©tats provinciaux.
 
-   OUTILS
-     __________________________________________________________________
+Ils se r√©unissent r√©guli√®rement dans les provinces du domaine royal...
+  ___________________________________________________________________________
 
-   [encart_pub_dicofr.jpg]
-   [encart_promo_flashcards.png]
-   &#xe823;
-   CONJUGATEUR
-   &#xe807;
-     __________________________________________________________________
+OUTILS
+  ___________________________________________________________________________
 
-   &#xe812;
-   JEUX
-   &#xe807;
-     __________________________________________________________________
+[encart_pub_dicofr.jpg]
+[encart_promo_flashcards.png]
+Ó†£
+CONJUGATEUR
+Ó†á
+  ___________________________________________________________________________
 
-   [\dictionnaires\assets\img\banGG-FRcFRA.png]
-     __________________________________________________________________
+Ó†í
+JEUX
+Ó†á
+  ___________________________________________________________________________
 
-   [\dictionnaires\assets\img\flag-fr.png]
-   COURS DE FRAN«AIS
-   &#xe807;
-     __________________________________________________________________
-     __________________________________________________________________
+[\dictionnaires\assets\img\banGG-FRcFRA.png]
+  ___________________________________________________________________________
 
-   QUIZ
-     __________________________________________________________________
+[\dictionnaires\assets\img\flag-fr.png]
+COURS DE FRAN√áAIS
+Ó†á
+  ___________________________________________________________________________
+  ___________________________________________________________________________
 
-   Que n'exprime pas le subjonctif ?
-     *
-          + (*) la volontÈ
-          + ( ) le souhait
-          + ( ) la rÈalitÈ d'un fait incontestable
+QUIZ
+  ___________________________________________________________________________
 
-   Applications mobiles Index Mentions lÈgales et crÈdits CGU CGV Charte
-   de confidentialitÈ Cookies Contact ¿ la une © Larousse
+Si un homme reste coi, une femme reste quoi ?
+  *
+  + (*) coie
+  + ( ) coite
+  + ( ) coi (invariable)
+
+Applications mobiles Index Mentions l√©gales et cr√©dits CGU CGV Charte de
+confidentialit√© Cookies Contact √Ä la une ¬© Larousse

@@ -5,10 +5,14 @@
 # Corriger occurences : le regex ne marche pas ?
 # Convertir ceux qui ne sont pas UTF-8 pour les convertir
 # centrer colonnes
+# script pour arboressence
+
 
 URL_FILE=$1
 ID=1
-REGEX="\b([eéèêÉÈÊ][tT][aA][tT]s?)\b(?:[-][A-Za-zàâéèêîôùûç]+)?"
+REGEX="[eéèêËE][tT][aàAÀ][tT]s?([-][A-Za-zàâäéèêëïîôöùûüÿçÀÂÄÉÈÊËÏÎÔÖÙÛÜŸÇ]+)?"
+USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
 
 DIR_ASPI="./aspirations/français"
 DIR_CONTXT="./contextes"
@@ -16,9 +20,7 @@ DIR_DUMP="./dumps-text/français/"
 DIR_CONCORD="./concordances"
 DIR_HTML_OUT="./tableaux/état_français.html"
 
-USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-numero_ligne=0
 
 # Vérification arguments 
 if [ $# -ne 1 ] ; then
@@ -90,8 +92,8 @@ while read -r URL ; do
 	
 	# HTML + écriture dans fichiers aspiration
 	html_full=$(echo "$full_response" | sed -n '/^[[:space:]]*</,$p')
+	
 	filename_aspiration="$DIR_ASPI/fr-$ID.html"
-
 	echo "$html_full" > "$filename_aspiration"
 
 
@@ -101,12 +103,17 @@ while read -r URL ; do
 
 
 	if [[ -n "$encoding" ]]; then
-		#echo "Encodage détecté : $encoding"
 
 		# Écriture dump dans fichiers
 		filename_dump="$DIR_DUMP/fr-$ID.txt"
 
-		echo "$html_full" | lynx -dump -nolist -stdin > "$filename_dump"
+		# Force lynx à traiter l'entrée en UTF-8
+		echo "$html_full" | lynx -dump -nolist -stdin \
+			-assume_charset=UTF-8 \
+			-display_charset=UTF-8 \
+        	-nomargins \
+		2>/dev/null > "$filename_dump"
+
 
 	else
 		continue

@@ -1,293 +1,272 @@
-   Aller au contenu principal
+Aller au contenu principal
 
-   (BUTTON)
-   budget.gouv.fr
-   La plateforme des finances publiques,
-   du budget de l'État et de la performance publique
-   Rchercher ______________________________
-   Mots-clés ______________________________
-   [Pertinence___]
-   Tout voir
-   LinkedIn
-   Navigation principale
-     * Accueil
-     * La direction du Budget
-          + Missions
-          + Organisation
-          + Ecosystème et partenaires
-          + Profils et carrières
-          + Métiers budgétaires et financiers
-          + Nous rejoindre
-     * Budget de l'État
-          + Tout le budget de l'État
-          + Dépenses par ministère
-          + Dépenses par mission
-          + Dépenses par nature
-          + Financement des opérateurs
-          + Comptes de l'État
-          + Situation mensuelle budgétaire (SMB)
-     * Performance de la dépense
-     * Panorama des finances publiques
-          + Vue d'ensemble
-          + État et organismes divers d'administration centrale (ODAC)
-          + Administrations publiques locales (APUL)
-          + Administrations de sécurité sociale (ASSO)
-          + Comparaison européenne
-     * Calendrier budgétaire
-     * Repères : politique, procédure et gestion budgétaires
-     * #Loi spéciale 2026
-     * #Projet de loi spéciale
-     * #PLF 2026
-          + Le projet de loi de finances 2026 et les documents annexés
-          + Le dossier de presse du PLF 2026
-          + PAP - Projets annuels de performance du budget général
-          + PAP - Projets annuels de performance des budgets annexes
-          + PAP - Projets annuels de performance des comptes d'affectation
-            spéciale
-          + PAP - Projets annuels de performance des comptes de concours
-            financiers
-          + PAP - Projets annuels de performance des comptes d'opérations
-            monétaires et des comptes de commerces
-     * #LFG 2025
-     * #Les 20 ans des CBCM
-     * Exercice budgétaire 2025
+(BUTTON)
+budget.gouv.fr
+La plateforme des finances publiques,
+du budget de lâ€™Ã‰tat et de la performance publique
+Rchercher ______________________________
+Mots-clÃ©s_______________________________
+[Pertinence____]
+Tout voir
+LinkedIn
+Navigation principale
+  * Accueil
+  * La direction du Budget
+  + Missions
+  + Organisation
+  + EcosystÃ¨me et partenaires
+  + Profils et carriÃ¨res
+  + MÃ©tiers budgÃ©taires et financiers
+  + Nous rejoindre
+  * Budget de l'Ã‰tat
+  + Tout le budget de lâ€™Ã‰tat
+  + DÃ©penses par ministÃ¨re
+  + DÃ©penses par mission
+  + DÃ©penses par nature
+  + Financement des opÃ©rateurs
+  + Comptes de l'Ã‰tat
+  + Situation mensuelle budgÃ©taire (SMB)
+  * Performance de la dÃ©pense
+  * Panorama des finances publiques
+  + Vue d'ensemble
+  + Ã‰tat et organismes divers dâ€™administration centrale (ODAC)
+  + Administrations publiques locales (APUL)
+  + Administrations de sÃ©curitÃ© sociale (ASSO)
+  + Comparaison europÃ©enne
+  * Calendrier budgÃ©taire
+  * RepÃ¨res : politique, procÃ©dure et gestion budgÃ©taires
+  * #Loi spÃ©ciale 2026
+  * #Projet de loi spÃ©ciale
+  * #PLF 2026
+  + Le projet de loi de finances 2026 et les documents annexÃ©s
+  + Le dossier de presse du PLF 2026
+  + PAP - Projets annuels de performance du budget gÃ©nÃ©ral
+  + PAP - Projets annuels de performance des budgets annexes
+  + PAP - Projets annuels de performance des comptes d'affectation spÃ©ciale
+  + PAP - Projets annuels de performance des comptes de concours financiers
+  + PAP - Projets annuels de performance des comptes d'opÃ©rations monÃ©taires et
+des comptes de commerces
+  * #LFG 2025
+  * #Les 20 ans des CBCM
+  * Exercice budgÃ©taire 2025
 
-   Navigation secondaire
-     * Documentation budgétaire
-     * Documents budgétaires 2006-2018
+Navigation secondaire
+  * Documentation budgÃ©taire
+  * Documents budgÃ©taires 2006-2018
 
-Budget de l'État
+Budget de l'Ã‰tat
 
-   Le budget de l'État correspond à l'ensemble de ses ressources et de ses
-   dépenses. L'essentiel des ressources provient des impôts et des taxes
-   payées par les citoyens et les entreprises. Les dépenses correspondent
-   à l'argent que l'État utilise pour financer l'action publique : police,
-   justice, recherche, éducation...  Depuis plus de quarante ans, les
-   dépenses de l'État sont supérieures à ses recettes. Ainsi, le budget
-   fait apparaître un déficit. L'accumulation de ces déficits au cours des
-   années constitue la dette de l'État.
+Le budget de lâ€™Ã‰tat correspond Ã  lâ€™ensemble de ses ressources et de ses
+dÃ©penses. Lâ€™essentiel des ressources provient des impÃ´ts et des taxes payÃ©es par
+les citoyens et les entreprises. Les dÃ©penses correspondent Ã  lâ€™argent que
+lâ€™Ã‰tat utilise pour financer lâ€™action publique : police, justice, recherche,
+Ã©ducationâ€¦  Depuis plus de quarante ans, les dÃ©penses de lâ€™Ã‰tat sont supÃ©rieures
+Ã  ses recettes. Ainsi, le budget fait apparaÃ®tre un dÃ©ficit. Lâ€™accumulation de
+ces dÃ©ficits au cours des annÃ©es constitue la dette de lâ€™Ã‰tat.
 
-   Les dépenses de l'État comprennent des dépenses de personnel, de
-   fonctionnement, d'intervention (exemple : aides économiques),
-   d'investissement (exemple : construction des routes) ainsi que le
-   remboursement des intérêts de la dette. Le budget de l'État propose une
-   présentation des dépenses par « destination » (Missions, elles-mêmes
-   déclinées en programmes), permettant au citoyen de bien comprendre à
-   quelle politique publique ou « mission » est affecté l'argent de ses
-   impôts.
+Les dÃ©penses de lâ€™Ã‰tat comprennent des dÃ©penses de personnel, de fonctionnement,
+dâ€™intervention (exemple : aides Ã©conomiques), dâ€™investissement (exemple :
+construction des routes) ainsi que le remboursement des intÃ©rÃªts de la dette. Le
+budget de lâ€™Ã‰tat propose une prÃ©sentation des dÃ©penses par Â« destination Â»
+(Missions, elles-mÃªmes dÃ©clinÃ©es en programmes), permettant au citoyen de bien
+comprendre Ã  quelle politique publique ou Â« mission Â» est affectÃ© lâ€™argent de
+ses impÃ´ts.
 
-   Les recettes de l'État sont l'ensemble des ressources à sa disposition
-   pour la mise en oeuvre des politiques publiques. Chaque année, elles
-   sont synthétisées dans le budget de l'État. L'essentiel de ces
-   ressources vient des recettes fiscales - soit plus de 90 % du total des
-   recettes - constituées d'impôts directs ou indirects prélevés à la fois
-   sur les citoyens et les entreprises. Ses autres recettes proviennent de
-   recettes non fiscales telles que le produit des amendes ou des jeux.
+Les recettes de lâ€™Ã‰tat sont lâ€™ensemble des ressources Ã  sa disposition pour la
+mise en Å“uvre des politiques publiques. Chaque annÃ©e, elles sont synthÃ©tisÃ©es
+dans le budget de lâ€™Ã‰tat. Lâ€™essentiel de ces ressources vient des recettes
+fiscales - soit plus de 90 % du total des recettes - constituÃ©es dâ€™impÃ´ts
+directs ou indirects prÃ©levÃ©s Ã  la fois sur les citoyens et les entreprises. Ses
+autres recettes proviennent de recettes non fiscales telles que le produit des
+amendes ou des jeux.
 
 
-   L'État ne recouvre pas la totalité des dépenses publiques. Même s'il
-   est sollicité pour aider à équilibrer les budgets d'autres acteurs
-   publics dont les budgets sont pourtant bien distincts de celui de
-   l'État (budget des administrations de sécurité sociale et des
-   administrations locales), l'État a une part minoritaire dans la dépense
-   publique en France.
+L'Ã‰tat ne recouvre pas la totalitÃ© des dÃ©penses publiques. MÃªme sâ€™il est
+sollicitÃ© pour aider Ã  Ã©quilibrer les budgets dâ€™autres acteurs publics dont les
+budgets sont pourtant bien distincts de celui de lâ€™Ã‰tat (budget des
+administrations de sÃ©curitÃ© sociale et des administrations locales), lâ€™Ã‰tat a
+une part minoritaire dans la dÃ©pense publique en France.
 
 
-   Panorama des finances publiques
-   Budget-Etat
-     * Budget annuel
-     * Situation mensuelle budgétaire (SMB)
+Panorama des finances publiques
+Budget-Etat
+  * Budget annuel
+  * Situation mensuelle budgÃ©taire (SMB)
 
-   Budget de l'État voté pour 2025 (loi de finances initiale pour 2025)
+Budget de l'Ã‰tat votÃ© pour 2025 (loi de finances initiale pour 2025)
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Télécharger
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+TÃ©lÃ©charger
 
-   Les montants figurant dans les présentes représentations graphiques ou
-   tableaux sont arrondis au million d'euros le plus proche ; il résulte
-   de l'application de ce principe que le montant arrondi des totaux et
-   sous-totaux peut ne pas être égal à la somme des montants arrondis
-   entrant dans son calcul.
-   Focus sur le périmètre des dépenses de l'État (PDE)
+Les montants figurant dans les prÃ©sentes reprÃ©sentations graphiques ou tableaux
+sont arrondis au million dâ€™euros le plus proche ; il rÃ©sulte de lâ€™application de
+ce principe que le montant arrondi des totaux et sous-totaux peut ne pas Ãªtre
+Ã©gal Ã  la somme des montants arrondis entrant dans son calcul.
+Focus sur le pÃ©rimÃ¨tre des dÃ©penses de lâ€™Ã‰tat (PDE)
 
-   Les précédentes normes relatives aux dépenses de l'État ayant montré un
-   bilan contrasté, le projet de loi de programmation des finances
-   publiques 2023-2027 a ainsi consacré une nouvelle norme de dépenses :
-   le périmètre des dépenses de l'État (PDE). Celui-ci comprend :
-     * l'ensemble des dépenses du budget général, c'est-à-dire la totalité
-       des missions budgétaires, y compris notamment les missions «
-       Investir pour la France de 2030 », « Plan de relance », ou encore
-       les programmes portant des abondements du budget général au compte
-       d'affectation spéciale (CAS) des participations financières de
-       l'État (PFE) ;
+Les prÃ©cÃ©dentes normes relatives aux dÃ©penses de l'Ã‰tat ayant montrÃ© un bilan
+contrastÃ©, le projet de loi de programmation des finances publiques 2023-2027 a
+ainsi consacrÃ© une nouvelle norme de dÃ©penses : le pÃ©rimÃ¨tre des dÃ©penses de
+lâ€™Ã‰tat (PDE). Celui-ci comprend :
+  * lâ€™ensemble des dÃ©penses du budget gÃ©nÃ©ral, câ€™est-Ã -dire la totalitÃ© des
+missions budgÃ©taires, y compris notamment les missions Â« Investir pour la France
+de 2030 Â», Â« Plan de relance Â», ou encore les programmes portant des abondements
+du budget gÃ©nÃ©ral au compte dâ€™affectation spÃ©ciale (CAS) des participations
+financiÃ¨res de l'Ã‰tat (PFE) ;
 
-     * les prélèvements sur recettes au profit des collectivités
-       territoriales et de l'Union européenne. Il s'agit en effet de
-       moindres recettes pour l'État et par conséquent, d'une dépense ;
+  * les prÃ©lÃ¨vements sur recettes au profit des collectivitÃ©s territoriales et
+de lâ€™Union europÃ©enne. Il sâ€™agit en effet de moindres recettes pour lâ€™Ã‰tat et
+par consÃ©quent, dâ€™une dÃ©pense ;
 
-     * les budgets annexes, les comptes spéciaux (y compris les Pensions)
-       et le compte de concours financiers « Avances à l'audiovisuel
-       public » ;
+  * les budgets annexes, les comptes spÃ©ciaux (y compris les Pensions) et le
+compte de concours financiers Â« Avances Ã  l'audiovisuel public Â» ;
 
-     * les taxes affectées plafonnées à des tiers autres que les
-       collectivités locales et la sécurité sociale.
+  * les taxes affectÃ©es plafonnÃ©es Ã  des tiers autres que les collectivitÃ©s
+locales et la sÃ©curitÃ© sociale.
 
-   Ce périmètre de dépenses ainsi renouvelé permet d'établir une clé de
-   passage plus simple et lisible entre les dépenses budgétaires de l'État
-   et les charges de l'article d'équilibre des lois de finances. À cette
-   fin, un tableau de norme est rendu public dans l'exposé général des
-   motifs du PLF. Il permet notamment de mettre en perspective le niveau
-   de norme au regard de l'historique et de la référence fixée en LPFP.
+Ce pÃ©rimÃ¨tre de dÃ©penses ainsi renouvelÃ© permet dâ€™Ã©tablir une clÃ© de passage
+plus simple et lisible entre les dÃ©penses budgÃ©taires de lâ€™Ã‰tat et les charges
+de lâ€™article dâ€™Ã©quilibre des lois de finances. Ã€ cette fin, un tableau de norme
+est rendu public dans lâ€™exposÃ© gÃ©nÃ©ral des motifs du PLF. Il permet notamment de
+mettre en perspective le niveau de norme au regard de lâ€™historique et de la
+rÃ©fÃ©rence fixÃ©e en LPFP.
 
-   En savoir plus sur le périmètre des dépenses de l'État (PDE)
-   Focus sur le budget général
+En savoir plus sur le pÃ©rimÃ¨tre des dÃ©penses de lâ€™Ã‰tat (PDE)
+Focus sur le budget gÃ©nÃ©ral
 
-   Le budget général retrace l'ensemble des recettes et dépenses de
-   l'État, à l'exception des recettes qui sont affectées par la loi de
-   finances à des dépenses particulières, auquel cas les recettes et
-   dépenses concernées sont alors présentées dans des comptes spéciaux ou
-   des budgets annexes.
-   Recettes
+Le budget gÃ©nÃ©ral retrace l'ensemble des recettes et dÃ©penses de lâ€™Ã‰tat, Ã
+l'exception des recettes qui sont affectÃ©es par la loi de finances Ã  des
+dÃ©penses particuliÃ¨res, auquel cas les recettes et dÃ©penses concernÃ©es sont
+alors prÃ©sentÃ©es dans des comptes spÃ©ciaux ou des budgets annexes.
+Recettes
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Télécharger
-   Recettes fiscales
-   Recettes non fiscales
-   Fonds de concours
-   MdEUR
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+TÃ©lÃ©charger
+Recettes fiscales
+Recettes non fiscales
+Fonds de concours
+Mdâ‚¬
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Dépenses
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+DÃ©penses
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Télécharger
-   Dépenses relatives aux missions
-   Fonds de concours
-   MdEUR
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+TÃ©lÃ©charger
+DÃ©penses relatives aux missions
+Fonds de concours
+Mdâ‚¬
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Solde
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+Solde
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Télécharger
-   Les dépenses nettes du budget général, sont calculées à partir des
-   dépenses totales de l'État, auxquelles sont soustraites
-   - les dépenses des budgets annexes et comptes spéciaux
-   - le retraitement au titre des remboursements et dégrèvements (qui ne
-   se font que sur les montants de R&D d'impôts d'État (en cohérence avec
-   l'article 10 de la LOLF).
-   D'autre part, il convient d'y ajouter les fonds de concours, qui sont
-   comptabilisés dans ces agrégats à la fois en dépenses et en recettes.
-   Focus sur les budgets annexes et comptes spéciaux
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+TÃ©lÃ©charger
+Les dÃ©penses nettes du budget gÃ©nÃ©ral, sont calculÃ©es Ã  partir des dÃ©penses
+totales de lâ€™Ã‰tat, auxquelles sont soustraites
+- les dÃ©penses des budgets annexes et comptes spÃ©ciaux
+- le retraitement au titre des remboursements et dÃ©grÃ¨vements (qui ne se font
+que sur les montants de R&D dâ€™impÃ´ts dâ€™Ã‰tat (en cohÃ©rence avec lâ€™article 10 de
+la LOLF).
+Dâ€™autre part, il convient dâ€™y ajouter les fonds de concours, qui sont
+comptabilisÃ©s dans ces agrÃ©gats Ã  la fois en dÃ©penses et en recettes.
+Focus sur les budgets annexes et comptes spÃ©ciaux
 
-   Les budgets annexes regroupent les dépenses et les recettes d'un
-   service de l'État dont l'activité tend essentiellement à produire des
-   biens ou à rendre des services donnant lieu à paiement.
+Les budgets annexes regroupent les dÃ©penses et les recettes dâ€™un service de
+lâ€™Ã‰tat dont lâ€™activitÃ© tend essentiellement Ã  produire des biens ou Ã  rendre des
+services donnant lieu Ã  paiement.
 
-   Les comptes spéciaux retracent des dépenses et des recettes de l'État
-   entre lesquelles on veut établir un lien, soit que l'on veuille
-   affecter certaines recettes à la couverture de certaines dépenses, soit
-   que l'on veuille faire apparaître une sorte de bilan entre des
-   opérations qui sont en étroite corrélation (compte de prêt par
-   exemple).
-   Recettes
+Les comptes spÃ©ciaux retracent des dÃ©penses et des recettes de lâ€™Ã‰tat entre
+lesquelles on veut Ã©tablir un lien, soit que lâ€™on veuille affecter certaines
+recettes Ã  la couverture de certaines dÃ©penses, soit que lâ€™on veuille faire
+apparaÃ®tre une sorte de bilan entre des opÃ©rations qui sont en Ã©troite
+corrÃ©lation (compte de prÃªt par exemple).
+Recettes
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Télécharger
-   Comptes spéciaux
-   Budgets annexes
-   MdEUR
-   Dépenses
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+TÃ©lÃ©charger
+Comptes spÃ©ciaux
+Budgets annexes
+Mdâ‚¬
+DÃ©penses
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Télécharger
-   Comptes spéciaux
-   Budgets annexes
-   MdEUR
-   Solde
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+TÃ©lÃ©charger
+Comptes spÃ©ciaux
+Budgets annexes
+Mdâ‚¬
+Solde
 
-   Les graphiques nécessitent JavaScript pour s'afficher. S'ils ne
-   s'affichent pas, cliquez sur le lien "Télécharger" ci-dessous pour
-   télécharger les données
-   Télécharger
+Les graphiques nÃ©cessitent JavaScript pour s'afficher. S'ils ne s'affichent pas,
+cliquez sur le lien "TÃ©lÃ©charger" ci-dessous pour tÃ©lÃ©charger les donnÃ©es
+TÃ©lÃ©charger
 
-   Suivez l'actualité de la direction du Budget sur LinkedIn
+Suivez l'actualitÃ© de la direction du Budget sur LinkedIn
 
-   DIRECTION DU BUDGET
+DIRECTION DU BUDGET
 
 Menu
 
-     * Accueil
-     * La direction du Budget
-     * Budget de l'État
-     * Performance de la dépense
-     * Panorama des finances publiques
-     * Calendrier budgétaire
-     * Repères : politique, procédure et gestion budgétaires
-     * #Loi spéciale 2026
-     * #Projet de loi spéciale
-     * #PLF 2026
-     * #LFG 2025
-     * #Les 20 ans des CBCM
-     * Exercice budgétaire 2025
+  * Accueil
+  * La direction du Budget
+  * Budget de l'Ã‰tat
+  * Performance de la dÃ©pense
+  * Panorama des finances publiques
+  * Calendrier budgÃ©taire
+  * RepÃ¨res : politique, procÃ©dure et gestion budgÃ©taires
+  * #Loi spÃ©ciale 2026
+  * #Projet de loi spÃ©ciale
+  * #PLF 2026
+  * #LFG 2025
+  * #Les 20 ans des CBCM
+  * Exercice budgÃ©taire 2025
 
-   Navigation secondaire
-     * Documentation budgétaire
-     * Documents budgétaires 2006-2018
+Navigation secondaire
+  * Documentation budgÃ©taire
+  * Documents budgÃ©taires 2006-2018
 
 Liens
 
-   Budget alumni
-   Portail du ministère
-   Portail "À quoi servent mes impôts ?"
-   Répertoire des informations publiques (CEDEF)
-   Offres d'emploi de la direction du Budget
+Budget alumni
+Portail du ministÃ¨re
+Portail "Ã€ quoi servent mes impÃ´ts ?"
+RÃ©pertoire des informations publiques (CEDEF)
+Offres d'emploi de la direction du Budget
 
 Nous suivre
 
-   LinkedIn
+LinkedIn
 
 Newsletter
 
-   Inscription aux circulaires budgétaires
+Inscription aux circulaires budgÃ©taires
 
-   Cliquez ci-dessous pour vous inscrire aux mises à jour des circulaires
-   budgétaires.
+Cliquez ci-dessous pour vous inscrire aux mises Ã  jour des circulaires
+budgÃ©taires.
 
-   S'inscrire
-   Pied de page
-     * Contact
-     * Mentions légales
-     * Politique de confidentialité
-     * Données personnelles
-     * Accessibilité : partiellement conforme
-     * Plan du site
+S'inscrire
+Pied de page
+  * Contact
+  * Mentions lÃ©gales
+  * Politique de confidentialitÃ©
+  * DonnÃ©es personnelles
+  * AccessibilitÃ© : partiellement conforme
+  * Plan du site
 
-   info.gouv.fr
-   service-public.gouv.fr
-   legifrance.gouv.fr
-   data.gouv.fr
+info.gouv.fr
+service-public.gouv.fr
+legifrance.gouv.fr
+data.gouv.fr

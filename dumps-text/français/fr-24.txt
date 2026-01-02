@@ -1,288 +1,276 @@
-   #alternate
+#alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MWVD6L6
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MWVD6L6
 
-     * Centre des mÈdias
-     * CarriËres
-     * S'abonner
+  * Centre des m√©dias
+  * Carri√®res
+  * S'abonner
 
-   (BUTTON) Search
-   ____________________ (BUTTON)
-   (BUTTON) banque de cerveaux
-   EN
-     * FRAN«AIS
+(BUTTON) Search
+____________________ (BUTTON)
+(BUTTON) banque de cerveaux
+EN
+  * FRAN√áAIS
 
-   (BUTTON) Toggle Menu
-   (BUTTON) Close menu icon
-   The Decision Lab Logo The Decision Lab Logo
-     * …tudes de cas
-     * Comment nous travaillons
-     * Conseil
-     *
-     * (BUTTON) Main Menu
-         ______________________________________________________________
-
-       Conseil
-
-     * DonnÈes et analyses
-     * Innovation et conception
-     * StratÈgie et finance d'entreprise
-     * OpÈrations
-     * Personnes et organisation
-     * Marketing et connaissance des consommateurs
-     * Risque et conformitÈ
-
-     Industries
-
-
-
-     (BUTTON) Main Menu
-     __________________________________________________________________
-
-Industries
-
-     * SantÈ et bien-Ítre
-     * L'Èducation
-     * Comportement du consommateur
-     * Technologie et IA
-     * Climat et dÈveloppement durable
-     * DÈveloppement et protection sociale
-     * Inclusion financiËre
-     * Politique publique
-     * StratÈgie d'impact et gouvernance
-
-     Resources
-
-
-
-     (BUTTON) Main Menu
-     __________________________________________________________________
-
-Resources
-
-     * Perspectives
-     * Podcasts
-     * Biais
-     * Penseurs
-     * Guide de rÈfÈrence
-
-     A propos / Notre mission
-
-     CarriËres
-
-     Contact
-
-   EN
-
-   The Decision Lab Logo The Decision Lab Logo
-
-   Comment nous travaillons
-   (BUTTON) Conseil
+(BUTTON) Toggle Menu
+(BUTTON) Close menu icon
+The Decision Lab Logo The Decision Lab Logo
+  * √âtudes de cas
+  * Comment nous travaillons
+  * Conseil
+  *
+  * (BUTTON) Main Menu
+  ___________________________________________________________________________
 
 Conseil
 
-   DonnÈes et analysesUtiliser l'apprentissage automatique et l'IA pour
-   offrir une hyperpersonnalisationInnovation et conceptionConcevoir des
-   produits et services de nouvelle gÈnÈration centrÈs sur l'Ítre
-   humainStratÈgie et finance d'entrepriseUtiliser des approches fondÈes
-   sur des donnÈes probantes pour rÈsoudre des problËmes stratÈgiques
-   Èpineux
-   OpÈrationsTirer parti de la science du comportement pour atteindre
-   l'excellence opÈrationnellePersonnes et organisationCultiver les
-   talents et favoriser le bien-Ítre gr‚ce au design
-   comportementalMarketing et connaissance des consommateursComprendre la
-   prise de dÈcision des consommateurs et comment concevoir des produits
-   en fonction de celle-ci
-   Risque et conformitÈS'appuyer sur la science pour gÈnÈrer des
-   comportements positifs et ÈvolutifsConception comportementale de
-   produitsConstruire des produits numÈriques de classe mondiale gr‚ce ‡
-   la science du comportement
-   (BUTTON) Industries
+  * Donn√©es et analyses
+  * Innovation et conception
+  * Strat√©gie et finance d'entreprise
+  * Op√©rations
+  * Personnes et organisation
+  * Marketing et connaissance des consommateurs
+  * Risque et conformit√©
+
+  Industries
+
+
+
+  (BUTTON) Main Menu
+  ___________________________________________________________________________
 
 Industries
 
-   SantÈ et bien-ÍtreFavoriser le bien-Ítre holistique gr‚ce ‡ la science
-   et ‡ la conceptionTechnologie et IALibÈrer le potentiel d'un produit
-   gr‚ce ‡ la conception comportementalePolitique publiqueGÈnÈrer des
-   interventions ‡ faible co˚t et ‡ fort impact dans les politiques
-   publiques
-   L'ÈducationExploiter le potentiel de chaque classe gr‚ce ‡ la science
-   du comportementClimat et dÈveloppement durableUn avenir durable gr‚ce
-   au nudgingInclusion financiËrePermettre aux gens de prendre le contrÙle
-   de leurs finances
-   Comportement du consommateurConcevoir des environnements de choix
-   positifs pour les consommateurs et les marquesDÈveloppement et
-   protection socialeTraduire les bonnes intentions en progrËs
-   ÈvolutifsStratÈgie d'impact et gouvernanceAider les investisseurs ‡
-   Èviter les prÈjugÈs et ‡ accroÓtre leur impact
-   (BUTTON) Ressources
+  * Sant√© et bien-√™tre
+  * L'√©ducation
+  * Comportement du consommateur
+  * Technologie et IA
+  * Climat et d√©veloppement durable
+  * D√©veloppement et protection sociale
+  * Inclusion financi√®re
+  * Politique publique
+  * Strat√©gie d'impact et gouvernance
+
+  Resources
+
+
+
+  (BUTTON) Main Menu
+  ___________________________________________________________________________
+
+Resources
+
+  * Perspectives
+  * Podcasts
+  * Biais
+  * Penseurs
+  * Guide de r√©f√©rence
+
+  A propos / Notre mission
+
+  Carri√®res
+
+  Contact
+
+EN
+
+The Decision Lab Logo The Decision Lab Logo
+
+Comment nous travaillons
+(BUTTON) Conseil
+
+Conseil
+
+Donn√©es et analysesUtiliser l'apprentissage automatique et l'IA pour offrir une
+hyperpersonnalisationInnovation et conceptionConcevoir des produits et services
+de nouvelle g√©n√©ration centr√©s sur l'√™tre humainStrat√©gie et finance
+d'entrepriseUtiliser des approches fond√©es sur des donn√©es probantes pour
+r√©soudre des probl√®mes strat√©giques √©pineux
+Op√©rationsTirer parti de la science du comportement pour atteindre l'excellence
+op√©rationnellePersonnes et organisationCultiver les talents et favoriser le
+bien-√™tre gr√¢ce au design comportementalMarketing et connaissance des
+consommateursComprendre la prise de d√©cision des consommateurs et comment
+concevoir des produits en fonction de celle-ci
+Risque et conformit√©S'appuyer sur la science pour g√©n√©rer des comportements
+positifs et √©volutifsConception comportementale de produitsConstruire des
+produits num√©riques de classe mondiale gr√¢ce √† la science du comportement
+(BUTTON) Industries
+
+Industries
+
+Sant√© et bien-√™treFavoriser le bien-√™tre holistique gr√¢ce √† la science et √† la
+conceptionTechnologie et IALib√©rer le potentiel d'un produit gr√¢ce √† la
+conception comportementalePolitique publiqueG√©n√©rer des interventions √† faible
+co√ªt et √† fort impact dans les politiques publiques
+L'√©ducationExploiter le potentiel de chaque classe gr√¢ce √† la science du
+comportementClimat et d√©veloppement durableUn avenir durable gr√¢ce au
+nudgingInclusion financi√®rePermettre aux gens de prendre le contr√¥le de leurs
+finances
+Comportement du consommateurConcevoir des environnements de choix positifs pour
+les consommateurs et les marquesD√©veloppement et protection socialeTraduire les
+bonnes intentions en progr√®s √©volutifsStrat√©gie d'impact et gouvernanceAider les
+investisseurs √† √©viter les pr√©jug√©s et √† accro√Ætre leur impact
+(BUTTON) Ressources
 
 Ressources
 
 Ressources
 
-   icon icon
-   Perspectives…lÈments de rÈflexion sur la faÁon dont les sciences du
-   comportement crÈent un impact positif
-   icon icon
-   PodcastsConversations avec certaines des voix les plus influentes du
-   monde
-   icon icon
-   BiaisUn guide pratique sur la faÁon dont notre esprit comprend le monde
-   qui nous entoure
-   icon icon
-   PenseursComment certains des penseurs les plus influents du monde y
-   sont parvenus
-   icon icon
-   Guide de rÈfÈrenceDes concepts fondamentaux pour vous aider ‡
-   comprendre la science des dÈcisions
+icon icon
+Perspectives√âl√©ments de r√©flexion sur la fa√ßon dont les sciences du comportement
+cr√©ent un impact positif
+icon icon
+PodcastsConversations avec certaines des voix les plus influentes du monde
+icon icon
+BiaisUn guide pratique sur la fa√ßon dont notre esprit comprend le monde qui nous
+entoure
+icon icon
+PenseursComment certains des penseurs les plus influents du monde y sont
+parvenus
+icon icon
+Guide de r√©f√©renceDes concepts fondamentaux pour vous aider √† comprendre la
+science des d√©cisions
 
 Tendance
 
-   PodcastL'ÈquitÈ en matiËre de santÈ pour les communautÈs noires avec le
-   Dr. Onye Nnorom - FRENCH
-   TechnologieLa prophÈtie auto-rÈalisatrice de l'indignation sur Internet
-   (BUTTON) A propos de nous
+PodcastL'√©quit√© en mati√®re de sant√© pour les communaut√©s noires avec le Dr. Onye
+Nnorom - FRENCH
+TechnologieLa proph√©tie auto-r√©alisatrice de l'indignation sur Internet
+(BUTTON) A propos de nous
 
-¿ propos de nous
+√Ä propos de nous
 
-   Notre missionNous avons pour mission de renforcer les moyens d'action
-   gr‚ce ‡ des choix fondÈs sur des donnÈes
-   probantes.CarriËresRejoignez-nous dans notre mission d'aider le monde ‡
-   prendre de meilleures dÈcisions.
-   L'ÈquipeDes perspectives diverses, rÈunies par la passion de
-   l'impactLes mÈdiasDemander un entretien avec l'un de nos experts
-   ChroniqueursUn leadership ÈclairÈ en provenance des premiËres lignes de
-   la science du comportement…tudes de casUn aperÁu de quelques-uns de nos
-   travaux les plus marquants
-   Contact
+Notre missionNous avons pour mission de renforcer les moyens d'action gr√¢ce √
+des choix fond√©s sur des donn√©es probantes.Carri√®resRejoignez-nous dans notre
+mission d'aider le monde √† prendre de meilleures d√©cisions.
+L'√©quipeDes perspectives diverses, r√©unies par la passion de l'impactLes
+m√©diasDemander un entretien avec l'un de nos experts
+ChroniqueursUn leadership √©clair√© en provenance des premi√®res lignes de la
+science du comportement√âtudes de casUn aper√ßu de quelques-uns de nos travaux les
+plus marquants
+Contact
 
-   Reference Guide TeorÌa de la mentalidad
-   (BUTTON)
-   enregistrÈ en mÈmoire - icon
-   enregistrÈ en mÈmoire (BUTTON)
-   cite - icon
-   cite (BUTTON)
-   partager - icon
-   partager
-   (BUTTON)
-   linkedin - icon
-   linkedin (BUTTON)
-   twitter - icon
-   twitter (BUTTON)
-   email - icon
-   email (BUTTON)
-   copier le lien - icon
-   copier le lien
-   Link copied!
+Reference Guide Teor√≠a de la mentalidad
+(BUTTON)
+enregistr√© en m√©moire - icon
+enregistr√© en m√©moire (BUTTON)
+cite - icon
+cite (BUTTON)
+partager - icon
+partager
+(BUTTON)
+linkedin - icon
+linkedin (BUTTON)
+twitter - icon
+twitter (BUTTON)
+email - icon
+email (BUTTON)
+copier le lien - icon
+copier le lien
+Link copied!
 
-   (BUTTON)
+(BUTTON)
 
-TeorÌa de la mentalidad
+Teor√≠a de la mentalidad
 
-   (BUTTON) La idea b·sica
-   La idea b·sicaTÈrminos
-   claveHistoriaPersonasConsecuenciasControversiasCasos pr·cticosRecursos
-   relacionadosFuentes
+(BUTTON) La idea b√°sica
+La idea b√°sicaT√©rminos claveHistoriaPersonasConsecuenciasControversiasCasos
+pr√°cticosRecursos relacionadosFuentes
 
-   La idea b·sicaTÈrminos claveHistoriaPersonas
+La idea b√°sicaT√©rminos claveHistoriaPersonas
 
-   Carol DweckConsecuenciasControversiasCasos pr·cticosRecursos
-   relacionadosFuentes
+Carol DweckConsecuenciasControversiasCasos pr√°cticosRecursos relacionadosFuentes
 
-La idea b·sica
+La idea b√°sica
 
-   Para algunas personas, parece que el cielo es el lÌmite, mientras que
-   para otras el techo est· un poco m·s bajo, m·s cerca de la tierra. A
-   veces vemos esta dicotomÌa como optimistas frente a pesimistas; los
-   ambiciosos frente a los menos motivados. Las cl·sicas frases populares
-   que empiezan con "hay dos tipos de personas en este mundo" no suelen
-   tener en cuenta a las personas que se encuentran en medio, pero eso no
-   significa que no podamos existir en un continuo de dos perspectivas.
+Para algunas personas, parece que el cielo es el l√≠mite, mientras que para otras
+el techo est√° un poco m√°s bajo, m√°s cerca de la tierra. A veces vemos esta
+dicotom√≠a como optimistas frente a pesimistas; los ambiciosos frente a los menos
+motivados. Las cl√°sicas frases populares que empiezan con "hay dos tipos de
+personas en este mundo" no suelen tener en cuenta a las personas que se
+encuentran en medio, pero eso no significa que no podamos existir en un continuo
+de dos perspectivas.
 
-   Uno de estos espectros de perspectivas ˙nicas es la mentalidad: la idea
-   de que las personas tienen creencias diferentes sobre la maleabilidad
-   de los ^atributos humanos.1 En un extremo est· la opiniÛn de que estos
-   atributos, como la inteligencia o la personalidad, pueden cambiarse con
-   esfuerzo y determinaciÛn, mientras que en el otro extremo se cree que
-   estos atributos son innatos y permanecen fijos a lo largo del tiempo.
-   La investigaciÛn ha explorado estas dos formas de mentalidad y ha
-   descubierto que estas creencias laicas pueden predecir diversos
-   resultados personales.
-   "
+Uno de estos espectros de perspectivas √∫nicas es la mentalidad: la idea de que
+las personas tienen creencias diferentes sobre la maleabilidad de los ^atributos
+humanos.1 En un extremo est√° la opini√≥n de que estos atributos, como la
+inteligencia o la personalidad, pueden cambiarse con esfuerzo y determinaci√≥n,
+mientras que en el otro extremo se cree que estos atributos son innatos y
+permanecen fijos a lo largo del tiempo. La investigaci√≥n ha explorado estas dos
+formas de mentalidad y ha descubierto que estas creencias laicas pueden predecir
+diversos resultados personales.
+‚Äú
 
-   En un mundo, el esfuerzo es algo malo. Al igual que el fracaso,
-   significa que no eres inteligente ni tienes talento. Si lo fueras, no
-   necesitarÌas esfuerzo. En el otro mundo, el esfuerzo es lo que te hace
-   inteligente o talentoso.
+En un mundo, el esfuerzo es algo malo. Al igual que el fracaso, significa que no
+eres inteligente ni tienes talento. Si lo fueras, no necesitar√≠as esfuerzo. En
+el otro mundo, el esfuerzo es lo que te hace inteligente o talentoso.
 
-   - Carol Dweck
+- Carol Dweck
 
 Read Next
 
-   [image?url=https%3A%2F%2Fimages.prismic.io%2Fthedecisionlab%2FaS75BXNYC
-   lf9ns--_connection.png%3Fauto%3Dformat%2Ccompress&amp;w=1920&amp;q=75]
-   Reference Guide
+[image?url=https%3A%2F%2Fimages.prismic.io%2Fthedecisionlab%2FaS75BXNYClf9ns--_c
+onnection.png%3Fauto%3Dformat%2Ccompress&amp;w=1920&amp;q=75]
+Reference Guide
 
 Algorithmic Fairness
 
-   Icon of the EAST framework: four small diamonds arranged to form a
-   larger diamond, with each small diamond containing one letter--E, A, S,
-   and T.
-   Reference Guide
+Icon of the EAST framework: four small diamonds arranged to form a larger
+diamond, with each small diamond containing one letter‚ÄîE, A, S, and T.
+Reference Guide
 
 EAST Framework
 
-   three letter block icons of A,B, and C in black
-   Reference Guide
+three letter block icons of A,B, and C in black
+Reference Guide
 
 The ABC Model
 
-   An icon resembling a splatter shape, characterized by a central rounded
-   area with several elongated, irregular arms or splashes radiating
-   outward in different directions.
-   Reference Guide
+An icon resembling a splatter shape, characterized by a central rounded area
+with several elongated, irregular arms or splashes radiating outward in
+different directions.
+Reference Guide
 
 Sludge
 
-   See All
+See All
 
-   Notes illustration Notes illustration
+Notes illustration Notes illustration
 
-Vous souhaitez savoir comment les sciences du comportement peuvent aider
-votre organisation ?
+Vous souhaitez savoir comment les sciences du comportement peuvent aider votre
+organisation ?
 
-   Contactez nous
+Contactez nous
 
-Recevez chaque mois dans votre boÓte de rÈception de nouvelles informations
-sur les sciences du comportement.
+Recevez chaque mois dans votre bo√Æte de r√©ception de nouvelles informations sur
+les sciences du comportement.
 
-   The Decision Lab Icon The Decision Lab Icon
+The Decision Lab Icon The Decision Lab Icon
 
 Nous recrutons !
 
-   Rejoignez notre Èquipe pour crÈer un impact significatif en appliquant
-   la science du comportement.
-   Visiter les carriËres
+Rejoignez notre √©quipe pour cr√©er un impact significatif en appliquant la
+science du comportement.
+Visiter les carri√®res
 
 Collaborer avec nous
 
-     * Perspectives
-     * Interventions
-     * Biais
-     * Notre mission
-     * Contact
+  * Perspectives
+  * Interventions
+  * Biais
+  * Notre mission
+  * Contact
 
-     * Conseil en sciences du comportement
-     * Conception comportementale
+  * Conseil en sciences du comportement
+  * Conception comportementale
 
-     * Facebook
-     * Twitter
-     * Linkedin
-     * Instagram
+  * Facebook
+  * Twitter
+  * Linkedin
+  * Instagram
 
-   © 2025 The Decision Lab. Tous droits rÈservÈs
-     * Conditions d'utilisation
-     * Politique de confidentialitÈ
+¬© 2026 The Decision Lab. Tous droits r√©serv√©s
+  * Conditions d'utilisation
+  * Politique de confidentialit√©
 
-   (BUTTON) Retourner au site web
+(BUTTON) Retourner au site web
