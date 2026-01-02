@@ -22,7 +22,7 @@
    Fermer
    S’abonner au journal Se connecter
      * À la Une
-       Édition du matin
+       Édition de la mi-journée
      * Vidéos
      * Enquêtes
      * Dossiers
@@ -276,20 +276,20 @@ Agrandissement : Illustration 1
        « Dormir dans le froid glace le sang » : les personnes sans abri
        errent dans Paris en quête d’un toit
 
-     * Extrême droite
-
-       Fan de Dieudonné et proche de l’extrême droite radicale, le candidat
-       du RN à la mairie de Saint-Malo jette déjà l’éponge
-
-     * Défense et diplomatie — Analyse
-
-       Israël reconnaît le Somaliland et inquiète les États de la péninsule
-       Arabique
-
      * Transparence et probité
 
        Condamnation et démission du président de la Métropole de Lille,
        Damien Castelain : la sévérité des juges, la mansuétude des élus
+
+     * Travail
+
+       Le président de la chambre de métiers d’Alsace privé d’apprentis pour
+       cinq ans après des violences
+
+     * Extrême droite
+
+       Fan de Dieudonné et proche de l’extrême droite radicale, le candidat
+       du RN à la mairie de Saint-Malo jette déjà l’éponge
 
    Recommandés par nos abonné·es
 
@@ -308,18 +308,16 @@ Agrandissement : Illustration 1
 
    À la Une de Mediapart
 
-     * Agriculture et alimentation
+     * Proche et Moyen-Orient
 
-       Six mégabassines en Charente-Maritime : la crainte d’un gouffre
-       écologique et économique
+       En Iran, la population défie à nouveau le régime
 
-       Le Syres 17, syndicat public de gestion de l’eau, prépare la
-       construction d’une demi-douzaine de réserves de substitution. En plus
-       de menacer l’écologie des cours d’eau, le projet repose sur un modèle
-       économique risqué pour les agriculteurs et coûteux pour les finances
-       publiques.
+       Parti du grand bazar de Téhéran, le soulèvement contre la vie chère et
+       le marasme économique a rapidement gagné les universités, puis
+       l’ensemble du pays, dont la plupart des grandes villes. Après
+       l’annonce des premières victimes, Donald Trump a menacé d’intervenir.
 
-       par Gilles Caprais
+       par Jean-Pierre Perrin
 
      * Amériques
 
@@ -333,80 +331,85 @@ Agrandissement : Illustration 1
 
        par Alexis Buisson
 
-     * Livres
+     * Idées
 
-       Il y a deux cents ans, la révolte décembriste secouait la Russie
+       Ghana-États-Unis : aux origines du dialogue intellectuel panafricain
 
-       En 1825, de jeunes nobles tentent de mener, sans succès, une révolte
-       contre le pouvoir tsariste. Cette « première révolution russe »
-       s’inscrit dans un mouvement européen et vient contredire le récit du
-       Kremlin sur une opposition radicale entre la Russie et l’Occident.
+       Après son indépendance en 1957, le Ghana est devenu le centre
+       névralgique de la rencontre entre intellectuels africains et
+       afro-américains. Cet héritage s’est prolongé aux États-Unis, où il a
+       donné naissance aux « black studies ».
 
-       par Romaric Godin
+       par Sophie Boutière Damahi (Afrique XXI)
 
-     * Idées — Entretien
+     * Agriculture et alimentation
 
-       Tim Ingold : « Il faut rapprocher l’éducation et la démocratie »
+       Six mégabassines en Charente-Maritime : la crainte d’un gouffre
+       écologique et économique
 
-       Pour échapper aux coups de boutoir des pouvoirs autoritaires et du
-       capitalisme, l’anthropologue invite à repenser notre rapport au futur.
-       Car être de bons ancêtres pour nos descendants requiert d’aimer le
-       monde afin de préparer la place des générations à venir.
+       Le Syres 17, syndicat public de gestion de l’eau, prépare la
+       construction d’une demi-douzaine de réserves de substitution. En plus
+       de menacer l’écologie des cours d’eau, le projet repose sur un modèle
+       économique risqué pour les agriculteurs et coûteux pour les finances
+       publiques.
 
-       par Jade Lindgaard
+       par Gilles Caprais
 
    La sélection du Club
 
      * Billet de blog
 
-       Quand le soin devient une variable économique
+       Tour de France : « Nos montagnes ne sont pas des stades ! »
 
-       Depuis plusieurs années, un malaise diffus traverse de nombreuses
-       institutions de santé mentale. Ce malaise ne se manifeste pas toujours
-       par des conflits ouverts, mais plus insidieusement par un silence
-       institutionnel croissant. Il n’y a pas de soin sans institution
-       vivante. Et une institution vivante est une institution qui parle, qui
-       écoute et qui accepte de se laisser interroger.
+       Le final de l'étape reine du prochain Tour de France doit se dérouler
+       dans l'un des vallons les plus sauvages d'Europe. C'est une faune
+       précieuse et vulnérable qui risque d'être dérangée par des milliers de
+       spectateurs et des hélicoptères... à une période où naissent tétras
+       lyre, lagopèdes et perdrix bartavelles. En outre, des travaux sont à
+       craindre pour quelques minutes de télévision.
 
-       par Coralie Guyot
-
-     * Billet de blog
-
-       Si je suis encore de ce monde, je le dois à notre système de santé :
-       lettre à ma députée
-
-       Je suis atteint depuis de nombreuses années de pathologies
-       invalidantes et je vis sur un fauteuil roulant. En votant le budget de
-       la Sécu qui fait porter les efforts sur ceux qui sont gravement
-       malades, vous dévoyez l'idéal qu'ont porté les grandes figures du
-       socialisme. 
-
-       par Didier Gueldry
+       par Matthieu Stelvio
 
      * Billet de blog
 
-       Prise en soin des personnes trans : à quand une restructuration du
-       système de santé ?
+       Le malaimé des forêts : lecture antispéciste de la pub d’Intermarché
 
-       Un constat alarmant : des inégalités de santé persistantes et
-       évitables pour les personnes trans. Des professionnel·les de santé
-       appellent à une transformation structurelle du système de soins pour
-       garantir à tous.tes un accès aux soins digne, équitable et
-       respectueux, sans discrimination.
+       Le conte de Noël publicitaire d'Intermarché mettant en scène un loup
+       « végétarien » semble avoir ému. Mais certains discours suscités par
+       la publicité, ou qui l’ont accompagnée, méritent qu’on s’y attarde ;
+       et le fond de la vidéo d’être interrogé.
 
-       par Chloé B et Anaenza FM
+       par Julia Soudanas
 
      * Billet de blog
 
-       Sur la dégradation des soins psychiatriques
+       L'A154 est un nouveau symbole de gaspillage et de mépris pour notre
+       territoire
 
-       La proposition de loi 385 (PPL) vise à faire entrer les centres
-       experts de la fondation FondaMental dans le code de la santé publique.
-       Remanié par la commission des affaires sociales du Sénat, le texte
-       présente des modifications uniquement cosmétiques pour mieux
-       anesthésier la contestation.
+       Alors que la Cour administrative de Toulouse a acté la poursuite du
+       chantier de l'A69, et que notre pays subit de plein fouet la crise
+       écologique, démocratique et sociale, le projet d’autoroute A154, censé
+       relier Dreux à Chartres puis Orléans, est un scandale comme notre pays
+       ne peut plus se les payer. Et incarne l’entêtement d’une logique
+       dépassée : celle du tout-voiture, du bétonnage massif et des grands
+       travaux inutiles. Par un collectif de parlementaires et élu·es locaux.
 
-       par Mathieu Bellahsen
+       par Les invités de Mediapart
+
+     * Billet de blog
+
+       Plus de 100 victoires contre les industriels du photovoltaïque sur les
+       espaces naturels
+
+       Que ce soit des manifs, des tractages, des blocages, des sabotages,
+       des contentieux, les habitant·es font fuir cette industrialisation.
+       Résolument pour la sortie du nucléaire, rejetant le mythe d'un
+       capitalisme vert, ainsi que la vision d'une transition écologique
+       allant vers une société de surconsommation ultra-connectée, nous
+       rappelons qu'il y a suffisamment de surfaces artificialisées pour
+       assurer une réelle bifurcation écologique. 
+
+       par loic.santiago
 
    Suivez Mediapart :
 

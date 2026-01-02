@@ -174,7 +174,7 @@
 
       Par Claire Dewerdt, Avocat.
 
-   75322 lectures 1re Parution: 6 octobre 2020 4.65  /5
+   75323 lectures 1re Parution: 6 octobre 2020 4.65  /5
 
    Niveau Expert 2
 
@@ -487,6 +487,10 @@
 
    Tous les Articles publiés
 
+   02/01  L’actualité concernant les réseaux de distribution en 1 minute, par 
+   le Cabinet Simon Associés, #200 : L’impact des procédures collectives sur  
+   les contrats de franchise : les éléments de procédure spécifiques aux      
+   procédures collectives.                                                    
    02/01  Loyers impayés : comment expulser un locataire mauvais payeur en    
    toute légalité en 2026 ?                                                   
    02/01  Les "voeux du maire", un moment où il est possible d’annoncer sa    
@@ -504,29 +508,32 @@
    manquez pas les plus belles galettes 2026 !                                
    31/12  Emploi : le Village à nouveau classé 5* et 1er site d’emploi        
    juridique pour 2026.                                                       
-   31/12  Fuites de données, transparence des blockchains et mise en danger   
-   des entrepreneurs : un angle mort de la réglementation crypto.             
 
    Populaires en ce moment
 
    Fuites de données, transparence des blockchains et mise en danger des      
    entrepreneurs : un angle mort de la réglementation crypto. 100             
    Management toxique : le harcèlement moral peut être retenu même si les     
-   méthodes de gestion ne concernent pas un salarié determiné. 77             
+   méthodes de gestion ne concernent pas un salarié determiné. 80             
    Grand excès de vitesse : la fin des contraventions, place au tribunal      
-   correctionnel ? 67                                                         
+   correctionnel ? 69                                                         
    Sélection Liberalis spécial Fêtes : Roi ou Reine d’un jour, ne manquez pas 
-   les plus belles galettes 2026 ! 56                                         
+   les plus belles galettes 2026 ! 58                                         
+   Où vont les commissaires de justice ? Retour sur le Congrès national de la 
+   profession. 49                                                             
    La communication de pièces par lien de téléchargement est-elle régulière ? 
-   45                                                                         
+   46                                                                         
    Jugement non avenu, signification irrégulière et contrôle du titre         
    exécutoire : le juge de l’exécution de La Rochelle rappelle les règles. 44 
-   Où vont les commissaires de justice ? Retour sur le Congrès national de la 
-   profession. 41                                                             
-   Les incidences du passé pénal d’un étranger sur l’accès à la nationalité   
-   française. 40                                                              
+   Rompre un bail commercial sans indemnité : les cas où le bailleur peut     
+   agir sans faute. 43                                                        
 
    Annonces d'Emploi
+
+   15:32 Stage généraliste en droit privé avec dominante droit des affaires
+
+   15:22 Offre de collaboration libérale - Avocat junior (droit privé / droit
+   des affaires)
 
    14:56 Stage en cabinet d'avocat
 
@@ -560,10 +567,6 @@
    08:41 Notaire-assistant(e) H/F en Immobilier complexe
 
    08:32 Notaire-assistant(e) H/F en Immobilier complexe
-
-   08:30 Avocat Fiscalité International H/F
-
-   08:26 Stage EFB/Elève avocat
 
    Forum
 
@@ -606,90 +609,59 @@
    PROFESSIONNELS DU DROIT
 
    Previous Next
+   [IMG] Cabinet d'avocat
+
+    
+
+   Cabinet d'avocat
+   [IMG] Bien plus que du droit.
+
+    
+
+   Bien plus que du droit.
    [IMG] Association pour la prévention positive des cyberviolences
 
     
 
    Association pour la prévention positive des cyberviolences
-   [IMG] Réseau de professionnels du Droit
+   [IMG] Collectif d'avocats et de médiateurs
 
     
 
-   Réseau de professionnels du Droit
+   Collectif d'avocats et de médiateurs
    [IMG] Procédure d’appel, procédure civile, conseil, contentieux, modes
    amiables
 
     
 
    Procédure d’appel, procédure civile, conseil, contentieux, modes amiables
-   [IMG] Collectif d'avocats et de médiateurs
-
-    
-
-   Collectif d'avocats et de médiateurs
-   [IMG] Cabinet d'Avocats
-
-    
-
-   Cabinet d'Avocats
-   [IMG]
-
-    
-
-   [IMG] Réseau de cabinets d’avocats indépendants
-
-    
-
-   Réseau de cabinets d’avocats indépendants
    [IMG] Facilite l'accès aux professions du Droit
 
     
 
    Facilite l'accès aux professions du Droit
-   [IMG] Bien plus que du droit.
+   [IMG] Réseau de cabinets d’avocats indépendants
 
     
 
-   Bien plus que du droit.
-   [IMG] Cabinet d'avocat
+   Réseau de cabinets d’avocats indépendants
+   [IMG] Cabinet d'Avocats
 
     
 
-   Cabinet d'avocat
+   Cabinet d'Avocats
+   [IMG] Réseau de professionnels du Droit
+
+    
+
+   Réseau de professionnels du Droit
+   [IMG]
+
+    
 
    Solutions
 
    Previous Next
-   [IMG]
-
-    
-
-   Association de gestion et de comptabilité pour Avocats
-   [IMG]
-
-    
-
-   Traducteurs assermentés
-   [IMG]
-
-    
-
-   Destruction et recyclage de documents confidentiels
-   [IMG]
-
-    
-
-   Solutions d'informations pour professionnels du droit.
-   [IMG]
-
-    
-
-   AI-powered Contract Management
-   [IMG]
-
-    
-
-   Aides et Conseils à l'installation des avocats.
    [IMG]
 
     
@@ -699,12 +671,27 @@
 
     
 
+   Destruction et recyclage de documents confidentiels
+   [IMG]
+
+    
+
+   Traducteurs assermentés
+   [IMG]
+
+    
+
    Logiciels pour professionnels du droit.
    [IMG]
 
     
 
-   Offres pour les métiers du droit
+   Association de gestion et de comptabilité pour Avocats
+   [IMG]
+
+    
+
+   Aides et Conseils à l'installation des avocats.
    [IMG]
 
     
@@ -714,17 +701,32 @@
 
     
 
+   Logiciels de conformité, risques et éthique
+   [IMG]
+
+    
+
+   Offres pour les métiers du droit
+   [IMG]
+
+    
+
+   AI-powered Contract Management
+   [IMG]
+
+    
+
    Maintenance informatique spécialisée pour les professionnels du droit
    [IMG]
 
     
 
-   1er service entièrement en ligne pour externaliser vos appels
+   Solutions d'informations pour professionnels du droit.
    [IMG]
 
     
 
-   Logiciels de conformité, risques et éthique
+   1er service entièrement en ligne pour externaliser vos appels
    [IMG]
 
     
@@ -745,41 +747,41 @@
     
 
    Formations courtes ou longues à destination des professionnels du droit
-   [IMG] L’école des nouveaux juristes !
-
-    
-
-   L’école des nouveaux juristes !
-   [IMG] Formation, recherche et innovation
-
-    
-
-   Formation, recherche et innovation
-   [IMG] Se former aux métiers du Droit
-
-    
-
-   Se former aux métiers du Droit
-   [IMG] La Compétence juridique se recrute !
-
-    
-
-   La Compétence juridique se recrute !
-   [IMG] Cabinet juridique et organisme de formation
-
-    
-
-   Cabinet juridique et organisme de formation
    [IMG] Se former est une chance !
 
     
 
    Se former est une chance !
+   [IMG] La Compétence juridique se recrute !
+
+    
+
+   La Compétence juridique se recrute !
+   [IMG] Se former aux métiers du Droit
+
+    
+
+   Se former aux métiers du Droit
    [IMG] Des formations spécialisées
 
     
 
    Des formations spécialisées
+   [IMG] Cabinet juridique et organisme de formation
+
+    
+
+   Cabinet juridique et organisme de formation
+   [IMG] Formation, recherche et innovation
+
+    
+
+   Formation, recherche et innovation
+   [IMG] L’école des nouveaux juristes !
+
+    
+
+   L’école des nouveaux juristes !
 
    Nouveautés Édition juridique
 
@@ -868,12 +870,12 @@
    Parmi les sujets juridiques très actifs en ce moment:
 
    - intelligence artificielle - droit du travail - droit pénal - propriété
-   intellectuelle - médiation - protection des données personnelles -
+   intellectuelle - protection des données personnelles - médiation -
    copropriété - responsabilité civile - preuve - procédure civile -
    protection des données - responsabilité bancaire - formation
-   professionnelle - sécurité juridique - licenciement - prescription -
-   procédure pénale - contrat de travail - contentieux administratif -
-   responsabilité contractuelle
+   professionnelle - licenciement - prescription - contentieux administratif
+   - contrat de travail - sécurité juridique - procédure pénale -
+   discrimination
 
    D'autres sites du réseau Legi Team
 

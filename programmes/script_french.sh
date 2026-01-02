@@ -117,6 +117,7 @@ while read -r URL ; do
 	grep -E -C 1 "$REGEX" "$filename_dump" | sed -E "s/($REGEX)/..\1../gi" > "$filename_contextes"
 
 
+
 	echo "<tr>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$ID" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\"$URL\" >Lien internet</a>" "</td>" >> "$DIR_HTML_OUT"
