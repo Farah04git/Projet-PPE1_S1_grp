@@ -15,7 +15,7 @@ USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 
 DIR_ASPI="./aspirations/français"
-DIR_CONTXT="./contextes"
+DIR_CONTXT="./contextes/français/"
 DIR_DUMP="./dumps-text/français/"
 DIR_CONCORD="./concordances/français"
 DIR_HTML_OUT="./tableaux/état_français.html"
@@ -64,6 +64,7 @@ TAB_HTML=$(
 	echo "<td>" "Nombre d'occurences" "</td>"
 	echo "<td>" "Page HTML brute" "</td>"
 	echo "<td>" "Dump textuel" "</td>"
+	echo "<td>" "Contextes (1 ligne)" "</td>"
 	echo "<td>" "Concordancier HTML" "</td>"
 
 	echo "</tr>"
@@ -94,17 +95,11 @@ while read -r URL ; do
 	encoding=$(file --mime-encoding --brief "$filename_aspiration")
 	echo 'l'encoding est = "$encoding"
 
-	
+	# links (!= lynx) pour dump
 	filename_dump="$DIR_DUMP/fr-$ID.txt"
-
-	# Écriture dump
-	#if [[ "$encoding" =~ utf-8|binary ]]; then
-		#sed -E 's|<head>|<head><meta charset="UTF-8">|I' "$filename_aspiration" > /tmp/withcharset.html
-		#links -dump /tmp/withcharset.html > "$filename_dump"
-	#fi
-
 	links -dump "$filename_aspiration" > "$filename_dump"
 
+	# debug######
 	if iconv -f UTF-8 -t UTF-8 "$filename_dump" > /dev/null 2>&1; then
 		echo "dump est valide UTF‑8"
 	else
@@ -114,15 +109,14 @@ while read -r URL ; do
 	# Comptage mots dump
 	total_words=$(egrep "\b[[:alnum:]]+\b" -o < "$filename_dump" | wc -l)
 	echo "$total_words"
-
+	
 	# Comptage occurences dump
-	iconv -f UTF-8 -t UTF-8 "$filename_dump" -o /dev/null 2>/dev/null && echo "utf-8 valide"
-
 	total_occurences=$(grep -Eio "$REGEX" "$filename_dump" | wc -l)
 	echo "$total_occurences"
 	
-	filename_concord="$DIR_CONCORD/concord_fr-$ID.txt"
-	grep -E -C 1 "$REGEX" "$filename_dump" > "$filename_concord"
+	# Contexte - 1 ligne
+	filename_contextes="$DIR_CONTXT/contxt_fr-$ID.txt"
+	grep -E -C 1 "$REGEX" "$filename_dump" > "$filename_contextes"
 
 
 	echo "<tr>" >> "$DIR_HTML_OUT"
@@ -132,7 +126,8 @@ while read -r URL ; do
 	echo "<td>" "$encoding" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$total_occurences" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\".$filename_aspiration\" >HTML brute</a>" "</td>" >> "$DIR_HTML_OUT"
-	echo "<td>" "<a href=\".$filename_dump\" >Dump</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_dump\" >dump</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_contextes\" >contxt</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "</tr>" >> "$DIR_HTML_OUT"
 	
 	((ID++))

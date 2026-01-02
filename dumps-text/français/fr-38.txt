@@ -22,16 +22,16 @@
      * Regarder les JT en direct
      * Regarder votre JT personnalisé
    Directs
-     * Guerre Ukraine-Russie : des négociations de paix à l'issue incertaine
      * Suisse : des dizaines de morts après une explosion dans une station de
        ski
+     * Guerre Ukraine-Russie : des négociations de paix à l'issue incertaine
    Dans l’actualité en ce moment
      * Drame à Crans-Montana : des dizaines de morts dans l'incendie d'un bar
        le soir du Nouvel An
      * Ukraine : 4ᵉ année de guerre
+     * Dermatose nodulaire, Mercosur : les agriculteurs mobilisés
      * Ukraine-Russie : en marge des négociations, les attaques russes
        continuent
-     * Dermatose nodulaire, Mercosur : les agriculteurs mobilisés
      * L’épidémie de grippe saisonnière
      * Tous les sujets
    Rubriques
@@ -358,8 +358,8 @@
        Publié hier à 14h00
     4. 4
 
-  EN DIRECT - Incendie à Crans-Montana : la Suisse a demandé l’accueil de 8
-  blessés supplémentaires en France (nouvelle fenêtre)
+  EN DIRECT - Incendie à Crans-Montana : les autorités suisses tiennent un
+  nouveau point-presse (nouvelle fenêtre)
 
        [Vidéo]
        Publié hier à 6h54
@@ -408,75 +408,75 @@
        Voir plus d'actualités - Afficher tout
     1. 1
 
+  EN DIRECT - Incendie à Crans-Montana : les autorités suisses tiennent un
+  nouveau point-presse (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié hier à 6h54
+    2. 2
+
+  Paris : un homme dérobe l'épée d'une statue de Jeanne d'Arc avant d'être
+  interpellé (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 14h44
+    3. 3
+
+  Incendie mortel à Crans-Montana : comment sont protégées les boîtes de nuit
+  françaises ? (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 14h39
+    4. 4
+
+  Fausse mort d'un chef militaire russe combattant pour l'Ukraine : "On
+  ridiculise, on récupère des renseignements et un peu de monnaie au passage"
+  (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 14h32
+    5. 5
+
+  Drame de Crans-Montana : des bougies-étincelles sont-elles à l'origine de
+  l'incendie ? (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 14h20
+    6. 6
+
+  Avec le "Dry January", le vin sans alcool séduit de plus en plus de Français
+  (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 14h12
+    7. 7
+
+  EN DIRECT - Ukraine : Boudanov, chef du renseignement militaire, nommé pour
+  diriger le cabinet présidentiel (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 6h30
+    8. 8
+
+  Météo : des flocons et un froid de plus en plus marqué, ce qui vous attend
+  pour ces premiers jours de 2026 (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 14h01
+    9. 9
+
+  Comment éviter que la grippe ne se propage encore ? Voici les conseils d’un
+  médecin (nouvelle fenêtre)
+
+       [Vidéo]
+       Publié aujourd'hui à 14h00
+   10. 10
+
   Mont-de-Marsan : un homme reconnait avoir tué son ex-femme le soir de Noël et
   l'avoir enterrée dans son jardin (nouvelle fenêtre)
 
        [Vidéo]
        Publié aujourd'hui à 13h54
-    2. 2
-
-  "Nous sommes armés et parés à intervenir" : pourquoi Donald Trump remet la
-  pression sur l'Iran (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 13h46
-    3. 3
-
-  EN DIRECT - Ukraine : Zelensky nomme le chef du renseignement militaire Kyrylo
-  Boudanov pour diriger son cabinet (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 6h30
-    4. 4
-
-  "180 kilos de pâte à choux, 100 kilos de crème pralinée" : ces Bretons
-  réalisent le plus long Paris-Brest du monde à Lannion (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 13h00
-    5. 5
-
-  Dermatose nodulaire contagieuse : un nouveau cas détecté dans un élevage en
-  Ariège (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 12h55
-    6. 6
-
-  Contrôle technique, malus, prix du carburant… Tout ce qui change pour les
-  automobilistes en 2026 (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 12h41
-    7. 7
-
-  "Vous n'avez pas les soucis du propriétaire" : louer sa voiture plutôt que
-  l'acheter, une vraie bonne idée pour votre portefeuille ? (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 12h22
-    8. 8
-
-  Marseille : un corps retrouvé dans le coffre d'une voiture incendiée (nouvelle
-  fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 12h13
-    9. 9
-
-  "Ça peut réduire de 30% les capacités de réaction..." : ces musiques que vous
-  ne devez surtout pas écouter au volant pour éviter les accidents de la route
-  (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 12h00
-   10. 10
-
-  "Je vise au moins 30 véhicules" : la location entre particuliers, une vraie
-  bonne affaire ? (nouvelle fenêtre)
-
-       [Vidéo]
-       Publié aujourd'hui à 11h48
        Voir plus d'actualités - Afficher tout
     1. 1
 
@@ -549,60 +549,60 @@
        Voir plus d'actualités - Afficher tout
     1. 1
 
+  Dry January : ce défi attire de très nombreux participants en France (nouvelle
+  fenêtre)
+
+       Publié aujourd'hui à 14h25
+    2. 2
+
   Allô le doc : Peut-on encore se faire vacciner contre la grippe ? (nouvelle
   fenêtre)
 
        Publié aujourd'hui à 8h18
-    2. 2
+    3. 3
 
   Grands brûlés : hôpitaux saturés face à l’afflux des blessés (nouvelle
   fenêtre)
 
        Publié hier à 20h05
-    3. 3
+    4. 4
 
   Allô le doc : Appendicite, Vincent vous répond (nouvelle fenêtre)
 
        Publié hier à 9h36
-    4. 4
+    5. 5
 
   La maison Bonjour : Quelles plantes pour bien commencer l'année ? (nouvelle
   fenêtre)
 
        Publié hier à 9h10
-    5. 5
+    6. 6
 
   Allô le doc : Santé, 2026 est l'année de l'espoir (nouvelle fenêtre)
 
        Publié hier à 8h16
-    6. 6
+    7. 7
 
   Allô le doc : Eau ou café contre l'alcool... Vincent vous répond (nouvelle
   fenêtre)
 
        Publié le 31 décembre 2025 à 9h37
-    7. 7
+    8. 8
 
   Allô le doc : Les bons gestes pour un réveillon en toute sécurité (nouvelle
   fenêtre)
 
        Publié le 31 décembre 2025 à 8h18
-    8. 8
+    9. 9
 
   Pile bouton : attention danger ! (nouvelle fenêtre)
 
        Publié le 30 décembre 2025 à 20h20
-    9. 9
+   10. 10
 
   Médecins : ces consultations qui vont coûter plus cher (nouvelle fenêtre)
 
        Publié le 30 décembre 2025 à 13h08
-   10. 10
-
-  Allô le doc : Bronchiolite chez le nourrisson... Vincent vous répond (nouvelle
-  fenêtre)
-
-       Publié le 30 décembre 2025 à 9h33
        Voir plus d'actualités - Afficher tout
      * Sujets de sociétéoutre-mer
      * Internationaldiplomatie

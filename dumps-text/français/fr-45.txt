@@ -174,7 +174,7 @@
 
       Par Claire Dewerdt, Avocat.
 
-   75321 lectures 1re Parution: 6 octobre 2020 4.65  /5
+   75322 lectures 1re Parution: 6 octobre 2020 4.65  /5
 
    Niveau Expert 2
 
@@ -512,21 +512,28 @@
    Fuites de données, transparence des blockchains et mise en danger des      
    entrepreneurs : un angle mort de la réglementation crypto. 100             
    Management toxique : le harcèlement moral peut être retenu même si les     
-   méthodes de gestion ne concernent pas un salarié determiné. 78             
+   méthodes de gestion ne concernent pas un salarié determiné. 82             
    Grand excès de vitesse : la fin des contraventions, place au tribunal      
-   correctionnel ? 67                                                         
+   correctionnel ? 71                                                         
    Sélection Liberalis spécial Fêtes : Roi ou Reine d’un jour, ne manquez pas 
-   les plus belles galettes 2026 ! 57                                         
+   les plus belles galettes 2026 ! 59                                         
    La communication de pièces par lien de téléchargement est-elle régulière ? 
-   47                                                                         
+   48                                                                         
    Jugement non avenu, signification irrégulière et contrôle du titre         
-   exécutoire : le juge de l’exécution de La Rochelle rappelle les règles. 44 
+   exécutoire : le juge de l’exécution de La Rochelle rappelle les règles. 46 
    Les incidences du passé pénal d’un étranger sur l’accès à la nationalité   
-   française. 39                                                              
+   française. 41                                                              
    Marchés publics 2026 : vers une simplification historique pour les PME et  
-   les acheteurs locaux ! 38                                                  
+   les acheteurs locaux ! 39                                                  
 
    Annonces d'Emploi
+
+   14:56 Stage en cabinet d'avocat
+
+   14:28 Fieldfisher France recherche un/e avocat/e junior (0-1 an) pour
+   rejoindre le département (...)
+
+   14:18 Stage juriste - Droit et gestion des contrats de construction - H/F
 
    13:39 Stage  Direction juridique exploitation (H/F)
 
@@ -557,12 +564,6 @@
    08:30 Avocat Fiscalité International H/F
 
    08:26 Stage EFB/Elève avocat
-
-   08:15 Avocat Droit des Affaires/Conseil et Contentieux H/F
-
-   08:15 Assistant de Direction H/F
-
-   08:10 Avocat Fiscalité Corporate et Patrimoniale H/F
 
    Forum
 
@@ -605,36 +606,26 @@
    PROFESSIONNELS DU DROIT
 
    Previous Next
-   [IMG] Cabinet d'Avocats
-
-    
-
-   Cabinet d'Avocats
-   [IMG] Réseau de professionnels du Droit
-
-    
-
-   Réseau de professionnels du Droit
-   [IMG] Facilite l'accès aux professions du Droit
-
-    
-
-   Facilite l'accès aux professions du Droit
    [IMG] Bien plus que du droit.
 
     
 
    Bien plus que du droit.
-   [IMG] Cabinet d'avocat
+   [IMG] Réseau de cabinets d’avocats indépendants
 
     
 
-   Cabinet d'avocat
-   [IMG] Collectif d'avocats et de médiateurs
+   Réseau de cabinets d’avocats indépendants
+   [IMG] Cabinet d'Avocats
 
     
 
-   Collectif d'avocats et de médiateurs
+   Cabinet d'Avocats
+   [IMG] Association pour la prévention positive des cyberviolences
+
+    
+
+   Association pour la prévention positive des cyberviolences
    [IMG] Procédure d’appel, procédure civile, conseil, contentieux, modes
    amiables
 
@@ -645,16 +636,26 @@
 
     
 
-   [IMG] Réseau de cabinets d’avocats indépendants
+   [IMG] Cabinet d'avocat
 
     
 
-   Réseau de cabinets d’avocats indépendants
-   [IMG] Association pour la prévention positive des cyberviolences
+   Cabinet d'avocat
+   [IMG] Collectif d'avocats et de médiateurs
 
     
 
-   Association pour la prévention positive des cyberviolences
+   Collectif d'avocats et de médiateurs
+   [IMG] Réseau de professionnels du Droit
+
+    
+
+   Réseau de professionnels du Droit
+   [IMG] Facilite l'accès aux professions du Droit
+
+    
+
+   Facilite l'accès aux professions du Droit
 
    Solutions
 
@@ -668,27 +669,7 @@
 
     
 
-   Editeur juridique et de solutions de gestion pour les métiers du droit
-   [IMG]
-
-    
-
-   Créateur de confiance juridique
-   [IMG]
-
-    
-
-   Logiciels pour professionnels du droit.
-   [IMG]
-
-    
-
-   1er service entièrement en ligne pour externaliser vos appels
-   [IMG]
-
-    
-
-   Editeur juridique
+   Solutions d'informations pour professionnels du droit.
    [IMG]
 
     
@@ -703,22 +684,22 @@
 
     
 
-   Association de gestion et de comptabilité pour Avocats
+   Editeur juridique
    [IMG]
 
     
 
-   Lettre recommandée électronique
+   Créateur de confiance juridique
    [IMG]
 
     
 
-   Traducteurs assermentés
+   Editeur juridique et de solutions de gestion pour les métiers du droit
    [IMG]
 
     
 
-   AI-powered Contract Management
+   1er service entièrement en ligne pour externaliser vos appels
    [IMG]
 
     
@@ -728,52 +709,72 @@
 
     
 
+   Traducteurs assermentés
+   [IMG]
+
+    
+
+   Lettre recommandée électronique
+   [IMG]
+
+    
+
+   Logiciels pour professionnels du droit.
+   [IMG]
+
+    
+
+   Association de gestion et de comptabilité pour Avocats
+   [IMG]
+
+    
+
    Destruction et recyclage de documents confidentiels
    [IMG]
 
     
 
-   Solutions d'informations pour professionnels du droit.
+   AI-powered Contract Management
 
    Formateurs
 
    Previous Next
-   [IMG] Se former aux métiers du Droit
-
-    
-
-   Se former aux métiers du Droit
    [IMG] Se former est une chance !
 
     
 
    Se former est une chance !
-   [IMG] Cabinet juridique et organisme de formation
+   [IMG] Se former aux métiers du Droit
 
     
 
-   Cabinet juridique et organisme de formation
+   Se former aux métiers du Droit
    [IMG] L’école des nouveaux juristes !
 
     
 
    L’école des nouveaux juristes !
-   [IMG] Formation, recherche et innovation
+   [IMG] La Compétence juridique se recrute !
 
     
 
-   Formation, recherche et innovation
+   La Compétence juridique se recrute !
    [IMG] Formations courtes ou longues à destination des professionnels du
    droit
 
     
 
    Formations courtes ou longues à destination des professionnels du droit
-   [IMG] La Compétence juridique se recrute !
+   [IMG] Cabinet juridique et organisme de formation
 
     
 
-   La Compétence juridique se recrute !
+   Cabinet juridique et organisme de formation
+   [IMG] Formation, recherche et innovation
+
+    
+
+   Formation, recherche et innovation
    [IMG] Des formations spécialisées
 
     
@@ -868,10 +869,11 @@
 
    - intelligence artificielle - droit du travail - droit pénal - propriété
    intellectuelle - médiation - protection des données personnelles -
-   procédure civile - copropriété - responsabilité civile - preuve -
-   formation professionnelle - protection des données - responsabilité
-   bancaire - licenciement - prescription - sécurité juridique - contentieux
-   administratif - procédure pénale - contrat de travail - discrimination
+   copropriété - responsabilité civile - preuve - procédure civile -
+   protection des données - responsabilité bancaire - formation
+   professionnelle - sécurité juridique - licenciement - prescription -
+   procédure pénale - contrat de travail - contentieux administratif -
+   responsabilité contractuelle
 
    D'autres sites du réseau Legi Team
 
