@@ -70,6 +70,21 @@ ID=1
 # ouverture de la boucle qui va lire mon fichier espagnol ligne par ligne
 while read -r URL ; do
 
+# On crée on fichier temporaire pour stocker la page HTML brute (pour ne pas ralentir ou faire planter le script)
+raw_file="/tmp/raw_$ID.html"
+
+# On vérifie le code HTTP
+if [[ "$http_code" != "200" ]]; then
+    echo "Erreur : $URL non traité (HTTP $http_code)"
+    continue   # passe à l'URL suivante
+fi
+
+
+# On copie la page HTML brute dans le dossier "aspirations"
+filename_aspiration="$DIR_ASPI/es-$ID.html"
+cp "$raw_file" "$filename_aspiration"
+
+
 
 
 
