@@ -2,13 +2,15 @@
 
 URL_FICHIER=$1
 
-
+# regex pour reconnaître des caractères espagnols et les versions du mot "estado"
 REGEX="ñ|[Ee]stado|[Ee]stados"
 
-
-
-
-
+# dossiers de sortie
+DIR_ASPI="./aspirations/espagnol"
+DIR_CONTXT="./contextes/espagnol/"
+DIR_DUMP="./dumps-text/espagnol/"
+DIR_CONCORD="./concordances/espagnol"
+DIR_HTML_OUT="./tableaux/estado_espagnol.html"
 
 
 USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -59,7 +61,24 @@ TAB_HTML=$(
 	echo "</tr>"
 )
 
-
 # Lecture et aspirations
 
+# compteur qui va numéroter les fichiers (ex : dump_1) 
+ID=1
+
+
+# ouverture de la boucle qui va lire mon fichier espagnol ligne par ligne
 while read -r URL ; do
+
+
+
+
+
+
+
+
+
+
+
+
+
