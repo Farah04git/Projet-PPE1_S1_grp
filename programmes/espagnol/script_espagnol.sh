@@ -166,19 +166,21 @@ echo "<html>
 </thead>
 <tbody>" > "$FILE_CONCORD"
 
-grep -Eio ".{0,30}\b($REGEX)\b.{0,30}" "$FILE_DUMP" | while read -r line; do
+grep -Eio '([[:alnum:]]+[[:space:]]+){0,4}(estado|estados)([[:space:]]+[[:alnum:]]+){0,4}' "$FILE_DUMP" |
+while read -r line; do
 
-    gauche=$(echo "$line" | sed -E "s/(.*)\b($REGEX)\b.*/\1/I")
-    cible=$(echo "$line" | grep -Eio "\b($REGEX)\b")
-    droite=$(echo "$line" | sed -E "s/.*\b($REGEX)\b(.*)/\2/I")
+    gauche=$(echo "$line" | sed -E 's/(.*)(estado|estados).*/\1/I' | sed -E 's/[[:space:]]+$//')
+    cible=$(echo "$line" | grep -Eio '(estado|estados)' | head -n 1)
+    droite=$(echo "$line" | sed -E 's/.*(estado|estados)(.*)/\2/I' | sed -E 's/^[[:space:]]+//')
 
     echo "<tr>
-<td class=\"has-text-right\">$gauche</td>
-<td class=\"has-text-centered has-text-success\"><strong>$cible</strong></td>
-<td>$droite</td>
-</tr>" >> "$FILE_CONCORD"
+      <td class=\"has-text-right\">$gauche</td>
+      <td class=\"has-text-centered has-text-success\"><strong>$cible</strong></td>
+      <td>$droite</td>
+    </tr>" >> "$FILE_CONCORD"
 
 done
+
 
 echo "</tbody>
 </table>
