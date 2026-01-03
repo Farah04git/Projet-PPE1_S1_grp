@@ -67,7 +67,10 @@ TAB_HTML=$(
 	echo "<td>" "Concordancier HTML" "</td>"
 
 	echo "</tr>"
+
 )
+
+echo "$TAB_HTML" > "$DIR_HTML_OUT"
 
 # ------------------------
 # Lecture et aspirations
@@ -160,7 +163,7 @@ echo "<tr>" >> "$DIR_HTML_OUT"
     echo "<td><a href=\".$FILE_CONCORD\">concordancier</a></td>" >> "$DIR_HTML_OUT"
     echo "</tr>" >> "$DIR_HTML_OUT"
 
-    ((ID++))
+    ID=$((ID + 1)) # pour augmenter de 1 la boucle
 
 done < "$URL_FILE"
 
