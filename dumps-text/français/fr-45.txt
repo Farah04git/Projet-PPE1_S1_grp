@@ -1,7 +1,7 @@
    Link: canonical
 
    jan.
-   2
+   3
 
    L'info du Jour
    Le Village vous propose ses ecartes de veux Spéciales Droit
@@ -174,7 +174,7 @@
 
       Par Claire Dewerdt, Avocat.
 
-   75331 lectures 1re Parution: 6 octobre 2020 4.65  5
+   75352 lectures 1re Parution: 6 octobre 2020 4.65  5
 
    Niveau Expert 2
 
@@ -473,7 +473,7 @@
    étudiants... y trouvent services, informations, contacts et peuvent
    échanger et recruter. *
 
-   Aujourd'hui: 157 342 membres, 29372 articles, 127 409 messages sur les
+   Aujourd'hui: 157 342 membres, 29375 articles, 127 409 messages sur les
    forums, 2 120 annonces d'emploi et stage... et 1 400 000 visites du site
    par mois en moyenne. *
 
@@ -487,6 +487,11 @@
 
    Tous les Articles publiés
 
+   0301  Décret du 26 décembre 2025 : la justice pénale entre efficacité et  
+   équité face au narcotrafic.                                                
+   0301  Le choix d’une intelligence artificielle pour une structure         
+   juridique.                                                                 
+   0301  Urbanisme et criminalité : quand l’espace devient un outil.         
    0201  L’actualité concernant les réseaux de distribution en 1 minute, par 
    le Cabinet Simon Associés, #200 : L’impact des procédures collectives sur  
    les contrats de franchise : les éléments de procédure spécifiques aux      
@@ -502,72 +507,65 @@
    peut agir sans faute.                                                      
    0201  Les incidences du passé pénal d’un étranger sur l’accès à la        
    nationalité française.                                                     
-   0201  Réinventer les offres de conseil : mettre le cap vers les services  
-   hybrides et multi-professionnels                                          
-   0101  Sélection Liberalis spécial Fêtes : Roi ou Reine d’un jour, ne      
-   manquez pas les plus belles galettes 2026 !                                
-   3112  Emploi : le Village à nouveau classé 5 et 1er site d’emploi        
-   juridique pour 2026.                                                       
 
    Populaires en ce moment
 
-   Fuites de données, transparence des blockchains et mise en danger des      
-   entrepreneurs : un angle mort de la réglementation crypto. 100             
-   Management toxique : le harcèlement moral peut être retenu même si les     
-   méthodes de gestion ne concernent pas un salarié determiné. 87             
-   Grand excès de vitesse : la fin des contraventions, place au tribunal      
-   correctionnel  76                                                         
-   Loyers impayés : comment expulser un locataire mauvais payeur en toute     
-   légalité en 2026  61                                                      
-   Sélection Liberalis spécial Fêtes : Roi ou Reine d’un jour, ne manquez pas 
-   les plus belles galettes 2026 ! 57                                         
-   Où vont les commissaires de justice  Retour sur le Congrès national de la 
-   profession. 55                                                             
-   Rompre un bail commercial sans indemnité : les cas où le bailleur peut     
-   agir sans faute. 51                                                        
    Les "voeux du maire", un moment où il est possible d’annoncer sa           
-   candidature. 46                                                            
+   candidature. 100                                                           
+   Fuites de données, transparence des blockchains et mise en danger des      
+   entrepreneurs : un angle mort de la réglementation crypto. 56              
+   Loyers impayés : comment expulser un locataire mauvais payeur en toute     
+   légalité en 2026  48                                                      
+   Grand excès de vitesse : la fin des contraventions, place au tribunal      
+   correctionnel  46                                                         
+   Le choix d’une intelligence artificielle pour une structure juridique. 43  
+   Management toxique : le harcèlement moral peut être retenu même si les     
+   méthodes de gestion ne concernent pas un salarié determiné. 42             
+   Urbanisme et criminalité : quand l’espace devient un outil. 36             
+   Rompre un bail commercial sans indemnité : les cas où le bailleur peut     
+   agir sans faute. 31                                                        
 
    Annonces d'Emploi
 
-   16:41 Juriste stagiaire  Chargé de dossiers
+   11:20 Stage en cabinet d'avocats
 
-   16:35 Stagiaire (h/f)  Département Contentieux  janvier/ juin 2026
+   11:02 Assistant(e)  CDI temps plein
 
-   16:15 Stagiaire département banque & finance juillet à décembre 2026
+   09:39 Business Development Coordinator H/F
 
-   16:15 Stage en contentieux, risques industriels et assurances  juillet à
-   décembre 2026 et janvier à (...)
+   09:17 Business Development Manager H/F
 
-   16:00 Juriste Contentieux H/F
+   Hier 16:41 Juriste stagiaire  Chargé de dossiers
 
-   15:32 Stage généraliste en droit privé avec dominante droit des affaires
+   Hier 16:35 Stagiaire (h/f)  Département Contentieux  janvier/ juin 2026
 
-   15:22 Offre de collaboration libérale  Avocat junior (droit privé  droit
-   des affaires)
+   Hier 16:15 Stagiaire département banque & finance juillet à décembre 2026
 
-   14:56 Stage en cabinet d'avocat
+   Hier 16:15 Stage en contentieux, risques industriels et assurances -
+   juillet à décembre 2026 et janvier à (...)
 
-   14:28 Fieldfisher France recherche un/e avocat/e junior (01 an) pour
+   Hier 16:00 Juriste Contentieux H/F
+
+   Hier 15:32 Stage généraliste en droit privé avec dominante droit des
+   affaires
+
+   Hier 15:22 Offre de collaboration libérale  Avocat junior (droit privé /
+   droit des affaires)
+
+   Hier 14:56 Stage en cabinet d'avocat
+
+   Hier 14:28 Fieldfisher France recherche un/e avocat/e junior (01 an) pour
    rejoindre le département (...)
 
-   14:18 Stage juriste  Droit et gestion des contrats de construction  H/F
+   Hier 14:18 Stage juriste  Droit et gestion des contrats de construction -
+   H/F
 
-   13:39 Stage  Direction juridique exploitation (H/F)
+   Hier 13:39 Stage  Direction juridique exploitation (H/F)
 
-   12:24 Stage (H/F) Droit des sociétés  M&A  Private Equity  2eme
+   Hier 12:24 Stage (H/F) Droit des sociétés  M&A  Private Equity  2eme
    semestre 2026
 
-   12:24 Stagiaire Concurrence/Distribution (F/H)  2nd semestre 2026
-
-   12:23 Stage (H/F) Droit Fiscal  2nd semestre 2026
-
-   12:12 Stagiaire Élève-avocat ou étudiant(e) en Master 2 Droit des Affaires
-    DJCE
-
-   11:17 Stage PPI  protection juridique f/h
-
-   09:28 Stage final en droit pénal et contentieux
+   Hier 12:24 Stagiaire Concurrence/Distribution (F/H)  2nd semestre 2026
 
    Forum
 
@@ -615,11 +613,22 @@
     
 
    Collectif d'avocats et de médiateurs
+   [IMG] Procédure d’appel, procédure civile, conseil, contentieux, modes
+   amiables
+
+    
+
+   Procédure d’appel, procédure civile, conseil, contentieux, modes amiables
    [IMG] Réseau de cabinets d’avocats indépendants
 
     
 
    Réseau de cabinets d’avocats indépendants
+   [IMG] Cabinet d'Avocats
+
+    
+
+   Cabinet d'Avocats
    [IMG] Association pour la prévention positive des cyberviolences
 
     
@@ -630,36 +639,24 @@
     
 
    Bien plus que du droit.
-   [IMG]
-
-    
-
-   [IMG] Cabinet d'Avocats
-
-    
-
-   Cabinet d'Avocats
    [IMG] Réseau de professionnels du Droit
 
     
 
    Réseau de professionnels du Droit
-   [IMG] Facilite l'accès aux professions du Droit
-
-    
-
-   Facilite l'accès aux professions du Droit
    [IMG] Cabinet d'avocat
 
     
 
    Cabinet d'avocat
-   [IMG] Procédure d’appel, procédure civile, conseil, contentieux, modes
-   amiables
+   [IMG] Facilite l'accès aux professions du Droit
 
     
 
-   Procédure d’appel, procédure civile, conseil, contentieux, modes amiables
+   Facilite l'accès aux professions du Droit
+   [IMG]
+
+    
 
    Solutions
 
@@ -668,7 +665,7 @@
 
     
 
-   Offres pour les métiers du droit
+   Destruction et recyclage de documents confidentiels
    [IMG]
 
     
@@ -683,12 +680,7 @@
 
     
 
-   Editeur juridique
-   [IMG]
-
-    
-
-   Editeur juridique et de solutions de gestion pour les métiers du droit
+   Maintenance informatique spécialisée pour les professionnels du droit
    [IMG]
 
     
@@ -698,37 +690,7 @@
 
     
 
-   1er service entièrement en ligne pour externaliser vos appels
-   [IMG]
-
-    
-
-   Maintenance informatique spécialisée pour les professionnels du droit
-   [IMG]
-
-    
-
-   Association de gestion et de comptabilité pour Avocats
-   [IMG]
-
-    
-
-   Destruction et recyclage de documents confidentiels
-   [IMG]
-
-    
-
-   Traducteurs assermentés
-   [IMG]
-
-    
-
-   AI-powered Contract Management
-   [IMG]
-
-    
-
-   Logiciels pour professionnels du droit.
+   Offres pour les métiers du droit
    [IMG]
 
     
@@ -738,52 +700,87 @@
 
     
 
+   1er service entièrement en ligne pour externaliser vos appels
+   [IMG]
+
+    
+
+   AI-powered Contract Management
+   [IMG]
+
+    
+
    Créateur de confiance juridique
+   [IMG]
+
+    
+
+   Traducteurs assermentés
+   [IMG]
+
+    
+
+   Logiciels pour professionnels du droit.
+   [IMG]
+
+    
+
+   Editeur juridique et de solutions de gestion pour les métiers du droit
+   [IMG]
+
+    
+
+   Association de gestion et de comptabilité pour Avocats
+   [IMG]
+
+    
+
+   Editeur juridique
 
    Formateurs
 
    Previous Next
+   [IMG] La Compétence juridique se recrute !
+
+    
+
+   La Compétence juridique se recrute !
    [IMG] Formations courtes ou longues à destination des professionnels du
    droit
 
     
 
    Formations courtes ou longues à destination des professionnels du droit
-   [IMG] Se former aux métiers du Droit
-
-    
-
-   Se former aux métiers du Droit
-   [IMG] L’école des nouveaux juristes !
-
-    
-
-   L’école des nouveaux juristes !
-   [IMG] Cabinet juridique et organisme de formation
-
-    
-
-   Cabinet juridique et organisme de formation
    [IMG] Des formations spécialisées
 
     
 
    Des formations spécialisées
-   [IMG] La Compétence juridique se recrute !
+   [IMG] L’école des nouveaux juristes !
 
     
 
-   La Compétence juridique se recrute !
-   [IMG] Formation, recherche et innovation
-
-    
-
-   Formation, recherche et innovation
+   L’école des nouveaux juristes !
    [IMG] Se former est une chance !
 
     
 
    Se former est une chance !
+   [IMG] Cabinet juridique et organisme de formation
+
+    
+
+   Cabinet juridique et organisme de formation
+   [IMG] Se former aux métiers du Droit
+
+    
+
+   Se former aux métiers du Droit
+   [IMG] Formation, recherche et innovation
+
+    
+
+   Formation, recherche et innovation
 
    Nouveautés Édition juridique
 
@@ -872,12 +869,12 @@
    Parmi les sujets juridiques très actifs en ce moment:
 
     intelligence artificielle  droit du travail  droit pénal  propriété
-   intellectuelle  protection des données personnelles  médiation -
-   copropriété  responsabilité civile  preuve  formation professionnelle -
-   responsabilité bancaire  procédure civile  prescription  protection des
-   données  licenciement  sécurité juridique  contrat de travail -
-   contentieux administratif  procédure pénale  responsabilité
-   contractuelle
+   intellectuelle  copropriété  médiation  responsabilité civile -
+   protection des données personnelles  formation professionnelle -
+   responsabilité bancaire  preuve  prescription  procédure civile -
+   protection des données  licenciement  contentieux administratif -
+   contrat de travail  procédure pénale  sécurité juridique -
+   discrimination
 
    D'autres sites du réseau Legi Team
 

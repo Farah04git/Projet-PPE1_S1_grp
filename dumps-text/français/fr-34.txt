@@ -263,9 +263,21 @@ Plus-values
 
    /fr/outils-et-services/calcul-des-plus-values
 
+Droits de succession
+
+   /fr/outils-et-services/calcul-des-droits-de-succession
+
+Frais de mainlevée
+
+   /fr/outils-et-services/calcul-des-frais-main-levee
+
 Immo Notaires Argus
 
    https:/www.immonotairesargus.com
+
+Immo Notaires Enchères
+
+   http:/immonotairesencheres.com/
 
 Lettre d'information
 

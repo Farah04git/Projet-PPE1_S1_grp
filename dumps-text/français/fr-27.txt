@@ -1,5 +1,6 @@
    Link: canonical
    Link: x-default x-default
+   Link: alternate es-ES
    Link: alternate fr-CA
       Centre des médias
       Carrières
@@ -8,7 +9,6 @@
    ______________ [ Submit ]
    banque de cerveaux
    EN
-      FRANÇAIS
    Toggle Menu
    [IMG]The Decision Lab LogoThe Decision Lab Logo
       Études de cas
@@ -135,7 +135,7 @@ Ressources
    science du comportementÉtudes de casUn aperçu de quelques-uns de nos
    travaux les plus marquants
    Contact
-   Reference Guide  Teoría de la mentalidad
+   Reference Guide  Théorie de l'état d'esprit
    enregistré en mémoire  icon
    enregistré en mémoire
    cite  icon
@@ -153,40 +153,42 @@ Ressources
    Link copied!
    [ Submit ]
 
-                            Teoría de la mentalidad
+                           Théorie de l'état d'esprit
 
-   La idea básica
-   La idea básicaTérminos
-   claveHistoriaPersonasConsecuenciasControversiasCasos prácticosRecursos
-   relacionadosFuentes
-   La idea básicaTérminos claveHistoriaPersonasCarol
-   DweckConsecuenciasControversiasCasos prácticosRecursos relacionadosFuentes
+   L'idée de base
+   L'idée de baseTermes clésL'histoireLes
+   personnesConséquencesControversesÉtudes de casRessources connexesSources
+   d'information
+   L'idée de baseTermes clésL'histoireLes personnesCarol
+   DweckConséquencesControversesÉtudes de casRessources connexesSources
+   d'information
 
-La idea básica
+L'idée de base
 
-   Para algunas personas, parece que el cielo es el límite, mientras que para
-   otras el techo está un poco más bajo, más cerca de la tierra. A veces
-   vemos esta dicotomía como optimistas frente a pesimistas; los ambiciosos
-   frente a los menos motivados. Las clásicas frases populares que empiezan
-   con "hay dos tipos de personas en este mundo" no suelen tener en cuenta a
-   las personas que se encuentran en medio, pero eso no significa que no
-   podamos existir en un continuo de dos perspectivas.
+   Pour certains, il semble que le ciel soit la limite, alors que pour
+   d'autres, le plafond est un peu plus bas, plus proche de la terre. Cette
+   dichotomie se traduit parfois par l'opposition entre optimistes et
+   pessimistes, entre ambitieux et moins motivés. Les classiques du folklore
+   qui commencent par "il y a deux types de personnes dans ce monde" ne
+   tiennent généralement pas compte des personnes intermédiaires, mais cela
+   ne signifie pas que nous ne pouvons pas exister sur un continuum de deux
+   perspectives.
 
-   Uno de estos espectros de perspectivas únicas es la mentalidad: la idea de
-   que las personas tienen creencias diferentes sobre la maleabilidad de los
-   ^atributos humanos.1 En un extremo está la opinión de que estos atributos,
-   como la inteligencia o la personalidad, pueden cambiarse con esfuerzo y
-   determinación, mientras que en el otro extremo se cree que estos atributos
-   son innatos y permanecen fijos a lo largo del tiempo. La investigación ha
-   explorado estas dos formas de mentalidad y ha descubierto que estas
-   creencias laicas pueden predecir diversos resultados personales.
+   L'un de ces spectres de perspectives uniques est la mentalité : l'idée que
+   les gens ont des croyances différentes concernant la malléabilité des
+   attr^ibuts humains.1 D'un côté, il y a l'opinion que ces attributs, tels
+   que l'intelligence ou la personnalité, peuvent être modifiés par l'effort
+   et la détermination, tandis que de l'autre, il y a l'opinion que ces
+   attributs sont innés et restent fixes au fil du temps. La recherche a
+   exploré ces deux formes de mentalités et a constaté que ces croyances
+   profanes peuvent prédire toute une série de résultats personnels.
 
    “
 
-     En un mundo, el esfuerzo es algo malo. Al igual que el fracaso,
-     significa que no eres inteligente ni tienes talento. Si lo fueras, no
-     necesitarías esfuerzo. En el otro mundo, el esfuerzo es lo que te hace
-     inteligente o talentoso.
+     Dans un certain monde, l'effort est une mauvaise chose. Tout comme
+     l'échec, il signifie que vous n'êtes pas intelligent ou talentueux. Si
+     c'était le cas, vous n'auriez pas besoin d'effort. Dans l'autre monde,
+     l'effort est ce qui vous rend intelligent ou talentueux.
 
       Carol Dweck
 

@@ -115,9 +115,12 @@ while read -r URL ; do
 	total_occurences=$(grep -Eio "$REGEX" "$filename_dump" | wc -l)
 	echo "$total_occurences"
 	
-	# Contexte - 1 ligne : mise en avant avec .. ..
+	# Contexte 
 	filename_contextes="$DIR_CONTXT/contxt_fr-$ID.txt"
-	grep -E -C 1 "$REGEX" "$filename_dump" | sed -E "s/($REGEX)/..\1../gi" > "$filename_contextes"
+	# Segmentation par phrase pour avoir TOUS les contextes - : mise en avant avec **
+	sed -E 's/([.!?])/\1\n/g' "$filename_dump" > /tmp/phrases.txt
+	egrep -i -C 1 "$REGEX" /tmp/phrases.txt | sed -E "s/($REGEX)/[\1]/gi" | sed '/^--$/d' > "$filename_contextes"
+
 
 	# Ajout Concordancier :
 	filename_concord="$DIR_CONCORD/concordancier-fr-$ID.html"
@@ -132,7 +135,7 @@ while read -r URL ; do
 	echo "<td>" "<a href=\".$filename_aspiration\" >HTML brute</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\".$filename_dump\" >dump</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\".$filename_contextes\" >contxt</a>" "</td>" >> "$DIR_HTML_OUT"
-	echo "<td>" "<a href=\".$filename_concord\" >contxt</a>" "</td>" >> "$DIR_HTML_OUT"
+	echo "<td>" "<a href=\".$filename_concord\" >concordances</a>" "</td>" >> "$DIR_HTML_OUT"
 	echo "</tr>" >> "$DIR_HTML_OUT"
 	
 	((ID++))

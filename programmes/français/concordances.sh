@@ -2,7 +2,7 @@
 
 DUMP_DIR="./dumps-text/français"
 OUTPUT_PATH="./concordances/français"
-CONTEXT=5
+CONTEXT=10
 
 REGEX='[eéèêEÉÈÊ][tT][aàAÀ][tT]s?(-[A-Za-zàâäéèêëïîôöùûüÿçÀÂÄÉÈÊËÏÎÔÖÙÛÜŸÇ]+)?'
 
@@ -29,7 +29,7 @@ for file in "$DUMP_DIR"/*.txt; do
     echo '<section class="section">'
     echo '<div class="container">'
     echo '<nav class="breadcrumb" aria-label="breadcrumbs">'
-    echo "<h1 class="title is-1">Tableau d'URLs</h1>"
+    echo "<h1 class="title is-1">Concordances : $URL</h1>"
     echo '<table class="table is-striped is-hoverable is-fullwidth">'
     echo "<thead>"
     echo '<tr><th>Contexte gauche</th><th>Mot</th><th>Contexte droit</th></tr>'
@@ -39,8 +39,10 @@ for file in "$DUMP_DIR"/*.txt; do
 
     echo "$TAB_CONC" > "$OUT_HTML"
 
-    # Lecture de tt dans une seule variable
-    line=$(tr '\n' ' ' < "$file")
+    # Lecture de tt dans une seule variable, et normalisation pour enlever symboles parasites
+    line=$(tr '\n' ' ' < "$file" | sed -E "s/-{2,}/ /g; s/[^[:alpha:]àâäéèêëïîôöùûüÿçÀÂÄÉÈÊËÏÎÔÖÙÛÜŸÇ'’-]/ /g; s/[[:space:]]+/ /g; s/^ | $//g")
+
+
 
     while [[ $line =~ $REGEX ]]; do
         mot_etat="${BASH_REMATCH[0]}"
