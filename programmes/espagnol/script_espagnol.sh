@@ -1,9 +1,13 @@
 #!/bin/bash
 
-URL_FICHIER=$1
+# ------------------------
+# Script pour l'espagnol
+# ------------------------
 
-# regex pour reconnaître des caractères espagnols et les versions du mot "estado"
-REGEX="ñ|[Ee]stado|[Ee]stados"
+URL_FILE=$1
+
+# regex pour reconnaître les occurrences des versions du mot "estado"
+REGEX="[Ee]stado|[Ee]stados"
 
 # dossiers de sortie
 DIR_ASPI="./aspirations/espagnol"
@@ -12,20 +16,26 @@ DIR_DUMP="./dumps-text/espagnol/"
 DIR_CONCORD="./concordances/espagnol"
 DIR_HTML_OUT="./tableaux/estado_espagnol.html"
 
+# appel à un user agent pour simuler le navigateur et éviter les blocages
 USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-# Vérification arguments 
+# ------------------------
+# Vérification de l'arguments 
+# ------------------------
+
 if [ $# -ne 1 ] ; then
 	echo "Usage : ce programme nécessite 1 argument : urls.txt"
 	exit 1
 fi
 
-if [ ! -f "$URL_FICHIER" ] ; then
+if [ ! -f "$URL_FILE" ] ; then
     echo "Erreur : le fichier '$URL_FILE' n'a pas été trouvé"
     exit 1
 fi
 
+# ------------------------
 # Création du tableau HTML espagnol
+# ------------------------
 
 TAB_HTML=$(
 	echo "<!DOCTYPE html>"
@@ -59,7 +69,9 @@ TAB_HTML=$(
 	echo "</tr>"
 )
 
+# ------------------------
 # Lecture et aspirations
+# ------------------------
 
 # compteur qui va numéroter les fichiers (ex : dump_1) 
 ID=1
@@ -97,12 +109,73 @@ cp "$TEMP_HTML" "$FILE_ASPI"
 ENCODING=$(file --mime-encoding --brief "$FILE_ASPI")
     echo "L'encodage est le suivant : $ENCODING"
 
-# On va maintenant convertir le contenu HTML en texte brut (sans les balises)
+	# -----------------------------
+    # Création du dump textuel 
+    # -----------------------------
+
+    # On va maintenant convertir le contenu HTML en texte brut (sans les balises)
+
+# Ici on crée le fichier dump textuel
+
+FILE_DUMP="$DIR_DUMP/es-$ID.txt"
+links -dump "$FILE_ASPI" > "$FILE_DUMP"
+
 # Avec la commande sed -i on va supprimer : 
 	#[^...] : tout ce qui n’est pas dans la liste
-	#[:alnum:] : lettres et chiffres classiques
-	#[:space:] : espaces, tabulations, retour à la ligne
-	# ñÑáéíóúüÁÉÍÓÚÜ : caractères spécials espagnols que l'on souhaite garder
+	#[:alnum:] : les lettres et les chiffres classiques
+	#[:space:] : les espaces, tabulations et retours à la ligne
+	# ñÑáéíóúüÁÉÍÓÚÜ : la liste des caractères spéciaux espagnols que l'on souhaite garder
+
+sed -i '' "s/[^[:alnum:][:space:]ñÑáéíóúüÁÉÍÓÚÜ¿¡–—]//g" "$FILE_DUMP"
+
+# -----------------------------
+# Comptage des occurences de la regex dans le dump
+# -----------------------------
+
+TOTAL_OCCURENCES=$(grep -Eio "$REGEX" "$FILE_DUMP" | wc -l)
+    echo "Nombre d'occurrences : $TOTAL_OCCURENCES"
+
+# -----------------------------
+# Extraction des contextes
+# -----------------------------
+
+# On va extraire 1 ligne autour de chaque occurence
+
+FILE_CONTEXTES="$DIR_CONTXT/contxt_es-$ID.txt"
+    grep -E -C 1 "$REGEX" "$FILE_DUMP" | sed -E "s/($REGEX)/..\1../gi" > "$FILE_CONTEXTES"
+
+# Et on va l'ajouter au tableau HTML
+
+FILE_CONCORD="$DIR_CONCORD/concordancier-es-$ID.html"
+
+echo "<tr>" >> "$DIR_HTML_OUT"
+    echo "<td>$ID</td>" >> "$DIR_HTML_OUT"
+    echo "<td><a href=\"$URL\">Lien internet</a></td>" >> "$DIR_HTML_OUT"
+    echo "<td>$HTTP_CODE</td>" >> "$DIR_HTML_OUT"
+    echo "<td>$ENCODING</td>" >> "$DIR_HTML_OUT"
+    echo "<td>$TOTAL_OCCURENCES</td>" >> "$DIR_HTML_OUT"
+    echo "<td><a href=\".$FILE_ASPI\">HTML brute</a></td>" >> "$DIR_HTML_OUT"
+    echo "<td><a href=\".$FILE_DUMP\">dump</a></td>" >> "$DIR_HTML_OUT"
+    echo "<td><a href=\".$FILE_CONTEXTES\">contxt</a></td>" >> "$DIR_HTML_OUT"
+    echo "<td><a href=\".$FILE_CONCORD\">concordancier</a></td>" >> "$DIR_HTML_OUT"
+    echo "</tr>" >> "$DIR_HTML_OUT"
+
+    ((ID++))
+
+done < "$URL_FILE"
+
+# -----------------------------
+# Fermeture du tableau HTML
+# -----------------------------
+
+echo "</table>" >> "$DIR_HTML_OUT"
+echo "</body></html>" >> "$DIR_HTML_OUT"
+
+echo ">>> Script terminé, tableau généré : $DIR_HTML_OUT"
+
+
+
+
 
 
 
