@@ -36,11 +36,13 @@ fi
 # ------------------------
 # Création des dossiers si inexistants
 # ------------------------
+
 mkdir -p "$DIR_ASPI" "$DIR_CONTXT" "$DIR_DUMP" "$DIR_CONCORD" "$(dirname "$DIR_HTML_OUT")"
 
 # ------------------------
 # Création du tableau HTML espagnol
 # ------------------------
+
 TAB_HTML=$(
     echo "<!DOCTYPE html>"
     echo "<html>"
@@ -88,6 +90,7 @@ while read -r URL; do
     # -o : sortie dans TEMP_HTML
     # -w "%{http_code}" : récupère le code HTTP
     # ------------------------
+
     HTTP_CODE=$(curl -s -L -A "$USER_AGENT" -o "$TEMP_HTML" -w "%{http_code}" "$URL")
 
     FILE_ASPI="$DIR_ASPI/es-$ID.html"
@@ -98,6 +101,7 @@ while read -r URL; do
     # ------------------------
     # Gestion des erreurs
     # ------------------------
+
     if [[ "$HTTP_CODE" != "200" ]]; then
         echo "Erreur : $URL non traité (HTTP $HTTP_CODE)"
         # on va créer des fichiers vides pour ne pas casser le script
@@ -105,9 +109,11 @@ while read -r URL; do
         ENCODING="N/A"
         TOTAL_OCCURENCES=0
     else
+
         # ------------------------
         # si jamais, on copie la page HTML brute
         # ------------------------
+
         cp "$TEMP_HTML" "$FILE_ASPI"
 
         # ------------------------
@@ -132,12 +138,58 @@ while read -r URL; do
         # -----------------------------
         # Extraction des contextes
         # -----------------------------
+
         grep -E -C 1 "$REGEX" "$FILE_DUMP" | sed -E "s/($REGEX)/..\1../gi" > "$FILE_CONTEXTES"
     fi
+
+# -----------------------------
+# Génération du concordancier HTML
+# -----------------------------
+
+echo "<html>
+<head>
+<meta charset=\"UTF-8\" />
+<title>Concordances – estado</title>
+<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css\">
+</head>
+<body>
+<div class=\"container\">
+<h2 class=\"title\">Concordances autour de <em>estado</em></h2>
+
+<table class=\"table is-striped is-narrow is-fullwidth\">
+<thead>
+<tr>
+<th class=\"has-text-right\">Contexte gauche</th>
+<th class=\"has-text-centered\">Cible</th>
+<th>Contexte droit</th>
+</tr>
+</thead>
+<tbody>" > "$FILE_CONCORD"
+
+grep -Eio ".{0,30}\b($REGEX)\b.{0,30}" "$FILE_DUMP" | while read -r line; do
+
+    gauche=$(echo "$line" | sed -E "s/(.*)\b($REGEX)\b.*/\1/I")
+    cible=$(echo "$line" | grep -Eio "\b($REGEX)\b")
+    droite=$(echo "$line" | sed -E "s/.*\b($REGEX)\b(.*)/\2/I")
+
+    echo "<tr>
+<td class=\"has-text-right\">$gauche</td>
+<td class=\"has-text-centered has-text-success\"><strong>$cible</strong></td>
+<td>$droite</td>
+</tr>" >> "$FILE_CONCORD"
+
+done
+
+echo "</tbody>
+</table>
+</div>
+</body>
+</html>" >> "$FILE_CONCORD"
 
     # -----------------------------
     # Ajout de la ligne dans le tableau HTML
     # -----------------------------
+
     echo "<tr>" >> "$DIR_HTML_OUT"
     echo "<td>$ID</td>" >> "$DIR_HTML_OUT"
     echo "<td><a href=\"$URL\">Lien internet</a></td>" >> "$DIR_HTML_OUT"
@@ -157,6 +209,7 @@ done < "$URL_FILE"
 # -----------------------------
 # Fermeture du tableau HTML
 # -----------------------------
+
 echo "</table>" >> "$DIR_HTML_OUT"
 echo "</body></html>" >> "$DIR_HTML_OUT"
 
