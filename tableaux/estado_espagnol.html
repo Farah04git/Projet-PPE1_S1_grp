@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Projet de groupe PPE-25/26, espagnol</title>
+<title>Projet PPE-25/26 – espagnol</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
-</head>
 <style>
-.content{overflow:scroll}
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #999; padding: 0.5em; }
+th { font-weight: bold; }
+.error { color: red; font-weight: bold; }
 </style>
+</head>
 <body>
 <h2 class="title">Tableau <code>espagnol</code></h2>
-<table class="table">
+<table>
 <tr>
-<td>num Ligne</td>
-<td>URL</td>
-<td>Code HTTP</td>
-<td>Encodage</td>
-<td>Nombre d'occurences</td>
-<td>Page HTML brute</td>
-<td>Dump textuel</td>
-<td>Contextes (1 ligne)</td>
-<td>Concordancier HTML</td>
+<th>num Ligne</th>
+<th>URL</th>
+<th>Code HTTP</th>
+<th>Encodage</th>
+<th>Nombre d'occurences</th>
+<th>Page HTML brute</th>
+<th>Dump textuel</th>
+<th>Contextes</th>
+<th>Concordancier</th>
 </tr>
 <tr>
 <td>1</td>
@@ -29,10 +32,10 @@
 <td>      28</td>
 <td><a href=".../../aspirations/espagnol/es-1.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-1.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-1.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-1.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-1.html">concordancier</a></td>
 </tr>
-<tr>
+<tr style="background-color: #FFFACD;">
 <td>2</td>
 <td><a href="https://sil.gobernacion.gob.mx/Glosario/definicionpop.php?ID=96">Lien internet</a></td>
 <td>200</td>
@@ -40,7 +43,7 @@
 <td>      11</td>
 <td><a href=".../../aspirations/espagnol/es-2.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-2.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-2.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-2.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-2.html">concordancier</a></td>
 </tr>
 <tr>
@@ -51,7 +54,7 @@
 <td>      19</td>
 <td><a href=".../../aspirations/espagnol/es-3.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-3.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-3.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-3.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-3.html">concordancier</a></td>
 </tr>
 <tr>
@@ -62,7 +65,7 @@
 <td>      11</td>
 <td><a href=".../../aspirations/espagnol/es-4.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-4.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-4.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-4.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-4.html">concordancier</a></td>
 </tr>
 <tr>
@@ -73,7 +76,7 @@
 <td>      38</td>
 <td><a href=".../../aspirations/espagnol/es-5.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-5.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-5.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-5.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-5.html">concordancier</a></td>
 </tr>
 <tr>
@@ -84,7 +87,7 @@
 <td>     245</td>
 <td><a href=".../../aspirations/espagnol/es-6.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-6.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-6.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-6.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-6.html">concordancier</a></td>
 </tr>
 <tr>
@@ -95,7 +98,7 @@
 <td>      84</td>
 <td><a href=".../../aspirations/espagnol/es-7.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-7.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-7.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-7.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-7.html">concordancier</a></td>
 </tr>
 <tr>
@@ -106,7 +109,7 @@
 <td>       9</td>
 <td><a href=".../../aspirations/espagnol/es-8.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-8.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-8.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-8.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-8.html">concordancier</a></td>
 </tr>
 <tr>
@@ -117,7 +120,7 @@
 <td>      65</td>
 <td><a href=".../../aspirations/espagnol/es-9.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-9.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-9.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-9.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-9.html">concordancier</a></td>
 </tr>
 <tr>
@@ -128,7 +131,7 @@
 <td>       8</td>
 <td><a href=".../../aspirations/espagnol/es-10.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-10.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-10.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-10.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-10.html">concordancier</a></td>
 </tr>
 <tr>
@@ -139,7 +142,7 @@
 <td>      42</td>
 <td><a href=".../../aspirations/espagnol/es-11.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-11.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-11.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-11.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-11.html">concordancier</a></td>
 </tr>
 <tr>
@@ -150,10 +153,10 @@
 <td>      36</td>
 <td><a href=".../../aspirations/espagnol/es-12.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-12.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-12.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-12.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-12.html">concordancier</a></td>
 </tr>
-<tr>
+<tr style="background-color: #FFFACD;">
 <td>13</td>
 <td><a href="https://www.fqsaja.com/la-naturaleza-de-los-cambios-de-estado/">Lien internet</a></td>
 <td>000</td>
@@ -161,7 +164,7 @@
 <td>0</td>
 <td><a href=".../../aspirations/espagnol/es-13.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-13.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-13.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-13.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-13.html">concordancier</a></td>
 </tr>
 <tr>
@@ -172,7 +175,7 @@
 <td>       8</td>
 <td><a href=".../../aspirations/espagnol/es-14.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-14.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-14.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-14.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-14.html">concordancier</a></td>
 </tr>
 <tr>
@@ -183,7 +186,7 @@
 <td>      28</td>
 <td><a href=".../../aspirations/espagnol/es-15.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-15.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-15.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-15.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-15.html">concordancier</a></td>
 </tr>
 <tr>
@@ -194,7 +197,7 @@
 <td>       9</td>
 <td><a href=".../../aspirations/espagnol/es-16.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-16.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-16.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-16.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-16.html">concordancier</a></td>
 </tr>
 <tr>
@@ -205,7 +208,7 @@
 <td>      11</td>
 <td><a href=".../../aspirations/espagnol/es-17.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-17.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-17.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-17.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-17.html">concordancier</a></td>
 </tr>
 <tr>
@@ -216,7 +219,7 @@
 <td>       8</td>
 <td><a href=".../../aspirations/espagnol/es-18.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-18.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-18.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-18.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-18.html">concordancier</a></td>
 </tr>
 <tr>
@@ -227,7 +230,7 @@
 <td>      32</td>
 <td><a href=".../../aspirations/espagnol/es-19.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-19.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-19.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-19.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-19.html">concordancier</a></td>
 </tr>
 <tr>
@@ -238,7 +241,7 @@
 <td>      23</td>
 <td><a href=".../../aspirations/espagnol/es-20.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-20.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-20.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-20.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-20.html">concordancier</a></td>
 </tr>
 <tr>
@@ -249,7 +252,7 @@
 <td>       9</td>
 <td><a href=".../../aspirations/espagnol/es-21.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-21.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-21.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-21.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-21.html">concordancier</a></td>
 </tr>
 <tr>
@@ -260,7 +263,7 @@
 <td>      26</td>
 <td><a href=".../../aspirations/espagnol/es-22.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-22.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-22.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-22.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-22.html">concordancier</a></td>
 </tr>
 <tr>
@@ -271,7 +274,7 @@
 <td>       5</td>
 <td><a href=".../../aspirations/espagnol/es-23.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-23.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-23.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-23.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-23.html">concordancier</a></td>
 </tr>
 <tr>
@@ -282,7 +285,7 @@
 <td>       5</td>
 <td><a href=".../../aspirations/espagnol/es-24.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-24.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-24.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-24.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-24.html">concordancier</a></td>
 </tr>
 <tr>
@@ -290,10 +293,10 @@
 <td><a href="https://es.gizmodo.com/el-responsable-de-tu-estado-de-animo-que-no-esta-en-tu-cerebro-2000204797">Lien internet</a></td>
 <td>200</td>
 <td>utf-8</td>
-<td>       5</td>
+<td>       7</td>
 <td><a href=".../../aspirations/espagnol/es-25.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-25.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-25.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-25.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-25.html">concordancier</a></td>
 </tr>
 <tr>
@@ -304,10 +307,10 @@
 <td>       5</td>
 <td><a href=".../../aspirations/espagnol/es-26.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-26.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-26.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-26.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-26.html">concordancier</a></td>
 </tr>
-<tr>
+<tr style="background-color: #FFFACD;">
 <td>27</td>
 <td><a href="https://www.rfi.fr/es/europa/20251216-el-jefe-del-estado-mayor-insta-a-más-británicos-a-prepararse-para-combatir-ante-la-amenaza-rusa">Lien internet</a></td>
 <td>403</td>
@@ -315,7 +318,7 @@
 <td>0</td>
 <td><a href=".../../aspirations/espagnol/es-27.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-27.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-27.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-27.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-27.html">concordancier</a></td>
 </tr>
 <tr>
@@ -326,7 +329,7 @@
 <td>      12</td>
 <td><a href=".../../aspirations/espagnol/es-28.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-28.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-28.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-28.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-28.html">concordancier</a></td>
 </tr>
 <tr>
@@ -337,7 +340,7 @@
 <td>       9</td>
 <td><a href=".../../aspirations/espagnol/es-29.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-29.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-29.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-29.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-29.html">concordancier</a></td>
 </tr>
 <tr>
@@ -348,7 +351,7 @@
 <td>      10</td>
 <td><a href=".../../aspirations/espagnol/es-30.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-30.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-30.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-30.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-30.html">concordancier</a></td>
 </tr>
 <tr>
@@ -359,10 +362,10 @@
 <td>       2</td>
 <td><a href=".../../aspirations/espagnol/es-31.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-31.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-31.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-31.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-31.html">concordancier</a></td>
 </tr>
-<tr>
+<tr style="background-color: #FFFACD;">
 <td>32</td>
 <td><a href="https://www.elnuevoherald.com/noticias/america-latina/article314101615.html">Lien internet</a></td>
 <td>000</td>
@@ -370,7 +373,7 @@
 <td>0</td>
 <td><a href=".../../aspirations/espagnol/es-32.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-32.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-32.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-32.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-32.html">concordancier</a></td>
 </tr>
 <tr>
@@ -381,7 +384,7 @@
 <td>      17</td>
 <td><a href=".../../aspirations/espagnol/es-33.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-33.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-33.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-33.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-33.html">concordancier</a></td>
 </tr>
 <tr>
@@ -392,7 +395,7 @@
 <td>      17</td>
 <td><a href=".../../aspirations/espagnol/es-34.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-34.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-34.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-34.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-34.html">concordancier</a></td>
 </tr>
 <tr>
@@ -403,7 +406,7 @@
 <td>      16</td>
 <td><a href=".../../aspirations/espagnol/es-35.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-35.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-35.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-35.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-35.html">concordancier</a></td>
 </tr>
 <tr>
@@ -414,7 +417,7 @@
 <td>      12</td>
 <td><a href=".../../aspirations/espagnol/es-36.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-36.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-36.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-36.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-36.html">concordancier</a></td>
 </tr>
 <tr>
@@ -425,7 +428,7 @@
 <td>      25</td>
 <td><a href=".../../aspirations/espagnol/es-37.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-37.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-37.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-37.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-37.html">concordancier</a></td>
 </tr>
 <tr>
@@ -436,7 +439,7 @@
 <td>      21</td>
 <td><a href=".../../aspirations/espagnol/es-38.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-38.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-38.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-38.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-38.html">concordancier</a></td>
 </tr>
 <tr>
@@ -447,7 +450,7 @@
 <td>      11</td>
 <td><a href=".../../aspirations/espagnol/es-39.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-39.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-39.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-39.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-39.html">concordancier</a></td>
 </tr>
 <tr>
@@ -458,7 +461,7 @@
 <td>      29</td>
 <td><a href=".../../aspirations/espagnol/es-40.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-40.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-40.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-40.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-40.html">concordancier</a></td>
 </tr>
 <tr>
@@ -469,7 +472,7 @@
 <td>       7</td>
 <td><a href=".../../aspirations/espagnol/es-41.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-41.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-41.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-41.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-41.html">concordancier</a></td>
 </tr>
 <tr>
@@ -480,7 +483,7 @@
 <td>      12</td>
 <td><a href=".../../aspirations/espagnol/es-42.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-42.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-42.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-42.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-42.html">concordancier</a></td>
 </tr>
 <tr>
@@ -491,7 +494,7 @@
 <td>      11</td>
 <td><a href=".../../aspirations/espagnol/es-43.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-43.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-43.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-43.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-43.html">concordancier</a></td>
 </tr>
 <tr>
@@ -502,7 +505,7 @@
 <td>      17</td>
 <td><a href=".../../aspirations/espagnol/es-44.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-44.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-44.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-44.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-44.html">concordancier</a></td>
 </tr>
 <tr>
@@ -513,7 +516,7 @@
 <td>      13</td>
 <td><a href=".../../aspirations/espagnol/es-45.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-45.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-45.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-45.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-45.html">concordancier</a></td>
 </tr>
 <tr>
@@ -524,7 +527,7 @@
 <td>      14</td>
 <td><a href=".../../aspirations/espagnol/es-46.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-46.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-46.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-46.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-46.html">concordancier</a></td>
 </tr>
 <tr>
@@ -535,7 +538,7 @@
 <td>       9</td>
 <td><a href=".../../aspirations/espagnol/es-47.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-47.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-47.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-47.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-47.html">concordancier</a></td>
 </tr>
 <tr>
@@ -546,7 +549,7 @@
 <td>       5</td>
 <td><a href=".../../aspirations/espagnol/es-48.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-48.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-48.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-48.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-48.html">concordancier</a></td>
 </tr>
 <tr>
@@ -557,7 +560,7 @@
 <td>       6</td>
 <td><a href=".../../aspirations/espagnol/es-49.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-49.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-49.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-49.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-49.html">concordancier</a></td>
 </tr>
 <tr>
@@ -565,11 +568,10 @@
 <td><a href="https://www.diariodecadiz.es/costa-noroeste/ugt-denuncia-lamentable-acceso-estacio-residuos-sanlucar_0_2005540317.html">Lien internet</a></td>
 <td>200</td>
 <td>utf-8</td>
-<td>       9</td>
+<td>       8</td>
 <td><a href=".../../aspirations/espagnol/es-50.html">HTML brute</a></td>
 <td><a href=".../../dumps-text/espagnol/es-50.txt">dump</a></td>
-<td><a href=".../../contextes/espagnol/contxt_es-50.txt">contxt</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-50.txt">contexte</a></td>
 <td><a href=".../../concordances/espagnol/concordancier-es-50.html">concordancier</a></td>
 </tr>
-</table>
-</body></html>
+</table></body></html>

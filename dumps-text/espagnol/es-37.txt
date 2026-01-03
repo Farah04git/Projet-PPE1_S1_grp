@@ -2,8 +2,8 @@
    ABC
    3 de enero de 2026
    Ir a ABC en el Este
-   Espacios  Tendencias
-   ABC TV de 170000 a 175900
+   Empresas y Empresarios
+   ABC TV de 180000 a 185900
    Ver ABC TV
    Fútbol Paraguayo Torneo Apertura
    ABC Cardinal AM de 1700 a 1859
@@ -14,8 +14,8 @@
    Solo Música
    ABC FM 1200 a 2359
    Escuchar ABC FM
-   Espacios  Tendencias
-   ABC TV de 170000 a 175900
+   Empresas y Empresarios
+   ABC TV de 180000 a 185900
    Ver ABC TV
    Fútbol Paraguayo Torneo Apertura
    ABC Cardinal AM de 1700 a 1859
@@ -23,8 +23,8 @@
    Solo Música
    ABC FM 1200 a 2359
    Escuchar ABC FM
-   Espacios  Tendencias
-   ABC TV de 170000 a 175900
+   Empresas y Empresarios
+   ABC TV de 180000 a 185900
    Ver ABC TV
    Fútbol Paraguayo Torneo Apertura
    ABC Cardinal AM de 1700 a 1859
@@ -32,7 +32,7 @@
    Solo Música
    ABC FM 1200 a 2359
    Escuchar ABC FM
-   32º
+   29º
    Ahora
    ver más
    29º
@@ -101,13 +101,13 @@
            SeccionesEDICIÓN IMPRESAABC DIGITALABC ePaper
       ePaper
       ABC Revista
-   32º
+   29º
    Ahora
    HOY
    Min
    23º
    Máx
-   35º
+   37º
    undefined 20260104
    Min
    18º
@@ -191,7 +191,7 @@ Lo más leído
    La reacción de Rusia a intervención militar de EEUU en Venezuela
    Ver más
    Mundo
-   Varias detonaciones sacuden Caracas en medio de tensiones con EEUU
+   Postura de Peña a intervención militar de EEUU en Venezuela
    Ver más
    Escolar
    21 de abril de 2021  1623
