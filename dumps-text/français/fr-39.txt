@@ -22,7 +22,7 @@
    Fermer
    S’abonner au journal Se connecter
       À la Une
-       Édition du soir
+       Édition de la mi-journée
       Vidéos
       Enquêtes
       Dossiers
@@ -266,20 +266,19 @@ Agrandissement : Illustration 1
 
    Les articles les plus lus
 
-      Médias
+      Chômage
 
-       L’Arcom tance CNews pour des propos discriminatoires à l’égard des
-       personnes musulmanes ou d’origine immigrée
+       À France Travail, un an après la loi plein-emploi : des métiers vides
+       de sens
 
       Habitat — Reportage
 
        « Dormir dans le froid glace le sang » : les personnes sans abri
        errent dans Paris en quête d’un toit
 
-      Transparence et probité
+      Élysée et gouvernement — Analyse
 
-       Condamnation et démission du président de la Métropole de Lille,
-       Damien Castelain : la sévérité des juges, la mansuétude des élus
+       Président sans influence, Macron présente ses vœux pieux
 
       Extrême droite
 
@@ -300,36 +299,49 @@ Agrandissement : Illustration 1
 
       Billet de blog
 
-       Comment Bardot a dévoré Saint-Tropez
+       « Un diagnostic, un cacheton, demain ça ira mieux » : lettre d'une
+       psychologue clinicienne
 
       Billet de blog
 
-       En hommage à Mohammed Harbi (19332026)
+       Qui Charlie fait-il encore rire ?
 
    À la Une de Mediapart
 
-      L’échappée — Vidéo
+      International
 
-       L’aventure lumineuse de Felwine Sarr
+       Trump annonce la « capture » et l'inculpation du président Maduro
 
-       Figure intellectuelle du continent africain, l’universitaire et
-       écrivain sénégalais refuse que les ombres gagnent. Depuis la Cité
-       internationale des arts à Paris, voici son message d’espérance.
+       Nicolás Maduro et sa femme capturés par l’administration Trump et
+       inculpés à New York : après les frappes états-unienne cette nuit sur
+       Caracas, le Venezuela se retrouve sans président. Les réactions
+       internationales se multiplient, tandis que la Colombie annonce masser
+       des troupes sur sa frontière avec le Venezuela.
 
-       par Edwy Plenel
+       par La rédaction de Mediapart et Agence France-Presse
 
-      Europe
+      Extrême droite — Analyse
 
-       Les bons comptes de Christine Lagarde, qui gagne bien plus que ce que
-       la BCE mentionne
+       Pourquoi l’extrême droite est au centre du jeu politique et va y
+       rester
 
-       L’ancienne ministre de Nicolas Sarkozy devenue présidente de la Banque
-       centrale européenne a, selon le « Financial Times », touché en réalité
-       56 % de plus que son salaire officiel. Un montant total trois fois
-       supérieur à celui du président de la Fed, la Réserve fédérale
-       états-unienne.
+       En 2025, cette force politique a encore fortement progressé dans de
+       nombreuses élections en Europe et dans le monde. Une poussée qui
+       trouve son origine dans l’affaiblissement de ses adversaires, mais
+       aussi dans une dynamique propre de déni et de violence. 
 
-       par Romaric Godin
+       par Fabien Escalona et Romaric Godin
+
+      Afrique(s)
+
+       Au Maroc, la Coupe d’Afrique des nations n’est pas qu’un jeu de ballon
+
+       Avec le démarrage des huitièmes de finale de la CAN 2025 et la
+       qualification de toutes les équipes favorites, la grand-messe du
+       football africain se poursuit. Avec ses enjeux aussi sportifs que
+       politiques : relations Algérie-Maroc, absence du roi...
+
+       par Omar Brouksy
 
       Proche et Moyen-Orient
 
@@ -343,20 +355,31 @@ Agrandissement : Illustration 1
 
        par Jean-Pierre Perrin
 
-      Europe — Dépêche
-
-       Incendie d’un bar en Suisse : 40 morts et 119 blessés, l’enquête et
-       l’identification des victimes progressent
-
-       Selon la police du canton du Valais, l’identification des victimes se
-       poursuit et « tous ces chiffres peuvent évoluer ». Beaucoup de blessés
-       ont été hospitalisés dans des pays frontaliers. « Aucune
-       responsabilité pénale n’a été établie » pour l’instant, selon la
-       procureure générale.
-
-       par Agence France-Presse
-
    La sélection du Club
+
+      Billet de blog
+
+       Le malaimé des forêts : lecture antispéciste de la pub d’Intermarché
+
+       Le conte de Noël publicitaire d'Intermarché mettant en scène un loup
+       « végétarien » semble avoir ému. Mais certains discours suscités par
+       la publicité, ou qui l’ont accompagnée, méritent qu’on s’y attarde ;
+       et le fond de la vidéo d’être interrogé.
+
+       par Julia Soudanas
+
+      Billet de blog
+
+       Tour de France : « Nos montagnes ne sont pas des stades ! »
+
+       Le final de l'étape reine du prochain Tour de France doit se dérouler
+       dans l'un des vallons les plus sauvages d'Europe. C'est une faune
+       précieuse et vulnérable qui risque d'être dérangée par des milliers de
+       spectateurs et des hélicoptères... à une période où naissent tétras
+       lyre, lagopèdes et perdrix bartavelles. En outre, des travaux sont à
+       craindre pour quelques minutes de télévision.
+
+       par Matthieu Stelvio
 
       Billet de blog
 
@@ -375,19 +398,6 @@ Agrandissement : Illustration 1
 
       Billet de blog
 
-       Tour de France : « Nos montagnes ne sont pas des stades ! »
-
-       Le final de l'étape reine du prochain Tour de France doit se dérouler
-       dans l'un des vallons les plus sauvages d'Europe. C'est une faune
-       précieuse et vulnérable qui risque d'être dérangée par des milliers de
-       spectateurs et des hélicoptères... à une période où naissent tétras
-       lyre, lagopèdes et perdrix bartavelles. En outre, des travaux sont à
-       craindre pour quelques minutes de télévision.
-
-       par Matthieu Stelvio
-
-      Billet de blog
-
        L'A154 est un nouveau symbole de gaspillage et de mépris pour notre
        territoire
 
@@ -400,17 +410,6 @@ Agrandissement : Illustration 1
        travaux inutiles. Par un collectif de parlementaires et élu·es locaux.
 
        par Les invités de Mediapart
-
-      Billet de blog
-
-       Le malaimé des forêts : lecture antispéciste de la pub d’Intermarché
-
-       Le conte de Noël publicitaire d'Intermarché mettant en scène un loup
-       « végétarien » semble avoir ému. Mais certains discours suscités par
-       la publicité, ou qui l’ont accompagnée, méritent qu’on s’y attarde ;
-       et le fond de la vidéo d’être interrogé.
-
-       par Julia Soudanas
 
    Suivez Mediapart :
 

@@ -1,58 +1,58 @@
-   le suivi du réseau national piézométrique qui comporte 1860 points de
-   forage. Ces derniers permettent de connaître en temps réel l’..état..
-   quantitatif des grandes nappes phréatiques exploitées. À partir de ces
+      Espace pédagogique
+      [État] des nappes d’eau souterraine
+      Recrutement et carrières
+      Accueil
+      [État] des nappes d’eau souterraine : un suivi assuré par le BRGM
+
+        [État] des nappes d’eau souterraine : un suivi assuré par le BRGM
+
+   forage.
+ Ces derniers permettent de connaître en temps réel l’[état]
+   quantitatif des grandes nappes phréatiques exploitées.
    données, le BRGM édite notamment un bulletin de situation des nappes afin
-   de décrire l’..état.. des nappes d’eau souterraine.
+   de décrire l’[état] des nappes d’eau souterraine.
 
---
    Le niveau des nappes varie au cours de l’année, entre des niveaux hauts
-   l’hiver (quand la vég..état..ion n’absorbe pas l’eau des pluies) et des
+   l’hiver (quand la vég[état]ion n’absorbe pas l’eau des pluies) et des
    niveaux bas l’été (période classique de vidange des nappes).
---
    Le devenir d'une pluie est très différent selon la période de l'année et
-   l'..état.. de la surface sur laquelle elle tombe. Traditionnellement, la
-   période de recharge des nappes s'étend du début de l'automne (septembre -
+   l'[état] de la surface sur laquelle elle tombe.
+ Traditionnellement, la
    octobre) au début du printemps (mars  avril), semestre durant lequel la
-   vég..état..ion est en sommeil (avec une évapotranspiration faible) et les
-   précipitations sont en principe plus abondantes. Si l'hiver est sec, la
---
+   vég[état]ion est en sommeil (avec une évapotranspiration faible) et les
+   précipitations sont en principe plus abondantes.
    À partir du printemps et durant l’été, la hausse des températures, la
-   reprise de la vég..état..ion, et donc l’augmentation de l’évapotranspiration,
-   limitent l’infiltration des pluies vers les nappes. Entre mai et octobre,
---
-   du sous-sol français. Aujourd’hui, le pays dispose d’un ensemble
-   d’instruments de mesures qui lui donne une vision très étoffée de l’..état..
-   quantitatif et chimique des eaux souterraines. Le BRGM est en charge de la
---
-   piézométrique qui comporte 1860 points de forage. Ces derniers plongent
-   dans le sous-sol et permettent de connaitre en temps réel l’..état..
+   reprise de la vég[état]ion, et donc l’augmentation de l’évapotranspiration,
+   limitent l’infiltration des pluies vers les nappes.
+ Aujourd’hui, le pays dispose d’un ensemble
+   d’instruments de mesures qui lui donne une vision très étoffée de l’[état]
+   quantitatif et chimique des eaux souterraines.
+ Ces derniers plongent
+   dans le sous-sol et permettent de connaitre en temps réel l’[état]
    quantitatif des grandes nappes phréatiques exploitées, les piézomètres
---
    Le BRGM, service géologique national, publie chaque mois son bulletin de
-   situation des nappes (ou BSN) qui fait le point sur l’..état.. quantitatif des
-   nappes d'eau souterraine. Ce point de situation compare le mois en cours
---
+   situation des nappes (ou BSN) qui fait le point sur l’[état] quantitatif des
+   nappes d'eau souterraine.
    surveillance national, le BRGM établit des indicateurs de niveau afin de
-   faciliter l’interpr..état..ion des données. Quand un forage piézométrique
-   dispose d’un minimum de 15 ans de données, il est jugé apte à établir des
---
+   faciliter l’interpr[état]ion des données.
+ Quand un forage piézométrique
    précipitations développé par Météo-France, ce qui facilite la comparaison
-   de l’..état.. des nappes avec les épisodes climatiques.
+   de l’[état] des nappes avec les épisodes climatiques.
 
---
-   l’Europe. Ces prévisions sont utilisées par le BRGM pour réaliser une
-   projection de l’..état.. des nappes, intégrée dans le bulletin mensuel sur
-   l’..état.. des nappes d’eau souterraine.
+ Ces prévisions sont utilisées par le BRGM pour réaliser une
+   projection de l’[état] des nappes, intégrée dans le bulletin mensuel sur
+   l’[état] des nappes d’eau souterraine.
 
---
-   saisonnières estivales sur la situation des nappes. L’élaboration de la
-   carte du risque sécheresse repose sur l’..état.. initial des nappes après la
+ L’élaboration de la
+   carte du risque sécheresse repose sur l’[état] initial des nappes après la
    période de recharge hivernale, sur des prévisions saisonnières de
---
    aquatiques (pluies efficaces, débits des cours d’eau, niveau des nappes
-   d’eau souterraine, ..état.. de remplissage des barrages-réservoirs) et fournit
+   d’eau souterraine, [état] de remplissage des barrages-réservoirs) et fournit
    une information synthétique sur les arrêtés préfectoraux pris pour limiter
---
 
-   Pour faciliter l’accès à la connaissance de l’..état.. des nappes, et
-   permettre une meilleure gestion de la ressource par les services de l’..État..
+   Pour faciliter l’accès à la connaissance de l’[état] des nappes, et
+   permettre une meilleure gestion de la ressource par les services de l’[État]
+   et les collectivités, le BRGM a conduit 10 ans durant un vaste chantier
+       bulletins de situation des nappes, études régionales, spécialement
+       conçus pour les collectivités, les services de l’[État] et les experts.
+
