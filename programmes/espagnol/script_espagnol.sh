@@ -9,65 +9,62 @@ URL_FILE=$1
 # regex pour reconnaître les occurrences des versions du mot "estado"
 REGEX="[Ee]stado|[Ee]stados"
 
-# dossiers de sortie
-DIR_ASPI="./aspirations/espagnol"
-DIR_CONTXT="./contextes/espagnol/"
-DIR_DUMP="./dumps-text/espagnol/"
-DIR_CONCORD="./concordances/espagnol"
-DIR_HTML_OUT="./tableaux/estado_espagnol.html"
+# chemins relatifs fixes (depuis programmes/espagnol)
+DIR_BASE="../.."
+DIR_ASPI="$DIR_BASE/aspirations/espagnol"
+DIR_CONTXT="$DIR_BASE/contextes/espagnol"
+DIR_DUMP="$DIR_BASE/dumps-text/espagnol"
+DIR_CONCORD="$DIR_BASE/concordances/espagnol"
+DIR_HTML_OUT="$DIR_BASE/tableaux/estado_espagnol.html"
 
 # appel à un user agent pour simuler le navigateur et éviter les blocages
 USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 # ------------------------
-# Vérification de l'arguments 
+# Vérification de l'argument
 # ------------------------
-
-if [ $# -ne 1 ] ; then
-	echo "Usage : ce programme nécessite 1 argument : urls.txt"
-	exit 1
+if [ $# -ne 1 ]; then
+    echo "Usage : ce programme nécessite 1 argument : urls.txt"
+    exit 1
 fi
 
-if [ ! -f "$URL_FILE" ] ; then
+if [ ! -f "$URL_FILE" ]; then
     echo "Erreur : le fichier '$URL_FILE' n'a pas été trouvé"
     exit 1
 fi
 
 # ------------------------
+# Création des dossiers si inexistants
+# ------------------------
+mkdir -p "$DIR_ASPI" "$DIR_CONTXT" "$DIR_DUMP" "$DIR_CONCORD" "$(dirname "$DIR_HTML_OUT")"
+
+# ------------------------
 # Création du tableau HTML espagnol
 # ------------------------
-
 TAB_HTML=$(
-	echo "<!DOCTYPE html>"
-	echo "<html>"
-	echo "<head>"
-	echo "<title>Projet de groupe PPE-25/26, espagnol</title>"
-	echo "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css\">"
-	echo "</head>"
-	
-	echo "<style>"
+    echo "<!DOCTYPE html>"
+    echo "<html>"
+    echo "<head>"
+    echo "<title>Projet de groupe PPE-25/26, espagnol</title>"
+    echo "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css\">"
+    echo "</head>"
+    echo "<style>"
     echo ".content{overflow:scroll}"
-	echo "</style>"
-	
-	echo "<body>"
-	echo "<h2 class=\"title\" >Tableau <code>espagnol</code></h2>"
-	echo "<table class=\"table\" >"
-	echo "<tr>"
-
-	# Colones du tableau
-
-	echo "<td>" "num Ligne" "</td>"
-	echo "<td>" "URL" "</td>"
-	echo "<td>" "Code HTTP" "</td>"
-	echo "<td>" "Encodage" "</td>"
-	echo "<td>" "Nombre d'occurences" "</td>"
-	echo "<td>" "Page HTML brute" "</td>"
-	echo "<td>" "Dump textuel" "</td>"
-	echo "<td>" "Contextes (1 ligne)" "</td>"
-	echo "<td>" "Concordancier HTML" "</td>"
-
-	echo "</tr>"
-
+    echo "</style>"
+    echo "<body>"
+    echo "<h2 class=\"title\">Tableau <code>espagnol</code></h2>"
+    echo "<table class=\"table\">"
+    echo "<tr>"
+    echo "<td>num Ligne</td>"
+    echo "<td>URL</td>"
+    echo "<td>Code HTTP</td>"
+    echo "<td>Encodage</td>"
+    echo "<td>Nombre d'occurences</td>"
+    echo "<td>Page HTML brute</td>"
+    echo "<td>Dump textuel</td>"
+    echo "<td>Contextes (1 ligne)</td>"
+    echo "<td>Concordancier HTML</td>"
+    echo "</tr>"
 )
 
 echo "$TAB_HTML" > "$DIR_HTML_OUT"
@@ -76,82 +73,72 @@ echo "$TAB_HTML" > "$DIR_HTML_OUT"
 # Lecture et aspirations
 # ------------------------
 
-# compteur qui va numéroter les fichiers (ex : dump_1) 
-ID=1
+ID=1  # compteur pour numéroter les fichiers
 
-# ouverture de la boucle qui va lire mon fichier espagnol ligne par ligne
-while read -r URL ; do
+while read -r URL; do
 
-# On crée on fichier temporaire (tmp) pour stocker la page HTML brute (pour ne pas ralentir ou faire planter le script)
-# facile à nettoyer après
-TEMP_HTML="/tmp/raw_$ID.html"
+    # fichier temporaire pour stocker la page HTML brute
+    TEMP_HTML="/tmp/raw_$ID.html"
 
-# Requête HTTP pour récupérer la page (boucle if)
-    # -s : silencieux (pas de barre de progression)
+    # ------------------------
+    # Requête HTTP pour récupérer la page
+    # -s : silencieux
     # -L : suivre les redirections
-    # -A : définit l'user-agent (simule un navigateur)
-    # -o : écrit le contenu dans TEMP_HTML
-    # -w "%{HTTP_CODE}" : récupère le code HTTP en sortie
+    # -A : user-agent
+    # -o : sortie dans TEMP_HTML
+    # -w "%{http_code}" : récupère le code HTTP
+    # ------------------------
+    HTTP_CODE=$(curl -s -L -A "$USER_AGENT" -o "$TEMP_HTML" -w "%{http_code}" "$URL")
 
-HTTP_CODE=$(curl -s -L -A "$USER_AGENT" -o "$TEMP_HTML" -w "%{http_code}" "$URL")
+    FILE_ASPI="$DIR_ASPI/es-$ID.html"
+    FILE_DUMP="$DIR_DUMP/es-$ID.txt"
+    FILE_CONTEXTES="$DIR_CONTXT/contxt_es-$ID.txt"
+    FILE_CONCORD="$DIR_CONCORD/concordancier-es-$ID.html"
 
-# Vérification du code HTTP
+    # ------------------------
+    # Gestion des erreurs
+    # ------------------------
+    if [[ "$HTTP_CODE" != "200" ]]; then
+        echo "Erreur : $URL non traité (HTTP $HTTP_CODE)"
+        # on va créer des fichiers vides pour ne pas casser le script
+        touch "$FILE_ASPI" "$FILE_DUMP" "$FILE_CONTEXTES" "$FILE_CONCORD"
+        ENCODING="N/A"
+        TOTAL_OCCURENCES=0
+    else
+        # ------------------------
+        # si jamais, on copie la page HTML brute
+        # ------------------------
+        cp "$TEMP_HTML" "$FILE_ASPI"
 
-if [[ "$HTTP_CODE" != "200" ]]; then
-    echo "Erreur : $URL non traité (HTTP $HTTP_CODE)"
-    continue   # passe à l'URL suivante
-fi
+        # ------------------------
+        # Détection de l'encodage
+        # ------------------------
+        ENCODING=$(file --mime-encoding --brief "$FILE_ASPI")
+        echo "L'encodage est le suivant : $ENCODING"
 
-# On copie la page HTML brute dans le dossier "aspirations"
+        # -----------------------------
+        # Création du dump textuel
+        # -----------------------------
+        links -dump "$FILE_ASPI" > "$FILE_DUMP"
 
-FILE_ASPI="$DIR_ASPI/es-$ID.html"
-cp "$TEMP_HTML" "$FILE_ASPI"
+        # suppression des caractères non souhaités
+        sed -i '' "s/[^[:alnum:][:space:]ñÑáéíóúüÁÉÍÓÚÜ¿¡–—]//g" "$FILE_DUMP"
 
-# On détecte l'encodage : 
+        # -----------------------------
+        # Comptage des occurences de la regex
+        # -----------------------------
+        TOTAL_OCCURENCES=$(grep -Eio "$REGEX" "$FILE_DUMP" | wc -l)
 
-ENCODING=$(file --mime-encoding --brief "$FILE_ASPI")
-    echo "L'encodage est le suivant : $ENCODING"
+        # -----------------------------
+        # Extraction des contextes
+        # -----------------------------
+        grep -E -C 1 "$REGEX" "$FILE_DUMP" | sed -E "s/($REGEX)/..\1../gi" > "$FILE_CONTEXTES"
+    fi
 
-	# -----------------------------
-    # Création du dump textuel 
     # -----------------------------
-
-    # On va maintenant convertir le contenu HTML en texte brut (sans les balises)
-
-# Ici on crée le fichier dump textuel
-
-FILE_DUMP="$DIR_DUMP/es-$ID.txt"
-links -dump "$FILE_ASPI" > "$FILE_DUMP"
-
-# Avec la commande sed -i on va supprimer : 
-	#[^...] : tout ce qui n’est pas dans la liste
-	#[:alnum:] : les lettres et les chiffres classiques
-	#[:space:] : les espaces, tabulations et retours à la ligne
-	# ñÑáéíóúüÁÉÍÓÚÜ : la liste des caractères spéciaux espagnols que l'on souhaite garder
-
-sed -i '' "s/[^[:alnum:][:space:]ñÑáéíóúüÁÉÍÓÚÜ¿¡–—]//g" "$FILE_DUMP"
-
-# -----------------------------
-# Comptage des occurences de la regex dans le dump
-# -----------------------------
-
-TOTAL_OCCURENCES=$(grep -Eio "$REGEX" "$FILE_DUMP" | wc -l)
-    echo "Nombre d'occurrences : $TOTAL_OCCURENCES"
-
-# -----------------------------
-# Extraction des contextes
-# -----------------------------
-
-# On va extraire 1 ligne autour de chaque occurence
-
-FILE_CONTEXTES="$DIR_CONTXT/contxt_es-$ID.txt"
-    grep -E -C 1 "$REGEX" "$FILE_DUMP" | sed -E "s/($REGEX)/..\1../gi" > "$FILE_CONTEXTES"
-
-# Et on va l'ajouter au tableau HTML
-
-FILE_CONCORD="$DIR_CONCORD/concordancier-es-$ID.html"
-
-echo "<tr>" >> "$DIR_HTML_OUT"
+    # Ajout de la ligne dans le tableau HTML
+    # -----------------------------
+    echo "<tr>" >> "$DIR_HTML_OUT"
     echo "<td>$ID</td>" >> "$DIR_HTML_OUT"
     echo "<td><a href=\"$URL\">Lien internet</a></td>" >> "$DIR_HTML_OUT"
     echo "<td>$HTTP_CODE</td>" >> "$DIR_HTML_OUT"
@@ -163,29 +150,14 @@ echo "<tr>" >> "$DIR_HTML_OUT"
     echo "<td><a href=\".$FILE_CONCORD\">concordancier</a></td>" >> "$DIR_HTML_OUT"
     echo "</tr>" >> "$DIR_HTML_OUT"
 
-    ID=$((ID + 1)) # pour augmenter de 1 la boucle
+    ID=$((ID + 1))
 
 done < "$URL_FILE"
 
 # -----------------------------
 # Fermeture du tableau HTML
 # -----------------------------
-
 echo "</table>" >> "$DIR_HTML_OUT"
 echo "</body></html>" >> "$DIR_HTML_OUT"
 
 echo ">>> Script terminé, tableau généré : $DIR_HTML_OUT"
-
-
-
-
-
-
-
-
-
-
-
-
-
-

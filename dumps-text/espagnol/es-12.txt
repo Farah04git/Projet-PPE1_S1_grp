@@ -1,0 +1,281 @@
+   Link canonical
+   Link license
+   Ir al contenido
+     Menú principal
+   Menú principal
+   Navegación
+      Portada
+      Portal de la comunidad
+      Actualidad
+      Cambios recientes
+      Páginas nuevas
+      Página aleatoria
+      Ayuda
+      Notificar un error
+      Páginas especiales
+   IMG Wikipedia La enciclopedia libre
+   Buscar
+   
+   Buscar
+     Apariencia
+      Donaciones
+      Crear una cuenta
+      Acceder
+     Herramientas personales
+      Donaciones
+      Crear una cuenta
+      Acceder
+
+Contenidos
+
+      Inicio
+      1 Estado físico en diferentes teorías físicas
+      2 Estado físico en mecánica clásica
+      3 Estado físico en mecánica cuántica
+           31 Mecánica cuántica relativista
+      4 Estado físico en termodinámica
+      5 Referencias
+           51 Bibliografía
+     Cambiar a la tabla de contenidos
+
+                                 Estado físico
+
+     6 idiomas
+      Asturianu
+      Català
+      Čeština
+      Deutsch
+      Norsk bokmål
+      Occitan
+   Editar enlaces
+      Artículo
+      Discusión
+     español
+      Leer
+      Editar
+      Ver historial
+     Herramientas
+   Herramientas
+   Acciones
+      Leer
+      Editar
+      Ver historial
+   General
+      Lo que enlaza aquí
+      Cambios en enlazadas
+      Subir archivo
+      Enlace permanente
+      Información de la página
+      Citar esta página
+      Obtener URL acortado
+      Descargar código QR
+   Imprimirexportar
+      Crear un libro
+      Descargar como PDF
+      Versión para imprimir
+   En otros proyectos
+      Wikiquote
+      Elemento de Wikidata
+   Apariencia
+   De Wikipedia la enciclopedia libre
+   Para otros usos de este término véase Condición física
+
+   Un estado físico es cada una de las situaciones o formas físicamente
+   distinguibles mediante la medición de algunas propiedades que puede
+   adoptar un sistema físico en su evolución temporal Es decir en un
+   sistema físico que está sufriendo cambios un estado físico es cualquiera
+   de las situaciones posibles como resultado de estos cambios
+
+Estado físico en diferentes teorías físicas
+
+   editar
+
+   La definición anterior es muy abstracta y toma sentidos ligeramente
+   diferentes según la teoría física de que se trate por eso merece
+   explicar el término más concretamente en cada contexto donde aparece En
+   particular el término aparece en los siguientes contextos de la física
+
+    1 Estado es usado a veces como un sinónimo de estado de la materia
+    2 En mecánica clásica el microestado de un sistema o un cuerpo se
+       refiere al conjunto de variables medibles relevantes para especificar
+       completamente su evolución temporal futura
+    3 En termodinámica el estado termodinámico o más concretamente el
+       macroestado de equilibrio de un sistema se refiere a una situación
+       descriptiva del sistema caracterizada por una combinación de
+       propiedades físicas por ejemplo temperatura presión volumen que
+       especifica completamente las otras propiedades macroscópicas del
+       sistema
+    4 En el estudio de los sistemas dinámicos un sistema físico que
+       evoluciona con el tiempo se modeliza mediante una ecuación diferencial
+       o conjunto de ellas en este contexto se denomina estado al vector
+       de variables incógnita que interviene en esa ecuación en ciertos
+       casos esto coincide con el concepto de estado físico en el sentido
+       termodinámico en otros es un concepto más abstracto
+    5 En mecánica cuántica el estado se refiere a un objeto matemático que
+       resume la información maximal obtenible del sistema usualmente este
+       estado viene representado por un vector en un espacio de Hilbert
+       abstracto técnicamente una clase de equivalencia de vectores del
+       espacio de Hilbert que difieren en una fase o número complejo de
+       módulo unidad
+
+Estado físico en mecánica clásica
+
+   editar
+
+   En mecánica clásica el estado de movimiento de una partícula queda
+   determinado por la posición y velocidad Eso determina a su vez su energía
+   potencial y su energía cinética Además conocida la posición y velocidad
+   vector tangente a la trayectoria en la posición inicial el teorema
+   fundamental de curvas implica que la trayectoria será totalmente conocida
+   si especificamos las fuerzas implicadas para todo instante futuro
+
+   Debido a lo anterior una manera conveniente de representar el conjunto
+   del estados posibles de una partícula es especificar el par x v
+   posición velocidad o el par x p posición cantidad de movimiento
+   De hecho la posición x es generalmente un punto de ℝ o bien un punto del
+   llamado espacio de configuración para cuando se usan coordenadas no
+   cartesianas la velocidad es siempre un vector del espacio tangente al
+   espacio de configuración que como caso particular puede ser ℝ Así pues
+   como espacio de estados se seleccionada el fibrado tangente del espacio
+   de configuración que es lo que conocemos como espacio fásico
+
+   Para sólidos rígidos puesto que tienen un número finito de grados de
+   libertad podemos construir igualmente un espacio de configuración formado
+   por coordenadas que definan la posición de un cierto punto como el centro
+   de masa coordenadas que definan la orientación El fibrado tangente del
+   anterior vuelve a ser un espacio fásico adecuado para representar todos
+   los estados de movimiento del sólido rígido
+
+Estado físico en mecánica cuántica
+
+   editar
+
+   En mecánica cuántica norelativista el estado físico de una partícula
+   comúnmente queda especificado por el valor de un conjunto maximal del
+   observables compatibles CCOC Estos observables se modelizan como
+   operadores autoadjuntos definidos sobre un espacio de Hilbert complejo y
+   separable El valor medio de una magnitud física A obtenible a partir de
+   productos escalares en el espacio de Hilbert del tipo
+
+           displaystyle leftlangle psi rightleftAleftpsi
+           rightrangle rightleftlangle psi rightAleftpsi
+           rightrangle 
+
+   Donde displaystyle leftpsi rightrangle  es un vector unitario del
+   espacio de Hilbert Puesto que la medida anterior no cambia si
+   representamos el vector de estado por displaystyle eitheta
+   leftpsi rightrangle  puesto que
+
+           displaystyle leftlangle eitheta psi
+           rightAlefteitheta psi rightrangle eitheta cdot
+           eitheta leftlangle psi rightAleftpsi rightrangle
+           leftlangle psi rightAleftpsi rightrangle 
+
+   El estado físico de una partícula cuántica es una clase de equivalencia de
+   vectores unitarios formada por vectores que difieren en un factor de la
+   forma eiθ
+
+  Mecánica cuántica relativista
+
+   editar
+
+   En mecánica cuántica relativista los estados suelen referirse a los
+   estados posibles del espaciotiempo Así el estado del espaciotiempo
+   viene dado por el número de partículas de cada tipo presentes y los
+   valores de ciertas magnitudes asociadas A cada tipo de partículas se le
+   asocia un campo material u observable a partir del cual se definen los
+   operadores de creación y destrucción y el operador número de partículas
+   para cada tipo de partícula que pueda existir en el sistema físico
+
+Estado físico en termodinámica
+
+   editar
+
+   Un sistema termodinámico que en equilibrio queda caracterizado por un
+   número finito n de variables de estado se dice que es un sistema
+   termodinámico con n de grados de libertad El estado del sistema viene
+   dado por un X1 X2  Xn de las cuales al menos una de ellas es
+   una magnitud extensiva
+
+Referencias
+
+   editar
+
+  Bibliografía
+
+   editar
+      Henri Bourlès 2010 John Wiley  Sons ed Linear Systems en
+       inglés p 544 ISBN 1848211627
+      Henri Bourlès Michel Fliess 1997 Finite poles and zeros of
+       linear systems an intrinsic approach Int J Control en inglés
+       684 897922
+      Henri Bourlès Bogdan Marinescu 2011 Springer ed Linear
+       TimeVarying Systems AlgebraicAnalytic Approach en inglés p 638
+       ISBN 3642197264
+      Michel Fliess Jean Lévine Pierre Rouchon 1995 Flatness and
+       defect of nonlinear systems Introductory theory and examples
+       Internat J Control en inglés 61 13271361
+      Wolfgang Hahn 1967 Springer ed Stability of Motion en inglés
+       p 446 ISBN 3540038299
+      Alberto Isidori 1995 Springer ed Nonlinear Control Systems 3rd
+       ed en inglés p 564 ISBN 3540199160
+      RE Kalman 1960 On the general theory of control systems Proc
+       1st IFAC Congress Moscou en inglés
+      R E Kalman 1963 Mathematical description of linear dynamical
+       systems SIAM J Control en inglés 1 152192
+      AGJ MacFarlane N Karkanias 1976 Poles and zeros of linear
+       multivariable systems a survey of the algebraic geometric and
+       complexvariable theory Int J Control en inglés 241 3374
+      Howard Rosenbrock Harry 1970 Nelson ed StateSpace and
+       Multivariable Theory en inglés p 267 ISBN 0177810025
+      Wilson Rugh J 1995 Prentice Hall ed Linear System Theory 2nd
+       ed en inglés p 581 ISBN 0134412052
+      JeanJacques E Slotine Weiping Li 1991 PrenticeHall ed
+       Applied Nonlinear Control en inglés p 461 ISBN 0130400491
+      L M Silverman H E Meadows 1967 Controllability and
+       observability in timevariable linear systems SIAM J Control en
+       inglés 5 6473
+      Hebertt J Sira Ramírez Sunil Kumar Agrawal 2004 Marcel Dekker
+       ed Differentially flat systems en inglés p 467 ISBN 0824754700
+      W Murray Wonham 1985 Springer ed Linear multivariable control
+       a geometric approach en inglés pp 334 ISBN 0387960716
+
+                             Proyectos Wikimedia                         
+                             Wd Datos Q230855                           
+                             Wikiquote Citas célebres Estado física   
+   Control de autoridades                                                 
+                               
+                                                                          
+                             Diccionarios y enciclopedias                
+                             Britannica url                             
+
+      Wd Datos Q230855
+      Wikiquote Citas célebres Estado física
+   Obtenido de
+   httpseswikipediaorgwindexphptitleEstadofísicooldid170148916
+   Categoría
+      Conceptos fundamentales de la física
+      Esta página se editó por última vez el 24 oct 2025 a las 1901
+      El texto está disponible bajo la Licencia Creative Commons
+       AtribuciónCompartirIgual 40 pueden aplicarse cláusulas adicionales
+       Al usar este sitio aceptas nuestros términos de uso y nuestra política
+       de privacidad
+       Wikipedia es una marca registrada de la Fundación Wikimedia una
+       organización sin ánimo de lucro
+      Política de privacidad
+      Acerca de Wikipedia
+      Limitación de responsabilidad
+      Contacto legal y de seguridad
+      Código de conducta
+      Desarrolladores
+      Estadísticas
+      Declaración de cookies
+      Versión para móviles
+      Wikimedia Foundation
+      Powered by MediaWiki
+   Buscar
+   
+   Buscar
+     Cambiar a la tabla de contenidos
+   Estado físico
+   6 idiomas Añadir tema
