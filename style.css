@@ -203,3 +203,18 @@ tr:nth-child(even) {
     font-weight: bold;
     font-family: 'Merriweather', serif;
 }
+
+/* -----------------------------
+   Encadrage pour les bout de code
+----------------------------- */
+
+pre code {
+    display: block;           
+    background-color: #f8f8f8; 
+    border: 1px solid #ccc;   
+    border-radius: 5px;      
+    padding: 10px;            
+    overflow-x: auto;         
+    font-family: monospace;   
+    margin-bottom: 1em;       
+}

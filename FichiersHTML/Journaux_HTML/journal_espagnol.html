@@ -3,58 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <title>Journal Linguistique - Analyse du mot "estado"</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h2, h3 {
-            color: #2c3e50;
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-bottom: 20px;
-        }
-        table, th, td {
-            border: 1px solid #ccc;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        code, pre {
-            background-color: #f8f8f8;
-            padding: 5px;
-            display: block;
-            white-space: pre-wrap;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-        .has-text-centered {
-            text-align: center;
-        }
-        .has-text-right {
-            text-align: right;
-        }
-        .has-text-success {
-            color: green;
-        }
-    </style>
+    <link href="../../style.css" rel="stylesheet" >
 </head>
 <body>
 
-<h2>Corpus espagnol pour le mot "estado"</h2>
+<h1>Corpus espagnol pour le mot "estado"</h2>
 
-<p>Je dois constituer un corpus d'URLs en espagnol pour étudier le mot <strong>"estado"</strong> sur le web.</p>
-
-<h3>Biaser les recherches via la recherche avancée Google</h3>
+<p>
+    Je dois tout d'abord constituer un corpus d'URLs en espagnol pour étudier le mot 
+    <strong>"estado"</strong> sur le web. <br> </br> J'ai d'abord fait une recherche totalement naïve pour voir ce qu'il se passait. 
+    J'ai constaté un nombre énorme de sites sur le thème de la politique, des relations internationales et du droit. 
+    J'ai donc choisi par la suite de biaiser les sorties avec des collocations et locutions fréquentes, 
+    histoire de diversifier le corpus.
+</p>
 
 <h3>Premières observations :</h3>
+
 <table>
     <thead>
         <tr>
@@ -65,33 +29,65 @@
     <tbody>
         <tr>
             <td>
-                estado civil<br>
-                estado de alarma<br>
-                estado de ánimo<br>
-                estado de emergencia<br>
-                Estado de derecho<br>
-                estado de excepción<br>
-                estado de necesidad<br>
-                estado de opinión<br>
-                Estado federal<br>
-                Estado Mayor<br>
-                jefe de Estado<br>
-                consejo de Estado<br>
-                secreto de Estado
+                1. estado civil<br>
+                2. estado de alarma<br>
+                3. estado de ánimo<br>
+                4. estado de emergencia<br>
+                5. estado de derecho<br>
+                6. estado de excepción<br>
+                7. estado de necesidad<br>
+                8. estado de opinión<br>
+                9. estado federal<br>
+                10. Estado Mayor<br>
+                11. jefe de Estado<br>
+                12. consejo de Estado<br>
+                13. secreto de Estado
             </td>
             <td>
-                mudar estado<br>
-                tomar estado<br>
-                caer a alguien de su estado<br>
-                estado llano
+                1. mudar de estado<br>
+                2. tomar estado<br>
+                3. caer a alguien de su estado<br>
+                4. estado llano<br>
+                5. estar en estado de gracia<br>
+                6. entrar en estado de shock<br>
+                7. mantener el estado de cosas<br>
+                8. salir de estado de crisis<br>
+                9. pasar a estado latente<br>
+                10. declarar estado de sitio<br>
+                11. encontrarse en estado de alerta<br>
+                12. asumir estado de excepción<br>
+                13. permanecer en estado de ánimo estable
             </td>
         </tr>
     </tbody>
 </table>
 
-<p>Le corpus que j'ai constitué contenait 50 URLs, mais toutes n’ont pas pu être traitées. Certaines pages web bloquent les requêtes automatisées pour des raisons de sécurité, par exemple via des restrictions serveur ou des protections anti-robots. Dans ces cas, la requête renvoie un code HTTP d’erreur, comme 403 ou 000. Le script est conçu pour ne traiter que les pages correctement récupérées, c’est-à-dire celles qui renvoient un code 200. Les pages bloquées sont donc ignorées automatiquement afin d’éviter des erreurs et de garantir la cohérence du traitement linguistique.</p>
+<p>Le corpus que j'ai constitué contenait 50 URLs, mais toutes n’ont pas pu être traitées. Certaines pages web bloquent les requêtes automatisées pour des raisons de sécurité, par exemple via des restrictions serveur ou des protections anti-robots. Dans ces cas, la requête renvoie un code HTTP d’erreur, comme 403 ou 000. Le script est conçu pour ne traiter que les pages correctement récupérées, c’est-à-dire celles qui renvoient un code 200. Les pages bloquées sont donc ignorées automatiquement afin d’éviter des erreurs et de garantir la cohérence du traitement linguistique. Note : J'ai rajouté une 51ème.</p>
 
-<p>J'ai rajouté un 51ème.</p>
+<p></p>
+
+<h3>Observations de la sortie HTML du tableau</h3>
+<ol>
+    <p><strong>Anomalies d’encodage et de code HTTP :</strong> Certaines pages présentent des encodages non reconnus ou n’ont pas pu être téléchargées. J'ai quand même choisi de les conserver dans le tableau pour illustrer que le script fonctionne de manière robuste : il récupère les pages accessibles, extrait les informations et gère proprement les erreurs lorsque certaines URLs sont inaccessibles ou bloquées. 
+        <ul>
+            <li><strong>URL 2 / 200 / unknown-8bit</strong> → Page récupérée correctement mais encodage non identifié ; le contenu est exploitable.</li>
+            <li><strong>URL 13 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
+            <li><strong>URL / 403 / N/A</strong> → Accès interdit par le serveur (protection anti-bot) ; fichier vide créé.</li>
+            <li><strong>URL 32 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
+        </ul>
+    </p>
+</ol>
+
+<h3>Traitement des concordances</h3>
+
+<p>
+    Ce script Bash extrait systématiquement toutes les occurrences d’un mot cible (<code>$REGEX</code>) dans le fichier 
+    <code>$FILE_DUMP</code>. Pour chaque occurrence, il isole le contexte immédiat en trois parties : la portion précédant le mot 
+    (<em>gauche</em>), le mot lui-même (<em>cible</em>) mis en évidence, et la portion suivant le mot (<em>droite</em>). 
+    Chaque ensemble est formaté en ligne HTML et ajouté au fichier de concordancier <code>$FILE_CONCORD</code>, 
+    permettant ainsi une analyse rapide et structurée du mot dans son contexte.
+</p>
+
 
 <pre><code>grep -Eio ".{0,30}\b($REGEX)\b.{0,30}" "$FILE_DUMP" | while read -r line; do
 
@@ -115,21 +111,10 @@ echo "&lt;/tbody&gt;
 
 <p>Le premier résultat montrait une redondance car la segmentation gauche/droite n’était pas suffisamment contrainte. J’ai corrigé le concordancier en bornant explicitement les contextes autour de l’occurrence centrale.</p>
 
-<h3>Observations</h3>
-<ol>
-    <li><strong>Anomalies d’encodage et de code HTTP :</strong> Certaines pages présentent des encodages non reconnus ou n’ont pas pu être téléchargées. Nous avons choisi de conserver ces lignes dans le tableau pour illustrer que le script fonctionne de manière robuste : il récupère les pages accessibles, extrait les informations et gère proprement les erreurs lorsque certaines URLs sont inaccessibles ou bloquées.
-        <ul>
-            <li><strong>URL 2 / 200 / unknown-8bit</strong> → Page récupérée correctement mais encodage non identifié ; le contenu est exploitable.</li>
-            <li><strong>URL 13 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
-            <li><strong>URL / 403 / N/A</strong> → Accès interdit par le serveur (protection anti-bot) ; fichier vide créé.</li>
-            <li><strong>URL 32 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
-        </ul>
-    </li>
-</ol>
 
 <h3>Nuage des points</h3>
 <p>Pour réaliser le nuage de points, j'ai créé un script qui prendra tous les fichiers dump text et constituera un corpus entier. J'ai créé un <code>venv</code> pour exécuter la commande <code>wordcloud_cli</code>.  
-Au début, je n'ai pas réussi à générer une image pertinente ; j'ai dû rajouter des prépositions <code>para</code>, <code>con</code>, <code>de</code> au fichier <code>stopwords_espagnol</code> téléchargé depuis une source GitHub.</p>
+Au début, je n'ai pas réussi à générer une image pertinente ; j'ai dû rajouter des prépositions "para", "con,"de" au fichier "stopwords_espagnol" que j'ai téléchargé depuis une source GitHub.</p>
 
 <h3>PALS</h3>
 <p>Le but de cet exercice final est d’analyser linguistiquement un mot précis, ici le mot espagnol <strong>« estado »</strong>, en étudiant ses cooccurrences dans notre corpus.  
@@ -166,9 +151,9 @@ cat estado_cooc.txt | awk 'BEGIN{print "&lt;table&gt;&lt;tr&gt;&lt;th&gt;Token&l
 
 <h3>Erreurs rencontrées</h3>
 <ul>
-    <li>Erreur avec le corpus sans nettoyage : <br> <img src="erreur_sans_le_nettoyage.png" alt="erreur sans nettoyage"></li>
-    <li>Erreur sans les tokens : <br> <img src="erreurs_sans_les_tokens.png" alt="erreurs sans tokens"></li>
-    <li>Erreurs avec mots parasites : <br> <img src="erreurs_avec_mots_parasites.png" alt="erreurs avec mots parasites"></li>
+    <li>Erreur avec le corpus sans nettoyage : <br> <img src="erreur_sans_le nettoyage.png" alt="erreur sans nettoyage"></li>
+    <li>Erreur sans les tokens : <br> <img src="erreur_sans_les tokens.png" alt="erreur sans tokens"></li>
+    <li>Erreurs avec mots parasites : <br> <img src="erreur_avec_mots parasites.png" alt="erreur avec mots parasites"></li>
 </ul>
 
 <p>Après filtrage des stopwords, j'ai obtenu un nuage satisfaisant.</p>
