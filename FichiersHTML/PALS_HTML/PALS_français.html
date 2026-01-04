@@ -1,77 +1,147 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <title>PALS – Espagnol</title>
+<meta charset="UTF-8">
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Merriweather&display=swap" rel="stylesheet">
+h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
 
-    <!-- CSS externe (depuis la racine) -->
-    <link href="../../style.css" rel="stylesheet" >
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.table-container {
+    background-color: #f9f9f9;
+    border: 1px dashed #ccc;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+    color: #7f8c8d;
+    font-style: italic;
+}
+</style>
 </head>
-<body>
 
-<header>
-    <h1>PALS – Français</h1>
-</header>
+<body>
 
 <nav>
     <ul>
-        <li><a href="../../index.html">Accueil</a></li>
-        <li><a href="../apropos.html">À propos</a></li>
-        <li><a href="../script.html">Scripts</a>
+        <li><a href="index.html">Accueil</a></li>
+
+        <li><a href="FichiersHTML/apropos.html">À propos</a></li>
+
+        <li><a href="FichiersHTML/script.html">Scripts</a>
         </li>
-        <li><a href="./PALS_HTML">PALS</a>
+        <li><a href="FichiersHTML/PALS_HTML">PALS</a>
             <ul>
-                <li><a href="#">Arabe</a></li>
-                <li><a href="./PALS_espagnol.html">Espagnol</a></li>
-                <li><a href="./PALS_français.html">Français</a></li>
+                <li><a href="FichiersHTML/PALS_HTML/PALS_arabe.html">Arabe</a></li>
+                <li><a href="FichiersHTML/PALS_HTML/PALS_espagnol.html">Espagnol</a></li>
+                <li><a href="FichiersHTML/PALS_HTML/PALS_français.html">Français</a></li>
             </ul>
         </li>
-        <li><a href="../../tableaux">Tableaux</a>
+
+        <li><a href="#">Tableaux</a>
             <ul>
-                <li><a href="#">Arabe</a></li>
-                <li><a href="../../tableaux/espagnol/estado_espagnol.html">Espagnol</a></li>
-                <li><a href="../../tableaux/état_français.html">Français</a></li>
+                <li><a href="tableaux/ar.html">Arabe</a></li>
+                <li><a href="tableaux/espagnol/estado_espagnol.html">Espagnol</a></li>
+                <li><a href="tableaux/état_français.html">Français</a></li>
             </ul>
         </li>
-        <li><a href="./Journaux_HTML">Journaux</a>
+
+        <li><a href="FichiersHTML/Journaux_HTML">Journaux</a>
             <ul>
                 <li><a href="#">Arabe</a></li>
-                <li><a href="../Journaux_HTML/journal_espagnol.html">Espagnol</a></li>
-                <li><a href="#">Français</a></li>
+                <li><a href="FichiersHTML/Journaux_HTML/journal_espagnol.html">Espagnol</a></li>
+                <li><a href="FichiersHTML/Journaux_HTML/journal_français.html">Français</a></li>
             </ul>
         </li>
-        <li><a href="../AnalyseLinguistique_HTML/AnalyseLinguistique.html">Analyse linguistique</a>
+        <li><a href="#">Analyse linguistique</a>
+            <ul>
+                <li><a href="#">Arabe</a></li>
+                <li><a href="FichiersHTML/AnalyseLinguistique_HTML/anLING_espagnol.html">Espagnol</a></li>
+                <li><a href="FichiersHTML/AnalyseLinguistique_HTML/analyse_français.html">Français</a></li>
+            </ul>
+
+        <li><a href="FichiersHTML/AnalyseLinguistique_HTML/AnalyseLinguistique.html">Analyse linguistique</a>
+        </li>
+
     </ul>
 </nav>
 
-<main>
-    <section>
-        <h2>Analyse des cas de cooccurences du mot "état" en français : l'usage de PALS</h2>
-        <p>
-            Ici, tu peux rédiger tes explications sur le mot "<strong>estado</strong>", son usage sur le web,
-            ses contextes fréquents et ses cooccurrences les plus intéressantes.
-        </p>
+<p>Dans le cadre de l’étude du mot « état » en français sur le web, nous avons utilisé Python Autonomous Lafon specificity Scripts (PALS) : ce sont scripts Python sans dépendance pour calculer la spécificité de Lafon sur des corpus textuels. Cette analyse de cooccurrences est faite à partir de deux corpus distincts issus de la même collecte de données. L'objectif est de comprendre comment le voisinage syntaxique immédiat (le contexte local) diffère de la thématique globale des pages web (le contexte global ou « dump ») pour un terme aussi polycémique.</p>
 
-        <!-- Bloc cliquable vers le tableau -->
-        <div class="nuages">
-            <div class="nuage" style="text-align:center;">
-                <h3>Tableau des coocurrents du mot "état"</h3>
-                <p> Voici un petit aperçu du tableau :</p>
-                <img src="../../assets/images/previewCOO.png">
-                
-                <p> Résultat des cooccurences pour le <a href="../../pals/PALS_français/état_cooc_dumps.html" target="_blank" class="button">corpus dumps</a>
-                <p> Résultat des cooccurences pour le <a href="../../pals/PALS_français/état_cooc_contextes.html" target="_blank" class="button">corpus contextes</a>    
-            </div>
-        </div>
-    </section>
-</main>
+<h2>1. L’échelle du voisinage immédiat : L’expression figée et l’usage quotidien</h2>
 
-<footer>
-    <p>&copy; 2025 PluriTAL</p>
-</footer>
+<p>La première sortie, contextes, se concentre sur une fenêtre réduite : une ligne avant et une ligne après l'occurrence du mot pivot. Ici, la spécificité la plus élevée se trouve dans les structures syntaxiques figées et les locutions nominales.</p>
+
+<div class="table-container">
+    <iframe src="../../pals/PALS_français/état_cooc_contextes.html" width="100%" height="500px" frameborder="0"></iframe>
+</div>
+
+<ul>
+    <li>La psychologie et le droit civil : Le terme « esprit » arrive en tête (Spécificité : 47.89), confirmant la prédominance de la locution « état d'esprit » dans les échanges sur le web. On observe également une forte présence du vocabulaire administratif et civil avec « lieux » (état des lieux), « civil » et « santé ».</li>
+    <li>L'organisation institutionnelle : Les termes « major » et « chef » soulignent l'utilisation très fréquente du mot dans un cadre hiérarchique (« état-major », « chef d'État »).</li>
+    <li>Observations notables : On remarque des traces de l'actualité ou de contextes très spécifiques comme « nappes » (état des nappes phréatiques) ou des noms propres comme « Sarkozy » et « Giulia », suggérant que le corpus de proximité capte des bribes de récits médiatiques ou biographiques très précis.</li>
+</ul>
+
+<h2>2. L’échelle du "Dump" : La prégnance du politique et du conceptuel</h2>
+
+<p>La seconde sortie, Dumps, permet d’analyser la cooccurrence sur l'intégralité des pages HTML. La perspective change radicalement : on ne regarde plus seulement comment le mot est construit, mais de quoi parlent les pages qui l'utilisent.</p>
+
+<div class="table-container">
+    <iframe src="../../pals/PALS_français/état_cooc_dumps.html" width="100%" height="500px" frameborder="0"></iframe>
+</div>
+
+<ul>
+    <li>Le basculement vers le politique : Contrairement au contexte local, le « dump » fait ressortir massivement le terme « coup » (Spécificité : 87.80) et « policier ». Cela indique que, bien que l'expression « coup d'État » ne soit pas statistiquement la plus fréquente dans la phrase immédiate, elle est le sujet central des pages capturées.</li>
+    <li>La théorisation de l'institution : On voit apparaître des concepts plus larges : « état-nation », « état de droit », et « état-providence ». Le mot « État » avec une majuscule est ici un acteur politique.</li>
+    <li>La dimension méta-linguistique : Un point fascinant de l'analyse globale est l'apparition des termes « majuscule » et « masculin ». Cela suggère que le corpus inclut des pages de dictionnaires ou des guides de grammaire discutant de la distinction entre l'« État » (l'institution) et l'« état » (la condition), une distinction invisible dans une analyse de voisinage purement textuelle.</li>
+</ul>
+
+<h2>3. Synthèse des disparités : Pourquoi de tels écarts ?</h2>
+
+<p>La différence entre les deux résultats s'explique par la nature de la distribution des mots dans un texte web :</p>
+
+<h3>Le "bruit" et la structure HTML</h3>
+
+<p>Dans le corpus de dump, les termes « d » et « l » (déterminants et élisions) explosent avec des spécificités dépassant 100. C'est le résultat direct de l'analyse des pages complètes où les menus de navigation, les bas de page et les métadonnées multiplient les articles de manière disproportionnée par rapport au texte réel. </p>
+
+<ul>
+    <li>Notons que j’aurais pu utiliser des stops-words, mais il me semblait pertinent de comprendre la polysémie, les usages variés d’état : il est à la fois objet, quand il est proche de « d », et traduit souvent un usage global dans des expressions : coup d’état, hors d’état de, etc. D’un autre côté, « l’ » souligne l’état comme entité, comme sujet : « l’état providence », « l’état-major », etc. </li>
+</ul>
+
+<h3>Densité sémantique vs Fréquence d'usage</h3>
+
+<p>L'analyse des contextes (1 ligne avant/après) privilégie la syntaxe. Elle nous dit comment on parle (ex: "en bon état", "état d'urgence"). L'analyse des dumps privilégie la thématique. Elle nous dit ce que l'on lit (ex: des articles sur les coups d'État ou le droit démocratique).</p>
+
+<p>Ainsi, ces résultats démontrent qu'« état » est un mot-caméléon. Sur le web, il existe une scission nette entre son usage comme outil de description de situation (prédominant dans le discours local : esprit, santé, urgence) et son usage comme concept politique souverain (prédominant dans la thématique globale : Nation, Droit, Providence).</p>
 
 </body>
 </html>
