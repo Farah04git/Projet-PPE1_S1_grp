@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Journal de bord – Arabe (دولة / حالة)</title>
+  <link href="../../style.css" rel="stylesheet">
+
+  <!-- ajustements MINIMAUX couleurs demandées -->
+  <style>
+    body { background:#fdf6e5; color:#5c4033; }
+    h1, h2, h3, h4 { color:#a57b5b; }
+    a { color:#a57b5b; }
+    .card {
+      background:#fdf6e5;
+      border: 1px solid rgba(92,64,51,.18);
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin: 12px 0;
+    }
+    pre, code {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .small { font-size: .95em; opacity:.95; }
+    .muted { opacity:.85; }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Journal de bord – Arabe : <span dir="rtl">دولة</span> / <span dir="rtl">حالة</span></h1>
+</header>
+
+<!-- Menu : mêmes entrées que le projet, en liens LOCAUX (pas GitHub) -->
+<nav>
+  <ul>
+    <li><a href="../../index.html">Accueil</a></li>
+    <li><a href="../apropos.html">À propos</a></li>
+    <li><a href="../script.html">Scripts</a></li>
+
+    <li><a href="../PALS_HTML">PALS</a>
+      <ul>
+        <li><a href="../PALS_HTML/PALS_arabe.html">Arabe</a></li>
+      </ul>
+    </li>
+
+    <li><a href="../../tableaux">Tableaux</a>
+      <ul>
+        <li><a href="../../tableaux/ar.html">Arabe</a></li>
+      </ul>
+    </li>
+
+    <li><a href="../Journaux_HTML">Journaux</a>
+      <ul>
+        <li><a href="#">Arabe</a></li>
+      </ul>
+    </li>
+
+    <li><a href="../AnalyseLinguistique_HTML/AnalyseLinguistique.html">Analyse linguistique</a></li>
+  </ul>
+</nav>
+
+<main>
+
+  <section class="card">
+    <h2>1) Tableau + génération des fichiers (script Bash)</h2>
+    <p>
+      J’ai commencé par construire un corpus d’URLs (fichier <code>URLs/ar.txt</code>) puis j’ai écrit un script Bash
+      qui crée l’arborescence, aspire les pages et produit :
+      <code>aspirations/arabe/</code>, <code>dumps-text/arabe/</code>, <code>contextes/arabe/</code>, <code>concordances/arabe/</code>
+      et le tableau final <code>tableaux/ar.html</code>.
+    </p>
+
+    <p class="small">
+      Une partie importante a été de définir deux patterns séparés : un pour <span dir="rtl">دولة</span> et un pour <span dir="rtl">حالة</span>,
+      puis un pattern commun pour les contextes.
+    </p>
+
+    <h3>Extrait du script <code>ar.sh</code> (début)</h3>
+    <pre><code>#!/usr/bin/env bash
+set -euo pipefail
+
+URLFILE="URLs/ar.txt"
+LANGUE="arabe"
+
+ASP_DIR="aspirations/$LANGUE"
+DUMP_DIR="dumps-text/$LANGUE"
+CTX_DIR="contextes/$LANGUE"
+TAB_DIR="tableaux"
+OUTHTML="$TAB_DIR/ar.html"
+CONC_DIR="concordances/$LANGUE"
+
+# 2 patterns séparés + total
+PAT1='(ال)?دول(ة|ات|ي|ية|يون|يات|تي|ته|تها|تهم|تنا|كم|كن|نا|ي)?'
+PAT2='(ال)?حال(ي|ية|ة|ات)?(ي|ك|ه|ها|هم|نا|كم|كن)?'
+
+PAT_CTX="($PAT1|$PAT2)"
+
+N=50
+
+mkdir -p "$ASP_DIR" "$DUMP_DIR" "$CTX_DIR" "$TAB_DIR" "$CONC_DIR"</code></pre>
+
+    <h3>Difficultés</h3>
+    <ul>
+      <li>
+        <strong>Pages bloquées / vides</strong> : certaines URLs renvoyaient des erreurs (ex. accès interdit) ou des dumps quasi vides.
+      </li>
+      <li>
+        <strong>Encodage</strong> : même avec UTF-8, j’ai eu des pages “bizarres” (texte illisible / mélangé). J’ai gardé l’info dans le tableau.
+      </li>
+      <li>
+        <strong>Variantes morphologiques</strong> : j’ai élargi le pattern (articles, suffixes, pluriels…) pour ne pas rater d’occurrences.
+      </li>
+    </ul>
+
+    <p class="small">
+      Tableau : <a href="../../tableaux/ar.html">tableaux/ar.html</a>
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>2) Concordances (KWIC)</h2>
+    <p>
+      Le même script génère une page de concordances par URL (format KWIC). Ça m’a servi à vérifier rapidement les usages,
+      et à contrôler les occurrences capturées par les regex.
+    </p>
+
+    <h3>Extrait (KWIC) dans <code>ar.sh</code></h3>
+    <pre><code># Concordancier HTML (toutes les occurrences en une ligne KWIC)
+kwic_lines="$(perl -0777 -ne '
+  s/\s+/ /g;
+  my $re = qr/'"$PAT_CTX"'/;
+  my @out;
+  while (/(.{0,40})($re)(.{0,40})/g) {
+    push @out, "$1\[$2\]$3";
+  }
+  print join("\n", @out);
+' "$txt" || true)"</code></pre>
+
+    <p class="small muted">
+      J’ai ajusté la taille du contexte : trop long = illisible, trop court = je perds l’information.
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>3) Nuage de mots (WordCloud)</h2>
+    <p>
+      J’ai généré un wordcloud pour avoir une vue rapide des mots fréquents dans le corpus.
+      J’ai rencontré des difficultés d’installation (modules + venv) et surtout des problèmes liés à l’arabe :
+      sens droite-gauche, lettres isolées, et police non compatible (carrés à l’affichage).
+    </p>
+    <p>
+      La solution a été de nettoyer le texte brut, supprimer les stopwords <em>avant</em> les transformations,
+      puis appliquer <code>arabic_reshaper</code> et <code>python-bidi</code> avant la génération du nuage.
+      Ça a permis d’obtenir un résultat lisible.
+    </p>
+    <p class="small muted">
+      Les détails techniques sont développés dans <code>journal.md</code>.
+    </p>
+
+    <h3>Script <code>wordcloud_arabe.py</code> (extrait)</h3>
+    <pre><code>import re, glob, os
+from wordcloud import WordCloud
+import arabic_reshaper
+from bidi.algorithm import get_display
+
+input_folder = "dumps-text/arabe"
+pattern = os.path.join(input_folder, "ar-*.txt")
+files = sorted(glob.glob(pattern))
+
+# Nettoyage: garder arabe + espaces
+text = re.sub(r"[^\u0600-\u06FF\s]+", " ", text)
+
+# Reshape + Bidi (pour RTL)
+reshaped = arabic_reshaper.reshape(w)
+bidi_word = get_display(reshaped)</code></pre>
+
+    <p class="small">
+      Image : <a href="../../nuages/arabe/nuage_arabe.png">nuages/arabe/nuage_arabe.png</a>
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>4) PALS : cooccurrences</h2>
+    <p>
+      Pour analyser les cooccurrences, j’ai séparé un corpus global (dumps) et un corpus ciblé (contextes),
+      puis j’ai sorti les résultats en TSV et converti en HTML pour un affichage correct en UTF-8.
+    </p>
+
+    <h3>Sur les contextes</h3>
+    <pre><code>python3 pals/cooccurrents.py \
+  --target "دولة" \
+  -N 50 \
+  -s i \
+  pals/PALS_arabe/contextes_AR.txt \
+  > pals/PALS_arabe/dawla_cooc_contextes.tsv
+
+bash pals/PALS_arabe/tsv_to_html.sh \
+  pals/PALS_arabe/dawla_cooc_contextes.tsv \
+  pals/PALS_arabe/dawla_cooc_contextes.html</code></pre>
+
+    <h3>Sur les dumps</h3>
+    <pre><code>python3 pals/cooccurrents.py \
+  --target "دولة" \
+  -N 50 \
+  -s i \
+  pals/PALS_arabe/dumps_AR.txt \
+  > pals/PALS_arabe/dawla_cooc_dumps.tsv
+
+bash pals/PALS_arabe/tsv_to_html.sh \
+  pals/PALS_arabe/dawla_cooc_dumps.tsv \
+  pals/PALS_arabe/dawla_cooc_dumps.html</code></pre>
+
+    <h3>Difficultés</h3>
+    <ul>
+      <li><strong>TSV vs HTML</strong> : au début je confondais les sorties ; la conversion m’a simplifié la mise en forme.</li>
+      <li><strong>Encodage</strong> : sans UTF-8 propre, l’arabe s’affiche mal.</li>
+      <li><strong>Bruit</strong> : les dumps contiennent plus d’éléments non linguistiques ; les contextes sont plus lisibles.</li>
+    </ul>
+
+    <p class="small">
+      Résultats :
+      <a href="../../pals/PALS_arabe/dawla_cooc_contextes.html">dawla_cooc_contextes.html</a> ·
+      <a href="../../pals/PALS_arabe/dawla_cooc_dumps.html">dawla_cooc_dumps.html</a>
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>Conclusion</h2>
+    <p>
+      Le plus difficile a été de stabiliser la partie “technique” (récupération des pages, encodage, rendu RTL, nettoyage).
+      Une fois le corpus plus propre, les concordances et PALS deviennent beaucoup plus faciles à interpréter.
+    </p>
+    <p class="small muted">— Farah</p>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2025 PluriTAL : Farah Akird El Ouafi, Nathan Ducros, Anes</p>
+</footer>
+
+</body>
+</html>

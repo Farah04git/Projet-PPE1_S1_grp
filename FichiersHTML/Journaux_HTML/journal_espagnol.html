@@ -1,162 +1,160 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <title>Journal Linguistique - Analyse du mot "estado"</title>
-    <link href="../../style.css" rel="stylesheet" >
+    <meta charset="UTF-8" />
+    <title>Journal de bord - Farah (Arabe : حالة / دولة)</title>
+
+    <!-- Google Fonts (comme index.html) -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Merriweather&display=swap" rel="stylesheet">
+
+    <!-- CSS externe (même fichier que le site) -->
+    <link href="../../style.css" rel="stylesheet">
 </head>
 <body>
 
-<h1>Journal de bord - Farah</h2>
+<header>
+    <h1>Projet Multilingue : la vie du mot "État" sur le web</h1>
+</header>
 
-<p>
-    Je dois tout d'abord constituer un corpus d'URLs en espagnol pour étudier le mot 
-    <strong>"estado"</strong> sur le web. <br> </br> J'ai d'abord fait une recherche totalement naïve pour voir ce qu'il se passait. 
-    J'ai constaté un nombre énorme de sites sur le thème de la politique, des relations internationales et du droit. 
-    J'ai donc choisi par la suite de biaiser les sorties avec des collocations et locutions fréquentes, 
-    histoire de diversifier le corpus.
-</p>
+<nav>
+    <ul>
+        <li><a href="../../index.html">Accueil</a></li>
 
-<h3>Premières observations :</h3>
+        <li><a href="../apropos.html">À propos</a></li>
 
-<table>
-    <thead>
-        <tr>
-            <th>Colocaciones</th>
-            <th>Locuciones</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                1. estado civil<br>
-                2. estado de alarma<br>
-                3. estado de ánimo<br>
-                4. estado de emergencia<br>
-                5. estado de derecho<br>
-                6. estado de excepción<br>
-                7. estado de necesidad<br>
-                8. estado de opinión<br>
-                9. estado federal<br>
-                10. Estado Mayor<br>
-                11. jefe de Estado<br>
-                12. consejo de Estado<br>
-                13. secreto de Estado
-            </td>
-            <td>
-                1. mudar de estado<br>
-                2. tomar estado<br>
-                3. caer a alguien de su estado<br>
-                4. estado llano<br>
-                5. estar en estado de gracia<br>
-                6. entrar en estado de shock<br>
-                7. mantener el estado de cosas<br>
-                8. salir de estado de crisis<br>
-                9. pasar a estado latente<br>
-                10. declarar estado de sitio<br>
-                11. encontrarse en estado de alerta<br>
-                12. asumir estado de excepción<br>
-                13. permanecer en estado de ánimo estable
-            </td>
-        </tr>
-    </tbody>
-</table>
+        <li><a href="../script.html">Scripts</a></li>
 
-<p>Le corpus que j'ai constitué contenait 50 URLs, mais toutes n’ont pas pu être traitées. Certaines pages web bloquent les requêtes automatisées pour des raisons de sécurité, par exemple via des restrictions serveur ou des protections anti-robots. Dans ces cas, la requête renvoie un code HTTP d’erreur, comme 403 ou 000. Le script est conçu pour ne traiter que les pages correctement récupérées, c’est-à-dire celles qui renvoient un code 200. Les pages bloquées sont donc ignorées automatiquement afin d’éviter des erreurs et de garantir la cohérence du traitement linguistique. Note : J'ai rajouté une 51ème.</p>
+        <li><a href="../PALS_HTML">PALS</a>
+            <ul>
+                <li><a href="../PALS_HTML/PALS_arabe.html">Arabe</a></li>
+                <li><a href="../PALS_HTML/PALS_espagnol.html">Espagnol</a></li>
+                <li><a href="../PALS_HTML/PALS_français.html">Français</a></li>
+            </ul>
+        </li>
 
-<p></p>
+        <li><a href="../../tableaux">Tableaux</a>
+            <ul>
+                <li><a href="../../tableaux/ar.html">Arabe</a></li>
+                <li><a href="../../tableaux/espagnol/estado_espagnol.html">Espagnol</a></li>
+                <li><a href="../../tableaux/état_français.html">Français</a></li>
+            </ul>
+        </li>
 
-<h3>Observations de la sortie HTML du tableau</h3>
-<ol>
-    <p><strong>Anomalies d’encodage et de code HTTP :</strong> Certaines pages présentent des encodages non reconnus ou n’ont pas pu être téléchargées. J'ai quand même choisi de les conserver dans le tableau pour illustrer que le script fonctionne de manière robuste : il récupère les pages accessibles, extrait les informations et gère proprement les erreurs lorsque certaines URLs sont inaccessibles ou bloquées. 
-        <ul>
-            <li><strong>URL 2 / 200 / unknown-8bit</strong> → Page récupérée correctement mais encodage non identifié ; le contenu est exploitable.</li>
-            <li><strong>URL 13 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
-            <li><strong>URL / 403 / N/A</strong> → Accès interdit par le serveur (protection anti-bot) ; fichier vide créé.</li>
-            <li><strong>URL 32 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
-        </ul>
+        <li><a href="./">Journaux</a>
+            <ul>
+                <li><a href="#">Arabe</a></li>
+                <li><a href="./journal_espagnol.html">Espagnol</a></li>
+                <li><a href="./journal_français.html">Français</a></li>
+            </ul>
+        </li>
+
+        <li><a href="../AnalyseLinguistique_HTML/AnalyseLinguistique.html">Analyse linguistique</a>
+            <ul>
+                <li><a href="#">Arabe</a></li>
+                <li><a href="../AnalyseLinguistique_HTML/anLING_espagnol.html">Espagnol</a></li>
+                <li><a href="../AnalyseLinguistique_HTML/analyse_français.html">Français</a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+<main>
+    <h2>Journal de bord - Farah (Arabe : حالة / دولة)</h2>
+
+    <p>
+        Pour la partie arabe, je me suis concentrée sur deux mots qui correspondent à “état” mais pas au même sens :
+        <strong dir="rtl">دولة</strong> (État politique) et <strong dir="rtl">حالة</strong> (état/condition).
+        L’idée était de voir si le corpus faisait ressortir clairement cette différence grâce aux cooccurrences.
     </p>
-</ol>
 
-<h3>Traitement des concordances</h3>
+    <h3>1) Corpus : ce que j’ai récupéré et ce qui a bloqué</h3>
+    <p>
+        J’ai constitué un corpus d’URLs arabes et j’ai lancé l’aspiration comme pour les autres langues.
+        Le premier point compliqué, c’est que toutes les pages ne se laissent pas récupérer : certaines renvoient
+        des erreurs (page inaccessible, anti-bot, etc.). Même quand j’obtiens un fichier, il n’est pas toujours exploitable
+        (page quasi vide, redirections, contenu pas vraiment textuel).
+    </p>
+    <p>
+        Du coup, je me suis retrouvée avec un mélange : des pages très riches (type encyclopédique / institutionnel) et d’autres
+        qui ne servent presque à rien. Ça se voit ensuite dans les dumps et dans les contextes.
+    </p>
 
-<p>
-    Ce script Bash extrait systématiquement toutes les occurrences d’un mot cible (<code>$REGEX</code>) dans le fichier 
-    <code>$FILE_DUMP</code>. Pour chaque occurrence, il isole le contexte immédiat en trois parties : la portion précédant le mot 
-    (<em>gauche</em>), le mot lui-même (<em>cible</em>) mis en évidence, et la portion suivant le mot (<em>droite</em>). 
-    Chaque ensemble est formaté en ligne HTML et ajouté au fichier de concordancier <code>$FILE_CONCORD</code>, 
-    permettant ainsi une analyse rapide et structurée du mot dans son contexte.
-</p>
+    <h3>2) Dumps vs contextes : deux versions du corpus</h3>
+    <p>J’ai travaillé avec deux fichiers “globaux” pour PALS :</p>
+    <ul>
+        <li><strong>Dumps</strong> : un gros corpus fusionné à partir des fichiers texte arabes (les pages entières).</li>
+        <li><strong>Contextes</strong> : un corpus plus ciblé, basé sur les extraits autour des occurrences des mots.</li>
+    </ul>
+    <p>
+        J’ai gardé les deux parce que les résultats ne racontent pas exactement la même chose : dans les dumps, on capte beaucoup de bruit
+        (menus, répétitions, parties hors-sujet), alors que dans les contextes on est plus proche de l’usage réel autour du mot cible.
+    </p>
 
+    <h3>3) Problème principal : tokenisation (l’arabe ne “se découpe” pas comme l’espagnol)</h3>
+    <p>
+        Sur l’arabe, j’ai eu plus de difficultés qu’en espagnol parce que la tokenisation n’est pas “évidente”.
+        Avec un simple découpage par espaces, on se retrouve vite avec des choses inutiles : ponctuation collée,
+        caractères parasites, mots répétés, segments qui ne sont pas du texte “propre”.
+    </p>
+    <p>
+        J’ai donc créé un petit pipeline pour obtenir un corpus plus propre : fusion des fichiers, extraction des tokens arabes
+        (Unicode), et génération de deux fichiers finalisés pour PALS :
+        <code>dumps_AR.txt</code> et <code>contextes_AR.txt</code>.
+        Ce point m’a pris du temps parce que tant que le corpus n’est pas “propre”, PALS sort des cooccurrents qui ne veulent rien dire.
+    </p>
 
-<pre><code>grep -Eio ".{0,30}\b($REGEX)\b.{0,30}" "$FILE_DUMP" | while read -r line; do
+    <h3>4) Lancement de PALS sur <span dir="rtl">دولة</span></h3>
+    <p>
+        J’ai d’abord lancé PALS sur <strong dir="rtl">دولة</strong> dans le corpus de contextes, pour voir les mots qui apparaissent
+        autour du terme dans les extraits. J’ai choisi <strong>50</strong> cooccurrents et la spécificité avec <code>-s i</code>.
+    </p>
 
-    gauche=$(echo "$line" | sed -E "s/(.*)\b($REGEX)\b.*/\1/I")
-    cible=$(echo "$line" | grep -Eio "\b($REGEX)\b")
-    droite=$(echo "$line" | sed -E "s/.*\b($REGEX)\b(.*)/\2/I")
+    <pre><code>python3 pals/cooccurrents.py \
+  --target "دولة" \
+  -N 50 \
+  -s i \
+  pals/PALS_arabe/contextes_AR.txt \
+  > pals/PALS_arabe/dawla_cooc_contextes.tsv</code></pre>
 
-    echo "&lt;tr&gt;
-&lt;td class=&quot;has-text-right&quot;&gt;$gauche&lt;/td&gt;
-&lt;td class=&quot;has-text-centered has-text-success&quot;&gt;&lt;strong&gt;$cible&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;$droite&lt;/td&gt;
-&lt;/tr&gt;" &gt;&gt; "$FILE_CONCORD"
+    <h3>5) Conversion TSV → HTML (UTF-8)</h3>
+    <p>
+        J’ai eu des soucis d’affichage des caractères arabes selon les sorties. Pour éviter de corriger à la main,
+        j’ai converti les TSV vers HTML avec un script qui force un rendu propre.
+    </p>
 
-done
+    <pre><code>bash pals/PALS_arabe/tsv_to_html.sh \
+  pals/PALS_arabe/dawla_cooc_contextes.tsv \
+  pals/PALS_arabe/dawla_cooc_contextes.html</code></pre>
 
-echo "&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;" &gt;&gt; "$FILE_CONCORD"</code></pre>
+    <p>J’ai fait la même chose pour comparer avec le corpus global (dumps) :</p>
 
-<p>Le premier résultat montrait une redondance car la segmentation gauche/droite n’était pas suffisamment contrainte. J’ai corrigé le concordancier en bornant explicitement les contextes autour de l’occurrence centrale.</p>
+    <pre><code>python3 pals/cooccurrents.py --target "دولة" -N 50 -s i pals/PALS_arabe/dumps_AR.txt > pals/PALS_arabe/dawla_cooc_dumps.tsv
+bash pals/PALS_arabe/tsv_to_html.sh pals/PALS_arabe/dawla_cooc_dumps.tsv pals/PALS_arabe/dawla_cooc_dumps.html</code></pre>
 
+    <h3>6) Ce que j’ai observé (dumps vs contextes)</h3>
+    <p>
+        Dans les dumps, j’ai eu plus de bruit : des cooccurrents très fréquents mais pas forcément informatifs,
+        surtout quand une page répète des éléments (structure de site, titres, menus).
+        Les contextes donnent une lecture plus claire parce qu’on est centré sur les zones autour du mot cible.
+    </p>
 
-<h3>Nuage des points</h3>
-<p>Pour réaliser le nuage de points, j'ai créé un script qui prendra tous les fichiers dump text et constituera un corpus entier. J'ai créé un <code>venv</code> pour exécuter la commande <code>wordcloud_cli</code>.  
-Au début, je n'ai pas réussi à générer une image pertinente ; j'ai dû rajouter des prépositions "para", "con,"de" au fichier "stopwords_espagnol" que j'ai téléchargé depuis une source GitHub.</p>
+    <h3>7) Difficultés rencontrées</h3>
+    <ul>
+        <li><strong>Pages bloquées ou pauvres</strong> : certaines URLs donnent très peu de texte utile.</li>
+        <li><strong>Encodage / rendu</strong> : l’arabe n’était pas toujours affiché proprement selon le format de sortie.</li>
+        <li><strong>Tokenisation</strong> : sans extraction de tokens arabes, les cooccurrents sortaient “sales”.</li>
+        <li><strong>Organisation</strong> : j’ai clarifié les dossiers pour éviter de mélanger dumps/contextes/tsv/html.</li>
+    </ul>
 
-<h3>PALS</h3>
-<p>Le but de cet exercice final est d’analyser linguistiquement un mot précis, ici le mot espagnol <strong>« estado »</strong>, en étudiant ses cooccurrences dans notre corpus.  
-Grâce au script de PALS (<em>Probabilistic Association of Lexical Sequences</em>), on peut identifier les mots qui apparaissent fréquemment autour de <strong>estado</strong>, mesurer leur fréquence, leur co‑fréquence avec le mot cible et leur spécificité. Cela permet de comprendre dans quels contextes le mot est utilisé, de détecter ses associations lexicales typiques et éventuellement ses variations sémantiques.</p>
+    <p>
+        Au final, la partie arabe m’a surtout demandé plus d’attention sur la qualité du texte et les formats,
+        parce que sinon les résultats deviennent difficiles à interpréter.
+    </p>
+</main>
 
-<pre><code>./script_coo_espagnol.sh</code></pre>
-
-<ul>
-    <li><strong>UTF-8</strong> : <code>PYTHONIOENCODING=utf-8</code> force Python à écrire les caractères accentués correctement.</li>
-    <li><strong>Chemins relatifs</strong> : le script suppose que tu es dans <code>PALS/PALS_espagnol</code> et que <code>cooccurrents.py</code> est dans <code>PALS</code>.</li>
-    <li><strong>Fichier de sortie</strong> : <code>estado_cooc.html</code> sera créé dans le même dossier que le script.</li>
-    <li><strong>Arguments</strong> :
-        <ul>
-            <li><code>--target "estado"</code> → le mot à étudier</li>
-            <li><code>-N 10</code> → les 10 co-occurrents les plus fréquents</li>
-            <li><code>-s i</code> → calcul de la spécificité (informatif)</li>
-            <li><code>--match-mode regex</code> → pour inclure toutes les formes du mot si besoin</li>
-        </ul>
-    </li>
-</ul>
-
-<p>Pour l’étape finale, j’ai d’abord fusionné tous les fichiers texte en un seul corpus commun pour centraliser les données :</p>
-
-<pre><code>python3 ../cooccurrents.py ./corpus_espagnol.txt --target "estado" -N 10 -s i &gt; estado_cooc.txt
-cat estado_cooc.txt | awk 'BEGIN{print "&lt;table&gt;&lt;tr&gt;&lt;th&gt;Token&lt;/th&gt;&lt;th&gt;Corpus&lt;/th&gt;&lt;th&gt;AllCtx&lt;/th&gt;&lt;th&gt;Freq&lt;/th&gt;&lt;th&gt;CoFreq&lt;/th&gt;&lt;th&gt;Spec&lt;/th&gt;&lt;/tr&gt;"} {print "&lt;tr&gt;&lt;td&gt;"$1"&lt;/td&gt;&lt;td&gt;"$2"&lt;/td&gt;&lt;td&gt;"$3"&lt;/td&gt;&lt;td&gt;"$4"&lt;/td&gt;&lt;td&gt;"$5"&lt;/td&gt;&lt;td&gt;"$6"&lt;/td&gt;&lt;/tr&gt;"} END{print "&lt;/table&gt;"}' &gt; estado_cooc.html</code></pre>
-
-<p>J'ai ensuite constaté que le corpus fusionné contenait beaucoup d'éléments non pertinents. J’ai créé un script qui :</p>
-<ul>
-    <li>Transforme tout le texte en minuscules</li>
-    <li>Supprime les caractères non alphabétiques et les lignes vides</li>
-    <li>Normalise les espaces</li>
-</ul>
-<p>Ce traitement a permis de générer un corpus <em>propre</em>, ne contenant que des mots exploitables pour l’analyse des co-occurrents, garantissant la fiabilité des mesures.</p>
-
-<h3>Erreurs rencontrées</h3>
-<ul>
-    <li>Erreur avec le corpus sans nettoyage : <br> <img src="erreur_sans_le nettoyage.png" alt="erreur sans nettoyage"></li>
-    <li>Erreur sans les tokens : <br> <img src="erreur_sans_les tokens.png" alt="erreur sans tokens"></li>
-    <li>Erreurs avec mots parasites : <br> <img src="erreur_avec_mots parasites.png" alt="erreur avec mots parasites"></li>
-</ul>
-
-<p>Après filtrage des stopwords, j'ai obtenu un nuage satisfaisant.</p>
+<footer>
+    <p>&copy; 2025 PluriTAL : Farah Akird El Ouafi, Nathan Ducros, Anes</p>
+</footer>
 
 </body>
 </html>
