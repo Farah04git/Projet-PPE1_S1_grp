@@ -1,25 +1,17 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# ------------------------
-# Script : Nuage de mots espagnol avec stopwords
-# ------------------------
+DUMP_DIR="./dumps-text/français"
+CORPUS="./corpus_français.txt"
+NUAGE_IMG="./nuages/français/nuage_français.png"
+STOPWORDS="./nuages/français/stopwords-fr.txt"
 
-# dossiers et fichiers
-DUMP_DIR="../dumps-text/espagnol"
-CORPUS="./corpus_espagnol.txt"
-NUAGE_IMG="./nuage_espagnol.png"
-STOPWORDS="./stopwords-es.txt"
-
-# ------------------------
-# Vérifications
-# ------------------------
 if [ ! -d "$DUMP_DIR" ]; then
     echo "Erreur : le dossier '$DUMP_DIR' n'existe pas."
     exit 1
 fi
 
-if ! ls "$DUMP_DIR"/es-*.txt 1> /dev/null 2>&1; then
-    echo "Erreur : aucun fichier es-*.txt trouvé dans '$DUMP_DIR'."
+if ! ls "$DUMP_DIR"/fr-*.txt 1> /dev/null 2>&1; then
+    echo "Erreur : aucun fichier fr-*.txt trouvé dans '$DUMP_DIR'."
     exit 1
 fi
 
@@ -28,15 +20,11 @@ if [ ! -f "$STOPWORDS" ]; then
     exit 1
 fi
 
-# ------------------------
-# Fusionner tous les fichiers en un corpus
-# ------------------------
-cat "$DUMP_DIR"/es-*.txt > "$CORPUS"
+# Fusion de tous les dumps dans un corpus
+cat "$DUMP_DIR"/fr-*.txt > "$CORPUS"
 echo ">>> Corpus fusionné créé : $CORPUS"
 
-# ------------------------
 # Générer le nuage de mots
-# ------------------------
 wordcloud_cli \
     --text "$CORPUS" \
     --imagefile "$NUAGE_IMG" \
