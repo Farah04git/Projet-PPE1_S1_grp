@@ -2,12 +2,18 @@
 set -euo pipefail
 
 URLFILE="URLs/ar.txt"
-LANG="arabe"
+LANGUE="arabe"
 
-ASP_DIR="aspirations/$LANG"
-DUMP_DIR="dumps-text/$LANG"
-CTX_DIR="contextes/$LANG"
-TAB_DIR="tableaux/$LANG"
+BASE_GH="https://github.com/Farah04git/Projet-PPE1_S1_grp/blob/main"
+
+
+ASP_DIR="aspirations/$LANGUE"
+DUMP_DIR="dumps-text/$LANGUE"
+CTX_DIR="contextes/$LANGUE"
+TAB_DIR="tableaux"
+OUTHTML="$TAB_DIR/ar.html"
+CONC_DIR="concordances/$LANGUE"
+
 
 OUTHTML="$TAB_DIR/ar.html"
 
@@ -18,7 +24,7 @@ PAT_CTX="($PAT1|$PAT2)"
 
 N=50
 
-mkdir -p "$ASP_DIR" "$DUMP_DIR" "$CTX_DIR" "$TAB_DIR"
+mkdir -p "$ASP_DIR" "$DUMP_DIR" "$CTX_DIR" "$TAB_DIR" "$CONC_DIR"
 
 if [ ! -f "$URLFILE" ]; then
   echo "Erreur: fichier introuvable: $URLFILE" >&2
@@ -26,14 +32,15 @@ if [ ! -f "$URLFILE" ]; then
 fi
 
 cat > "$OUTHTML" <<'HTML'
-<html>
+<!DOCTYPE html>
+<html lang="fr">
 <head>
   <meta charset="UTF-8" />
   <title>Arabe – état (دولة / حالة)</title>
   <style>
     body { background:#000; color:#fff; font-family: Arial, Helvetica, sans-serif; }
     table { border-collapse: collapse; width:100%; }
-    th, td { border:1px solid #444; padding:6px; text-align:left; }
+    th, td { border:1px solid #444; padding:6px; text-align:left; vertical-align: top; }
     th { background:#111; color:#fff; }
     a { color:#9ad; text-decoration:none; }
     a:hover { text-decoration:underline; }
@@ -45,25 +52,33 @@ cat > "$OUTHTML" <<'HTML'
 <body>
 
 <h1>Arabe – état (دولة / حالة)</h1>
-<table border="1">
+<table>
 <tr>
-  <th>#</th>
+  <th>Num Ligne</th>
   <th>URL</th>
   <th>Occ. (دولة)</th>
   <th>Occ. (حالة)</th>
   <th>Total</th>
   <th>Encodage</th>
-  <th>HTML</th>
-  <th>Texte</th>
+  <th>Code HTTP</th>
+  <th>Page HTML brute</th>
+  <th>Dump textuel</th>
   <th>Contextes</th>
+  <th>Concordancier</th>
 </tr>
 HTML
-
 
 n=0
 
 while IFS= read -r url; do
+  # ignore lignes vides
   [ -z "${url// /}" ] && continue
+
+  # ignore lignes non-URL (commentaires etc.)
+  case "$url" in
+    http://*|https://*) ;;
+    *) continue ;;
+  esac
 
   n=$((n+1))
   if [ "$n" -gt "$N" ]; then
@@ -73,18 +88,27 @@ while IFS= read -r url; do
   html="$ASP_DIR/ar-$n.html"
   txt="$DUMP_DIR/ar-$n.txt"
   ctx="$CTX_DIR/ar-$n.txt"
+  conc="$CONC_DIR/ar-$n.html"
 
-  # 1) Téléchargement
-  curl -s -L -A "Mozilla/5.0" -o "$html" "$url" || true
+  http="000"
+  enc="na"
+  occ1=0
+  occ2=0
+  total=0
+  row_class="eq"
+
+  # 1) Téléchargement + code HTTP
+  http="$(curl -s -L -A "Mozilla/5.0" -o "$html" -w "%{http_code}" "$url" || echo "000")"
 
   if [ ! -s "$html" ]; then
-    echo "[ERREUR] téléchargement vide: $url" > "$txt"
+    echo "[ERREUR] téléchargement vide: $url (HTTP=$http)" > "$txt"
     : > "$ctx"
-    occ1=0
-    occ2=0
-    total=0
-    row_class="eq"
+    cat > "$conc" <<HTML
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Concordances ar-$n</title></head>
+<body><h2>Concordances ar-$n</h2><p>Download vide (HTTP=$http)</p></body></html>
+HTML
     enc="na"
+    row_class="eq"
   else
     # 2) Extraction texte
     pandoc -f html -t plain "$html" -o "$txt" 2>/dev/null || true
@@ -101,22 +125,56 @@ while IFS= read -r url; do
     occ2="${occ2:-0}"
     total=$((occ1 + occ2))
 
-row_class="eq"
-if [ "$occ1" -gt "$occ2" ]; then
-  row_class="w1"
-elif [ "$occ2" -gt "$occ1" ]; then
-  row_class="w2"
-fi
+    # Couleur de ligne
+    row_class="eq"
+    if [ "$occ1" -gt "$occ2" ]; then
+      row_class="w1"
+    elif [ "$occ2" -gt "$occ1" ]; then
+      row_class="w2"
+    fi
 
+    # 5) Contextes (multilignes, lisibles)
+    {
+      echo "URL: $url"
+      echo "PAT1 (دولة): $PAT1"
+      echo "PAT2 (حالة): $PAT2"
+      echo "----- CONTEXTES (±3 lignes) -----"
+      grep -En -C 3 "$PAT_CTX" "$txt" || true
+    } > "$ctx"
 
-    # 5) Contextes des deux
-    grep -En -C 3 "$PAT_CTX" "$txt" > "$ctx" || true
+    # 6) Concordancier HTML (toutes les occurrences en une ligne KWIC)
+    kwic_lines="$(perl -0777 -ne '
+      s/\s+/ /g;
+      my $re = qr/'"$PAT_CTX"'/;
+      my @out;
+      while (/(.{0,40})($re)(.{0,40})/g) {
+        push @out, "$1\[$2\]$3";
+      }
+      print join("\n", @out);
+    ' "$txt" || true)"
+
+    {
+      echo '<!DOCTYPE html><html><head><meta charset="UTF-8" />'
+      echo "<title>Concordances ar-$n</title></head>"
+      echo '<body style="font-family: Arial, Helvetica, sans-serif;">'
+      echo "<h2>Concordances ar-$n</h2>"
+      echo "<p><b>URL:</b> <a href=\"$url\">$url</a></p>"
+      echo "<pre>"
+      if [ -n "${kwic_lines:-}" ]; then
+        printf "%s\n" "$kwic_lines"
+      else
+        echo "Aucune occurrence trouvée."
+      fi
+      echo "</pre></body></html>"
+    } > "$conc"
   fi
 
   # Liens relatifs depuis tableaux/arabe/ar.html
-  html_rel="../../aspirations/$LANG/ar-$n.html"
-  txt_rel="../../dumps-text/$LANG/ar-$n.txt"
-  ctx_rel="../../contextes/$LANG/ar-$n.txt"
+html_rel="$BASE_GH/aspirations/$LANGUE/ar-$n.html"
+txt_rel="$BASE_GH/dumps-text/$LANGUE/ar-$n.txt"
+ctx_rel="$BASE_GH/contextes/$LANGUE/ar-$n.txt"
+conc_rel="$BASE_GH/concordances/$LANGUE/ar-$n.html"
+
 
   cat >> "$OUTHTML" <<HTML
 <tr class="$row_class">
@@ -126,9 +184,11 @@ fi
   <td>$occ2</td>
   <td>$total</td>
   <td>$enc</td>
+  <td>$http</td>
   <td><a href="$html_rel">html</a></td>
   <td><a href="$txt_rel">txt</a></td>
   <td><a href="$ctx_rel">ctx</a></td>
+  <td><a href="$conc_rel">conc</a></td>
 </tr>
 HTML
 

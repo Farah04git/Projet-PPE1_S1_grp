@@ -68,11 +68,12 @@ wc = WordCloud(
     prefer_horizontal=1.0
 ).generate(final_text)
 
-#  Dossier de sortie (propre)
-output_folder = "wordcloud/arabe"
+# Dossier de sortie : nuages/arabe
+output_folder = "nuages/arabe"
 os.makedirs(output_folder, exist_ok=True)
 
 output_path = os.path.join(output_folder, "arabe_all.png")
+
 wc.to_file(output_path)
 
 # Affichage

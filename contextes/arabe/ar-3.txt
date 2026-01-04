@@ -1,3 +1,7 @@
+URL: https://www.dohainstitute.org/ar/BooksAndJournals/Pages/the-question-of-the-state-philosophy-theory-and-context.aspx
+PAT1 (دولة): (ال)?دول(ة|ات|ي|ية|يون|يات|تي|ته|تها|تهم|تنا|كم|كن|نا|ي)?
+PAT2 (حالة): (ال)?حال(ة|ات|ي|ية|ته|تها|تهم|تنا|كم|كن|نا|ي)?
+----- CONTEXTES (±3 lignes) -----
 18-
 19-Toggle
 20-
