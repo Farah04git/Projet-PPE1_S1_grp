@@ -1,29 +1,133 @@
+:root {
+    --beige-fond: #FDF5E6;
+    --marron-fonce: #5C4033;
+    --marron-clair: #A67B5B;
+    --gris-texte: #4B3B2A;
+    --beige-clair: #FFF8E7;
+    --ocre-doux: #D9B382;
+}
+
+/* -----------------------------
+   Global : Corps du site
+----------------------------- */
+body {
+    font-family: Georgia, 'Times New Roman', serif; /* police unique pour tout le site */
+    background-color: var(--beige-fond);
+    color: var(--gris-texte);
+    line-height: 1.6;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    font-family: inherit;
+    color: var(--marron-fonce);
+    margin-bottom: 0.5em;
+}
+
+/* -----------------------------
+   Header
+----------------------------- */
+header {
+    background-color: var(--marron-fonce);
+    color: var(--beige-clair);
+    padding: 20px;
+    text-align: center;
+}
+
+/* -----------------------------
+   Navigation
+----------------------------- */
+nav {
+    background-color: var(--marron-clair);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul > li {
+    display: inline-block;
+    position: relative;
+}
+
+nav a {
+    display: block;
+    color: var(--beige-clair);
+    text-decoration: none;
+    padding: 12px 20px;
+    transition: background 0.3s;
+}
+
+nav li:hover {
+    background-color: var(--marron-fonce);
+}
+
+nav li ul {
+    display: none;
+    position: absolute;
+    background-color: var(--marron-clair);
+    min-width: 180px;
+    z-index: 1000;
+}
+
+nav li:hover > ul {
+    display: block;
+}
+
+nav li ul li {
+    display: block;
+}
+
+nav li ul li a {
+    padding: 10px 20px;
+}
+
+nav li ul li:hover {
+    background-color: var(--marron-fonce);
+}
+
+/* -----------------------------
+   Main
+----------------------------- */
+main {
+    padding: 20px;
+}
+
+/* Sections / intros */
+.intro {
+    background-color: var(--beige-clair);
+    padding: 15px 20px;
+    border-left: 5px solid var(--ocre-doux);
+    border-radius: 5px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
 /* -----------------------------
    Nuages de mots
 ----------------------------- */
 .nuages {
     display: flex;
-    justify-content: space-between; /* espace entre les cartes */
-    gap: 20px; /* espace entre les nuages */
-    flex-wrap: wrap; /* s'adapte aux écrans étroits */
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
     margin-top: 20px;
 }
 
 .nuage {
-    flex: 1;
-    max-width: 30%; /* 3 nuages sur la même ligne */
-    background-color: #f5f5f5;
+    flex: 1 1 30%;
+    background-color: var(--beige-clair);
     padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     text-align: center;
-    font-family: 'Georgia', serif;
-    margin-bottom: 20px; /* espace si le nuage passe en ligne inférieure */
+    margin-bottom: 20px;
 }
 
 .nuage h3 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px 0;
     font-size: 1.2em;
 }
 
@@ -39,4 +143,49 @@
     border-radius: 5px;
 }
 
+/* -----------------------------
+   Footer
+----------------------------- */
+footer {
+    background-color: var(--marron-fonce);
+    color: var(--beige-clair);
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
 
+/* Tableaux */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: var(--beige-clair);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+th, td {
+    border: 1px solid var(--ocre-doux);
+    padding: 0.6em 1em;
+    text-align: left;
+    border-radius: 3px;
+}
+
+th {
+    background-color: var(--marron-fonce);
+    color: var(--beige-clair);
+    font-weight: 600;
+}
+
+td {
+    color: var(--gris-texte);
+}
+
+tr:nth-child(even) {
+    background-color: #F5E6D3;
+}
+
+/* Mot clé "État" */
+.mot-etat {
+    color: var(--marron-fonce);
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
