@@ -101,24 +101,44 @@
 
     <!-- -----------------------------
          2. Nuages de mots
-    ----------------------------- -->
-    <section>
-        <h2>Nuages de mots</h2>
-        <div class="nuages">
-            <div class="nuage">
-                <h3>Arabe</h3>
-                <img src="#" alt="Nuage de mots Arabe">
-            </div>
-            <div class="nuage">
-                <h3>Espagnol</h3>
-                <img src="nuages/espagnol/nuage_espagnol.png" alt="Nuage de mots Espagnol">
-            </div>
-            <div class="nuage">
-                <h3>Français</h3>
-                <img src="nuages/français/nuage_français.png" alt="Nuage de mots Français">
-            </div>
+----------------------------- -->
+<section>
+    <h2>Nuages de mots</h2>
+    <div class="nuages">
+        <div class="nuage">
+            <h3>Arabe</h3>
+            <img src="nuages/arabe/nuage_arabe.png" alt="Nuage de mots Arabe">
         </div>
-    </section>
+        <div class="nuage">
+            <h3>Espagnol</h3>
+            <img src="nuages/espagnol/nuage_espagnol.png" alt="Nuage de mots Espagnol">
+        </div>
+        <div class="nuage">
+            <h3>Français</h3>
+            <img src="nuages/français/nuage_français.png" alt="Nuage de mots Français">
+        </div>
+    </div>
+</section>
+
+<style>
+.nuages {
+    display: flex;           
+    justify-content: space-around; 
+    gap: 20px;               
+    flex-wrap: wrap;        
+}
+
+.nuage {
+    flex: 1 1 30%;           
+    text-align: center;      
+}
+
+.nuage img {
+    max-width: 100%;         
+    height: auto;            
+}
+</style>
+
 
 </main>
 
