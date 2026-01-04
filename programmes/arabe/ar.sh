@@ -19,7 +19,9 @@ OUTHTML="$TAB_DIR/ar.html"
 
 # 2 patterns séparés + total
 PAT1='(ال)?دول(ة|ات|ي|ية|يون|يات|تي|ته|تها|تهم|تنا|كم|كن|نا|ي)?'
-PAT2='(ال)?حال(ة|ات|ي|ية|ته|تها|تهم|تنا|كم|كن|نا|ي)?'
+PAT2='(ال)?حال(ي|ية|ة|ات)?(ي|ك|ه|ها|هم|نا|كم|كن)?'
+
+
 PAT_CTX="($PAT1|$PAT2)"
 
 N=50
@@ -174,7 +176,7 @@ html_rel="$BASE_GH/aspirations/$LANGUE/ar-$n.html"
 txt_rel="$BASE_GH/dumps-text/$LANGUE/ar-$n.txt"
 ctx_rel="$BASE_GH/contextes/$LANGUE/ar-$n.txt"
 conc_rel="$BASE_GH/concordances/$LANGUE/ar-$n.html"
-
+    
 
   cat >> "$OUTHTML" <<HTML
 <tr class="$row_class">

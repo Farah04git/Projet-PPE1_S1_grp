@@ -1,540 +1,2554 @@
-[]
+- عربي
+- 中文
+- English
+- Français
+- Português
+- Русский
+- Español
 
-[] []
+Doha Declaration
 
-تشغيل وضع قابل للوصول بشكل أفضل
+Education for Justice
 
-إيقاف تشغيل الوضع القابل للوصول بشكل أفضل
+- الصفحة الرئيسية
+  - سلسلة الحوار العالمية للتعليم من أجل العدالة
+    - Agenda Day 1
+    - Agenda Day 2
+    - Agenda Day 3
+    - Agenda Day 4
+    - Registration
+    - Partners
+  - E4J High Level Conference Vienna October 2019
+    - Agenda Day 1
+    - Agenda Day 2
+      - Breakout Sessions for Primary and Secondary Level
+      - Breakout Sessions for Tertiary Level
+    - Agenda Day 3
+    - E4J Youth Competition
+  - E4J Around the World
+    - India - Lockdown Learners
+- التعليم الابتدائي
+  - ركن التسلية
+  - أدوات ومواد
+    - The Zorbs
+    - Chuka, Break the Silence
+    - The Online Zoo
+    - أرغبُ في مجتمعٍ
+    - المحافظةُ عَلى السلامةِ عَلى الإنترنتِ
+    - لِنكُن مُحترمينَ على الإنترنت
+    - بإمكاننا جميعًا أن نكونَ أبطالً
+    - الاحترام للجميع
+    - جَميعنا لدينا حقوق
+    - فسيفساءٌ من الاختلافات
+    - التصرُّفُ الصائبُ
+    - حلُّ المعضلاتِ الأخلاقيةِ
+  - مبادرة اليونسكو/المكتب المعني بالمخدِّرات والجريمة بشأن تعليم المواطَنَة
+    العالمية
+    - UNODC-UNESCO Guide for Policymakers
+    - UNODC-UNESCO Handbooks for Teachers
+- التعليم الثانوي
+  - Justice Accelerators
+  - الأمم المتحدة النموذجية
+    - الدليل المرجعي
+      - Introduction
+      - Crime Prevention & Criminal Justice
+        - Corruption
+        - Organized Crime
+        - Firearms
+        - Trafficking in Persons & Smuggling of Migrants
+        - Cybercrime
+        - Terrorism
+        - Crime Prevention & Criminal Justice Reform
+      - Crime Prevention, Criminal Justice & SDGs
+      - UN Congress on Crime Prevention & Criminal Justice
+      - Commission on Crime Prevention & Criminal Justice
+      - Conference of the Parties to UNTOC
+      - Conference of the States Parties to UNCAC
+      - Rules for Simulating Crime Prevention & Criminal Justice Bodies
+      - Resources
+        - Corruption
+        - Organized Crime
+        - Firearms
+        - Trafficking in Persons & Smuggling of Migrants
+        - Cybercrime
+        - Terrorism
+        - Crime Prevention & Criminal Justice
+    - المشاركة معنا
+    - تواصلوا معنا
+    - المؤتمرات التي تدعم مبادرة التعليم من أجل العدالة
+  - رُكن الألعاب
+    - Cyberstrike
+    - Enredados
+    - Labyrinth
+    - Play for Integrity
+    - Purposyum
+    - Running out of Time
+  - Online Games
+    - Zorbs Reloaded
+    - Disonante
+  - فيديو ودليل للمعلمين
+    - مكافحة الفساد
+      - مقدمة
+      - وضع أساس منطقي لاستعمال الفيديو الخاص بمكافحة الفساد
+      - استعراض الفيديو الخاص بمكافحة الفساد
+      - المشاهدة الواعية لالفيديو الخاص بمكافحة الفساد
+      - أنشطة ما بعد المشاهدة
+      - موارد
+    - الاتجار بالأسلحة النارية
+      - كيفية استخدام هذا الدليل
+      - وضع أساس منطقي لاستعمال الفيديو الخاص بالاتّجار بالأسلحة النارية
+      - استعراض الفيديو الخاص بالاتّجار بالأسلحة النارية
+      - المشاهدة الواعية للفيديو الخاص بالاتّجار بالأسلحة النارية
+      - أنشطة ما بعد المشاهدة
+      - موارد
+    - التعليم الثانوي
+      - مقدّمة
+      - وضع أساس منطقي لاستخدام الفيديو حول الاتجار بالبشر في الصف
+      - استعراض الفيديو حول الإتجار بالبشر
+      - مشاهدة الفيديو حول الإتجار بالبشر لغاية ما
+      - أنشطة ما بعد المشاهدة
+      - موارد
+    - Organized Crime
+      - Introduction
+      - Rationale for Using the Video
+      - Previewing the Organized Crime Video
+      - Viewing the Video with a Purpose
+      - Post-viewing Activities
+      - Resources
+    - Smuggling of Migrants
+      - Introduction
+      - Rationale for Using the Video
+      - Previewing the Human Trafficking Video
+      - Viewing the Video with a Purpose
+      - Post-viewing Activities
+      - Resources
+    - Terrorism & Violent Extremism
+      - Introduction
+      - Rationale for Using the Video
+      - Previewing the Video
+      - Viewing the Video with a Purpose
+      - Post-viewing Activities
+      - Resources
+  - Comics
+  - منع الجريمة والعدالة الجنائية
+  - الفساد والن‍زاهة
+  - الجريمة المنظمة
+  - الجريمة السيبرانية
+  - الاتجار بالبشر وتهريب المهاجرين
+  - الاتجار بالأسلحة النارية
+  - الإرهاب والتطرف العنيف
+  - مبادرة اليونسكو/المكتب المعني بالمخدِّرات والجريمة بشأن تعليم المواطَنَة
+    العالمية
+    - UNODC-UNESCO Guide for Policymakers
+    - UNODC-UNESCO Handbooks for Teachers
+- التعليم الجامعي
+  - مكافحة الفساد
+    - النميطة 1: ما هو الفساد وكيف يؤثر علينا؟
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - الفساد: تعريف أساسي
+        - آثار الفساد
+        - معاني أعمق للفساد
+        - قياس الفساد
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات دراسية إضافية
+      - توجيهات بشأن إعداد دورة دراسية قائمة بذاتها
+      - الملحق: كيف يؤثر الفساد على أهداف التنمية المستدامة؟
+    - النميطة 2: الفساد والحوكمة الرشيدة
+      - مقدمة و نتائج التعلم
+      - المسائل الرئيسية
+        - ما هي الحوكمة ؟
+        - ما هي الحوكمة الرشيدة ؟
+        - الحوكمة الرشيدة والتنمية المستدامة ؟
+        - إصلاحات الحكم ومكافحة الفساد
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة دراسية قائمة بذاتها
+    - النميطة 3: الفساد والسياسة المقارَنة
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - أنواع الأنظمة السياسية
+          - أنواع الأنظمة السياسية
+        - الفساد والديمقراطية
+        - الفساد والأنظمة الاستبدادية
+        - الأنظمة الهجينة ومتلازمات الفساد
+        - نهج الدمقرطة العميقة
+        - الأحزاب السياسية والتمويل السياسي
+        - بناء المؤسسات السياسية كوسيلة لمكافحة الفساد
+        - الخلاصة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة دراسية قائمة بذاتها
+    - النميطة 4: الفساد في القطاع العام
+      - المقدمة و مخرجات التعلم
+      - القضايا الرئيسية
+        - مظاهر وتداعيات الفساد في القطاع العام
+        - أسباب الفساد في القطاع العام
+        - النظريات التي تشرح الفساد
+        - الفساد في مجال التوريد العام
+        - الفساد في المؤسسات المملوكة للدولة
+        - أوجه الاستجابة للفساد في القطاع العام
+        - الوقاية من الفساد في القطاع العام
+        - خلاصة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - مبادئ توجيهية لوضع دورة قائمة بذاتها
+    - النميطة 5: الفساد في القطاع الخاص
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - أشكال ومظاهر فساد القطاع الخاص
+        - عواقب فساد القطاع الخاص
+        - أسباب الفساد في القطاع الخاص
+        - الاستجابات للفساد في القطاع الخاص
+        - منع فساد القطاع الخاص
+        - العمل الجماعي والشراكات بين القطاعين العام والخاص لمكافحة
+          الفساد
+        - الخلاصة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة دراسية قائمة بذاتها
+    - النميطة 6: الإبلاغ عن المخالفات وإنفاذ قوانين مكافحة الفساد
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - الشفافية كشرط مسبق
+        - آليات الكشف: المراجعة وإعداد التقارير
+        - أنظمة الإبلاغ عن المخالفات والحماية
+        - التحقيق في الفساد
+        - الخلاصة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة دراسية قائمة بذاتها
+    - Module 7: Corruption and Human Rights
+      - Introduction and Learning Outcomes
+      - Key Issues
+        - Brief background on the human rights system
+        - Overview of the corruption-human rights nexus
+        - Impact of corruption on specific human rights
+        - Approaches to assessing the corruption-human rights nexus
+        - Human-rights based approach
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - Module 8: Corruption and Gender
+      - Introduction and Learning Outcomes
+      - Key Issues
+        - Defining sex, gender and gender mainstreaming
+        - Gender differences in corruption
+        - Theories explaining the gender–corruption nexus
+        - Gendered impacts of corruption
+        - Anti-corruption and gender mainstreaming
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - Module 9: Corruption in Education
+      - Introduction and Learning Outcomes
+      - Key Issues
+        - Manifestations of corruption in education
+        - Costs of corruption in education
+        - Causes of corruption in education
+        - Fighting corruption in education
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - Module 10: Citizen Participation in Anti-Corruption Efforts
+      - Introduction and Learning Outcomes
+      - Key Issues
+        - Core terms and concepts
+        - The role of citizens in fighting corruption
+        - The role, risks and challenges of CSOs fighting corruption
+        - The role of the media in fighting corruption
+        - Access to information: a condition for citizen participation
+        - ICT as a tool for citizen participation in anti-corruption
+          efforts
+        - Government obligations to ensure citizen participation in
+          anti-corruption efforts
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+  - مكافحة الإرهاب
+    - Teaching Guide
+    - النميطة 1: مدخل إلى مكافحة الإرهاب
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Brief History of Terrorism
+        - 19th Century Terrorism
+        - League of Nations & Terrorism
+        - United Nations & Terrorism
+        - Terrorist Victimization
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - Module 2: Conditions Conducive to Spread of Terrorism
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Radicalization & Violent Extremism
+        - Preventing & Countering Violent Extremism
+        - Drivers of Violent Extremism
+        - International Approaches to PVE &CVE
+        - Regional & Multilateral Approaches
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - Module 3: International Counter-Terrorism Legal Framework
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Defining Rule of Law
+        - UN Global Counter-Terrorism Strategy
+        - International Cooperation & UN CT Strategy
+        - Legal Sources & UN CT Strategy
+        - Regional & National Approaches
+        - International Legal Frameworks
+        - International Human Rights Law
+        - International Humanitarian Law
+        - International Refugee Law
+        - Current Challenges to International Legal Framework
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - Module 4: Criminal Justice Responses to Terrorism
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Defining Terrorism
+        - Criminal Justice Responses
+        - Treaty-based Crimes of Terrorism
+        - Core International Crimes
+        - International Courts and Tribunals
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - Module 5: Regional Counter-Terrorism Approaches
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - African Region
+        - Inter-American Region
+        - Asian Region
+        - European Region
+        - Middle East & Gulf Regions
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - النميطة 6: نهوج مكافحة الإرهاب القائمة على التدخل العسكري والنـزاع
+      المسلح
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - المبادئ الأساسية للقانون الدولي الإنساني
+        - تصنيف النزاع المسلح
+        - تصنيف الأشخاص
+        - القانون الدولي الإنساني والإرهاب ومكافحة الإرهاب
+        - العلاقة بين القانون الدولي الإنساني والقانون الدولي لحقوق
+          الإنسان
+      - التمارين ودراسات حالة
+      - الهيكل المحتمل للحصة الدراسية
+      - القراءات الأساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - المراجع
+    - النميطة 7: مكافحة الإرهاب وحالات الطوارئ العامة
+      - المقدمة ومخرجات التعلم
+      - القضايا الرئيسية
+        - القيود التي يجيزها قانون حقوق الإنسان
+        - التقييد في أوقات الطوارئ العامة
+        - أمثلة على حالات الطوارئ والاستثناءات المتعلقة بالإرهاب
+      - تمارين ودراسات حالة
+      - تنظيم الدرس المقترح
+      - القراءات الأساسية
+      - قراءات متقدمة
+      - تقييم الطلبة
+      - أدوات تقييم إضافية
+      - المراجع
+    - النميطة 8: الحق في الحياة
+      - المقدمة و مخرجات التعلم
+      - القضايا الرئيسية
+        - الصكوك الدولية لحقوق الإنسان
+        - الصكوك الإقليمية لحقوق الإنسان
+        - القانون الإنساني الدولي
+        - تطبيق الحق في الحياة خارج الحدود الإقليمية
+        - الحرمان التعسفي من الحياة
+        - عقوبة الإعدام
+        - الاختفاء القسري
+        - سياق النزاع المسلح
+      - التمارين و دراسات الحالة
+      - الهيكل المحتمل للفصل
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم الطلاب
+      - أدوات تعليمية اضافية
+      - مراجع
+    - النميطة 9: حظر التعذيب وغيره من أشكال المعاملة القاسية أو
+      اللاإنسانية أو المهينة
+      - المقدمة و مخرجات التعلم
+      - القضايا الرئيسية
+        - العهد الدولي الخاص بالحقوق المدنية والسياسية
+        - اتفاقية مناهضة التعذيب وغيره من ضروب المعاملة أو العقوبة
+          القاسية أو اللاإنسانية أو المهينة
+        - الصكوك الإقليمية لحقوق الإنسان
+        - القانون الإنساني الدولي
+      - التمارين ودراسات الحالة
+      - الهيكلة المحتملة للفصل
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - المراجع
+    - Module 10: Arrest & Detention
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - International Legal Framework
+        - International Human Rights Instruments
+        - Regional Human Rights Instruments
+        - Key Contemporary Issues
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - النميطة 11: الحق في محاكمة عادلة
+      - مقدمة
+      - المسائل الرئيسية
+        - الإطار القانوني الدولي
+        - الصكوك الإقليمية لحقوق الإنسان
+        - مسائل معاصرة رئيسية
+          - مرحلة التحريات والتحقيقات
+          - مرحلة المحاكمة وإصدار الحكم
+        - النـزاعات المسلحة
+      - التمارين ودراسات الحالة
+        - التمارين
+        - دراسات الحالة
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - المراجع
+    - Module 12: Privacy, Investigative Techniques & Intelligence
+      Gathering
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - International Legal Framework
+        - Regional & National Approaches
+        - Key Contemporary Issues
+        - Special Investigative Techniques
+        - Surveillance & Interception of Communications
+        - Privacy & Intelligence Gathering in Armed Conflict
+        - Accountability & Oversight of Intelligence Gathering
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - النميطة 13: عدم التمييز والحريات الأساسية
+      - مقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - مبدأ عدم التمييز
+        - حرية الأديان
+        - حرية التعبير
+        - حرية التجمع
+        - حرية تكوين الجمعيات
+        - الحريات الأساسية في حالات النزاع المسلح
+      - تمارين وحالات دراسية
+      - الهيكل المحتمل للحصة الدراسية
+      - القراءات الأساسية
+      - قراءات متقدمة
+      - تقييم الطلبة
+      - أدوات تدريس إضافية
+      - المراجع
+    - النميطة 14: ضحايا الإرهاب
+      - مقدمة ومخرجات التعلم
+      - المسائل الرئيسية
+        - تعريف "الضحية"
+        - آثار الإرهاب: الصدمة ووجهة النظر المتعلقة بالضحايا
+        - الوصول إلى العدالة (من منظور الضحية)
+        - الاعتراف بالضحية في الإجراءات القضائية
+        - الإطار القانوني
+          - صكوك حقوق الإنسان الدولية والإقليمية
+          - القانون الدولي لحقوق الإنسان
+          - صكوك حقوق الإنسان الإقليمية
+          - آليات منع الجريمة والعدالة الجنائية
+          - الصكوك الدولية والإقليمية المنظمة لضحايا الإرهاب
+          - المناهج الوطنية
+        - التحديات الرئيسية في تأمين التعويضات
+      - تمارين وحالات دراسية
+      - الهيكل الممكن للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - المراجع
+    - Module 15: Contemporary Issues of Terrorism and Counter-Terrorism
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Topic 1. Contemporary issues relating to conditions conducive
+          both to the spread of terrorism and the rule of law
+        - Topic 2. Contemporary issues relating to the right to life
+        - Topic 3. Contemporary issues relating to foreign terrorist
+          fighters
+        - Topic 4. Contemporary issues relating to non-discrimination
+          and fundamental freedoms
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - References
+    - Module 16: Linkages between Organized Crime and Terrorism
+  - منع الجريمة والعدالة الجنائية
+    - Teaching Guide
+      - Introduction
+      - Overview of Modules
+        - Thematic Areas
+        - Content Breakdown
+      - Module Adaptation & Design Guidelines
+      - Teaching Methods
+      - Conclusion
+      - References
+      - Acknowledgements
+    - Module 1: United Nations Norms & Standards on Crime Prevention &
+      Criminal Justice
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Key Terms
+        - 1. Introducing United Nations Standards & Norms on CPCJ
+          vis-à-vis International Law
+        - 2. Scope of United Nations Standards & Norms on CPCJ
+        - 3. United Nations Standards & Norms on CPCJ in Operation
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - Module 2: Crime Prevention
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - 1. Definition of Crime Prevention
+        - 2. Key Crime Prevention Typologies
+        - 2. (cont.) Tonry & Farrington’s Typology
+        - 3. Crime Problem-Solving Approaches
+        - 4. What Works
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Further Resources
+        - United Nations Entities
+        - Regional Crime Prevention Councils/Institutions
+        - Key Clearinghouses
+        - Systematic Reviews
+      - Guidelines for Stand-Alone Course
+    - Module 3: Access to Legal Aid in Criminal Proceedings
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Key Terms
+        - 1. Introduction to International Standards & Norms
+        - 2. Identifying the Need for Legal Aid
+        - 3. Key Components of the Right of Access to Legal Aid
+        - 4. Access to Legal Aid for Those with Specific Needs
+        - 5. Models for Governing, Administering and Funding Legal Aid
+        - 6. Models for Delivering Legal Aid Services
+        - 7. Roles and Responsibilities of Legal Aid Providers
+        - 8. Quality Assurance and Legal Aid Services
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-Alone Course
+    - الوحدة التعليمية 4 : استخدام القوة والأسلحة النارية
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - 1. Context for Use of Force by Law Enforcement Officials
+        - 2. Legal Framework
+        - 3. General Principles of Use of Force in Law Enforcement
+        - 4. Use of Firearms
+        - 5. Use of “Less-Lethal” Weapons
+        - 6. Protection of Especially Vulnerable Groups
+        - 7. Use of Force during Assemblies
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-Alone Course
+    - Module 5: Police Accountability, Integrity and Oversight
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - 1. Policing in democracies & need for accountability,
+          integrity, oversight
+        - 2. Key mechanisms & actors in police accountability, oversight
+        - 3. Crosscutting & contemporary issues in police accountability
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - Module 6: Prison Reform
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - 1. Introducing Aims of Punishment, Imprisonment & Prison
+          Reform
+        - 2. Current Trends, Challenges & Human Rights
+        - 3. Towards Humane Prisons & Alternative Sanctions
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - Module 7: Alternatives to Imprisonment
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - 1. Aims and Significance of Alternatives to Imprisonment
+        - 2. Justifying Punishment in the Community
+        - 3. Pretrial Alternatives
+        - 4. Post Trial Alternatives
+        - 5. Evaluating Alternatives
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-Alone Course
+    - النميطة 8 : العدالة التصالحية
+      - مقـدمـة
+      - القضايا الرئـيسـيـة
+        - الموضوع الأول - مفهوم وقيم ونشأة العدالة التصالحية
+        - الموضوع الثاني - نظرة عامة على عمليات العدالة التصالحية
+        - الموضوع الثالث - ما مدى فعالية العدالة التصالحية من حيث
+          التكلفة؟
+        - الموضوع الرابع - مسائل متعلقة بتنفيذ العدالة العدالة التصالحية
+        - ملخَّص
+        - المراجع
+      - التمارين
+      - دراسات حالات إفرادية
+      - هيكل الحصة الموصى به
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم الطلاب
+      - أدوات تدريس إضافية
+      - مبادئ توجيهية لوضع دورة قائمة بذاتها
+    - Module 9: Gender in the Criminal Justice System
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Key Terms
+        - 1. Gender-Based Discrimination & Women in Conflict with the
+          Law
+        - 2. Vulnerabilities of Girls in Conflict with the Law
+        - 3. Discrimination and Violence against LGBTI Individuals
+        - 4. Gender Diversity in Criminal Justice Workforce
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-Alone Course
+    - النميطة 10: العنف ضد المرأة
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Key Terms
+        - 1. Ending Violence against Women
+        - 2. Human Rights Approaches to Violence against Women
+        - 3. Who Has Rights in this Situation?
+        - 4. What about the Men?
+        - 5. Local, Regional & Global Solutions to Violence against
+          Women & Girls
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - النميطة 11: العدالة للضحايا
+      - المقدمة ومخرجات التعليم
+      - المسائل الرئيسية
+        - الموضوع الأول: إدراك مفهوم ضحايا الجريمة ولمحة تاريخية موجزة
+          عن الدراسات المتعلقة بالضحايا
+        - الموضوع الثاني: أثر الجريمة بما في ذلك الصدمة
+        - الموضوع الثالث: حق الضحايا في الاستجابة الملائمة لاحتياجاتهم
+        - الموضوع الرابع: جمع بيانات الضحايا
+        - الموضوع الخامس: الضحايا ومشاركتهم في إجراءات العدالة الجنائية
+        - الموضوع السادس: الخدمات المقدمة للضحايا: المؤسسات الحكومية
+          وغير الحكومية
+        - الموضوع السابع: لمحة موجزة عن التطورات الحالية المتعلقة
+          بالضحايا
+        - الموضوع الثامن: ضحايا الجريمة والقانون الدولي
+        - الخلاصة
+        - المراجع
+      - التمارين
+      - قضايا دراسية
+      - الهيكل الممكِّن للحصة التعليمية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - المبادئ التوجيهية لتطوير المنهج الدراسي
+    - النميطة 12: العنف ضد الأطفال
+      - المقدمة ومخرجات التعلم
+      - المسائل الأساسية
+        - الموضوع الأول: أشكال العنف المتعددة ضد الأطفال
+        - الموضوع الثاني: تأثير العنف على الأطفال
+        - الموضوع الثالث: التزامات الدول بمنع العنف ضد الأطفال وحماية
+          الأطفال الضحايا
+        - الموضوع الرابع: تحسين الوقاية من العنف ضد الأطفال
+        - الموضوع الخامس: تحسين استجابة العدالة الجنائية للعنف ضد
+          الأطفال
+        - الموضوع السادس: معالجة العنف ضد الأطفال داخل النظام القضائي
+        - المراجع
+      - التمارين
+      - دراسات الحالة
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تعليمية إضافية
+      - المبادئ التوجيهية لتطوير دورة تدريبية قائمة بذاتها
+    - Module 13: Justice for Children
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - 1. The Role of the Justice System
+        - 2. Convention on the Rights of the Child & International Legal
+          Framework on Children's Rights
+        - 3. Justice for Children
+        - 4. Justice for Children in Conflict with the Law
+        - 5. Realizing Justice for Children
+        - Summary
+        - References
+      - Exercises
+      - Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+      - Guidelines for Stand-alone Course
+    - الوحدة التعليمية 14 : استقلال القضاء ودور أجهزة النيابة العامة
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - 1a. Judicial Independence as Fundamental Value of Rule of Law
+          & of Constitutionalism
+        - 1b. Main Factors Aimed at Securing Judicial Independence
+        - 2a. Public Prosecutors as ‘Gate Keepers’ of Criminal Justice
+        - 2b. Institutional and Functional Role of Prosecutors
+        - 2c. Other Factors Affecting the Role of Prosecutors
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+  - الجريمة السيبرانية
+    - Teaching Guide
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    - الوحدة التعليمية 1: مقدمة إلى الجريمة الإلكترونية
+      - المقدمة ونتائج التعلم
+      - القضايا الرئيسية
+        - أساسيات الحوسبة
+        - اتجاهات استخدام الاتصال والتكنولوجيا العالمية
+        - الجريمة الإلكترونية في سطور
+        - اتجاهات الجريمة الإلكترونية
+        - منع الجريمة الإلكترونية
+        - خاتمة
+        - المراجع
+      - التمارين
+      - الهيكل الطبقي المحتمل
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم الطالب
+      - أدوات تعليمية إضافية
+    - Module 2: General Types of Cybercrime
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Offences against computer data and systems
+        - Computer-related offences
+        - Content-related offences
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 3: Legal Frameworks and Human Rights
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - The Role of Cybercrime Law
+        - Harmonization of Laws
+        - International and Regional Instruments
+        - International Human Rights and Cybercrime Law
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 4: مدْخَل إلى علم الاستدلال الجنائي الرقمي
+      - مقدمة و مخرجات التعلم
+      - القضايا الرئيسية
+        - الدليل الرقمي
+        - الاستدلال الجنائي الرقمي
+        - المعايير وأفضل الممارسات الفضلى للاستدلال الجنائي الرقمي
+        - خلاصة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - النميطة 5: التحقيق في الجرائم السيبرانية
+      - المقدمة ونتائج التعلم
+      - القضايا الرئيسية
+        - الإبلاغ عن الجرائم الإلكترونية
+        - من الذي يجري التحقيقات في الجرائم الإلكترونية؟
+        - عقبات أمام التحقيقات في الجرائم الإلكترونية
+        - إدارة المعرفة
+        - خاتمة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - Module 6: Practical Aspects of Cybercrime Investigations & Digital
+      Forensics
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Legal and Ethical Obligations
+        - Handling of Digital Evidence
+        - Digital Evidence Admissibility
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 7: التعاون الدولي على مكافحة الجريمة السيبرانية
+      - المقدمة ونتائج التعلم
+      - القضايا الرئيسية
+        - السيادة والاختصاص
+        - آليات التعاون الدولي الرسمية
+        - آليات التعاون الدولي غير الرسمية
+        - الاحتفاظ بالبيانات والحفاظ عليها والوصول إليها
+        - التحديات المتعلقة بالأدلة خارج الحدود الإقليمية
+        - القدرة الوطنية والتعاون الدولي
+        - خلاصة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - Module 8: Cybersecurity & Cybercrime Prevention - Strategies,
+      Policies & Programmes
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Internet Governance
+        - Cybersecurity Strategies: Basic Features
+        - National Cybersecurity Strategies
+        - International Cooperation on Cybersecurity Matters
+        - Cybersecurity Posture
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 9: الأمن السيبراني ودرء الجريمة السيبرانية: التطبيقات
+      والتدابير العملية
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - الأصول ونقاط الضعف والتهديدات
+        - المخاطرة
+        - الإفصاح عن نقاط الضعف
+        - تدابير الأمن الإلكتروني وقابلية الاستخدام
+        - منع الجريمة الظرفية
+        - اكتشاف الحوادث، والاستجابة لها، والتعافي منها، والتأهب لها
+        - خلاصة
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - القراءات الأساسية
+      - القراءات المتقدمة
+      - تقييم أداء الطلبة
+      - أدوات تعليمية إضافية
+    - النميطة 10: الخصوصية وحماية البيانات
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - الخصوصية: ما هي ولماذا هي مهمة
+        - الخصوصية والأمن
+        - الجرائم الإلكترونية التي تؤثر على الخصوصية
+        - قانون حماية البيانات
+        - قوانين الإخطار بخرق البيانات
+        - إنفاذ قوانين الخصوصية وحماية البيانات
+        - الخاتمة
+        - المراجع
+      - التمارين
+      - الهيكل الممكن للحصة الدراسية
+      - القراءات الرئيسية
+      - القراءات المتقدمة
+      - تقييم أداء الطلبة
+      - أدوات تعليمية إضافية
+    - Module 11: Cyber-Enabled Intellectual Property Crime
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Intellectual Property: What it is
+        - Types of Intellectual Property
+        - Causes for Cyber-Enabled Copyright & Trademark Offences
+        - Protection & Prevention Efforts
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 12: Interpersonal Cybercrime
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Online Child Sexual Exploitation and Abuse
+        - Cyberstalking and Cyberharassment
+        - Cyberbullying
+        - Gender-Based Interpersonal Cybercrime
+        - Interpersonal Cybercrime Prevention
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 13: Cyber Organized Crime
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Cyber Organized Crime: What is it?
+        - Conceptualizing Organized Crime & Defining Actors Involved
+        - Criminal Groups Engaging in Cyber Organized Crime
+        - Cyber Organized Crime Activities
+        - Preventing & Countering Cyber Organized Crime
+        - Conclusion
+        - References
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 14: Hacktivism, Terrorism, Espionage, Disinformation
+      Campaigns & Warfare in Cyberspace
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Hacktivism
+        - Cyberespionage
+        - Cyberterrorism
+        - Cyberwarfare
+        - Information Warfare, Disinformation & Electoral Fraud
+        - Responses to Cyberinterventions
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+  - الأسلحة النارية
+    - Module 1: Introduction to Firearms
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Framing the Issue of Firearms
+        - Direct Impact of Firearms
+        - Indirect Impacts of Firearms on States or Communities
+        - International and National Responses
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 2: Basics on Firearms and Ammunition
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Typology and Classification of Firearms
+        - Common Firearms Types
+        - 'Other' Types of Firearms
+        - Parts and Components
+        - Ammunition
+        - Summary
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 3: السوق المشروعة من الأسلحة النارية
+      - المقدمة ونتائج التعلم
+      - القضايا الرئيسية
+        - تاريخ سوق الأسلحة المشروعة
+        - الحاجة إلى سوق مشروعة
+        - الجهات الرئيسية الفاعلة في السوق المشروعة
+        - الخلاصة
+        - المراجع
+      - التمارين
+      - هيكل الحصة الموصى به
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - Module 4: Illicit Market in Firearms
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Authorized & Unauthorized Arms Transfers
+        - Illegal Firearms in Social, Cultural & Political Context
+        - Supply, Demand & Criminal Motivations
+        - Larger Scale Firearms Trafficking Activities
+        - Smaller Scale Trafficking Activities
+        - Sources of Illicit Firearms
+        - Consequences of Illicit Markets
+        - Summary
+        - References
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 5: الأطر القانونية الدولية
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - القانون الدولي العام والقانون عبر الوطني
+        - الآليات الدولية ذات التوعية العالمية
+        - أوجه التشابه والاختلاف والتكامل بين الصكوك والأدوات العالمية
+          لتنفيذها
+        - أدوات لدعم تنفيذ الصكوك العالمية المتعلقة بالأسلحة النارية
+          والأسلحة التقليدية
+        - عمليات أخرى للأمم المتحدة
+        - أهداف التنمية المستدامة
+        - الأدوات المتعددة الأطراف والإقليمية
+        - ملخص
+        - مراجع
+      - التمارين
+      - بنية الفئة المحتملة
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - الوحدة التعليمية 6: اللوائح التنظيمية الوطنية المتعلقة بالأسلحة
+      النارية
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - نطاق اللوائح الوطنية للأسلحة النارية
+        - الاستراتيجيات وخطط العمل الوطنية للأسلحة النارية
+        - مواءمة التشريعات الوطنية المتعلقة بالأسلحة النارية مع الصكوك
+          الدولية للأسلحة النارية
+        - المساعدة على تطوير التشريعات الوطنية للأسلحة النارية
+        - ملخص
+        - المراجع
+      - التمارين
+      - الهيكل الممكِّن للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - Module 7: Firearms, Terrorism and Organized Crime
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Firearms Trafficking as a Cross-Cutting Element
+        - Organized Crime and Organized Criminal Groups
+        - Criminal Gangs
+        - Terrorist Groups
+        - Interconnections between Organized Criminal Groups & Terrorist
+          Groups
+        - Gangs - Organized Crime & Terrorism: An Evolving Continuum
+        - International Response
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 8: Criminal Justice Response
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - International and National Legal Framework
+        - Firearms Related Offences
+        - Role of Law Enforcement
+        - Firearms as Evidence
+        - Use of Special Investigative Techniques
+        - International Cooperation and Information Exchange
+        - Prosecution and Adjudication of Firearms Trafficking
+        - Summary
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+  - الن‍زاهة والأخلاق
+    - Teaching Guide
+      - Introduction
+      - Teaching Methods & Principles
+      - Ethical Learning Environments
+      - Overview of Modules
+      - Module Adaption & Design Guidelines
+      - Table of Exercises
+      - Acknowledgements
+    - الوحدة التعليمية 1: المقدمة والإطار المفاهيمي
+      - مقدمة
+      - المسائل الرئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات دراسية إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - الوحدة التعليمية 2: الأخلاق والقيم العالمية
+      - مقدمة
+      - مسائل رئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - الوحدة التعليمية 3: الأخلاق والمجتمع
+      - مقدمة
+      - المسائل الرئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة دراسية قائمة بذاتها
+    - الوحدة التعليمية 4: القيادة الأخلاقية
+      - مقدمة
+      - مسائل رئيسية
+      - التمارين
+      - الهيكل المُحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات مُتقدِّمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - الوحدة التعليمية 5 : الأخلاق و التنوع و التعددية
+      - مقدمة و نتائج التعلم
+      - مسائل رئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - الوحدة التعليمية 6: التحديات التي تواجه نمط المعيشة الأخلاقي
+      - مقدمة و نتائج التعلم
+      - مسائل رئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - الوحدة التعليمية 7: استراتيجيات لوضع تدابير أخلاقية
+      - المقدمة ونتائج التعلم
+      - مسائل رئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - النميطة 8: الأخلاقيات السلوكية
+      - المقدمة ونتائج التعلم
+      - مسائل رئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - النميطة 9: البعد الجنساني للأخلاق
+      - لمقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - المصطلحات الأساسية: الجنس والتمييز بين الجنسين
+        - أشكال التمييز بين الجنسين
+        - أخلاقيات الرعاية والحركة النسائية
+        - المراجع
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطالب
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - النميطة 10: الن‍زاهة والأخلاق في وسائط الإعلام
+      - المقدمة و مخرجات التعلم
+      - المسائل الرئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - القراءات الرئيسية
+      - القراءات المتقدمة
+      - تقييم أداء الطلاب
+      - أدوات تدريس اضافية
+      - توجيهات بشأن اعداد دورة تعليمية قائمة بذاتها
+    - النميطة 11: الن‍زاهة والأخلاق في قطاع الأعمال
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - النميطة 12: الن‍زاهة والأخلاق والقانون
+      - المقدمة و مخرجات التعلم
+      - مسائل رئيسية
+      - التمارين
+        - دراسات الحالة
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات رئيسية
+      - قراءات متقدمة
+      - تقييم أداء الطلاب
+      - أدوات تدريس اضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+    - الوحدة التعليمية 13: الن‍زاهة والأخلاق في القطاع العام
+      - مقدِّمة و نتيجة التعلُّم
+      - المسائل الرئيسية
+      - التمارين
+        - دراسات الحالة
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدِّمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة دراسية قائمة بذاتها
+    - النميطة 14: الأخلاقيات المهنية
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+      - التمارين
+        - دراسات حالة يمكن استخدامها لموضوع الأخلاقيات المهنية
+        - دراسات الحالة تتناول على وجه التحديد
+        - تمارين إضافية
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+      - توجيهات بشأن إعداد دورة تعليمية قائمة بذاتها
+  - الجريمة المنظمة
+    - النميطة 1 : تعاريف الجريمة المنظمة
+      - مقدِّمة
+      - المسائل الرئيسية
+        - تعريف الجريمة المنظمة
+        - التعريف الوارد في اتفاقية الجريمة المنظمة
+        - أوجه التشابه والاختلاف بين الجريمة المنظمة وأشكال الجريمة
+          الأخرى
+        - أنشطة الجماعات الإجرامية المنظمة وتنظيمها وتشكيلها
+        - ملخَّص
+        - المراجع
+      - التمارين
+        - دراسات الحالات
+        - التفكير النقدي من خلال الروايات الخيالية
+        - مقتطفات من التشريعات
+      - الهيكل الممكِّن للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدِّمة
+      - تقييم أداء الطلبة
+        - أسئلة للبحث والدراسة المستقلة
+      - أدوات تدريس إضافية
+    - Module 2: Organizing the Commission of Crimes
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Legal Definitions of Organized Crimes
+        - Conspiracy
+        - Criminal Association
+        - Definitions in the Organized Crime Convention
+        - 
+        - Criminal Organizations and Enterprise Laws
+        - Enabling Offence: Obstruction of Justice
+        - Summary
+        - References
+      - Exercises
+        - Case Studies
+        - Thinking Critically Through Fiction
+        - Excerpts of Legislation
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+        - Research & Independent Study Questions
+      - Additional Teaching Tools
+    - Module 3: Organized Crime Markets
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Drug Trafficking
+        - Firearms Trafficking
+        - Wildlife & Forest Crime
+        - Counterfeit Products Trafficking
+        - Falsified Medical Products
+        - Trafficking in Cultural Property
+        - Trafficking in Persons
+        - Summary
+        - References
+      - Exercises
+        - Case Studies & Exercises
+        - Thinking Critically Through Fiction
+        - 
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+        - Research & Independent Study Questions
+      - Additional Teaching Tools
+    - النميطة 4: تغلغل الجريمة المنظمة في قطاع الأعمال والجهاز الحكومي
+      - مقدمة و مخرجات التعلم
+      - المسائل الرئيسية
+        - الابتزاز
+        - ابتزاز كسب المال بالقوة
+        - الإقراض بالربا الفاحش
+        - الصلة بين الجريمة المنظمة والفساد
+        - الرشوة مقابل الابتزاز
+        - غسيل أموال
+        - مسؤولية الهيئات الاعتبارية
+        - الملخص
+        - المراجع
+      - التمارين
+        - تمارين ودراسة قضايا
+        - التفكير النقدي من خلال الروايات الخيالية
+        - مقتطفات من التشريعات
+      - الهيكل الممكِّن للحصة الدراسية
+      - القراءات الأساسية
+      - القراءات المتقدمة
+      - تقييم الطلاب
+        - أسئلة البحث والدراسة المستقلة
+      - أدوات تعليمية إضافية
+    - النميطة 5: صوغ الإطار المفاهيمي للجريمة المنظمة وقياسُها
+      - المقدمة ومخرجات التعلم
+      - القضايا الرئيسية
+        - ما مقدار الجريمة المنظمة الموجودة ؟
+        - طرق بديلة لقياس الجريمة المنظمة
+        - قياس أسواق المنتجات والتدفقات
+        - تقييم المخاطر
+        - المفاهيم الأساسية لتقييم المخاطر
+        - تقييم مخاطر الجماعات الإجرامية المنظمة
+        - تقييم مخاطر أسواق المنتجات
+        - تقييم المخاطر في الممارسة
+        - الملخص
+        - المراجع
+      - تمارين
+        - تمارين ودراسات حالة
+        - التفكير النقدي من خلال الخيال
+      - هيكل الصف الموصى به
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم الطلاب
+        - أسئلة البحث والدراسة المستقلة
+      - أدوات تدريس إضافية
+    - النميطة 6: أسباب الجريمة المنظمة والعوامل المسهِّلة لها
+      - مقدمة ومخرجات التعلم
+      - القضايا الرئيسية
+        - الوضعية : التأثيرات البيئية
+        - الكلاسيكية : قرارات متعة الألم
+        - العوامل الهيكلية والجريمة المنظمة
+        - المنظور الأخلاقي : الفشل الأخلاقي في صنع القرار
+        - وجهات نظر حول أسباب الجريمة وتيسيرالعوامل
+        - ملخص
+        - مراجع
+      - تمارين
+        - دراسات الحالة
+        - التفكير النقدي من خلال الخيال
+      - الهيكل الممكن للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+        - أسئلة البحث والدراسة المستقلة
+      - أدوات تدريس إضافية
+    - النميطة 7: نماذج الجماعات الإجرامية المنظمة
+      - المقدمة ومخرجات التعلم
+      - القضايا الرئيسية
+        - نماذج وهيكل الجريمة المنظمة
+        - النموذج الهرمي للجماعات الإجرامية المنظمة
+        - النموذج المحلي والثقافي للجريمة المنظمة
+        - نموذج المؤسسة أو الأعمال للجريمة المنظمة
+        - التركيز على المجموعات مقابل الأنشطة
+        - الأشكال الجديدة للجريمة المنظمة : الهياكل الشبكية
+        - الملخص
+        - المراجع
+      - التمارين
+        - دراسات الحالة والتمارين
+        - التفكير النقدي من خلال الخيال
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات الأساسية
+      - قراءات متقدمة
+      - تقييم الطلاب
+        - أسئلة البحث والدراسة المستقلة
+      - أدوات تدريس إضافية
+    - Module 8: Law Enforcement Tools
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Jurisdiction
+        - Investigators of Organized Crime
+        - Special Investigative Techniques
+          - Controlled Deliveries
+          - Physical & Electronic Surveillance
+          - Undercover Operations
+          - Financial Analysis
+          - Use of Informants
+        - Rights of Victims & Witnesses
+        - Summary
+        - References
+      - Exercises
+        - Case Studies & Exercises
+        - Thinking Critically Through Fiction
+        - Excerpts of Legislation
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+        - Research & Independent Study Questions
+      - Additional Teaching Tools
+    - النميطة 9: استراتيجيات الملاحقة القضائية
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - دور المدعين
+        - النظام القانوني للخصومة مقابل النظام القانوني للتحقيق
+        - تخفيف العقوبة
+        - منح الحصانة من الملاحقة القضائية
+        - حماية الشهود
+        - ملخص
+        - المراجع
+      - التمارين
+        - التمارين ودراسات الحالة
+        - التفكير النقدي من خلال الروايات الخيالية
+        - مقتطفات من التشريعات
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم أداء الطلبة
+        - أسئلة البحث والدراسة المستقلة
+      - أدوات تدريس إضافية
+    - Module 10: Sentencing and Confiscation
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Aggravating & Mitigating Factors
+        - Sentencing Options
+        - Alternatives to Imprisonment
+        - Death Penalty & Organized Crime
+        - Backgrounds of Convicted Offenders
+        - Confiscation
+        - Confiscation in Practice
+        - Summary
+        - References
+      - Exercises
+        - Case Studies & Exercises
+        - Thinking Critically Through Fiction
+        - Excerpts of Legislation
+        - Role Play
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+        - Research & Independent Study Questions
+      - Additional Teaching Tools
+    - النميطة 11: التعاون الدولي على مكافحة الجريمة المنظمة عبر الوطنية
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - المساعدة القانونية المتبادلة (MLA)
+        - تسليم المجرمين
+        - نقل الإجراءات الجنائية
+        - نقل المحكوم عليهم
+        - الملخص
+        - المراجع
+      - التمارين
+        - دراسات الحالة والتمارين
+        - التفكير النقدي من خلال الخيال
+        - مقتطفات من التشريعات
+      - الهيكل الممكِّن للحصة الدراسية
+      - القراءات الأساسية
+      - القراءات المتقدمة
+      - تقييم أداء الطلبة
+        - أسئلة البحث والدراسة المستقلة
+      - أدوات تدريس إضافية
+    - Module 12: Prevention of Organized Crime
+    - Module 13: Cyber Organized Crime
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Cyber Organized Crime: What is it?
+        - Conceptualizing Organized Crime & Defining Actors Involved
+        - Criminal Groups Engaging in Cyber Organized Crime
+        - Cyber Organized Crime Activities
+        - Preventing & Countering Cyber Organized Crime
+        - Conclusion
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 14: اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة عبر
+      الوطنية والصكوك الدولية المتصلة بها، والدليل المرجعي لتنظيم اجتماع
+      ضمن إطار محاكاة نموذج الأمم المتحدة يحاكي اجتماعاً لفريق عامل تابع
+      لمؤتمر الأطراف في اتفاقية الجريمة المنظمة
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Adoption of Organized Crime Convention
+        - Historical Context
+        - Features of the Convention
+        - Protocols
+        - Related international instruments
+        - UNODC
+        - Conference of the Parties
+        - Summary
+        - References
+      - Exercises
+        - Case Studies & Exercises
+        - MUN Simulation
+          - Format
+          - Roles of Participants
+          - Structure and Flow
+          - Recommended Topics
+          - Background Materials
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+        - Research & Independent Study Questions
+      - Additional Teaching Tools
+    - Module 15: Gender and Organized Crime
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - What is Sex / Gender / Intersectionality?
+        - Knowledge about Gender in Organized Crime
+        - Gender and Organized Crime
+        - Gender and Different Types of Organized Crime
+        - Summary
+        - References
+      - Exercises & Case Studies
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 16: الروابط بين الجريمة المنظمة والإرهاب
+      - المقدمة ومخرجات التعلم
+      - القضايا الرئيسية
+        - التعاريف والمصطلحات
+        - الجريمة المنظمة والإرهاب : الإطار القانوني الدولي
+        - الإطار الدولي للإرهاب : الاتفاقيات الدولية المتعلقة بالإرهاب
+        - الإطار الدولي للإرهاب : قرارات مجلس الأمن الدولي العامة بشأن
+          الإرهاب
+        - الإطار الدولي للجريمة المنظمة : اتفاقية الجريمة المنظمة
+          وبروتوكولاتها
+        - الأطر النظرية للروابط بين الجريمة المنظمة والإرهاب
+        - أنواع السلوك الإجرامي المرتبط بالإرهاب
+        - الإرهاب والاتجار المخدرات
+        - الإرهاب والاتجار بالأسلحة
+        - الصلات بين الإرهاب والجريمة والاتجار بالممتلكات الثقافية /
+          الآثار
+        - الاتجار بالأشخاص والإرهاب
+        - جرائم الملكية الفكرية والإرهاب
+        - الاختطاف من أجل الفدية والإرهاب
+        - استغلال الموارد الطبيعية والارهاب
+        - الملخص
+        - المراجع
+      - دراسات الحالة
+      - الهيكل الممكن للفصل
+      - قراءات أساسية
+      - قراءات متقدمة
+      - تقييم الطلاب
+        - أسئلة المراجعة والتقييم
+        - المسابقة 16
+        - أسئلة البحث والدراسة المستقلة
+      - أدوات تدريس إضافية
+  - الاتجار بالأشخاص/تهريب المهاجرين
+    - Teaching Guide
+    - 
+    - النميطة 1: تهريب المهاجرين كنوع خاص من الجرائم
+      - المقدمة ونتائج التعلم
+      - القضايا الرئيسية
+        - تجريم تهريب المهاجرين
+        - اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة عبر الوطنية
+          وبروتوكول مكافحة تهريب المهاجرين
+        - الجرائم التي ينظمها البروتوكول
+        - الفوائد المالية أو غيرها من الفوائد المالية
+        - ظروف التشديد
+        - المسؤولية الجنائية
+        - عدم تجريم المهاجرين المهربين
+        - نطاق الحماية
+        - الإعفاء الإنساني
+        - الولاية القضائية
+        - تهريب المهاجرين ضد الهجرة غير النظامية
+        - تهريب المهاجرين في مواجهة أنواع الجرائم الأخرى
+      - التمارين
+      - الهيكل المحتمل للفصل الدراسي
+      - قراءات أساسية
+      - قراءات متقدمة
+      - موارد آخرى
+      - تقييم أداء الطلاب
+      - أدوات تعليمية إضافية
+    - النميطة 2: حقوق الإنسان للمهاجرين المهرَّبين
+      - المقدمة ومخرجات التعلم
+      - القضايا الرئيسية
+        - المساعدة والحماية في البروتوكول المتعلق بمكافحة تهريب
+          المهاجرين
+        - النظر إلى ما هو أبعد من البروتوكول : حقوق الإنسان الدولية
+          وقانون اللاجئين
+        - الفئات الضعيفة
+        - الالتزامات الإيجابية والسلبية للدولة
+        - تحديد هوية المهاجرين المهربين والردود الأولى
+        - مشاركة المهاجرين المهربين في الإجراءات القانونية
+        - دور المنظمات غير الحكومية
+        - حماية المهاجرين المهربين في مواجهة فئات أخرى من المهاجرين
+        - التدابير على المدى القصير والمتوسط والطويل : المسؤوليات
+          والأدوار والمساءلة
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مواد أخرى
+      - تقييم أداء الطلبة
+      - أدوات تعليمية اضافية
+    - النميطة 3: تدابير العدالة الجنائية المناهضة لتهريب المهاجرين
+      - المقدمة ونتائج التعلم
+      - قضايا أساسية
+        - استجابة العدالة الجنائية: النطاق
+        - النهج المتبع في التحقيقات والمتعددة التخصصات
+        - الجهات الفاعلة المختلفة ذات الصلة في مكافحة تهريب المهاجرين
+          وأدوار كل منهم
+        - دليل التزكية
+        - التحقيقات المالية
+        - وسائل الإعلام
+        - المنظمات غير الحكومية
+        - منهجيات "خارج الصندوق"
+        - التنسيق داخل الوكالات وفيما بينها
+        - مقبولية الأدلة
+        - الحكم
+        - التعاون الدولي
+        - تبادل المعلومات
+        - التدريب
+      - التمارين
+      - هيكل الفصل الدراسي المقترح
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مصادر أخرى
+      - تقييم الطالب
+      - أدوات تدريس إضافية
+    - النميطة 4: منع تهريب المهاجرين وتدابير التصدي المتخذة خارج نظام
+      العدالة الجنائية
+      - المقدمة ومخرجات التعلم
+      - قضايا أساسية
+        - القانون غير الجنائي المتعلق بتهريب المهاجرين
+        - النهج الإداري
+        - الأنشطة التكميلية ودور الجهات الفاعلة في مجال العدالة غير
+          الجنائية
+        - المنظور الكلي في معالجة تهريب المهاجرين
+        - الأمن البشري
+        - المساعدة والتعاون الدوليان: الحاجة إلى التخطيط والرصد
+          والمساءلة الفعالين
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - القراءات الأساسية
+      - القراءات المتقدمة
+      - مصادر أخرى
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - النميطة 5: فهم ظاهرة تهريب المهاجرين
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - الهجرة وتهريب المهاجرين
+        - تدفقات الهجرة المختلطة
+        - السياسة الاجتماعية لتهريب المهاجرين
+        - قابلية التأثر
+        - الملف الشخصي للمهربين
+        - تلبية الطلب: دور الجماعات الإجرامية المنظمة
+        - الإنسانية والأمن وتهريب المهاجرين
+      - التمارين
+      - تمارين إضافية
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مصادر أخرى
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - النميطة 6: تعريف مفهوم الاتجار بالأشخاص
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - جريمة الاتجار بالأشخاص
+        - الإطار القانوني الدولي
+        - مسألة الموافقة
+        - غرض الاستغلال
+        - استغلال وضعية الاستضعاف
+        - مؤشرات الاتجار بالأشخاص
+        - الفرق بين الاتجار بالأشخاص والجرائم الأخرى
+        - المفاهيم الخاطئة بخصوص الاتجار بالأشخاص
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مواد أخرى
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - Module 7: Prevention of Trafficking in Persons
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Root Causes
+        - Supply Side Prevention Strategies
+        - Demand Side Prevention Strategies
+        - Role of the Media
+        - Safe Migration Channels
+        - Crime Prevention Strategies
+        - Monitoring, Evaluating & Reporting on Effectiveness of
+          Prevention
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Other Resources
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 8: Human Rights-Based Approach to Trafficking in Persons
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Trafficked Persons as Victims
+        - Protection under the Protocol against Trafficking in Persons
+        - Broader International Framework
+        - State Responsibility for Trafficking in Persons
+        - Identification of Victims
+        - Principle of Non-Criminalization of Victims
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Other Resources
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 9: تدابير العدالة الجنائية المناهضة للاتجار بالأشخاص
+      - المقدمة ومخرجات التعلم
+      - القضايا الرئيسية
+        - الواجبات المتعلقة بالعدالة الجنائية المفروضة على الدول بموجب
+          بروتوكول مكافحة الاتجار بالأشخاص
+        - دور نظام العدالة الجنائية
+        - المستويات المتدنية الحالية للملاحقات القضائية والإدانات
+        - التحديات التي تواجه وجود تدابير العدالة الجنائية الفعالة
+        - حقوق الضحايا في العدالة والحماية
+        - الاستراتيجيات الممكنة "لقلب المائدة"
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مصادر أخرى
+      - تقييم الطلاب
+      - أدوات تدريس اضافية
+    - النميطة 10: دور المجتمع المدني في مكافحة الاتجار بالأشخاص
+      - المقدمة ومخرجات التعلم
+      - قضايا أساسية
+        - تعاون الدولة مع المجتمع المدني
+        - الجهات الفاعلة في المجتمع المدني
+        - القطاع الخاص
+        - الجماهير
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مصادر أخرى
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - النميطة 11 : تهريب المهاجرين والاتجار بالأشخاص - أوجه الاختلاف
+      والتشابه
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - المقارنة بين تهريب المهاجرين والاتجار بالأشخاص
+        - الاختلاف والتشابه
+        - وضعية الاستضعاف، والتداخل بين التهريب والاتجار
+        - عندما تلتقي النظرية والممارسة معا: تهريب مهاجرين أم اتجار
+          بالأشخاص
+          - الاستغلال في العمل
+          - الزواج القسري
+          - أمثلة أخرى
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مصادر أخرى
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+    - النميطة 12: الأطفال والاتِّجار بالأشخاص وتهريب المهاجرين
+      - المقدمة ونتائج التعلم
+      - قضايا أساسية
+        - الأطفال المتنقلون عبر الحدود والمهربون والمتاجرون بهم
+        - الحماية من التهريب والاتجار بالأطفال: إطار العمل القانوني
+          الدولي
+        - الحماية في الممارسة
+        - الأطفال المزعوم ارتكابهم لجرائم التهريب أو الاتجار
+      - التمارين
+      - هيكل الفصل الدراسي المقترح
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مصادر أخرى
+      - تقييم الطالب
+      - أدوات تدريس إضافية
+    - Module 13: Gender Dimensions of Trafficking in Persons and
+      Smuggling of Migrants
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Basic Terms - Gender and Gender Stereotypes
+        - International Legal Frameworks and Definitions of TIP and SOM
+        - Global Overview on TIP and SOM
+        - Gender and Migration
+        - Key Debates in the Scholarship on TIP and SOM
+        - Gender and TIP and SOM Offenders
+        - Responses to TIP and SOM
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Other Resources
+      - Student Assessment
+      - Additional Teaching Tools
+    - النميطة 14: أوجُه الترابط بين الجريمة السيبرانية وتهريب المهاجرين
+      والاتجار بالأشخاص
+      - المقدمة ونتائج التعلم
+      - المسائل الرئيسية
+        - استخدام التكنولوجيا لتيسير الاتجار بالأشخاص وتهريب المهاجرين
+        - التكنولوجيا تيسر الاتجار بالأشخاص
+        - التكنولوجيا في تهريب المهاجرين
+        - ستخدام التكنولوجيا لمنع ومكافحة الاتجار بالأشخاص وتهريب
+          المهاجرين
+        - مخاوف تتعلق بالخصوصية والبيانات
+        - الاتجاهات الناشئة
+      - التمارين
+      - الهيكل المحتمل للحصة الدراسية
+      - قراءات أساسية
+      - قراءات متقدمة
+      - مصادر أخرى
+      - تقييم أداء الطلبة
+      - أدوات تدريس إضافية
+  - جرائم الحياة البرية والحراجة وصيد الأسماك
+    - Module 1: Illicit Markets for Wildlife, Forest & Fisheries
+      Products
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Demand and Consumption
+        - Data
+        - Supply and Demand
+        - Implications of Wildlife Trafficking
+        - Legal and Illegal Markets
+        - Perpetrators and their Networks
+        - Locations and Activities relating to Wildlife Trafficking
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - الوحدة التعليمية 2: الأطر الدولية لمكافحة الاتجار بالأحياء البرية
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Environmental Protection & Conservation
+        - CITES & the International Trade in Endangered Species
+        - Organized Crime & Corruption
+        - Animal Welfare
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 3: Criminal Justice Responses to Wildlife Trafficking
+      - Introduction & Learning Outcomes
+      - Key Issues
+        - Criminal Justice Actors and Agencies
+        - Criminalization of Wildlife Trafficking
+        - Challenges for Law Enforcement
+        - Investigation Measures and Detection Methods
+        - DNA
+        - Prosecution and Judiciary
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Core Reading
+      - Advanced Reading
+      - Student Assessment
+      - Additional Teaching Tools
+    - Module 4: Illegal Exploitation of Wild Flora
+      - Introduction and Learning Outcomes
+      - Key Issues
+        - Wild Flora as the Target of Illegal Trafficking
+        - Purposes for which Wild Flora is Illegally Targeted
+        - How is it Done and Who is Involved?
+        - Consequences of Harms to Wild Flora
+        - Criminal Justice Responses
+        - References
+      - Exercises
+      - Core Reading
+      - Advanced Reading
+      - Additional Teaching Tools
+    - Module 5: Sustainable Livelihoods and Community Engagement
+      - Introduction and Learning Outcomes
+      - Key Issues
+        - Terminology
+        - Background: Communities and conservation: A history of
+          disenfranchisement
+        - Incentives for communities to get involved in illegal wildlife
+          trafficking: the cost of conservation
+        - Incentives to participate in illegal wildlife, logging and
+          fishing economies
+        - International and regional responses that fight wildlife
+          trafficking while supporting IPLCs
+        - Mechanisms for incentivizing community conservation and
+          reducing wildlife trafficking
+        - Critiques of community engagement
+        - Other challenges posed by wildlife trafficking that affect
+          local populations
+        - References
+      - Exercises
+      - Possible Class Structure
+      - Additional Teaching Tools
+  - Global Podcast Series
+  - الأحداث
+    - Apr. 2021: Call for Expressions of Interest: Online training for
+      academics from francophone Africa
+    - Feb. 2021: Series of Seminars for Universities of Central Asia
+    - Dec. 2020: UNODC and TISS Conference on Access to Justice to End
+      Violence
+    - Nov. 2020: Expert Workshop for University Lecturers and Trainers
+      from the Commonwealth of Independent States
+    - Oct. 2020: E4J Webinar Series: Youth Empowerment through Education
+      for Justice
+    - Interview: How to use E4J's tool in teaching on TIP and SOM
+    - E4J-Open University Online Training-of-Trainers Course
+    - Teaching Integrity and Ethics Modules: Survey Results
+  - Grants Programmes
+  - Partners
+  - الأمم المتحدة النموذجية
+    - الدليل المرجعي
+    - المشاركة معنا
+    - تواصلوا معنا
+    - المؤتمرات التي تدعم مبادرة التعليم من أجل العدالة
+- مكتبة الموارد
+- الأخبار
+- الوسائط المتعددة
+- الشبكة
+- تواصلوا معنا
 
-فرع بيروت
+- 
+- 
+- 
+- 
 
-فرع تونس
+- التعليم الجامعي
+- مكافحة الإرهاب
+- النميطة 7: مكافحة الإرهاب وحالات الطوارئ العامة
+- القضايا الرئيسية
+- التقييد في أوقات الطوارئ العامة
 
-المركز العربي - واشنطن
+Share this page
 
-المركز العربي - باريس
-
-[المركز العربي للأبحاث ودراسة السياسات]
-
-Toggle
-
-- arمحدد حالياً
-  - عن المركز
-    - الرؤية والأهداف
-    - مجلس الإدارة
-    - فروع المركز
-      - فرع بيروت
-      - فرع تونس
-      - المركز العربي - واشنطن
-      - المركز العربي - باريس
-    - العاملون في المركز
-    - التوظيف
-    - تواصل معنا
-  - دراسات سياسية
-    - تقدير موقف
-    - تقييم حالة
-    - تحليل سياسات
-    - ملفات
-    - تقارير
-  - أبحاث و دراسات
-    - دراسات
-    - مراجعات
-    - مقالات
-  - دراسات اقتصادية
-    - أوراق اقتصادية
-    - تحليلات اقتصادية
-    - آراء اقتصادية
-  - كتب و دوريات
-    - كتب
-    - دوريات
-  - فعاليات
-  - أخبار
-  - برامج
-  - المشاركة البحثية
-    - معايير النشر
-    - أخلاقيات النشر
-    - تقديم مساهمة بحثية
-- en
-  - About Us
-    - Vision and Mission
-    - Board of Directors
-    - Offices
-      - Beirut Branch
-      - Tunisia Branch
-      - The Arab Center, Washington DC
-      - CAREP Paris
-    - Staff Members
-    - Recruitment
-    - Contact Us
-  - Current Affairs
-    - Situation Assessment
-    - Case Analysis
-    - Policy Analysis
-    - Dossiers
-    - Reports
-  - Research Papers
-    - Studies
-    - Reviews
-    - Essays
-  - Books and Journals
-    - books
-    - periodicals
-  - Events
-  - News
-  - Programs and Projects
-  - Submit Your Work
-    - Submission Guidelines
-    - Ethical Guidlines
-  - Economic
-    - Economic Reports
-    - Economic Studies
-    - Economic Briefings
-    - Economic Analyses
-
-- Fr
-- EN
+Toggle Dropdown
 
 - 
 - 
 - 
 
-------------------------------------------------------------------------
+Active list: {{getNameForId(activeStack)}}  Open saved pages
 
-بحث متقدم
-
-- 
-- كتب و دوريات
-- الكتب
-
-كتب و دوريات
-
-- 
-- 
-- 
-- 
--  شارك
-
-مسألة الدولة: أطروحة في الفلسفة والنظرية والسياقات
-
-31 يوليو،2023
-
-المؤلفون
-
-- عزمي بشارة
-
-الكلمات المفتاحية
-
-- الدولة
-- الفلسفة
-- النظرية
-- السياق
-- السياسة
-
-Cover Image
-
-[مسألة الدولة: أطروحة في الفلسفة والنظرية والسياقات]
-
-شراء الكتاب [المتجر الإلكتروني]
-
-قائمة الموزعين المعتمدين
-
-- 
-
-  تأليف: عزمي بشارة
-
-  مُفَكِّر عربي، كاتب وباحث، نُشر له العديد من الكتب والدراسات والبحوث بلغات
-  مختلفة في الفكر السياسي، والنظرية الاجتماعية، والفلسفة. من آخر
-  إصداراته كتاب مسألة الدولة: أطروحة في الفلسفة والنظرية
-  والسياقات (2023) وبجزءٍ ثانٍ بعنوان الدولة العربية: بحث في المنشأ
-  والمسار (2024)؛ وكتاب قضية فلسطين: أسئلة الحقيقة والعدالة (2024)، وهو
-  ترجمة لكتابه الصادر باللغة الإنكليزية بعنوان Palestine: Matters of
-  Truth and Justice (2022) عن دار نشر هيرست Hurst في لندن؛ وصدر معه
-  بالتوازي كتاب الطوفان: الحرب على فلسطين في غزة (2024).
-
-  من أبرز مؤلفاته باللغة العربية: المجتمع المدني: دراسة نقدية (1996)؛ من
-  يهودية الدولة حتى شارون (2004)؛ في المسألة العربية: مقدمة لبيان
-  ديمقراطي عربي (2007)؛ أن تكون عربيًّا في أيامنا (2009)؛ في الثورة
-  والقابلية للثورة (2012)؛ الدين والعلمانية في سياق تاريخي (جزآن في
-  ثلاثة مجلدات 2013، 2015)؛ الجيش والسياسة: إشكاليات نظرية ونماذج عربية
-  (2017)؛ تنظيم الدولة المكنى 'داعش': إطار عام ومساهمة نقدية في فهم
-  الظاهرة (2018)؛ في الإجابة عن سؤال ما الشعبوية؟ (2019)؛ الانتقال
-  الديمقراطي وإشكالياته: دراسة نظرية وتطبيقية مقارنة (2020)؛ ومنها كتبٌ
-  أصبحت مرجعيةً في مجالها.
-
-  ونُشر له العديد من المؤلفات باللغة الإنكليزية منها كتاب On Salafism:
-  Concepts and Contexts (2022) عن دار نشر جامعة ستانفورد؛ وكتاب
-  Sectarianism without Sects (2021) عن دار نشر جامعة أوكسفورد. كما نُشرت
-  له ثلاثية الثورات العربية باللغة الإنكليزية عن دار نشر I.B. Tauris،
-  والتي تُعدّ مُساهمة تحليليّة نظريّة إضافة إلى كونها تأريخًا وتوثيقًا للثورات
-  العربية التي اندلعت عام 2011 في ثلاث دول عربية: تونس، ومصر، وسورية،
-  وهي:
-
-  Understanding Revolutions: Opening Acts in Tunisia (2021); Egypt:
-  Revolution, Failed Transition and Counter-Revolution (2022); Syria
-  2011-2013: Revolution and Tyranny before the Mayhem (2023).
-
-  يشغل بشارة منصب المدير العام للمركز العربي للأبحاث ودراسة السياسات،
-  ويرأس مجلس أمناء معهد الدوحة للدراسات العليا.
-
-- بطاقة الكتاب
-
-  +-------------------------------------+-------------------------------------+
-  | مسألة الدولة - أطروحة في الفلسفة والنظرية والسياقات ​                      |
-  +-------------------------------------+-------------------------------------+
-  | الناشر:                             | المركز العربي للأبحاث ودراسة        |
-  |                                     | السياسات                            |
-  +-------------------------------------+-------------------------------------+
-  | المؤلف:                             | عزمي بشارة                          |
-  +-------------------------------------+-------------------------------------+
-  | الطبعة:                             | الثانية                             |
-  +-------------------------------------+-------------------------------------+
-  | سنة النشر:                          | 2023                                |
-  +-------------------------------------+-------------------------------------+
-  | عدد الصفحات:                        | 456                                 |
-  +-------------------------------------+-------------------------------------+
-  | القياس:                             | 24*17                               |
-  +-------------------------------------+-------------------------------------+
-  | ISBN:                               | 9786144457108                       |
-  +-------------------------------------+-------------------------------------+
-
-  ​
-
-PublishingPageContent
-
-صدر عن المركز العربي للأبحاث ودراسة السياسات كتاب مسألة الدولة: أطروحة
-في الفلسفة والنظرية والسياقات، وهو من تأليف الدكتور عزمي بشارة. يتضمن
-الكتاب أحد عشر فصلًا تتمحور موضوعاتها حول فلسفة الدولة الحديثة ونظريتها
-ونشأتها، والعقد الاجتماعي في الدول، وفلسفة القانون الهيغلية في ما يخص
-الدولة، والدولة كعقيدة (كارل شميت)، والعلاقة بين سيادة الدولة الحديثة
-والمواطَنة، ومسألة شرعية الدولة (ماكس ڤيبر وغيره)، والتفريق بين مفهومَي
-"الدولة" و"نظام الحكم"، إضافة إلى بحث تحول القومية إلى أمة داخل الدول.
-ويقع الكتاب في 456 صفحة، شاملةً ببليوغرافيا وفهرسًا عامًّا.
-
-يبحث الكتاب علمًا ذا تقاطع أساسي مع علمين من أهم العلوم الإنسانية، وهما
-العلوم السياسية وعلم الاجتماع؛ ونعني فلسفة تكوين الدول ونظرياتها. ويحاول
-بشارة تكريسَ نظرة مختلفة في هذا الشأن، طارحًا تحديَ صياغةِ مفهومٍ نقدي إنساني
-للدولة يأخذ في الاعتبار جميع الانتقادات التي وجّهتها إلى مفاهيم الدولة
-الفلسفتان الأخلاقية والسياسية، وعلوم السياسة، والاجتماع، والقانون، وذلك
-من منطلقات جماعاتية أو ليبرالية أو ماركسية. كما يستعرض آثار العولمة
-ومرحلة ما بعد الدولة.
-
- الكتاب دراسة في نظرية الدولة والفلسفة السياسية. بما أنه يتناول موضوعًا
-في منتهى الإلحاح والراهنية، فإن القارئ قد ينشغل بإلحاح الراهن والتفاصيل
-التاريخية وهذا مهم بحد ذاته، ولكن قد يشغله عن المقولات النظرية المهمة
-التي أنجزها الكتاب سواء في إعادة تعريف مفهوم الدولة ليشمل المواطنة، وفي
-العلاقة بين السيادة والمواطنة، وفي نقد فكرة السيادة المطلقة، إلا بمعنى
-أنه لا شراكة لكيان آخر فيها، ولا سيما نحو الخارج، وخطورة فصل السيادة عن
-سيادة القانون، وحول العلاقة بين الدولة والأخلاق العمومية، وفي تعميق فهم
-الفرق بين الدولة والأمة والقومية، وعلاقة الدولة بالجماعات، والمواطنة
-بوصفها عضوية فردية في الدولة، وفي تهافت النظريات التي توقعت زوال الدولة.
-
-وعلى الرغم من وجود تنبّؤات أيديولوجية بانحلال الدولة وزوالها، فقد تَوسعَت
-وظائفها وازدادت أهميتها وتوقعات الأفراد والمجتمعات منها، كما حوفظ حتى
-على سيادة بعض الدول الهشة التي تُرهقها صراعات أهلية مريرة.
-
-يعتبر بشارة أن المفهوم النقدي المطوَّر للدولة في هذا الكتاب يستقي ما صيغ
-حتى الآن ويتجاوزه، وتتمثل نقديته في صياغة واعية للتوتر بين السيادة
-والمواطنة، ومقدرة الإنسان المعاصر على إدراك التوتر بين مفهوم الدولة من
-جهة، وواقعها من جهة أخرى، بما في ذلك في البلدان العربية.
-
-تراكم معرفي
-
-يعتبر الكاتب أن كتابه الجديد هذا هو مكمِّلٌ لأربعة من كتبه السابقة، التي
-شكلت بمجموعها مشروعًا فكريًّا واحدًا، وهي:
-
-- المجتمع المدني (1996)، يشترك الكتابان في اعتبار الدولة شرطًا للمجتمع
-  المدني، لكن ما يستجدُّ في كتاب مسألة الدولة اشتراط الدولة القوية لبناء
-  المجتمع القوي، نافيًا فكرة أن الدولة القوية يقابلها بالضرورة مجتمع
-  ضعيف، أو أن توجد دولة ضعيفة مع مجتمع قوي.
-- الدين والعلمانية في سياق تاريخي (2022)، ويحيل بشارة القارئ إلى فصلين
-  طويلين في المجلد الأول من الجزء الثاني للكتاب (الفصل الثاني: مقدمات
-  العصر الوسيط، والفصل الخامس: في نشوء منطق الدولة)، ويتناولان نشوء فكر
-  الدولة في نهاية العصر الوسيط وبداية عصر النهضة في أوروبا.
-- المسألة العربية (2007)، الذي يتابع كتاب مسألة الدولة ما كان استهله
-  بشارة فيه من التمييز بين الأمة والقومية.
-- الانتقال الديمقراطي وإشكالياته (2020)، حيث كرّس الكاتب شرطْ رسوخ الدولة
-  لنجاح الانتقال الديمقراطي من بين شروط أخرى منها؛ عدم معارضة الجيش
-  الانتقال، وتوفر ثقافة ملائمة لدى النخب السياسية.
-
-وفي ما عدا الإسهام النظري بذاته، يأمل الكاتب في مقدمة مسألة الدولة أن
-يكون الكتاب مصدرًا للباحثين والطلاب؛ يعرض أمامهم نظريات الدولة الحديثة
-وفلسفتها وإشكالياتها، ويشير إلى أن فصوله كانت في المسوّدة الأولى أربعة
-عشر، إلا أنه أخرج منها الفصول الثلاثة الأخيرة المتعلقة بالتنظيمات
-العثمانية ونشوء الدولة العربية ومرحلة الدول الوطنية، لعزمه تخصيص كتاب
-منفصل لها وَعَدَ بأن يدفعه إلى لنشر قريبًا، مرجِعًا هذا إلى أن من الإجحاف
-إيراد موضوعات تهم القارئ العربي على نحو خاص في نهاية كتاب يغلب عليه
-الطابع النظري، ورغبةً منه في عدم تكرار تجربة سابقة مماثلة، حين أُدرجت فصول
-مطولة عن العراق في نهاية الكتاب الضخم الطائفة، الطائفية، الطوائف
-المتخيلة.
-
-موضوعات الكتاب
-
-يقول بشارة في مقدمة كتاب مسألة الدولة إن الشرارة الأولى لهذا العمل
-انقدحت في ذهنه إثر إلقائه محاضرة "الدولة والأمة ونظام الحكم: التداخل
-والتمايز" في الدورة الثامنة لـ "مؤتمر العلوم الاجتماعية والإنسانية" في
-عام 2021، التي آثر عدم نشرها رغبةً في توسيعها إلى عمل نظري يسد ثغرة
-معرفية عن "الدولة" ونظرياتها لا تزال شاخصة ولم يتكفّل بردمها ما كتبه في
-الفصلين آنفي الذكر في الدين والعلمانية والفصل حول شرط الدولة في الانتقال
-الديمقراطي في الانتقال الديمقراطي وإشكالياته. ويضيف أن إلحاح وضْع كتاب في
-مسألة الدولة في العالم العربي انضم إلى أهمية ضرورة توضيح مسائل المواطنة،
-والسيادة، والشرعية، والأخلاق العمومية، وبخاصة مسائل تطوير تعريف الدولة
-ودلالة شمول المواطنة فيه، والعلاقة بين السيادة والشرعية والمواطنة،
-والعلاقة بين الأمة والقومية، والتمييز بين الدولة ونظام الحكم، إضافة إلى
-مراجعة التنظير الغربي بشأن الدولة من منظور مختلف.
-
-يعالج الفصل الأول من الكتاب أهمية دراسة الدولة وخطورة الاستخفاف بها،
-ويطرح فرضيات لتعديل تعريفات الدولة الرائجة عبر استقراء واقع الدول.
-وينتقل إلى التمييز بين الدولة القديمة بوصفها علاقة بين الحكّام
-والمحكومين، وبين الدولة الحديثة التي تجمع الحكّام والمحكومين في كيانٍ
-مشترك. ويتطرق إلى المواطنة بوصفها مكوّنًا أساسيًا في الدولة المعاصرة، وإلى
-اندثار الأيديولوجيات التي تنبّأت بزوال الدولة.
-
-أما الفصل الثاني فخصص للتمييز بين الفلسفة السياسية والنظرية السياسية
-التي لا تستغني، ولو كانت معيارية، عن المنهج العلمي. وناقش الفصل عدم جواز
-تبنّي تفسير للظواهر الاجتماعية المركبة بموجب مبدأ واحد لأن ذلك يقود إلى
-الأيديولوجيا. واستعرض المدارس القومية والوظيفية والمؤسسية لفهم الدولة،
-معتبرًا الليبرالية نظرية معيارية في الحكم والمجتمع معًا. وبحث أيضًا تمييز
-الدولة الحديثة من الإمبراطوريات.
-
-ويعتبر الفصل الثالث أن التاريخ لم يبدأ بأفراد، بل بجماعات شكلت الدول
-القديمة، معتبرًا مقولات نيقولو مكياڤيلي في هذا الخصوص أكثر واقعية من
-مقولات العقد الاجتماعي. وشرح أن الدولة الحديثة لم تنشأ من فراغ، بل من
-سلطات قائمة توسعت إقليميًّا لتتحوّل إلى سيادة وقانون ارتكزت شرعية الدولة
-الحديثة على الحكم به، مؤكدًا على الفرق بين القانون وإرادة الحاكم. ويشرح
-نشوء أجهزة الدولة الحديثة ودور الحرب في الانتقال من الملكية المحدودة
-السيطرة إلى الملكية المطلقة في الطريق إلى تأسيس الدولة الحديثة.
-
-يخلص الفصل الرابع إلى أن منظري الدولة الأوائل هم من دافعوا عن سلطات
-الملك ضد تدخّل الكنيسة، وكان معظمهم رجال دين أو من القانونيين، وأن الدولة
-من منظور الحق والقانون الطبيعيين وسيلة وليست غاية، كما أن العقد
-الاجتماعي لا يفهم من دون مناهضة الحروب الدينية والاعتقاد بأن رفع الدولة
-فوقها هو الحل، وذلك بتحقيق الإجماع على كيان سياسي مشترك يجسده الحاكم لدى
-توماس هوبس، أو "الإرادة العامة" عند جان جاك روسّو. ويخصص الفصل مساحة
-واسعة لمناقشة أفكار روسّو من منظور مختلف، بوصفها مقدمة للفكر الجمهوراني
-والديمقراطية الأهلية في الوقت ذاته.
-
-يُفرد الفصل الخامس مساحة للحديث عن نقد فريدريك هيغل فكر التنوير، لا سيما
-إيمانويل كانط، وكذلك نقد فكرتَي الحرية والأخلاق الموجَّهتين إلى المجتمع من
-خارجه، معتبرًا أن الدولة هي من يجسّد العرف الأخلاقي. ويتطرق الفصل إلى
-الحديث عن نقد كارل ماركس رأي هيغل في احتواء الدولة للمجتمع وتطلّعه إلى
-انحلال الدولة في المجتمع، وزعمه تمثيل الدولة الصالح العام، وتبيينه أنها
-تمثل مصالح طبقية خاصة لا عامة. ويشير الفصل إلى مسألة إخضاع الأنظمة
-الاشتراكية المجتمع للدولة وليس العكس، وتضخيمها جهاز الدولة بدلًا من حلّه
-على عكس الفكرة الماركسية بشأن الدولة.
-
-يبحث الفصل السادس في السجال الدائر حول كون الدولة جسمًا واحدًا ذا إرادة
-واحدة، أي بوصفها شخصًا معنويًا فوق المجتمع، وفي اعتبار "المذهب النفعي"
-و"الليبرالية الكلاسيكية" هذا التحديد أساسًا لسيادة الدولة المطلقة. ورغم
-رفض البعض لفكرة السيادة المطلقة، فإن الفصل يتطرق إلى اعتبارهم إياها
-شخصية معنوية في القانون الدولي والدستوري، كما يتطرق إلى "المذهب التعددي"
-ثم أفوله، وهو المذهب الذي حذر من خطورة البون الشاسع الفاصل بين سيادة
-الدولة المطلقة والفرد، ونقد فكرة السيادة، وإصراره على اعتبار الدولة
-فدرالية جماعات..
-
- يتحدث الفصل السابع عن السيادة بوصفها سلطةً عليا ونهائية، وأن وصفها
-بالمطلقة لا يعني أنها بلا حدود، وأنها لم توضع في مقابل الديمقراطية، بل
-في مقابل العصيان والتمرد، وأنها فكرة الدولة لا فكرة الإمبراطورية، وتترجم
-في سلطة التشريع أساسًا، وتتبعها بقية السلطات، وأن احتكار العنف المنظم
-يتبع نظريًا (وليس تاريخيًا) فكرة سيادة القانون في الدولة الحديثة ولا
-يسبقها. وقد جاء إقدام السلطة العثمانية على التشريع في "التنظيمات" مع بدء
-التناقض بين الدولة والإمبراطورية فيها. فاحتكار الدولة للتشريع بوصفه
-العنصر الأول في السيادة يليه احتكار العنف المنظم، وهي شروط ضرورية (وإن
-كانت غير كافية) للدولة الحديثة. ويعتبر الفصل أن ادعاء سيادة الشعب من دون
-منحه سلطة التشريع (بواسطة انتخاب السلطة التشريعية) هو مجرد ديماغوجيا.
-
-وينحو الفصل الثامن إلى ضرورة تجنّب الاختزال في تعريف الدولة، معتبرًا أن
-ڤيبر ينطلق في تعريفه الدولة من سمات بنيوية للدول الحديثة. ويؤكد الفصل
-احتكار المؤسسة البيروقراطية استخدام العنف الشرعي، كما يتطرق إلى أهمية
-تمييز السلطة من القوة، وسلطة الدولة من السلطات الأخرى. ويناقش تشديد إميل
-دوركايم على الوظيفة الإدارية والتربوية والأخلاقية للدولة في العصر الحديث
-في مواجهة لامعيارية التحديث وتذرّره. وفي ما يخصّ شرعية الدولة، ينحو الفصل
-إلى أنها تستمدها لا من احتكار العنف، فلا يعقل أن يكون احتكار العنف
-الشرعية من ذاته، بل من مصادر أخرى، فهذه الشرعية التي تجعل عنف الدولة
-شرعيًا هي ذات مصادر دستورية وأخلاقية وثقافية.
-
-يبحث الفصل التاسع في أحد أهم موضوعات الكتاب وهو إثبات أن المواطنة باتت
-مكونًا في تعريف الدولة المعاصرة. ويبدأ بتاريخ المواطنة الوسيط في المدن
-الحرة خارج الدولة (التي تضمنت حقوقًا وواجبات) وانتقالها إلى الدولة
-الحديثة عبر تجربة الثورة الفرنسية، وفكرة وجود مشترك ما بين الحكام
-والمحكومين كونهم أعضاء في كيان اسمه الدولة، وهي المواطنة التي غالبًا ما
-تطابقت مع عضوية في جماعة قومية، ولكنها اتخذت مسارها التاريخي المستقل.
-كما يناقش نقديًا ترتيب توماس همفري مارشال التاريخي لتطور الحقوق المدنية،
-ثم السياسية، ثم الاجتماعية في بريطانيا.
-
-يتحدث الفصل العاشر عن استحالة الفصل بين الدولة ونظام الحكم ما قبل
-الحداثة، وعن إمكانية الفصل المفهومي بين الدولة الحديثة ونظام الحكم في
-تصورات الناس في عصرنا. كما يطرح فرضية نظرية حول تطابق مؤسسات الدولة
-ونظام الحكم في حالتي الديمقراطية والدولة الشمولية من منطلقين متعاكسين
-وانفصالهما في حالة النظام السلطوي والديمقراطيات غير الراسخة.
-
-يتناول الفصل الحادي عشر والأخير الفرق بين بناء الدولة وبناء الأمة
-والعلاقة بينهما، وكذلك دور القوميات في نشوء الدول المعاصرة، ودور الدول
-في تشكيل القوميات. كما يتناول الفرق بين الدولة القومية والدولة الوطنية
-"الدولة-الأمة". ويبحث في دينامية العلاقة بين الفرد والمجتمع والدولة
-والأخلاق في المجال العمومي، وفي صراع الجماعات الأهلية بوصفها مجالًا
-أخلاقيًا مع المواطنة، والدولة بوصفها مجالًا أخلاقيًّا إذا كانت الأمة أمة
-المواطنين بغض النظر عن تلاقيها التاريخي مع القومية أو تميّزها منها في
-الكثير من البلدان، ويتناول في الوقت ذاته شروط نجاح الأمة المتعددة
-القوميات وعدم حتمية هذا النجاح.
-
-هل هذا كتاب في الفلسفة السياسية أم في علم الاجتماع أم في العلوم
-السياسية؟ وهل هذا التقسيم مهم؟ لو أخذنا كتب الفلسفة السياسية اليونانية،
-لوجدنا أنها كتبت عن الحياة في المدن اليونانية، وإدارة هذه المدن، والصراع
-على السلطة فيها، والحروب ... إلخ، ولكنها سميت فلسفة، قبل أن تتفرع منها
-العلوم؛ لأنها حللت الواقع والناس تحليلًا عقلانيًا لا ينطلق من الأساطير
-والقوى الخفية، ولأنها انطلقت من تحليلات طبيعة الإنسان، وانتهت إلى مقولات
-عامة عن المجتمعات البشرية كانت معروفة لفلاسفة اليونان. وهذا لا يشبه ما
-يسمى فلسفة سياسية كتخصص أكاديمي ويتبع فلسفة الأخلاق في عصرنا. يتعامل
-عزمي بشارة مع الفلسفة بوصفها مصدرًا لمنهج عقلاني شمولي في التفكير
-بالظواهر، ويتعامل مع دوافع البشر الأساسية، كما يسعى للتوصل إلى تعميمات
-نظرية تعين في فهم الظواهر الاجتماعية. لكنه يرى أن هذا لم يعد ممكنًا من
-دون قراءة التاريخ، والاستعانة بمنظورات علم الاجتماع والعلوم السياسية
-والقانون والاقتصاد وعلم النفس وغيرها بحسب اللزوم، وليس بمنهج محدد مسبقًا.
-وهذا التداخل بين التخصصات هو الذي يمكن أن يعيد للفلسفة حيويتها، في رأيه،
-ويبرر وجودها، وليس كتب التخصص الفلسفي الأكاديمي التي يجد حتى الفلاسفة
-صعوبة في فهمها.
-
-اقــرأ أيضًــا
-
-يبدو أن JavaScript غير مُمكن على المستعرض. الرجاء تشغيل JavaScript
-والمحاولة مرة أخرى.
+- {{item.name}} ({{item.items.length}}) items
+-  Add new list
 
  
 
-يبدو أن JavaScript غير مُمكن على المستعرض. الرجاء تشغيل JavaScript
-والمحاولة مرة أخرى.
+ 
 
-- الأخيرةمحدد حالياً
-- Sections
-  - ar
-    - الكتب
-    - الدوريات
-  - en
-    - Books
-    - Journals
+Add selection
 
-صدر حديثاً
+Create your own course:
 
-[أفول الإنسان العمومي]
+- E4J سلسلة الوحدات التعليمية الجامعية: مكافحة الإرهاب
 
-ريتشارد سينيت
+- الوحدة التعليمية 7: الإرهاب وحالات الطوارئ العامة
 
-أفول الإنسان العمومي
+- المقدمة ومخرجات التعلم
 
-[العلويون في التاريخ السوري المعاصر (1918-2024)]
+- القضايا الرئيسية
 
-منير شحود
+- - القيود التي يجيزها قانون حقوق الإنسان
+  - التقييد في أوقات الطوارئ العامة
+  - أمثلة على حالات الطوارئ والاستثناءات المتعلقة بالإرهاب
 
-العلويون في التاريخ السوري المعاصر (1918-2024)
+- تمارين ودراسات حالة
 
-[الجبن والديدان]
+- تنظيم الدرس المقترح
 
-كارلو غينسبورغ
+- القراءات الأساسية
 
-الجبن والديدان
+- قراءات متقدمة
 
-[تمثلات الهوية الفلسطينية في الفضاء الافتراضي]
+- تقييم الطلبة
 
-سعيد محمد أبو معلا
+- أدوات تقييم إضافية
 
-تمثلات الهوية الفلسطينية في الفضاء الافتراضي
+- المراجع 
 
-[نقد النقد]
+ 
 
-محمد بوعزة
+نُشرت النسخة الإنجليزية لأول مرة في حزيران (يونيو) 2018؛ نُشرت الترجمة
+العربية في نيسان (أبريل) 2021.
 
-نقد النقد
+ 
 
-[الهامشية المبدعة]
+ 
 
-ماتي دوغان ، روبرت باهر
+ هذه الوحدة التعليمية هي مورد مرجعي للمحاضرين 
 
-الهامشية المبدعة
+ 
 
-[النص التأريخي وترجمته]
+التقييد في أوقات الطوارئ العامة
 
-سفيان عبد اللطيف
+ 
 
-النص التأريخي وترجمته
+في الظروف القصوى، "في فترات الطوارئ العامة التي تهدد حياة الأمة" (المادة
+4 (1) من العهد الدولي الخاص بالحقوق المدنية والسياسية)، يجوز للدول اتخاذ
+تدابير للانتقاص من العهد، أي تعليق أو تعديل التزاماتها مؤقتًا بموجب
+المعاهدة، شريطة أن يتم استيفاء عدد من الشروط. وقد تم التأكيد على أهمية
+الالتزام بهذه المعايير من قبل الجمعية العامة للأمم المتحدة (على سبيل
+المثال الجمعية العامة للأمم المتحدة، (2005)، الفقرة 3). وعلى الصعيد
+الإقليمي، تحتوي المادة 15 من الاتفاقية الأوروبية لحقوق الإنسان والمادة
+27 من اتفاقية البلدان الأمريكية لحقوق الإنسان على أحكام مماثلة. وتُعتبر
+مبادئهم ونهجهم الشامل هي نفسها إلى حد كبير، على الرغم من وجود بعض
+الاختلافات الإقليمية.
 
-[أوراق أفغانستان]
+وعلى سبيل المثال، في تحديد حدود صارمة لاستخدام السلطة التنفيذية بهذه
+الطريقة، صرحت محكمة البلدان الأمريكية لحقوق الإنسان بأنه "يبدأ من أي
+تحليل سليم قانونياً للمادة 27 [الاتفاقية الأمريكية] والوظيفة التي يؤديها
+هي أنه مخصص لحالات استثنائية فقط. وهي تنطبق فقط "في أوقات الحرب أو الخطر
+العام أو سواهما من الحالات الطارئة التي تهدد استقلال الدولة الطرف أو
+أمنها" (دوران وأوغارت، 2000، الفقرة 99). وعلاوة على ذلك، ذكرت المحكمة،
+في قضية مهمة المثول أمام القضاء في حالات الطوارئ، أن الاتفاقية الأمريكية
+"تسمح بتعليق بعض الحقوق والحريات فقط" بالقدر الذي تقتضيه ضرورات الوضع
+الطارئ وطيلة مدة قيامها" (1987 (أ)، الفقرة 43). ومن الجدير بالذكر أنه
+بموجب المادة 27 من الاتفاقية الأمريكية، فإن حق المثول أمام القضاء غير
+قابل للانتقاص.
 
-كريغ ويتلوك
+وبالمثل، عند تحديد العقبة المطلوب تجاوزها، قررت المحكمة الأوروبية لحقوق
+الإنسان أنه يجب أن تكون هناك ثلاثة شروط ضرورية: يجب أن يكون هناك حالة
+استثنائية من الأزمات أو الطوارئ؛ الذي يؤثر على جميع السكان؛ والذي يشكل
+تهديدًا للحياة المنظمة للمجتمع (لوليس ضد إيرلندا (رقم 3)، 1961، الفقرة
+28). وكما هو الحال مع نهج محكمة البلدان الأمريكية، تسمح المحكمة
+الأوروبية لحقوق الإنسان للدول ببعض التقدير - "هامش التقدير" في تقييمها
+للتهديدات الأمنية المتصورة والاستجابات لها (أ. وغيره ضد المملكة المتحدة،
+2009، الفقرتان 171 و173). كما تطالب كلتا المحكمتين بإعلان حالة الطوارئ
+الرسمية قبل إجراء أي تعليق للحقوق (لوليس ضد إيرلندا (رقم 3)، 1961،
+الفقرة 28؛ زامبرانو فيليز ضد إكوادور، 2007، الفقرات 45-47). ويجب على
+الدول أيضا الإبلاغ عن الحقوق التي تم تعليقها نتيجة لهذا الإعلان.
 
-أوراق أفغانستان
+وفي المقابل، لا ينص الميثاق الأفريقي لحقوق الإنسان والشعوب على حالات
+الطوارئ ولا إمكانية الاستثناء. وهذا يعكس نص المادة 22 من اتفاقية منظمة
+الوحدة الأفريقية لعام 1999 بشأن منع الإرهاب ومكافحته (التي تمت مناقشتها
+في الوحدة التعليمية 4) التي تنص على أنه "لا يوجد في هذه الاتفاقية ما
+يفسر على أنه ينتقص من المبادئ العامة للقانون الدولي، في خاصة مبادئ
+القانون الإنساني الدولي، وكذلك الميثاق الأفريقي لحقوق الإنسان والشعوب ".
+وتعتبر المادة 22 كشرط "حماية" لمنع الدول الأطراف من التذرع بأية أحكام
+بموجب الاتفاقية لتبرير إضعاف أو حتى انتهاك حماية حقوق الإنسان.
 
-[الولايات العراقية العثمانية]
+كما أكدت اللجنة الأفريقية لحقوق الإنسان والشعوب على عدم وجود القدرة على
+عدم التقيد بموجب الميثاق الأفريقي لحقوق الإنسان والشعوب، التي وجدت أن
+الحقوق المعترف بها في الميثاق الأفريقي لا يمكن تقييدها. وذلك بسبب حالات
+الطوارئ أو حالات خاصة. فعلى سبيل المثال، في أجندة حقوق وسائل الإعلام
+وآخرون ضد نيجيريا، ذكرت اللجنة الأفريقية ما يلي:
 
-فاضل بيات
+على النقيض من أدوات حقوق الإنسان الدولية الأخرى، لا يحتوي الميثاق
+الأفريقي على شرط عدم التقيد. ولذلك، لا يمكن تبرير القيود المفروضة على
+الحقوق والحريات المنصوص عليها في الميثاق بحالات الطوارئ أو الظروف
+الخاصة. وتم العثور على الأسباب المشروعة الوحيدة لتقييد حقوق وحريات
+الميثاق الأفريقي في المادة 27 (2)، أي أن حقوق الميثاق "يجب أن تمارس مع
+إيلاء الاعتبار الواجب لحقوق الآخرين، والأمن الجماعي، والأخلاق والمصلحة
+المشتركة" (2000، الفقرتان 68 و69).
 
-الولايات العراقية العثمانية
+وبعبارة أخرى، حتى الحرب الأهلية لا يمكن "استخدامها كذريعة من جانب الدولة
+لانتهاك أو السماح بانتهاك الحقوق في الميثاق الأفريقي" (اللجنة الوطنية ضد
+تشاد، 2000، الفقرة 21). ومع ذلك، يتم وصف عدد من أحكامه على أنها شروط
+"استعادة"، والتي تتعلق فقط بالحقوق المدنية والسياسية، ولكن ليس
+الاقتصادية أو الاجتماعية أو الحقوق الثقافية (أولوو، 2009، ص 55). ويعتبر
+منتقدو الميثاق بشكل عام أن هذه البنود قد تم تضمينها عمداً للحد من
+الفعالية الشاملة للمعاهدة. والأحكام والصياغة المهمة للميثاق الأفريقي
+التي تحتوي على مثل هذه البنود هي: المادة 6 (حرية وأمن الشخص والتحرر من
+الاعتقال التعسفي) "باستثناء الأسباب والشروط التي حددها القانون من قبل"،
+المادة 8 (حرية الوجدان والدين) "الخاضعة للقانون والنظام"، المادة 9 (2)
+(حرية التعبير والحق في نشر الرأي) "ضمن القانون"، المادة 10 (1) (حرية
+تكوين الجمعيات) "شريطة أن يلتزم بالقانون"، المادة 11 (حرية التجمع) "لا
+تخضع إلا للقيود اللازمة التي ينص عليها القانون، ولا سيما تلك التي تم
+وضعها لمصلحة الأمن القومي والسلامة والصحة والأخلاق وحقوق الآخرين
+وحرياتهم"، المادة 12 (1) (حرية التنقل والإقامة داخل الدولة) "شريطة
+الالتزام بالقانون"، المادة 12 (2) (الحق في مغادرة أي بلد والعودة إلى
+بلده) "شريطة أن يلتزم بالقانون"؛ المادة 13 (حرية المشاركة في حكومة البلد
+نفسه) "وفقاً لأحكام القانون"؛ والمادة 14 (الحق في الملكية) "وفقا لأحكام
+القوانين المناسبة". ومن الشواغل الرئيسية هنا أن الإشارات إلى "القانون"
+في هذا السياق قد تعني أن أي قوانين وطنية تتعارض مع أحكام الميثاق
+الأفريقي الأكثر اتساعاً وتتعارض معها، ستسود عليها، مما يخفف من تأثير
+الميثاق وفعاليته بشكل عام في تعزيز حماية حقوق الإنسان في جميع أنحاء
+القارة. وفي الواقع، وعلى الرغم من أن الأمر يتعلق بالتفسير، إلا أن البعض
+يعتبر أن مدى وتأثير عبارات "استعادة" هذه أكثر توسعية من شروط عدم التقيد
+الموجودة في صكوك حقوق الإنسان الأخرى. (أوكيري، 1984، الصفحات 142-158؛
+بوندزي سيمبسون، 1988، الصفحات 643-660؛ أوكيري وموتوا، 1999، ص 342؛
+أوكافور، 2007، الصفحات 63-75).
 
-[من الاغتراب إلى التشيؤ في منظور كارل ماركس]
+واستجابة لهذه الشواغل وغيرها، كانت اللجنة الأفريقية لحقوق الإنسان
+والشعوب قوية في مقاومة أي محاولات من الدول لاستخدام شروط مخالفة في
+الميثاق الأفريقي كبنود انتقاص بديلة (المساعدة القانونية المجانية وآخرون
+ضد زايري، 1995، ومنظمة العفو الدولية ضد زايري، 1999). وبالإضافة إلى ذلك،
+في عام 2015، اعتمدت المبادئ والمبادئ التوجيهية بشأن حقوق الإنسان والشعوب
+في سياق مكافحة الإرهاب في أفريقيا، والتي تستند إلى قانون المعاهدات
+الإقليمية الأفريقية والقانون الدولي والفقه والمعايير واللجنة الأفريقية
+لحقوق الإنسان والشعوب والأمم المتحدة. وإن جوهر المبادئ والمبادئ
+التوجيهية بشأن حقوق الإنسان والشعوب أثناء مكافحة الإرهاب في أفريقيا هو
+التأكيد على أن جوهر الإجراءات القانونية التي تتخذها الدولة، عند مكافحة
+الإرهاب، يتطلب من الدول حماية الأمن القومي والسلامة العامة مع الاحترام
+الكامل لحقوق الإنسان للأفراد. والحريات الأساسية، مع الاعتراف بأن العديد
+من الحقوق هي حقوق مطلقة وأن انتهاكات حقوق الإنسان تؤدي في كثير من
+الأحيان إلى تفاقم التوتر وعدم الاستقرار الموجودين مسبقاً أو تفاقمهما.
+وشددت الوثيقة على أنه في الظروف الاستثنائية عندما يتم النظر في تدابير
+تقييد الحقوق، يجب أيضًا مراعاة تأثيرها المحتمل على النساء والأطفال
+والمهاجرين والمجتمعات العرقية والدينية أو أي مجموعة محددة أخرى.
 
-علي أسعد وطفة
+ومن الجدير بالذكر أيضا أن الميثاق الأفريقي يتضمن حكماً فريداً في المادة 23
+بشأن حق جميع الشعوب في السلم والأمن الوطنيين والدوليين. وهذا يفرض
+التزامات على الدول الأطراف بموجب المادة 23 (2) لضمان ألا يمارس أي شخص
+يتمتع بالحق في اللجوء إلى ممارسة أنشطة تخريبية ضد بلده الأصلي أو أي دولة
+طرف أخرى؛ وأن أراضيها لا تستخدم كقواعد "للأنشطة التخريبية أو الإرهابية"
+ضد شعب أي دولة طرف أخرى.
 
-من الاغتراب إلى التشيؤ في منظور كارل ماركس
+وهناك عدد من الحقوق "غير قابلة للانتقاص"، مما يعني أنه لا يجوز تعليقها
+حتى في أوقات الطوارئ العامة الأكثر خطورة. وتجدر الإشارة أيضًا إلى أن
+الحقوق غير القابلة للانتقاص موجودة ليس فقط بموجب العهد الدولي الخاص
+بالحقوق المدنية والسياسية، ولكن أيضًا بموجب القانون الدولي العرفي الذي
+يلزم جميع الدول بما في ذلك الدول غير الأطراف في العهد.
 
-المزيد
++----------------------------------------------------------------------------------+
+| الحقوق الغير قابلة للانتقاص في العهد الدولي الخاص بالحقوق المدنية والسياسية 1966 |
+|                                                                                  |
+| تحدد المادة 4 (2) تلك الحقوق التي لا يجوز تقييدها:                               |
+|                                                                                  |
+| - المادة 6 (الحق في الحياة)؛                                                     |
+| - المادة 7 (حظر التعذيب والمعاملة القاسية أو اللاإنسانية أو المهينة)؛            |
+| - الفقرتان 1 و2 من المادة 8 (حظر الرق والتجارة بالرقيق والرق)؛                   |
+| - المادة 11 (حظر الحبس على أساس عدم القدرة على دفع التزام تعاقدي)؛               |
+| - المادة 15 (مبدأ الشرعية في مجال القانون الجنائي)؛                              |
+| - المادة 16 (الحق في الاعتراف بالشخصية القانونية)؛                               |
+| - المادة 18 (حرية الفكر والوجدان والدين).                                        |
+|                                                                                  |
+| ووفقا للجنة المعنية بحقوق الإنسان (التعليق العام رقم 29، الفقرات 13-16)، هناك    |
+| عناصر في بعض الحقوق غير المدرجة في المادة 4 (2) لا يمكن الانتقاص منها بشكل       |
+| قانوني. وهي ذات صلة بحقوق الإنسان بشكل خاص في سياق مكافحة الإرهاب، وتشمل ما يلي: |
+|                                                                                  |
+| - يعامل جميع المحرومين من حريتهم معاملة إنسانية تحترم الكرامة الأصيلة للإنسان    |
+|   (المادة 10)؛                                                                   |
+| - حظر أخذ الرهائن والاختطاف والاحتجاز غير المعترف به؛                            |
+| - المتطلبات الأساسية للمحاكمة العادلة.                                           |
+|                                                                                  |
+| كما أن بعض الحقوق الأخرى تعتبر غير قابلة للانتقاص بموجب القانون الدولي العام     |
+| و/أو في الممارسة أيضًا على الرغم من عدم النص عليها صراحة بموجب المادة 4 (2). وهذه |
+| تشمل الحق في محاكمة عادلة (المادة 14) وعناصر مبدأ عدم التمييز، على سبيل المثال   |
+| لدرجة أن هذا يحمي الحقوق غير القابلة للانتقاص. (انظر، على سبيل المثال، الأمم     |
+| المتحدة، لجنة حقوق الإنسان (2001)، والتعليق العام رقم 29: المادة 4: الاستثناءات  |
+| أثناء حالة الطوارئ. 31 آب/أغسطس. CCPR/C/21/Rev.1/Add.11، الفقرات 7-8).           |
++----------------------------------------------------------------------------------+
 
-فعاليات
+ويخضع تطبيق تدابير الطوارئ التي تنتقص من التزامات حقوق الإنسان لمتطلبات
+ومبادئ صارمة في محاولة لمنع إساءة استخدامها. وكما لاحظت لجنة الأمم
+المتحدة لحقوق الإنسان في تعليقها العام رقم 29 بشأن المادة 4 من العهد
+الدولي الخاص بالحقوق المدنية والسياسية:
 
-النشرة الدورية
+ذلك أنها، من ناحية، تجيز للدولة الطرف عدم التقيد بصورة انفرادية ومؤقتة
+بجزء من التزاماتها بموجب العهد. ومن جهة أخرى فإن المادة 4 تُخضِع كلا من
+تدبير عدم التقيد ذاته وتبعاته المادية لنظام محدد من الضمانات. و"إن
+استعادة الوضع الطبيعي الذي يمكن في ظله مرة أخرى ضمان الاحترام الكامل
+للعهد يجب أن يكون هو الهدف الرئيسي للدولة الطرف التي لا تتقيد بالعهد على
+هذا النحو". (CCPR/C/21/Rev.1/Add.11، الفقرة 1).
 
-حاول مرة أخرى
+وإلى حد كبير، "لا يمكن وصف كل اضطراب أو كارثة بأنه حالة طوارئ استثنائية
+تهدد حياة الأمة" (الفقرة 3)، مما يسمح بالانتقاص. وينطبق هذا بالتساوي على
+الأعمال الإرهابية التي يجب تقييمها على أساس كل حالة على حدة لمعرفة ما
+إذا كانت المعايير مستوفاة بالكامل قبل إعلان أي حالة طوارئ، وبشكل أساسي
+ما إذا كانت تهدد استقلال ونزاهة الأمة.
 
-------------------------------------------------------------------------
+وفيما يتعلق بحالات النزاع المسلح، تنص المادة 4 (1) على أنه لا يجوز أن
+يتعارض أي تدبير ينتقص من أحكام العهد مع الالتزامات الأخرى للدولة الطرف
+بموجب القانون الدولي. ويمتد هذا إلى القانون الإنساني الدولي الذي يحكم أي
+اعتماد على سلطات الطوارئ، بما في ذلك منع إساءة استخدامها من قبل الدول.
+وحتى في هذا السياق، لا يجوز السماح بأي استثناءات إلا إذا كان الوضع يشكل
+تهديدًا لحياة الأمة (الفقرتان 3 و9). وإنهم يخضعون لنفس مبادئ القيد
+المفصلة أدناه. ومع ذلك، فإن ممارسة التقييدات في سياق النزاع المسلح ليست
+شائعة. وعلى سبيل المثال، على الرغم من تورط العديد من الأطراف المتعاقدة
+في الاتفاقية الأوروبية لحقوق الإنسان منذ عام 2001 في نزاعات مسلحة خارج
+أراضيها، لم يتم إجراء أي استثناءات فيما يتعلق بها. وبالتالي، لم يكن لدى
+المحكمة الأوروبية لحقوق الإنسان الفرصة للنظر فيما إذا كانت هناك اختلافات
+تفسيرية بين "الحرب" و"حالات الطوارئ العامة الأخرى" فيما يتعلق بالمادة 15
+من الاتفاقية الأوروبية (انظر حسن ضد المملكة المتحدة، 2014، الفقرة 101).
+وفي حالات النزاع المسلح، قررت المحكمة على الرغم من أن نقطة البداية هي
+الفقه القانوني الراسخ لمحكمة العدل الدولية بأن "الحماية التي توفرها
+اتفاقيات حقوق الإنسان لا تتوقف في حالات النزاع المسلح، إلا من خلال إعمال
+أحكام تقضي بعدم التقيد" (محكمة العدل الدولية، 2004، الفقرة 106).
 
-المركز العربي للأبحاث ودراسة السياسات
++-------------------------------------------------------------------------------------------------------------------------------------------------+
+| شروط التقييد المسموح به بموجب العهد الدولي الخاص بالحقوق المدنية والسياسية                                                                      |
+|                                                                                                                                                 |
+|                                                                                                                                                 |
+|                                                                                                                                                 |
+| المتطلبات والمبادئ الموضوعية *                                                                                                                  |
+|                                                                                                                                                 |
+| - وجود حالة طوارئ عامة: يجب أن تكون هناك "حالة طوارئ استثنائية تهدد حياة الأمة"، مثل النزاع المسلح أو الاضطرابات المدنية والعنيفة أو الطوارئ    |
+|   الإرهابية أو كارثة طبيعية شديدة، مثل الفيضانات أو الزلازل.                                                                                    |
+| - مبدأ التوافق مع الالتزامات الدولية: يجب ألا تتعارض الاستثناءات مع الالتزامات الأخرى بموجب القانون الدولي. ولا يمكن تحت أي ظرف من الظروف       |
+|   الاحتجاج بالحق في عدم التقيد بالتزامات حقوق الإنسان لتبرير انتهاك القانون الإنساني الدولي أو قاعدة آمرة من قواعد القانون الدولي (انظر إلى     |
+|   الوحدة التعليمية 3). فعلى سبيل المثال، في حين أن الاستثناء من المادة 14 (الحق في محاكمة عادلة) قد يكون مسموحاً به إلى الحد الذي تقتضيه حالة    |
+|   الطوارئ الناجمة عن النزاع المسلح، إلا أنه لا يجوز فيما يتعلق بحقوق المحاكمة العادلة لأسرى الحرب بموجب اتفاقية جنيف الثالثة المتعلقة بمعاملة   |
+|   أسرى الحرب التي هي بالفعل معايير دنيا تعكس متطلبات النزاع المسلح.                                                                             |
+| - مبدأ التناسب: يجب ألا تحد تدابير التقييد المسموح بها من الحقوق المقيدة إلا بالقدر الذي تقتضيه متطلبات الموقف (انظر المادة 4 (1)). وعند تحديد  |
+|   ما إذا كان الاستثناء متناسباً، فإن السؤال الذي يجب طرحه هو ما إذا كانت هناك وسائل أخرى، وأقل تقييدًا للحقوق المعنية، والتي من شأنها أن توفر     |
+|   وسيلة فعالة مماثلة للاستجابة لمتطلبات الوضع.                                                                                                  |
+| - يوضح التعليق العام رقم 29 للجنة حقوق الإنسان أن شرط الضرورة الصارمة يتعلق بالمدى والتغطية الجغرافية والنطاق المادي للاستثناء. وخاصة فيما      |
+|   يتعلق بمدة عدم التقيد، تذكر اللجنة المعنية بحقوق الإنسان أنه "يجب أن تكون تدابير عدم التقيد بأحكام العهد تدابير ذات طابع استثنائي ومؤقت".     |
+| - ينص المبدأ 54 من مبادئ سيراكيوزا المتعلقة بتقييد وإلغاء العهد الدولي الخاص بالحقوق المدنية والسياسية (الذي أقره المجلس الاقتصادي والاجتماعي   |
+|   للأمم المتحدة) على أنه "يجب تطبيق مبدأ الضرورة الصارمة بطريقة موضوعية. كما يجب أن يوجه كل تدبير إلى خطر فعلي أو واضح أو حالي أو وشيك ولا يجوز |
+|   فرضه لمجرد وجود خطر محتمل".                                                                                                                   |
+| - مبدأ عدم التمييز: يجب تطبيق التقييد بطريقة غير تمييزية، دون تمييز قائم فقط على أساس العرق أو اللون أو الجنس أو اللغة أو الدين أو الأصل        |
+|   الاجتماعي.                                                                                                                                    |
+|                                                                                                                                                 |
+|                                                                                                                                                 |
+|                                                                                                                                                 |
+| المتطلبات الإجرائية                                                                                                                             |
+|                                                                                                                                                 |
+| - الإعلان الرسمي: لا يُسمح بتدابير التقييد إلا في حالات الطوارئ العامة التي "تُعلن رسمياً". وعند إعلان حالة الطوارئ العامة، يجب على الدول الالتزام |
+|   بأحكامها الدستورية وغيرها من أحكام القانون التي تحكم مثل هذا الإعلان. وكما ذكرت اللجنة المعنية بحقوق الإنسان في التعليق العام رقم 29، فإن     |
+|   "الشرط الأخير أساسي للحفاظ على مبدأي المشروعية وسيادة القانون في الأوقات التي تمس الحاجة إليهما".                                             |
+| - الإخطار الدولي: تطلب المادة 4 (3) من الدول التي تسعى إلى إعلان حالة طوارئ عامة والخروج عن متطلبات العهد إبلاغ الأمين العام للأمم المتحدة بهذا |
+|   الموقف.                                                                                                                                       |
+|                                                                                                                                                 |
+| * الأمم المتحدة، لجنة حقوق الإنسان (2001). التعليق العام رقم 29: المادة 4: الاستثناءات أثناء حالة الطوارئ. 31 آب/أغسطس. CCPR/C/21/Rev.1/Add.11. |
++-------------------------------------------------------------------------------------------------------------------------------------------------+
 
-​شارع الطرفة، منطقة 70، وادي البنات، الظعاين، قطر
+ 
 
-​ص.ب 10277
++---------------------------------------------------------------------------------------------------------------------------------------------------+
+| شروط التقييد المسموح به بموجب الاتفاقية الأوروبية لحقوق الإنسان*                                                                                  |
+|                                                                                                                                                   |
+|                                                                                                                                                   |
+|                                                                                                                                                   |
+| المتطلبات والمبادئ الموضوعية*                                                                                                                     |
+|                                                                                                                                                   |
+| - وجود حرب أو حالة طوارئ عامة أخرى تهدد حياة الأمة: يجب أن تكون هناك "حالة طوارئ عامة تهدد حياة الأمة".                                           |
+| - مبدأ التوافق مع الالتزامات الدولية: يجب ألا تتعارض الاستثناءات مع الالتزامات الأخرى للدولة بموجب القانون الدولي.                                |
+| - مبدأ التناسب: عدم التقيد إلا بالتزامات الاتفاقية "على أضيق الحدود التي يتطلبها الوضع ".                                                         |
+| - بعض حقوق الاتفاقية لا تسمح بأي استثناء.                                                                                                         |
+|                                                                                                                                                   |
+| المتطلبات الإجرائية                                                                                                                               |
+|                                                                                                                                                   |
+| - يجب على الدولة التي تستفيد من هذا الحق في عدم التقيد إبقاء الأمين العام لمجلس أوروبا على علم تام بذلك.                                          |
+|                                                                                                                                                   |
+| * المحكمة الأوروبية لحقوق الإنسان (2017). دليل المادة 15 من الاتفاقية الأوروبية لحقوق الإنسان: التقييد في أوقات الطوارئ. مُحدثة في 30 نيسان/أبريل. |
++---------------------------------------------------------------------------------------------------------------------------------------------------+
 
-- هاتف : 4111 4035 974+
+ 
 
-مواقع ذات صلة
+الضمانات الدستورية
 
-------------------------------------------------------------------------
+في بعض الدول، هناك ضمانات دستورية إضافية لمنع إساءة استخدام سلطات
+الطوارئ. وأحد الأمثلة على ذلك هو المادة 137 من دستور بيرو التي تنص على
+أن الحق في المثول أمام القضاء و"الحماية" (انتصاف من خلال المحاكم لأفعال
+السلطة التي تنتهك الحقوق الأساسية، والتي تشكل أيضا أساس المادة 25 من
+اتفاقية الدول الأمريكية لحقوق الإنسان (الحق في الحماية القضائية) (محكمة
+البلدان الأمريكية لحقوق الإنسان، 1987 (ب)، الفقرات 38-40) لا يجوز
+تعليقها أبدًا حتى في أوقات الطوارئ الوطنية. ومثال آخر هو المادة 165 من
+دستور الإكوادور الذي ينص على أنه خلال أي حالة استثنائية لا يجوز لرئيس
+الجمهورية إلا تعليق أو تقييد ممارسة الحق في حرمة المسكن وحرمة المراسلات
+وحرية التنقل وحرية تكوين الجمعيات وحرية التجمع وحرية المعلومات.
 
-- []
-- []
+وتم اعتماد نهج متناقض بموجب المادة 14 من دستور باكستان: (1) "كرامة
+الإنسان، والخصوصية في المنزل، لا يجوز انتهاك حرمتهما مع مراعاة القانون"؛
+و(2) "لا يجوز إخضاع أي شخص للتعذيب بغرض انتزاع اعترافٍ منه". وبموجب
+المادة 233 من الدستور، ومع ذلك، خلال فترة الطوارئ قد يتم تعليق بعض
+الحقوق الأساسية الأخرى، وهي حرية الحركة، وحرية التجمع، وحرية تكوين
+الجمعيات، وحرية التجارة، والأعمال التجارية أو المهنية، وحرية التعبير
+(بما في ذلك الحق في الحصول على المعلومات) وحماية حقوق الملكية. وتنص
+المادة 232 (7) على ضمانة دستورية واحدة تشترط أن "يُنشر أي إعلان للطوارئ
+قبل جلسة مشتركة يستدعيها الرئيس للاجتماع في غضون ثلاثين يومًا من صدور
+الإعلان، و(أ) يتوقف سريان مفعولها عند انقضاء شهرين ما لم يتم الموافقة
+عليه قبل انتهاء تلك الفترة بقرار من الجلسة المشتركة" أو بموجب المادة 232
+(7) (ب) بصدور قرار "رفض الإعلان".
 
-+--------------------------------------------------------------------------+
-| ------------------------------------------------------------------------ |
-|                                                                          |
-| المركز العربي في                                                         |
-|                                                                          |
-| [باريس] باريس [واشنطن] واشنطن [تونس] تونس                                |
-+--------------------------------------------------------------------------+
+وتضمن الدساتير الأخرى الحقوق الأساسية أثناء حالات الطوارئ مع السماح
+بتعليق بعض الحقوق الأساسية أو حتى بسبب انتهاكات محدودة لها على نحو
+استثنائي لأسباب تتعلق بالأمن القومي، بينما تسعى الدساتير الأخرى إلى ضمان
+حماية شاملة لحقوق الإنسان. وفي الفلبين، على سبيل المثال، يتم تضمين
+الحماية الدستورية في القوانين ذات الصلة بالأمن، والتي يوضحها الجزء 2 من
+قانون الجمهورية رقم 9372 لقانون الأمن البشري لعام 2007. وينص هذا على أنه
+"لا يجوز تفسير أي شيء في هذا القانون على أنه تقليص أو تقييد للسلطات
+المعترف بها دستورياً للسلطة التنفيذية للحكومة. ومع ذلك، يجب أن يكون
+مفهوماً أن ممارسة السلطات المعترف بها دستورياً للإدارة التنفيذية للحكومة
+لن تمس باحترام حقوق الإنسان التي يجب أن تكون مطلقة ومحمية في جميع
+الأوقات".
 
-- 
-- 
-- 
-- 
-- 
+التوترات المتأصلة
 
-------------------------------------------------------------------------
+عندما يتم الإعلان عن حالة الطوارئ، ويتم تقييد حماية حقوق الإنسان، فإن
+احتمال إساءة استخدام الدولة لسلطتها يكون موجودًا، بما في ذلك تحت رعاية
+مكافحة الإرهاب. وقد استوعبت لجنة الحقوقيين الدولية هذه المشاعر في
+إعلانها بشأن دعم حقوق الإنسان وسيادة القانون في مكافحة الإرهاب في عام
+2004 (إعلان برلين)، الذي جاء فيه:
 
-النشرة الدورية
+تحدد هذه المبادئ والمعايير والالتزامات [لسيادة القانون] حدود إجراءات
+الدولة المسموح بها والمشروعة ضد الإرهاب. ولا يمكن أن تكون الطبيعة
+البغيضة للأعمال الإرهابية بمثابة أساس أو ذريعة للدول لتجاهل التزاماتها
+الدولية، ولا سيما في حماية حقوق الإنسان الأساسية.
 
-حاول مرة أخرى
+وإن الخطاب المنتشر الموجه نحو الأمن يشجع على التضحية بالحقوق والحريات
+الأساسية باسم القضاء على الإرهاب. ولا يوجد تضارب بين واجب الدول في حماية
+حقوق الأشخاص المهددين بالإرهاب ومسؤوليتها عن ضمان ألا تؤدي حماية الأمن
+إلى تقويض الحقوق الأخرى (ص 1).
 
-------------------------------------------------------------------------
+ونظراً لخطر انتهاكات حقوق الإنسان وانتهاكات سيادة القانون التي تحدث في
+حالات الطوارئ، من المهم إبقائها قيد المراجعة المنتظمة لضمان استمرار
+استيفاء المعايير. وكما تنص مبادئ سيراكوزا، "يجب أن ينص الدستور الوطني
+والقوانين التي تحكم حالات الطوارئ على مراجعة مستقلة فورية ودورية من قبل
+السلطة التشريعية لضرورة تدابير عدم التقيد" (المبدأ 55). وبالمثل، أعادت
+لجنة الشؤون القانونية وحقوق الإنسان التابعة لمجلس أوروبا التأكيد على
+أهمية هذا الاستعراض المستمر في حالة الطوارئ: قضايا التناسب فيما يتعلق
+بالاستثناءات بموجب المادة 15 من الاتفاقية الأوروبية لمعلومات حقوق
+الإنسان، نصت على:
 
-جميع الحقوق محفوظة © 2025
+إن الإشراف القضائي على الاستثناءات ضروري للحفاظ على سيادة القانون وحماية
+الحقوق التي لا يمكن تقييدها ولمنع التعسف. وكما لاحظ مفوض سابق لمجلس
+أوروبا لحقوق الإنسان، "هذا بالضبط لأن الاتفاقية تفترض ضوابط محلية في شكل
+تدقيق برلماني وقائي ومراجعة قضائية لاحقة تتمتع السلطات الوطنية بهامش
+كبير من التقدير فيما يتعلق بالاستثناءات". وهذا بالفعل هو جوهر مبدأ
+التبعية في حماية حقوق الاتفاقية (الفقرة 9).
 
-- خريطة الموقع
-- اتفاقية الاستخدام
+كما تلاحظ المذكرة الإعلامية، تظل جميع حقوق الإنسان، بما في ذلك تلك التي
+تخضع للاستثناءات، قابلة للتقاضي أمام المحاكم. ولذلك، يحتفظ أي شخص يدعي
+انتهاك حقوقه في الاتفاقية بالحق في انتصاف محلي فعال بموجب المادة 13 من
+الاتفاقية الأوروبية لحقوق الإنسان (الفقرة 2). وهذا المبدأ قابل للتطبيق
+على نطاق أوسع على السلطات القضائية الأخرى أيضاً، وهو ما ينعكس في مبدأ
+سيراكوزا 56 بأنه "يجب توفير سبل انتصاف فعالة للأشخاص الذين يدعون أن
+تدابير عدم التقيد التي تؤثر عليهم ليست مطلوبة بشكل صارم بسبب مقتضيات
+الوضع" (انظر كذلك النميطة 14).
 
-×
+ويكمن جانب أساسي آخر للحفاظ على الضمانات الكافية في ضمان الحفاظ على
+سيادة القانون داخل النظم القانونية الوطنية، ولا سيما الفصل بين أدوار
+السلطة التنفيذية والتشريعية والقضائية من أجل الحفاظ على المستويات
+المناسبة من الضوابط والتوازنات.
 
-اسم المرسل
+وتصبح مسألة المصطلحات مهمة للغاية. وفي كثير من الأحيان، في الخطاب والفقه
+القضائي للمحاكم فيما يتعلق باستخدام الاستثناءات كأداة لمكافحة الإرهاب،
+تتم الإشارة إلى الحاجة إلى "موازنة" احتياجات الأمن القومي مع الالتزامات
+الدولية، بما في ذلك قانون حقوق الإنسان. وإن فكرة "الموازنة" بين هذه
+الاعتبارات، قد تستدعي استنتاجاً أنه كلما زادت التهديدات الأمنية المتصورة
+بما في ذلك من الإرهاب، زاد تبرير الاستثناء والابتعاد عن قواعد سيادة
+القانون الراسخة، مع المخاطر المرتبطة بالالتزام بقاعدة القانون. ولذلك قد
+يكون من الأفضل استخدام اللغة البديلة "لاستيعاب" الضرورات الأمنية ضمن
+الالتزامات القائمة في مجال سيادة القانون، لتعكس بشكل أفضل الهدف النهائي
+الذي يستند إليه أي إعلان لحالات الطوارئ والاستثناءات الناتجة عنه، أي
+تمكين السلطة التنفيذية للدولة من إعادة إرساء القانون والنظام سواء كان
+يشكل خطراً أو تهديداً للنظام العام، مثل تلك التي تشكلها الأعمال الإرهابية،
+أو غيرها من المخاطر التي تهدد الأمن القومي والسلام الاجتماعي.
 
-بريد المرسل إليه
+ومرة أخرى، تلعب المحاكم دوراً رئيسياً هنا. ومن المهم أن تضمن المحاكم
+الحفاظ على قيود صارمة فيما يتعلق بممارسة هذه السلطة التقديرية (انظر على
+سبيل المثال لقضية كلاس ضد ألمانيا، 1978، الفقرة 48-49؛ A وآخرون ضد
+المملكة المتحدة، 2009، الفقرة 173). ومع ذلك، فإن السعي للتوفيق بين
+متطلبات الأمن القومي مع الحفاظ على سلامة سيادة القانون يمكن أن يكون خطاً
+دقيقاً للتغلب عليه، وغالباً ما يكون مصدراً لتوتر كبير بين السلطة التنفيذية
+والسلطة القضائية.
 
-عنوان الرسالة
+ 
 
-الرسالة
+الأحكام العرفية ونشر العسكريين
 
-[Captcha]
+من المجالات الحساسة بشكل خاص إعلان الأحكام العرفية في حالات الطوارئ التي
+تمنح سلطات خاصة للحكومة، عادة من خلال استبدال السلطة المدنية بسلطة
+عسكرية في منطقة معينة. وفي بعض الأحيان يتم إعلان الأحكام العرفية في سياق
+مختلط من الصراع المسلح الداخلي والأنشطة الإرهابية، والتي قد تكون
+متشابكة. وفي مثل هذه الظروف، يمكن أن ينشأ التوتر بين دور السلطة
+التنفيذية في ضمان الأمن القومي، ودور السلطة القضائية في دعم سيادة
+القانون، وفي تحديد ما إذا كان اختبار إعلان حالة الطوارئ قد تم تجاوزه.
+
+ومن الأمثلة على ذلك إعلان حالة الأحكام العرفية في أيار/مايو لسنة 2017 في
+الفلبين، رداً على التهديد الذي تشكله مجموعة موت (أنصار داعش) في مدينة
+مراوي، والذي يتم فحصه في دراسة الحالة. وفي حالات أخرى من النشاط
+الإرهابي، يمكن أن تتبع الحالة الفعلية للأحكام العرفية دون إعلان رسمي
+عنها، والذي قد يستمر من بضعة أيام إلى سنوات. وعلى سبيل المثال، قد يكون
+هناك "إغلاق" فعلي لمدينة أو منطقة، و/أو القوات العسكرية (أو ما شابه) قد
+يتم نشرها كجزء من استجابات القانون والنظام. وفي بعض الظروف، من الممكن أن
+تكون الدولة في حالة طوارئ شبه ثابتة و/أو بموجب الأحكام العرفية (سواء
+بحكم الواقع أو بحكم القانون) لأشهر أو سنوات أو حتى لعقود.
+
+وتتعلق مسألة وثيقة الصلة، وحساسة بنفس القدر، بنشر الجيش في حالات الطوارئ
+الوطنية. وقد حددت محكمة البلدان الأمريكية لحقوق الإنسان في قضية
+مونتيرو - أرانغورين وآخرون مبدأً هاماً يحكم مثل هذه الظروف. (مركز احتجاز
+كاتيا) -فنزويلا. وفي هذه القضية، رأت المحكمة أن "على الدول أن تقيد إلى
+أقصى حد استخدام القوات المسلحة للسيطرة على الاضطرابات الداخلية، لأنها
+مدربة على محاربة الأعداء وليس لحماية المدنيين والسيطرة عليهم، وهي مهمة
+نموذجية لقوات الشرطة "(2006، الفقرة 78).
+
+ 
+
+[] التالي
+
+[] العودة إلى الأعلى
+
+ 
+
+Supported by the State of Qatar
+
+60 years Crime Congress

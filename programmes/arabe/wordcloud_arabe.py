@@ -72,7 +72,7 @@ wc = WordCloud(
 output_folder = "nuages/arabe"
 os.makedirs(output_folder, exist_ok=True)
 
-output_path = os.path.join(output_folder, "arabe_all.png")
+output_path = os.path.join(output_folder, "nuage_arabe.png")
 
 wc.to_file(output_path)
 
