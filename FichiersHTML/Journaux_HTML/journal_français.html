@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Journal de bord - parcours langue française</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+
+<style>
+body {
+    background-color: #fdf6e5;
+    color: #5c4033;
+    font-family: Arial, sans-serif;
+    margin-top: 40px;
+}
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+.box {
+    background-color: #ffffff;
+    border: 1px solid #a57b5b;
+}
+h1, h2, h3, h4 {
+    color: #a57b5b;
+}
+.content {
+    text-align: justify;
+}
+blockquote {
+    border-left: 4px solid #a57b5b;
+    background-color: #fdf6e5;
+    padding: 1em;
+    margin: 1em 0;
+}
+code, pre {
+    background-color: #fdf6e5;
+    color: #5c4033;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+strong {
+    color: #5c4033;
+}
+</style>
+</head>
+
+<body>
+<section class="section">
+<div class="container box">
+<div class="content">
+
+<h2 class="title is-3 has-text-centered">
+Un retour sur les différentes phases du projet : mot "état"
+</h2>
+
+<h3 class="title is-4">Choix du mot :</h3>
+
+<p>
+Le choix du mot fut un consensus rapide. Nous aimions parfois discuter de l'actualité et notamment de la politique.
+La différence des récits, des points de vues prenait parfois sa source dans nos perceptions linguistique opposées du mot état.
+Le choix de ces trois langues, qui nous sont familières, se justifie également par la variété de l'organisation structurelle liée au mot état,
+en fonction des cultures propre aux langues.
+</p>
+
+<p>
+Dès le choix du mot, nous avons pressentis que la "politique" serait prédominante dans les apparition du mot "état" sur le web,
+au détriment du côté "psychologique".
+</p>
+
+<h3 class="title is-4">Scrapping du mot sur le web :</h3>
+
+<p>Je suis donc en charge du français.</p>
+
+<p>
+Au départ, la tâche de récolte des urls m'a parut fastidieuse.<br>
+J'ai commencé à réfléchir à l'élaboration d'un script Python afin d'automatiser la récolte des URL,
+en prenant directement tous ceux proposés par la page de résultat google.
+</p>
+
+<p>Mais plusieurs problèmes se sont posés :</p>
+
+<ul>
+<li>
+Je suis tombés sur des vidéos tutoriels de scrapping web depuis Python. Le script avait l'air plutôt fastidieux et en dehors de mes compétences.
+Le temps que ça aurait pris aurait été largement supérieur au temps de recherche des 50 urls.
+</li>
+<li>
+Je ne maitrisais <em>pas encore</em> le module <strong>os</strong> de Python, qui aurait été essentiel afin de manipuler les fichiers.
+</li>
+</ul>
+
+<h3 class="title is-4">Élaboration du script : tableau général .html</h3>
+
+<p>
+J'ai d'abord essayé de réaliser le script sur Python, car je ne comprenais pas grand chose au fonctionnement couplé de bash et html.
+Mauvaise idée évidemment.
+</p>
+
+<blockquote>
+<p>
+Dans le cadre d'un projet de stages, j'ai du élaborer un script plutôt simple. Peu familié avec shell bash, j'ai commencé à le réaliser en Python.
+La longueur et la lenteur de script Python n'ont pas égalé le second script, en bash cette fois-ci.
+Parfois en une ligne, il devient possible de trier, supprimer, remplacer, etc.
+</p>
+</blockquote>
+
+<p>
+Avant de véritablement attaquer les choses sérieuses, j'ai décidé de regarder un grand nombre de script fait par les ancien.ne.s élèves du master.
+Grâce à ce temps d'observation, j'ai beaucoup plus facilement saisi les attentes et compris la logique de bash,
+notamment l'utilisation des variables.
+</p>
+
+<h4 class="title is-5">Création de variables :</h4>
+
+<p>
+J'ai créé dès le début des variables fixant les PATH de chaque dossier important de l'arborescence.
+</p>
+
+<ul>
+<li>
+Grâce à ce geste simple, il me fut aisée de faire fonctionner tout dans un gros script - je suis plus à l'aise comme ça.
+</li>
+<li>
+J'ai directement tout mis à jour sur le repositery GitHub.
+</li>
+</ul>
+
+<h4 class="title is-5">Élaboration d'un regex :</h4>
+
+<pre><code class="language-bash">
+REGEX="[eéèêËE][tT][aàAÀ][tT]s?([-][A-Za-zàâäéèêëïîôöùûüÿçÀÂÄÉÈÊËÏÎÔÖÙÛÜŸÇ]+)?"
+</code></pre>
+
+<p>
+Une expression régulière du mot état doit évidemment contenir les cas au pluriel et au singulier.
+J'ai décidé également de rajouter des variations des signes diacritiques de "E",
+afin de prévoir les éventuelles fautes de frappes sur les sites web.
+</p>
+
+<ul>
+<li>
+Je voulais absolument saisir les éventuels mots composés d'État, j'ai donc rajouter dans la regex le trait d'union,
+suivit de tout mot et signes diacritiques : il sera possible de capturer "état-major", etc.
+</li>
+</ul>
+
+<h4 class="title is-5">User agent :</h4>
+
+<p>
+Je n'ai pas eu assez de temps, ni ne me sens assez à l'aise avec Bash por remplir l'exerce Robot.txt.
+Toutefois, j'ai utilisé un user agent pour <strong>curl</strong>.
+</p>
+
+<pre><code class="language-bash">
+USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+</code></pre>
+
+<h3 class="title is-4">Les problèmes rencontrés, et solutions</h3>
+
+<h4 class="title is-5">Problèmes d’encodage :</h4>
+
+<p>
+L’un des principaux blocages techniques que j’ai rencontrés fut la gestion de l’encodage des textes.
+Malgré l’ajout en tête du script :
+</p>
+
+<pre><code class="language-bash">
+export LANG=C.UTF-8
+export LC_ALL=C.UTF-8
+</code></pre>
+
+<p>
+certains fichiers dumps textuels n’étaient pas interprétés proprement en UTF-8.
+Des séquences de caractères mal encodés produisaient des caractère différemment encodés
+(par exemple <code>Ã©</code> à la place de <code>é</code>),
+ce qui rendait certaines lignes illisibles ou incorrectes pour mes actions utlérieurs.
+</p>
+
+<ul>
+<li>
+L’outil <code>file --mime-encoding</code> indiquait parfois <code>us-ascii</code> ou <code>utf-8</code>,
+mais une validation avec <code>iconv</code> montrait que ce n’était <strong>pas réellement du UTF-8 valide</strong>.
+</li>
+<li>
+J'ai beaucoup utilisé la sortie standard du terminal en guise de debug !
+</li>
+<li>
+Le fait que les pages web proviennent de domaines variés, à mon avis,
+impliquait que certaines pages utilisaient des encodages autres que UTF-8
+(ex. ISO-8859-1 ou Windows-1252).
+</li>
+</ul>
+
+<h3 class="title is-4">Nettoyage des fichiers et segmentation</h3>
+
+<p>
+Un autre point peu évident fut le nettoyage des fichiers dumps textuels avant leur traitement.
+</p>
+
+<ul>
+<li>
+<strong>Suppression des caractères spéciaux indésirables</strong> : la commande
+<code>sed -i ''</code> était nécessaire.
+</li>
+<li>
+Cependant, cette suppression a parfois effacé des tirets qui faisaient partie d’un mot composé
+(ex. “état-civil”).
+</li>
+<li>
+La segmentation en phrases avec <code>sed -E 's/([.!?])/\1\n/g'</code> s’est révélée fragile.
+</li>
+</ul>
+
+<h3 class="title is-4">Automatisation et structuration des fichiers</h3>
+
+<p>
+Comme dis précédemment, je n'étais pas trop à l'aise avec bash (maintenant, ça va un peu mieux).
+</p>
+
+<ul>
+<li>
+Structuration initiale brouillonne.
+</li>
+<li>
+Génération automatique des fichiers via <code>while read -r URL</code>.
+</li>
+<li>
+Gestion partielle des erreurs et des encodages.
+</li>
+</ul>
+
+<h3 class="title is-4">Solutions partielles et pistes d’amélioration</h3>
+
+<ul>
+<li>
+Automatisation complète fonctionnelle.
+</li>
+<li>
+Détection d’encodage améliorée à envisager.
+</li>
+<li>
+Ajout futur d’une colonne bigrammes.
+</li>
+</ul>
+
+<p><strong>Nathan DUCROS</strong></p>
+
+</div>
+</div>
+</section>
+</body>
+</html>

@@ -1,8 +1,5 @@
 #!/bin/bash
 
-## TODO :
-# centrer colonnes
-# script pour arboressence
 
 export LANG=C.UTF-8
 export LC_ALL=C.UTF-8
@@ -40,7 +37,7 @@ TAB_HTML=$(
 	echo "<html>"
 	echo "<head>"
 	echo "<title>Projet de groupe PPE-25/26, français</title>"
-	echo "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css\">"
+	echo "<link rel=\"stylesheet\" href=../../style.css>"
 	echo "</head>"
 	
 	echo "<style>"
@@ -125,7 +122,6 @@ while read -r URL ; do
 	# Ajout Concordancier :
 	filename_concord="$DIR_CONCORD/concordancier-fr-$ID.html"
 	
-
 	echo "<tr>" >> "$DIR_HTML_OUT"
 	echo "<td>" "$ID" "</td>" >> "$DIR_HTML_OUT"
 	echo "<td>" "<a href=\"$URL\" >Lien internet</a>" "</td>" >> "$DIR_HTML_OUT"
