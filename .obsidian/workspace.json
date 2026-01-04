@@ -11,14 +11,10 @@
             "id": "439d21f95b8d1d4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journaux/journal_espagnol.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "journal_espagnol"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -185,21 +181,26 @@
   },
   "active": "439d21f95b8d1d4a",
   "lastOpenFiles": [
-    "AnalyseLinguistique/anLING_espagnol.html",
-    "AnalyseLinguistique/analyse linguistique.html",
-    "AnalyseLinguistique",
-    "dossier sans titre",
-    "analyse linguistique.html",
-    "script.html",
-    "style.css",
-    "assets/css/style.css",
-    "assets/css",
-    "assets/dossier sans titre/style.css",
-    "assets/dossier sans titre",
+    "FichiersHTML/PALS_HTML/PALS_espagnol.html",
+    "FichiersHTML/Journaux_HTML/journal_espagnol.md",
+    "FichiersHTML/Journaux_HTML/journal_espagnol.html",
+    "FichiersHTML/Journaux_HTML",
+    "FichiersHTML/PALS_HTML",
+    "FichiersHTML/dossier sans titre",
+    "FichiersHTML/JournauxHTML/journal_espagnol.html",
+    "FichiersHTML/JournauxHTML/journaux_espagnol.html",
+    "FichiersHTML/JournauxHTML/journaux.html",
+    "FichiersHTML/JournauxHTML/journal_espagnol.md",
+    "FichiersHTML/JournauxHTML",
+    "FichiersHTML/JouranuxHTML/journal_espagnol.md",
+    "FichiersHTML/journal_espagnol.md",
+    "Journaux/journal_espagnol.md",
+    "journal_espagnol.md",
+    "FichiersHTML/JouranuxHTML/journaux.html",
+    "FichiersHTML/JouranuxHTML",
     "assets/images/wordcloud_espagnol.png",
     "assets/images/nuage_espagnol.png",
     "Journaux/erreurs avec mots parasites.png",
-    "Journaux/journal_espagnol.md",
     "Journaux/erreurs sans les tokens.png",
     "Journaux/erreur sans le nettoyage.png"
   ]
