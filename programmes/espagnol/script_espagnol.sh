@@ -38,7 +38,7 @@ cat <<EOT > "$DIR_HTML_OUT"
 <html>
 <head>
 <title>Projet PPE-25/26 – espagnol</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+<link rel="stylesheet" href="style.css">
 <style>
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid #999; padding: 0.5em; }
