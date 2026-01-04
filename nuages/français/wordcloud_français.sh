@@ -4,7 +4,8 @@ CORPUS="./"nuages/français/dumps_FR.txt
 NUAGE_IMG="./nuages/français/nuage_français.png"
 STOPWORDS="./nuages/français/stopwords-fr.txt"
 
-if [ ! - "$CORPUS" ]; then
+
+if [ ! -f "$CORPUS" ]; then
     echo "Erreur : le dossier '$CORPUS' n'existe pas."
     exit 1
 fi
