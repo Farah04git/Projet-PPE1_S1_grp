@@ -67,7 +67,7 @@ Certaines pages présentent des encodages non reconnus ou n’ont pas pu être t
 *Nuage des points*
 Pour réaliser le nuage de points j'ai crée un script qui prendra tous les fichiers dump text et en constituer un corpus entier 
 J'ai crée un venv pour éxécuter la commande wordcloud_cli
-Au début je n'ai pas réussi à generer une image pertinente j'ai du rajouter des prépositions "para", "con", "de" au fichier stopwords_espagnol que j'ai telechargé depuis un source de github 
+Au début je n'ai pas réussi à generer une image pertinente j'ai du rajouter des prépositions "*para*", "*con*", "*de*" au fichier stopwords_espagnol que j'ai telechargé depuis un source de github 
 
 *PALS*
 Le but de cet exercice final est d’analyser linguistiquement un mot précis, ici le mot espagnol **« estado »**, en étudiant ses cooccurrences dans notre corpus. 
@@ -109,3 +109,5 @@ Après avoir regardé la docu du fichier "cooccurrents.py" je me suis rendue com
 On se rapproche mais je vois encore des déterminants et prépositions qui n'ont aucun intérêt linguistique. Il faut que je trouve une solution pour mettre en valeur des tokens plus intéressants.
 
 ![[erreurs avec mots parasites.png]]
+
+On va donc procéder au filtrage des stopwords 

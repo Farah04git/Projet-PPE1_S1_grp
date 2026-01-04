@@ -29,4 +29,4 @@ NF>0 {
 }
 ' > "$OUTPUT"
 
-echo "✅ Corpus tokenisé généré : $OUTPUT"
+echo "Corpus tokenisé généré : $OUTPUT"

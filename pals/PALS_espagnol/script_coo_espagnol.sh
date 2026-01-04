@@ -10,7 +10,7 @@
 DIR="$(cd "$(dirname "$0")" && pwd)"
 
 # Corpus tokenisé et nettoyé
-CORPUS="$DIR/corpus_espagnol_token.txt"
+CORPUS="$DIR/corpus_espagnol.txt"
 
 # Fichier HTML de sortie
 OUTPUT_HTML="$DIR/estado_cooc.html"
@@ -19,7 +19,7 @@ OUTPUT_HTML="$DIR/estado_cooc.html"
 COOC_PATH="$DIR/../cooccurrents.py"
 
 # Nombre de co-occurrents affichés
-N=15
+N=50
 
 # ----------------------------------------------------------
 # Vérifications
