@@ -125,12 +125,23 @@ main {
 .nuage {
     width: 33.33%;
     text-align: center;
+
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 6px;
+
+    background-color: rgba(255, 255, 255, 0.4); 
+}
+.nuage h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 .nuage img {
     max-width: 100%;
     height: auto;
 }
+
 
 /* -----------------------------
    Footer
