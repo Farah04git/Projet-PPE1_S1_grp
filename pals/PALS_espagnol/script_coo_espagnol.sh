@@ -1,34 +1,44 @@
 #!/bin/bash
 
 # ------------------------
-# Script : Co-occurrents espagnol
+# Script simplifié pour co-occurrents du mot "estado"
 # ------------------------
 
-# dossier des dumps
-DUMP_DIR="../../dumps-text/espagnol"
-# dossier d'output
-OUTPUT_DIR="."
-# fichier HTML de sortie
-OUTPUT_HTML="$OUTPUT_DIR/estado_cooc.html"
+# Récupérer le dossier du script pour utiliser des chemins relatifs sûrs
+DIR="$(cd "$(dirname "$0")" && pwd)"
 
-# mot cible
-TARGET="estado"
+# Chemin vers le corpus nettoyé
+CORPUS="$DIR/corpus_espagnol_clean.txt"
 
-# vérification des fichiers
-if [ ! -d "$DUMP_DIR" ]; then
-    echo "Erreur : $DUMP_DIR introuvable"
+# Chemin de sortie du tableau HTML
+OUTPUT_HTML="$DIR/estado_cooc.html"
+
+# Chemin vers le script Python cooccurrents.py
+# Il doit se trouver dans le dossier parent "PALS"
+COOC_PATH="$DIR/../cooccurrents.py"
+
+# Nombre de co-occurrents à extraire
+N=10
+
+# ------------------------
+# Vérifications basiques
+# ------------------------
+if [ ! -f "$CORPUS" ]; then
+    echo "Erreur : corpus '$CORPUS' introuvable."
     exit 1
 fi
-if ! ls "$DUMP_DIR"/es-*.txt 1> /dev/null 2>&1; then
-    echo "Erreur : aucun fichier es-*.txt dans $DUMP_DIR"
+
+if [ ! -f "$COOC_PATH" ]; then
+    echo "Erreur : '$COOC_PATH' introuvable. Vérifie le chemin."
     exit 1
 fi
 
-# vérification du script cooccurrents.py
-if [ ! -f "../../cooccurrents.py" ]; then
-    echo "Erreur : ../../cooccurrents.py introuvable. Vérifie le chemin."
-    exit 1
-fi
+# ------------------------
+# Exécution du script Python
+# ------------------------
+# On redirige la sortie vers un fichier temporaire
+TMP_FILE="$DIR/temp_cooc.txt"
+python3 "$COOC_PATH" --target "estado" "$CORPUS" -N $N -s i > "$TMP_FILE"
 
 # ------------------------
 # Génération du tableau HTML
@@ -38,16 +48,16 @@ cat <<EOT > "$OUTPUT_HTML"
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Tableau co-occurrents – $TARGET</title>
+<title>Tableau des co-occurrents pour "estado"</title>
 <style>
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid #999; padding: 0.5em; }
-th { font-weight: bold; background-color: #f2f2f2; }
-.token { font-weight: bold; }
+th { font-weight: bold; background-color: #f0f0f0; }
+td { background-color: #fff; }
 </style>
 </head>
 <body>
-<h2>Tableau des co-occurrents pour le mot <em>$TARGET</em></h2>
+<h2>Tableau des co-occurrents pour le mot <em>estado</em></h2>
 <table>
 <tr>
 <th>Token</th>
@@ -60,43 +70,20 @@ th { font-weight: bold; background-color: #f2f2f2; }
 EOT
 
 # ------------------------
-# Exécution de cooccurrents.py
+# Lecture du fichier temporaire et création du tableau
 # ------------------------
-COOC_OUTPUT=$(python3 ../../cooccurrents.py --target "$TARGET.*" "$DUMP_DIR"/es-*.txt -N 20 -s i --match-mode regex)
+# On lit chaque ligne, séparée par tabulation
+while IFS=$'\t' read -r TOKEN CORPUS_SIZE ALLCTX FREQ COFREQ SPEC; do
+    # Écriture dans le tableau HTML
+    echo "<tr><td>$TOKEN</td><td>$CORPUS_SIZE</td><td>$ALLCTX</td><td>$FREQ</td><td>$COFREQ</td><td>$SPEC</td></tr>" >> "$OUTPUT_HTML"
+done < "$TMP_FILE"
 
-# ------------------------
-# Traitement ligne par ligne
-# ------------------------
-echo "$COOC_OUTPUT" | while read -r line; do
-    # ignorer les lignes vides ou les en-têtes
-    [[ -z "$line" ]] && continue
-    [[ "$line" =~ ^token ]] && continue
-
-    # extraire les 5 dernières colonnes (numériques)
-    nums=$(echo "$line" | awk '{print $(NF-4), $(NF-3), $(NF-2), $(NF-1), $NF}')
-    # extraire le token (tout ce qui reste au début)
-    token=$(echo "$line" | awk '{for(i=1;i<=NF-5;i++) printf "%s%s",$i,(i<NF-5?" ":"")}')
-    
-    corpus_size=$(echo $nums | awk '{print $1}')
-    all_ctx=$(echo $nums | awk '{print $2}')
-    freq=$(echo $nums | awk '{print $3}')
-    co_freq=$(echo $nums | awk '{print $4}')
-    spec=$(echo $nums | awk '{print $5}')
-
-    # ajouter la ligne au tableau HTML
-    echo "<tr>
-<td class=\"token\">$token</td>
-<td>$corpus_size</td>
-<td>$all_ctx</td>
-<td>$freq</td>
-<td>$co_freq</td>
-<td>$spec</td>
-</tr>" >> "$OUTPUT_HTML"
-done
-
-# ------------------------
-# Fermeture tableau
-# ------------------------
+# Fermeture du tableau HTML
 echo "</table></body></html>" >> "$OUTPUT_HTML"
 
-echo ">>> Tableau cooccurrents généré dans le dossier PALS_espagnol : $OUTPUT_HTML"
+# ------------------------
+# Nettoyage du fichier temporaire
+# ------------------------
+rm "$TMP_FILE"
+
+echo ">>> Tableau cooccurrents généré : $OUTPUT_HTML"
