@@ -185,6 +185,9 @@
   },
   "active": "439d21f95b8d1d4a",
   "lastOpenFiles": [
+    "assets/images/wordcloud_espagnol.png",
+    "assets/images/nuage_espagnol.png",
+    "assets/images",
     "PALS/PALS_espagnol/test.txt.sb-8e8ad689-miUn6e",
     "PALS/PALS_espagnol/test.txt",
     "PALS/PALS_espagnol/test 2.txt",
@@ -194,10 +197,8 @@
     "PALS/PALS_espagnol/temp_cooc.txt",
     "PALS/PALS_espagnol/corpus_espagnol_final.txt",
     "PALS/PALS_espagnol/filtre_stopwords_espagnol.sh",
-    "PALS/PALS_espagnol/stopwords-es.txt",
     "Journaux/erreurs avec mots parasites.png",
     "Journaux/journal_espagnol.md",
-    "Journaux",
     "Journaux/erreurs sans les tokens.png",
     "Journaux/erreur sans le nettoyage.png"
   ]
