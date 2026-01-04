@@ -1,12 +1,12 @@
    Link canonical
    ABC
-   3 de enero de 2026
+   4 de enero de 2026
    Ir a ABC en el Este
-   Empresas y Empresarios
-   ABC TV de 180000 a 185900
+   Otro Level
+   ABC TV de 130000 a 145900
    Ver ABC TV
-   Fútbol Paraguayo Torneo Apertura
-   ABC Cardinal AM de 1700 a 1859
+   Domingo en Folclore
+   ABC Cardinal AM de 1200 a 1359
    Escuchar ABC AM
    Solo Música
    ABC FM 1200 a 2359
@@ -14,28 +14,28 @@
    Solo Música
    ABC FM 1200 a 2359
    Escuchar ABC FM
-   Empresas y Empresarios
-   ABC TV de 180000 a 185900
+   Otro Level
+   ABC TV de 130000 a 145900
    Ver ABC TV
-   Fútbol Paraguayo Torneo Apertura
-   ABC Cardinal AM de 1700 a 1859
+   Domingo en Folclore
+   ABC Cardinal AM de 1200 a 1359
    Escuchar ABC AM
    Solo Música
    ABC FM 1200 a 2359
    Escuchar ABC FM
-   Empresas y Empresarios
-   ABC TV de 180000 a 185900
+   Otro Level
+   ABC TV de 130000 a 145900
    Ver ABC TV
-   Fútbol Paraguayo Torneo Apertura
-   ABC Cardinal AM de 1700 a 1859
+   Domingo en Folclore
+   ABC Cardinal AM de 1200 a 1359
    Escuchar ABC AM
    Solo Música
    ABC FM 1200 a 2359
    Escuchar ABC FM
-   29º
+   26º
    Ahora
    ver más
-   29º
+   28º
    Mañana
    ver más
    G 6350
@@ -101,23 +101,18 @@
            SeccionesEDICIÓN IMPRESAABC DIGITALABC ePaper
       ePaper
       ABC Revista
-   29º
+   26º
    Ahora
    HOY
    Min
-   23º
+   17º
    Máx
-   37º
-   undefined 20260104
-   Min
-   18º
-   Máx
-   30º
+   27º
    undefined 20260105
    Min
-   15º
+   14º
    Máx
-   32º
+   31º
    undefined 20260106
    Min
    18º
@@ -125,14 +120,19 @@
    37º
    undefined 20260107
    Min
-   22º
+   25º
    Máx
-   36º
+   39º
    undefined 20260108
    Min
-   20º
+   22º
    Máx
-   35º
+   38º
+   undefined 20260109
+   Min
+   22º
+   Máx
+   34º
 
    Ver Pronóstico del Tiempo
 
@@ -177,21 +177,23 @@
 
 Lo más leído
 
-   Mundo
-   Intervención militar de EEUU en Venezuela artículos del derecho
-   internacional afectados
-   Ver más
-   Editorial
-   Los vecinos de San Bernardino no se merecen tanto atropello a sus derechos
+   Clima
+   Dos departamentos en alerta por tormentas para esta mañana
    Ver más
    Mundo
-   URGENTE Trump dice que Maduro fue capturado y sacado de Venezuela
+   Video difunden primeras imágenes de Maduro en la sede de la DEA en Nueva
+   York
+   Ver más
+   Nacionales
+   Marcha en Asunción contra la captura de Maduro
    Ver más
    Mundo
-   La reacción de Rusia a intervención militar de EEUU en Venezuela
+   Operativo para capturar a Maduro habría dejado unas 40 personas
+   fallecidas según el NYT
    Ver más
-   Mundo
-   Postura de Peña a intervención militar de EEUU en Venezuela
+   Nacionales
+   Estas son las graves implicancias jurídicas tras la captura de Nicolás
+   Maduro según abogado
    Ver más
    Escolar
    21 de abril de 2021  1623

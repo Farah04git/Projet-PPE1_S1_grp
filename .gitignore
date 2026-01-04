@@ -1,7 +1,14 @@
+# macOS
 .DS_Store
-.DS_Store
+*/.DS_Store
+
+# Environnements virtuels
 .venv/
 venv/
+
+# Python
 __pycache__/
 *.pyc
+
+# Variables d'environnement
 .env
