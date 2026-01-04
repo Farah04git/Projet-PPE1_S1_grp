@@ -1,17 +1,27 @@
+/* -----------------------------
+   Variables de couleurs
+----------------------------- */
 :root {
-    --beige-fond: #FDF5E6;
-    --marron-fonce: #5C4033;
-    --marron-clair: #A67B5B;
-    --gris-texte: #4B3B2A;
-    --beige-clair: #FFF8E7;
-    --ocre-doux: #D9B382;
+    --beige-fond: #FDF5E6;       /* fond général clair */
+    --marron-fonce: #5C4033;     /* pour titres et footer */
+    --marron-clair: #A67B5B;     /* pour hover, menus */
+    --gris-texte: #4B3B2A;       /* texte principal */
+    --beige-clair: #FFF8E7;      /* pour tableaux et sections */
+    --ocre-doux: #D9B382;        /* accents, bordures */
 }
+
+/* -----------------------------
+   Fonts Google
+----------------------------- */
+/* Importer dans HTML <head> :
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Merriweather&display=swap" rel="stylesheet">
+*/
 
 /* -----------------------------
    Global : Corps du site
 ----------------------------- */
 body {
-    font-family: Georgia, 'Times New Roman', serif; /* police unique pour tout le site */
+    font-family: Georgia, 'Times New Roman', serif; /* police par défaut */
     background-color: var(--beige-fond);
     color: var(--gris-texte);
     line-height: 1.6;
@@ -19,7 +29,7 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: inherit;
+    font-family: 'Playfair Display', serif; /* titres */
     color: var(--marron-fonce);
     margin-bottom: 0.5em;
 }
@@ -154,7 +164,9 @@ footer {
     margin-top: 20px;
 }
 
-/* Tableaux */
+/* -----------------------------
+   Tableaux
+----------------------------- */
 table {
     border-collapse: collapse;
     width: 100%;
@@ -183,7 +195,9 @@ tr:nth-child(even) {
     background-color: #F5E6D3;
 }
 
-/* Mot clé "État" */
+/* -----------------------------
+   Mot clé "État"
+----------------------------- */
 .mot-etat {
     color: var(--marron-fonce);
     font-weight: bold;
