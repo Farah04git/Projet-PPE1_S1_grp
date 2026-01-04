@@ -2,7 +2,7 @@
 
 SCRIPT_PY="./pals/cooccurrents.py"
 DUMPS="./pals/PALS_français/dumps_FR.txt"
-OUTPUT_HTML="./pals/PALS_français/état_cooc.html"
+OUTPUT_HTML="./pals/PALS_français/état_cooc_dumps.html"
 
 REGEX="état"
 
