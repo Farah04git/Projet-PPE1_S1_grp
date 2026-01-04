@@ -38,7 +38,7 @@ cat <<EOT > "$DIR_HTML_OUT"
 <html>
 <head>
 <title>Projet PPE-25/26 – espagnol</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../../style.css">
 <style>
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid #999; padding: 0.5em; }
@@ -119,11 +119,15 @@ while read -r line; do
     gauche=$(echo "$line" | sed -E 's/(.*)(estado|estados).*/\1/I' | sed -E 's/[[:space:]]+$//')
     cible=$(echo "$line" | grep -Eio '(estado|estados)' | head -n 1)
     droite=$(echo "$line" | sed -E 's/.*(estado|estados)(.*)/\2/I' | sed -E 's/^[[:space:]]+//')
-    echo "<tr>
-<td class=\"has-text-right\">$gauche</td>
-<td class="has-text-centered" style="color: brown;"><strong>$cible</strong></td>
-<td>$droite</td>
-</tr>" >> "$FILE_CONCORD"
+    
+    cat <<EOF >> "$FILE_CONCORD"
+<tr>
+  <td class="has-text-right">$gauche</td>
+  <td class="has-text-centered" style="color: brown;"><strong>$cible</strong></td>
+  <td>$droite</td>
+</tr>
+EOF
+
 done
 
 echo "</tbody></table></div></body></html>" >> "$FILE_CONCORD"
@@ -143,12 +147,12 @@ echo "<tr$ROW_STYLE>
 <td>$ID</td>
 <td><a href=\"$URL\">Lien internet</a></td>
 <td>$HTTP_CODE</td>
-<td$ENC_STYLE>$ENCODING</td>
+<td>$ENCODING</td>
 <td>$TOTAL_OCCURENCES</td>
-<td><a href=\".$FILE_ASPI\">HTML brute</a></td>
-<td><a href=\".$FILE_DUMP\">dump</a></td>
-<td><a href=\".$FILE_CONTEXTES\">contexte</a></td>
-<td><a href=\".$FILE_CONCORD\">concordancier</a></td>
+<td><a href=\"$FILE_ASPI\">HTML brute</a></td>
+<td><a href=\"$FILE_DUMP\">dump</a></td>
+<td><a href=\"$FILE_CONTEXTES\">contexte</a></td>
+<td><a href=\"$FILE_CONCORD\">concordancier</a></td>
 </tr>" >> "$DIR_HTML_OUT"
 
 ID=$((ID+1))
