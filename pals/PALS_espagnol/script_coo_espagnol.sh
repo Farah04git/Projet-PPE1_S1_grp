@@ -8,7 +8,7 @@
 DIR="$(cd "$(dirname "$0")" && pwd)"
 
 # Chemin vers le corpus nettoyé
-CORPUS="$DIR/corpus_espagnol_clean.txt"
+CORPUS="$DIR/corpus_espagnol_token.txt"
 
 # Chemin de sortie du tableau HTML
 OUTPUT_HTML="$DIR/estado_cooc.html"
