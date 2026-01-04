@@ -121,7 +121,7 @@ while read -r line; do
     droite=$(echo "$line" | sed -E 's/.*(estado|estados)(.*)/\2/I' | sed -E 's/^[[:space:]]+//')
     echo "<tr>
 <td class=\"has-text-right\">$gauche</td>
-<td class=\"has-text-centered has-text-success\"><strong>$cible</strong></td>
+<td class="has-text-centered" style="color: brown;"><strong>$cible</strong></td>
 <td>$droite</td>
 </tr>" >> "$FILE_CONCORD"
 done

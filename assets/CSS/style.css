@@ -1,1 +1,42 @@
-# mettre ici les styles de notre page
+/* -----------------------------
+   Nuages de mots
+----------------------------- */
+.nuages {
+    display: flex;
+    justify-content: space-between; /* espace entre les cartes */
+    gap: 20px; /* espace entre les nuages */
+    flex-wrap: wrap; /* s'adapte aux écrans étroits */
+    margin-top: 20px;
+}
+
+.nuage {
+    flex: 1;
+    max-width: 30%; /* 3 nuages sur la même ligne */
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    font-family: 'Georgia', serif;
+    margin-bottom: 20px; /* espace si le nuage passe en ligne inférieure */
+}
+
+.nuage h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.nuage .description {
+    margin-bottom: 10px;
+    font-size: 0.95em;
+    color: #333;
+}
+
+.nuage img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+

@@ -1,108 +1,156 @@
-
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <title>PALS - Page d'accueil</title>
+    <!-- -------------------------
+         CSS Diplomatique / Élégant
+    ------------------------- -->
     <style>
-        /* --------- Styles généraux --------- */
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-        }
+    :root {
+        --bleu-marine: #003366;
+        --bleu-clair: #0055a5;
+        --marron-etat: #6B4C3B;
+        --gris-texte: #333333;
+        --beige-fond: #f9f9f9;
+        --gris-clair: #DDD;
+    }
 
-        header {
-            background-color: #003366;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
+    body {
+        font-family: 'Lato', sans-serif;
+        background-color: var(--beige-fond);
+        color: var(--gris-texte);
+        line-height: 1.6;
+        margin: 0;
+    }
 
-        h1 {
-            margin: 0;
-        }
+    header {
+        background-color: var(--bleu-marine);
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
 
-        nav {
-            background-color: #0055a5;
-        }
+    h1, h2, h3 {
+        font-family: 'Playfair Display', serif;
+        color: var(--bleu-marine);
+        margin-bottom: 0.5em;
+    }
 
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-        }
+    nav {
+        background-color: var(--bleu-clair);
+    }
 
-        nav li {
-            position: relative;
-        }
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
 
-        nav > ul > li {
-            display: inline-block;
-        }
+    nav li {
+        position: relative;
+    }
 
-        nav a {
-            display: block;
-            color: white;
-            text-decoration: none;
-            padding: 12px 20px;
-        }
+    nav > ul > li {
+        display: inline-block;
+    }
 
-        nav li:hover {
-            background-color: #003366;
-        }
+    nav a {
+        display: block;
+        color: white;
+        text-decoration: none;
+        padding: 12px 20px;
+    }
 
-        /* --------- Sous-menu --------- */
-        nav li ul {
-            display: none;
-            position: absolute;
-            background-color: #0072ce;
-            min-width: 180px;
-            z-index: 1000;
-        }
+    nav li:hover {
+        background-color: var(--bleu-marine);
+    }
 
-        nav li:hover > ul {
-            display: block;
-        }
+    nav li ul {
+        display: none;
+        position: absolute;
+        background-color: var(--bleu-clair);
+        min-width: 180px;
+        z-index: 1000;
+    }
 
-        nav li ul li {
-            display: block;
-        }
+    nav li:hover > ul {
+        display: block;
+    }
 
-        nav li ul li a {
-            padding: 10px 20px;
-        }
+    nav li ul li {
+        display: block;
+    }
 
-        nav li ul li:hover {
-            background-color: #0055a5;
-        }
+    nav li ul li a {
+        padding: 10px 20px;
+    }
 
-        main {
-            padding: 20px;
-        }
+    nav li ul li:hover {
+        background-color: var(--bleu-marine);
+    }
 
-        footer {
-            background-color: #003366;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            margin-top: 20px;
-        }
+    main {
+        padding: 20px;
+    }
+
+    footer {
+        background-color: var(--bleu-marine);
+        color: white;
+        text-align: center;
+        padding: 10px;
+        margin-top: 20px;
+    }
+
+    /* --------------------------
+       Tableaux
+    -------------------------- */
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        background-color: #FFFFFF;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    th, td {
+        border: 1px solid var(--gris-clair);
+        padding: 0.6em 1em;
+        text-align: left;
+        border-radius: 3px;
+    }
+
+    th {
+        background-color: var(--bleu-marine);
+        color: #FFF;
+        font-weight: 600;
+    }
+
+    td {
+        color: var(--gris-texte);
+    }
+
+    tr:nth-child(even) {
+        background-color: #FAF5E6;
+    }
+
+    /* Mot clé "État" */
+    .mot-etat {
+        color: var(--marron-etat);
+        font-weight: bold;
+        font-family: 'Merriweather', serif;
+    }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>PALS - Projet Multilingue</h1>
+    <h1>Projet Multilingue</h1>
 </header>
 
 <nav>
     <ul>
         <li><a href="#">Accueil</a></li>
         <li><a href="#">À propos</a></li>
-
         <li><a href="#">Scripts</a>
             <ul>
                 <li><a href="#">Arabe</a></li>
@@ -110,7 +158,6 @@
                 <li><a href="#">Français</a></li>
             </ul>
         </li>
-
         <li><a href="#">PALS</a>
             <ul>
                 <li><a href="#">Arabe</a></li>
@@ -118,7 +165,6 @@
                 <li><a href="#">Français</a></li>
             </ul>
         </li>
-
         <li><a href="#">Tableaux</a>
             <ul>
                 <li><a href="#">Arabe</a></li>
@@ -126,7 +172,6 @@
                 <li><a href="#">Français</a></li>
             </ul>
         </li>
-
         <li><a href="#">Journaux</a>
             <ul>
                 <li><a href="#">Arabe</a></li>
@@ -138,15 +183,77 @@
 </nav>
 
 <main>
-    <h2>Bienvenue sur le projet PALS</h2>
+    <h2>Bienvenue sur notre projet </h2>
     <p>
         Ce site présente notre projet multilingue avec l’analyse des corpus pour les langues arabe, espagnol et français. 
         Utilisez le menu de navigation pour accéder aux scripts, aux tableaux et aux journaux correspondants.
     </p>
+
+    <!-- -----------------------------
+         1. Introduction
+    ----------------------------- -->
+<section>
+    <h2>Introduction</h2>
+    <div class="intro" style="text-align: justify; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6;">
+        <p>
+    Le mot « état » occupe en français une place singulière : il désigne à la fois la condition d’une chose (l’état d’un objet), une situation factuelle (l’état de santé), et une réalité politique organisée (l’État). Cette diversité de sens fait du terme un véritable nœud conceptuel où se croisent immobilité, condition, stabilité et structuration. Pourtant, lorsqu’on tente de traduire « état » dans d’autres langues, cette pluralité n’est ni immédiate ni universelle. C’est cette constatation qui a motivé notre étude de la traduction de « état » en anglais, espagnol et arabe, afin de saisir ce que chaque langue exprime, ou omet, à travers ce terme.
+</p>
+<p>
+    Le choix du français, de l’anglais (<em>state</em>) et de l’espagnol (<em>estado</em>) pourrait sembler évident : tous trois proviennent du latin <em>status</em>, issu du verbe <em>stare</em> (« se tenir debout »), un mot qui évoque avant tout la stabilité, la fixité et l’établissement. Dans ces langues, qu’il s’agisse de l’état d’un objet ou de l’État politique, la notion de position stable, de condition établie ou de structure institutionnelle est centrale.
+</p>
+<p>
+    En revanche, le constat devient frappant avec l’arabe. Le mot utilisé aujourd’hui pour traduire « État » est <em>dawla</em> (دولة), un terme qui, loin de suggérer la permanence, renvoie originellement à « cycle, alternance, tournant du pouvoir ». Étymologiquement, <em>dawla</em> évoque ce qui tourne, revient ou change. Là où <em>état</em>, <em>state</em> ou <em>estado</em> suggèrent ce qui demeure, <em>dawla</em> désigne ce qui passe et évolue.
+</p>
+<p>
+    Ce renversement sémantique, qui oppose l’idée d’un ordre politique fixe à celle d’un pouvoir en mouvement, a immédiatement éveillé notre curiosité et orienté notre réflexion sur la traduction et la perception du concept d’État à travers les cultures.
+</p>
+<p>
+    Comment un mot lié à la stabilité institutionnelle en Europe peut-il être traduit par un mot qui exprimait, dans son histoire profonde, le mouvement, la succession dynastique, parfois même la providence ? Cette tension entre ce qui reste et ce qui tourne, entre structure et cycle, entre institution et dynastie, révèle quelque chose de bien plus profond qu’une simple différence lexicale : elle met au jour des imaginaires politiques différents et des manières distinctes de concevoir l’autorité, le temps, le pouvoir et la communauté.
+</p>
+<p>
+    Ainsi, l’étude du mot « état » et de ses traductions n’est pas seulement un exercice linguistique. Elle permet d’interroger comment les langues façonnent notre vision du politique, comment elles héritent d’histoires différentes, et comment elles encodent, dans un seul mot, des conceptions du monde parfois divergentes.
+</p>
+<p>
+    Cette introduction pose donc la problématique centrale de notre travail : peut-on vraiment traduire « état » sans traduire en même temps une vision du politique ?
+</p>        
+    </div>
+</section>
+
+
+    <!-- -----------------------------
+         2. Nuages de mots
+    ----------------------------- -->
+   <section>
+    <h2>Nuages de mots</h2>
+    <div class="nuages">
+        <!-- Nuage Arabe -->
+        <div class="nuage">
+            <p class="description">Ce nuage de mots montre les termes les plus fréquents dans le corpus arabe.</p>
+            <h3>Arabe</h3>
+            <img src="images/wordcloud_arabe.png" alt="Nuage de mots Arabe">
+        </div>
+
+        <!-- Nuage Espagnol -->
+        <div class="nuage">
+            <p class="description">Ce nuage de mots montre les termes les plus fréquents dans le corpus espagnol.</p>
+            <h3>Espagnol</h3>
+            <img src="images/wordcloud_espagnol.png" alt="Nuage de mots Espagnol">
+        </div>
+
+        <!-- Nuage Français -->
+        <div class="nuage">
+            <p class="description">Ce nuage de mots montre les termes les plus fréquents dans le corpus français.</p>
+            <h3>Français</h3>
+            <img src="images/wordcloud_francais.png" alt="Nuage de mots Français">
+        </div>
+    </div>
+</section>
+
+
 </main>
 
 <footer>
-    <p>&copy; 2026 PluriTAL </p>
+    <p>&copy; 2025 PluriTAL</p>
 </footer>
 
 </body>
