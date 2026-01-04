@@ -1,18 +1,153 @@
+
+
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Accueil projet : vie plurilingue du mot "état"</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  </head>
-  <body>
-  <section class="section">
-    <div class="container">
-      <h1 class="title">
-        Page d'accueil du projet
-      </h1>
-    </div>
-  </section>
-  </body>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>PALS - Page d'accueil</title>
+    <style>
+        /* --------- Styles généraux --------- */
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        header {
+            background-color: #003366;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        nav {
+            background-color: #0055a5;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav li {
+            position: relative;
+        }
+
+        nav > ul > li {
+            display: inline-block;
+        }
+
+        nav a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+        }
+
+        nav li:hover {
+            background-color: #003366;
+        }
+
+        /* --------- Sous-menu --------- */
+        nav li ul {
+            display: none;
+            position: absolute;
+            background-color: #0072ce;
+            min-width: 180px;
+            z-index: 1000;
+        }
+
+        nav li:hover > ul {
+            display: block;
+        }
+
+        nav li ul li {
+            display: block;
+        }
+
+        nav li ul li a {
+            padding: 10px 20px;
+        }
+
+        nav li ul li:hover {
+            background-color: #0055a5;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>PALS - Projet Multilingue</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">À propos</a></li>
+
+        <li><a href="#">Scripts</a>
+            <ul>
+                <li><a href="#">Arabe</a></li>
+                <li><a href="#">Espagnol</a></li>
+                <li><a href="#">Français</a></li>
+            </ul>
+        </li>
+
+        <li><a href="#">PALS</a>
+            <ul>
+                <li><a href="#">Arabe</a></li>
+                <li><a href="#">Espagnol</a></li>
+                <li><a href="#">Français</a></li>
+            </ul>
+        </li>
+
+        <li><a href="#">Tableaux</a>
+            <ul>
+                <li><a href="#">Arabe</a></li>
+                <li><a href="#">Espagnol</a></li>
+                <li><a href="#">Français</a></li>
+            </ul>
+        </li>
+
+        <li><a href="#">Journaux</a>
+            <ul>
+                <li><a href="#">Arabe</a></li>
+                <li><a href="#">Espagnol</a></li>
+                <li><a href="#">Français</a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+<main>
+    <h2>Bienvenue sur le projet PALS</h2>
+    <p>
+        Ce site présente notre projet multilingue avec l’analyse des corpus pour les langues arabe, espagnol et français. 
+        Utilisez le menu de navigation pour accéder aux scripts, aux tableaux et aux journaux correspondants.
+    </p>
+</main>
+
+<footer>
+    <p>&copy; 2026 PluriTAL </p>
+</footer>
+
+</body>
 </html>
