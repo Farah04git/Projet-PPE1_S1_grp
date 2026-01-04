@@ -98,10 +98,10 @@ cat estado_cooc.txt | awk 'BEGIN{print "<table><tr><th>Token</th><th>Corpus</th>
 J'ai ensuite constaté que le corpus fusionné contenait beaucoup d'éléments non pertinents comme des numéros, des images ou des titres publicitaires. Pour obtenir des résultats exploitables, j’ai donc créé un script qui transforme tout le texte en minuscules, supprime les caractères non alphabétiques et les lignes vides et normalise les espaces. Ce traitement m’a permis de générer un corpus *propre*, ne contenant que des mots exploitables pour l’analyse des co-occurrents, ce qui garantit la fiabilité des mesures de fréquence et de spécificité dans l’étape suivante.
 
 - erreur avec le corpus sans nettoyage : 
-Capture d’écran 2026-01-04 à 02.51.36
+![[Capture d’écran 2026-01-04 à 02.51.36]]
 
 Le corpus est clean mais prend en compte des lignes en entier
 Après avoir regardé la docu du fichier "cooccurrents.py" je me suis rendue compte qu'il fallait tokeniser le corpus  
 
 - erreur sans les tokens :
-Capture d’écran 2026-01-04 à 02.51.22
+![[Capture d’écran 2026-01-04 à 02.51.22]]
