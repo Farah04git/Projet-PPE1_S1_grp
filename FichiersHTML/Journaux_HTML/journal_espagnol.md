@@ -1,29 +1,12 @@
 Je dois constituer un corpus d'URLS en espagnol pour étudier le mot "estado" sur le web
 
->> Biaser les recherches via la recherche avancée google
+>>> Biaser les recherches via la recherche avancée google
 
 - premières observations :
 
-| colocaciones         | locuciones                  |
-| -------------------- | --------------------------- |
-| Estado autonómico    | mudar estado                |
-| estado civil         | tomar estado                |
-| estado de alarma     | caer a alguien de su estado |
-| estado de ánimo      | estado llano                |
-| estado de cuentas    |                             |
-| estado de emergencia |                             |
-| Estado de derecho    |                             |
-| estado de excepción  |                             |
-| estado de guerra     |                             |
-| estado de necesidad  |                             |
-| estado de opinión    |                             |
-| Estado federal       |                             |
-| Estado Mayor         |                             |
-| estado fundamental   |                             |
-| jefe de Estado       |                             |
-| consejo de Estado    |                             |
-| inquisidor de Estado |                             |
-| secreto de Estado    |                             |
+| **colocaciones**                                                                                                                                                                                                                                                  | **locuciones**                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| estado civil<br>estado de alarma<br>estado de ánimo<br>estado de emergencia<br>Estado de derecho<br>estado de excepción<br>estado de necesidad<br>estado de opinión<br>Estado federal<br>Estado Mayor<br>jefe de Estado<br>consejo de Estado<br>secreto de Estado | mudar estado<br>tomar estado<br>caer a alguien de su estado<br>estado llano |
 
 Le corpus que j'ai constitué contenait 50 URLs, mais toutes n’ont pas pu être traitées. Certaines pages web bloquent les requêtes automatisées pour des raisons de sécurité, par exemple via des restrictions serveur ou des protections anti-robots. Dans ces cas, la requête renvoie un code HTTP d’erreur, comme 403 ou 000. Le script est conçu pour ne traiter que les pages correctement récupérées, c’est-à-dire celles qui renvoient un code 200. Les pages bloquées sont donc ignorées automatiquement afin d’éviter des erreurs et de garantir la cohérence du traitement linguistique.
 
@@ -110,4 +93,4 @@ On se rapproche mais je vois encore des déterminants et prépositions qui n'ont
 
 ![[erreurs avec mots parasites.png]]
 
-On va donc procéder au filtrage des stopwords 
+J'ai donc procéder au filtrage des stopwords et j'ai obtenu un nuage satisfaisant
