@@ -1,5 +1,177 @@
-journaux HTML
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Journal Linguistique - Analyse du mot "estado"</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h2, h3 {
+            color: #2c3e50;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        code, pre {
+            background-color: #f8f8f8;
+            padding: 5px;
+            display: block;
+            white-space: pre-wrap;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        .has-text-centered {
+            text-align: center;
+        }
+        .has-text-right {
+            text-align: right;
+        }
+        .has-text-success {
+            color: green;
+        }
+    </style>
+</head>
+<body>
 
-....
-....
-....
+<h2>Corpus espagnol pour le mot "estado"</h2>
+
+<p>Je dois constituer un corpus d'URLs en espagnol pour étudier le mot <strong>"estado"</strong> sur le web.</p>
+
+<h3>Biaser les recherches via la recherche avancée Google</h3>
+
+<h3>Premières observations :</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Colocaciones</th>
+            <th>Locuciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                estado civil<br>
+                estado de alarma<br>
+                estado de ánimo<br>
+                estado de emergencia<br>
+                Estado de derecho<br>
+                estado de excepción<br>
+                estado de necesidad<br>
+                estado de opinión<br>
+                Estado federal<br>
+                Estado Mayor<br>
+                jefe de Estado<br>
+                consejo de Estado<br>
+                secreto de Estado
+            </td>
+            <td>
+                mudar estado<br>
+                tomar estado<br>
+                caer a alguien de su estado<br>
+                estado llano
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Le corpus que j'ai constitué contenait 50 URLs, mais toutes n’ont pas pu être traitées. Certaines pages web bloquent les requêtes automatisées pour des raisons de sécurité, par exemple via des restrictions serveur ou des protections anti-robots. Dans ces cas, la requête renvoie un code HTTP d’erreur, comme 403 ou 000. Le script est conçu pour ne traiter que les pages correctement récupérées, c’est-à-dire celles qui renvoient un code 200. Les pages bloquées sont donc ignorées automatiquement afin d’éviter des erreurs et de garantir la cohérence du traitement linguistique.</p>
+
+<p>J'ai rajouté un 51ème.</p>
+
+<pre><code>grep -Eio ".{0,30}\b($REGEX)\b.{0,30}" "$FILE_DUMP" | while read -r line; do
+
+    gauche=$(echo "$line" | sed -E "s/(.*)\b($REGEX)\b.*/\1/I")
+    cible=$(echo "$line" | grep -Eio "\b($REGEX)\b")
+    droite=$(echo "$line" | sed -E "s/.*\b($REGEX)\b(.*)/\2/I")
+
+    echo "&lt;tr&gt;
+&lt;td class=&quot;has-text-right&quot;&gt;$gauche&lt;/td&gt;
+&lt;td class=&quot;has-text-centered has-text-success&quot;&gt;&lt;strong&gt;$cible&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;$droite&lt;/td&gt;
+&lt;/tr&gt;" &gt;&gt; "$FILE_CONCORD"
+
+done
+
+echo "&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;" &gt;&gt; "$FILE_CONCORD"</code></pre>
+
+<p>Le premier résultat montrait une redondance car la segmentation gauche/droite n’était pas suffisamment contrainte. J’ai corrigé le concordancier en bornant explicitement les contextes autour de l’occurrence centrale.</p>
+
+<h3>Observations</h3>
+<ol>
+    <li><strong>Anomalies d’encodage et de code HTTP :</strong> Certaines pages présentent des encodages non reconnus ou n’ont pas pu être téléchargées. Nous avons choisi de conserver ces lignes dans le tableau pour illustrer que le script fonctionne de manière robuste : il récupère les pages accessibles, extrait les informations et gère proprement les erreurs lorsque certaines URLs sont inaccessibles ou bloquées.
+        <ul>
+            <li><strong>URL 2 / 200 / unknown-8bit</strong> → Page récupérée correctement mais encodage non identifié ; le contenu est exploitable.</li>
+            <li><strong>URL 13 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
+            <li><strong>URL / 403 / N/A</strong> → Accès interdit par le serveur (protection anti-bot) ; fichier vide créé.</li>
+            <li><strong>URL 32 / 000 / N/A</strong> → Page non téléchargée (erreur réseau ou URL inaccessible) ; aucun contenu disponible.</li>
+        </ul>
+    </li>
+</ol>
+
+<h3>Nuage des points</h3>
+<p>Pour réaliser le nuage de points, j'ai créé un script qui prendra tous les fichiers dump text et constituera un corpus entier. J'ai créé un <code>venv</code> pour exécuter la commande <code>wordcloud_cli</code>.  
+Au début, je n'ai pas réussi à générer une image pertinente ; j'ai dû rajouter des prépositions <code>para</code>, <code>con</code>, <code>de</code> au fichier <code>stopwords_espagnol</code> téléchargé depuis une source GitHub.</p>
+
+<h3>PALS</h3>
+<p>Le but de cet exercice final est d’analyser linguistiquement un mot précis, ici le mot espagnol <strong>« estado »</strong>, en étudiant ses cooccurrences dans notre corpus.  
+Grâce au script de PALS (<em>Probabilistic Association of Lexical Sequences</em>), on peut identifier les mots qui apparaissent fréquemment autour de <strong>estado</strong>, mesurer leur fréquence, leur co‑fréquence avec le mot cible et leur spécificité. Cela permet de comprendre dans quels contextes le mot est utilisé, de détecter ses associations lexicales typiques et éventuellement ses variations sémantiques.</p>
+
+<pre><code>./script_coo_espagnol.sh</code></pre>
+
+<ul>
+    <li><strong>UTF-8</strong> : <code>PYTHONIOENCODING=utf-8</code> force Python à écrire les caractères accentués correctement.</li>
+    <li><strong>Chemins relatifs</strong> : le script suppose que tu es dans <code>PALS/PALS_espagnol</code> et que <code>cooccurrents.py</code> est dans <code>PALS</code>.</li>
+    <li><strong>Fichier de sortie</strong> : <code>estado_cooc.html</code> sera créé dans le même dossier que le script.</li>
+    <li><strong>Arguments</strong> :
+        <ul>
+            <li><code>--target "estado"</code> → le mot à étudier</li>
+            <li><code>-N 10</code> → les 10 co-occurrents les plus fréquents</li>
+            <li><code>-s i</code> → calcul de la spécificité (informatif)</li>
+            <li><code>--match-mode regex</code> → pour inclure toutes les formes du mot si besoin</li>
+        </ul>
+    </li>
+</ul>
+
+<p>Pour l’étape finale, j’ai d’abord fusionné tous les fichiers texte en un seul corpus commun pour centraliser les données :</p>
+
+<pre><code>python3 ../cooccurrents.py ./corpus_espagnol.txt --target "estado" -N 10 -s i &gt; estado_cooc.txt
+cat estado_cooc.txt | awk 'BEGIN{print "&lt;table&gt;&lt;tr&gt;&lt;th&gt;Token&lt;/th&gt;&lt;th&gt;Corpus&lt;/th&gt;&lt;th&gt;AllCtx&lt;/th&gt;&lt;th&gt;Freq&lt;/th&gt;&lt;th&gt;CoFreq&lt;/th&gt;&lt;th&gt;Spec&lt;/th&gt;&lt;/tr&gt;"} {print "&lt;tr&gt;&lt;td&gt;"$1"&lt;/td&gt;&lt;td&gt;"$2"&lt;/td&gt;&lt;td&gt;"$3"&lt;/td&gt;&lt;td&gt;"$4"&lt;/td&gt;&lt;td&gt;"$5"&lt;/td&gt;&lt;td&gt;"$6"&lt;/td&gt;&lt;/tr&gt;"} END{print "&lt;/table&gt;"}' &gt; estado_cooc.html</code></pre>
+
+<p>J'ai ensuite constaté que le corpus fusionné contenait beaucoup d'éléments non pertinents. J’ai créé un script qui :</p>
+<ul>
+    <li>Transforme tout le texte en minuscules</li>
+    <li>Supprime les caractères non alphabétiques et les lignes vides</li>
+    <li>Normalise les espaces</li>
+</ul>
+<p>Ce traitement a permis de générer un corpus <em>propre</em>, ne contenant que des mots exploitables pour l’analyse des co-occurrents, garantissant la fiabilité des mesures.</p>
+
+<h3>Erreurs rencontrées</h3>
+<ul>
+    <li>Erreur avec le corpus sans nettoyage : <br> <img src="erreur_sans_le_nettoyage.png" alt="erreur sans nettoyage"></li>
+    <li>Erreur sans les tokens : <br> <img src="erreurs_sans_les_tokens.png" alt="erreurs sans tokens"></li>
+    <li>Erreurs avec mots parasites : <br> <img src="erreurs_avec_mots_parasites.png" alt="erreurs avec mots parasites"></li>
+</ul>
+
+<p>Après filtrage des stopwords, j'ai obtenu un nuage satisfaisant.</p>
+
+</body>
+</html>
