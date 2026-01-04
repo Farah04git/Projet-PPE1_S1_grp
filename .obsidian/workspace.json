@@ -11,10 +11,14 @@
             "id": "439d21f95b8d1d4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FichiersHTML/Journaux_HTML/journal_espagnol.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "journal_espagnol"
             }
           }
         ]
@@ -181,6 +185,10 @@
   },
   "active": "439d21f95b8d1d4a",
   "lastOpenFiles": [
+    "assets/images/erreurs sans les tokens.png",
+    "assets/images/erreurs avec mots parasites.png",
+    "assets/images/erreur sans le nettoyage.png",
+    "output-wordcloud.txt",
     "assets/images/ppFarah.jpeg",
     "assets/images/previewCOO.png",
     "assets/previewCOO.png",
@@ -200,11 +208,9 @@
     "FichiersHTML/journal_espagnol.md",
     "Journaux/journal_espagnol.md",
     "journal_espagnol.md",
-    "FichiersHTML/JouranuxHTML/journaux.html",
     "assets/images/wordcloud_espagnol.png",
     "assets/images/nuage_espagnol.png",
     "Journaux/erreurs avec mots parasites.png",
-    "Journaux/erreurs sans les tokens.png",
-    "Journaux/erreur sans le nettoyage.png"
+    "Journaux/erreurs sans les tokens.png"
   ]
 }
