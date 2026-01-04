@@ -2,34 +2,162 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Tableau des co-occurrents pour "estado"</title>
+<title>Co-occurrents de "estado"</title>
+
 <style>
-table { border-collapse: collapse; width: 100%; }
-th, td { border: 1px solid #999; padding: 0.5em; }
-th { font-weight: bold; background-color: #f0f0f0; }
-td { background-color: #fff; }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 6px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
 </style>
 </head>
+
 <body>
-<h2>Tableau des co-occurrents pour le mot <em>estado</em></h2>
+<h2>Tableau des co-occurrents du mot <em>estado</em></h2>
+
 <table>
 <tr>
-<th>Token</th>
-<th>Corpus size</th>
-<th>All contexts size</th>
-<th>Frequency</th>
-<th>Co-frequency</th>
-<th>Specificity</th>
+    <th>Token</th>
+    <th>Corpus size</th>
+    <th>All contexts size</th>
+    <th>Frequency</th>
+    <th>Co-frequency</th>
+    <th>Specificity</th>
 </tr>
-<tr><td>token</td><td>corpus size</td><td>all contexts size</td><td>frequency</td><td>co-frequency</td><td>specificity</td></tr>
-<tr><td>físico</td><td>85822</td><td>5709</td><td>70</td><td>51</td><td>43.88</td></tr>
-<tr><td>ánimo</td><td>85822</td><td>5709</td><td>64</td><td>45</td><td>37.66</td></tr>
-<tr><td>de</td><td>85822</td><td>5709</td><td>5354</td><td>556</td><td>26.00</td></tr>
-<tr><td>derecho</td><td>85822</td><td>5709</td><td>86</td><td>41</td><td>24.87</td></tr>
-<tr><td>el</td><td>85822</td><td>5709</td><td>2589</td><td>304</td><td>21.72</td></tr>
-<tr><td>del</td><td>85822</td><td>5709</td><td>980</td><td>146</td><td>19.34</td></tr>
-<tr><td>razón</td><td>85822</td><td>5709</td><td>52</td><td>27</td><td>17.87</td></tr>
-<tr><td>materia</td><td>85822</td><td>5709</td><td>84</td><td>31</td><td>15.12</td></tr>
-<tr><td>conmoción</td><td>85822</td><td>5709</td><td>9</td><td>9</td><td>10.60</td></tr>
-<tr><td>secreto</td><td>85822</td><td>5709</td><td>30</td><td>15</td><td>9.92</td></tr>
+<tr>
+        <td>físico</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>70</td>
+        <td>51</td>
+        <td>43.88</td>
+    </tr>
+<tr>
+        <td>ánimo</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>64</td>
+        <td>45</td>
+        <td>37.66</td>
+    </tr>
+<tr>
+        <td>de</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>5354</td>
+        <td>556</td>
+        <td>26.00</td>
+    </tr>
+<tr>
+        <td>derecho</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>86</td>
+        <td>41</td>
+        <td>24.87</td>
+    </tr>
+<tr>
+        <td>el</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>2589</td>
+        <td>304</td>
+        <td>21.72</td>
+    </tr>
+<tr>
+        <td>del</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>980</td>
+        <td>146</td>
+        <td>19.34</td>
+    </tr>
+<tr>
+        <td>razón</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>52</td>
+        <td>27</td>
+        <td>17.87</td>
+    </tr>
+<tr>
+        <td>materia</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>84</td>
+        <td>31</td>
+        <td>15.12</td>
+    </tr>
+<tr>
+        <td>conmoción</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>9</td>
+        <td>9</td>
+        <td>10.60</td>
+    </tr>
+<tr>
+        <td>secreto</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>30</td>
+        <td>15</td>
+        <td>9.92</td>
+    </tr>
+<tr>
+        <td>es</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>751</td>
+        <td>97</td>
+        <td>9.67</td>
+    </tr>
+<tr>
+        <td>un</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>987</td>
+        <td>115</td>
+        <td>8.65</td>
+    </tr>
+<tr>
+        <td>secretos</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>24</td>
+        <td>12</td>
+        <td>8.06</td>
+    </tr>
+<tr>
+        <td>buen</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>20</td>
+        <td>11</td>
+        <td>7.99</td>
+    </tr>
+<tr>
+        <td>quinto</td>
+        <td>85822</td>
+        <td>5709</td>
+        <td>10</td>
+        <td>8</td>
+        <td>7.82</td>
+    </tr>
 </table></body></html>

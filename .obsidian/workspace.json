@@ -183,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdea3896115f9a92",
+  "active": "439d21f95b8d1d4a",
   "lastOpenFiles": [
-    "Journaux",
     "Journaux/erreurs avec mots parasites.png",
+    "Journaux/journal_espagnol.md",
+    "Journaux",
     "Journaux/erreurs sans les tokens.png",
-    "Journaux/erreur sans le nettoyage.png",
-    "Journaux/journal_espagnol.md"
+    "Journaux/erreur sans le nettoyage.png"
   ]
 }
