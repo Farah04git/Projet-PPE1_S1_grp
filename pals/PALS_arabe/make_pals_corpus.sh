@@ -14,8 +14,6 @@ mkdir -p "$OUT_DIR"
 
 ALL_DUMPS="$OUT_DIR/dumps_AR.txt"
 ALL_CONTEXTES="$OUT_DIR/contextes_AR.txt"
-> "$ALL_DUMPS"
-> "$ALL_CONTEXTES"
 
 # Vérifs
 if [[ ! -d "$DUMP_DIR" ]]; then
@@ -52,3 +50,4 @@ fuse_and_tokenize("contextes/arabe/*.txt",  "pals/PALS_arabe/contextes_AR.txt")
 print("✅ OK : fichiers créés")
 print(" - pals/PALS_arabe/dumps_AR.txt")
 print(" - pals/PALS_arabe/contextes_AR.txt")
+PY
