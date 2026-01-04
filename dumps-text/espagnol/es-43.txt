@@ -1,0 +1,338 @@
+   Link canonical
+   Link shortlink
+   Ir al contenido principal
+   HOY
+   Tortuga ancestral Primer pterosaurio herbívoro Max Ernst Telaraña gigante
+   Cosmograma maya La Luna se aleja Primeras pandemias Yacimiento de oro
+   Dragones azules Superalimento abejas
+   Abrir navegación Cerrar Navegación 
+   Muy Interesante
+   Suscríbete  Boletín Juegos MUY
+   Buscar
+     Submit 
+      Actualidad
+      Fundación Muy
+      Science Fest
+      TecnologíaMenú ExpandirContraer
+           Software
+           Robots
+      CienciaMenú ExpandirContraer
+           Cerebro
+      NaturalezaMenú ExpandirContraer
+           Tierra
+           Animales
+           Medio ambiente
+      SaludMenú ExpandirContraer
+           Enfermedades
+           Nutrición
+      HistoriaMenú ExpandirContraer
+           Evolución humana
+           Dinosaurios
+           Civilizaciones
+           Filosofía
+      IA al día
+      MascotasMenú ExpandirContraer
+           Perros
+           Gatos
+      Curiosidades
+      Motor
+      Podcasts
+      Compras
+      Economía
+      Temas
+   Suscríbete  Boletín
+      Fundación muy
+      Tecnología
+      Ciencia
+      Naturaleza
+      Salud
+      Historia
+      Mascotas
+      Curiosidades
+      Motor
+      ScienceFest
+      IMG
+    Ciencia
+      Ciencia
+
+   Descubren un misterioso estado de la materia en el núcleo terrestre que se
+                    comporta como sólido y líquido a la vez
+
+   Un experimento extremo revela que el núcleo interno de la Tierra podría no
+   ser un sólido convencional sino un material híbrido donde los átomos
+   ligeros se mueven libremente explicando por fin sus extrañas propiedades
+   sísmicas
+             Enlace copiado
+   Fuente ChatGPT
+   Eugenio Manuel Fernández Aguilar
+
+   Publicado por Eugenio M Fernández Aguilar
+
+   Físico escritor y divulgador científico
+
+   Creado 28122025  0717 Actualizado 28122025  0717
+
+   El centro de la Tierra lleva décadas enviando señales desconcertantes No
+   se puede observar directamente pero cada terremoto actúa como una especie
+   de escáner natural que revela cómo se comportan los materiales a miles de
+   kilómetros de profundidad Esas señales llevan tiempo mostrando algo
+   extraño el núcleo interno del planeta transmite las ondas sísmicas de una
+   forma que no encaja del todo con la idea clásica de un sólido rígido de
+   hierro
+
+   Los datos apuntan a un material que es sólido pero sorprendentemente
+   blando capaz de ralentizar las ondas de corte y de mostrar una
+   elasticidad poco común para un metal sometido a presiones extremas Un
+   nuevo estudio experimental publicado en National Science Review aporta
+   ahora una explicación sólida a ese comportamiento anómalo Según sus
+   resultados el núcleo interno podría albergar un estado superiónico de la
+   materia en el que algunos átomos se comportan como en un líquido mientras
+   otros permanecen ordenados como en un sólido
+
+   Explorando el centro de la Tierra ¿Qué esconde el núcleo interno Nuevas
+   hipótesis desafían las teorías tradicionales
+      Categoría Ciencia e innovación
+      Fundación
+
+   Explorando el centro de la Tierra ¿qué esconde el núcleo interno Nuevas
+   hipótesis desafían las teorías tradicionales
+
+      Maurizio Mattesini
+
+El problema sísmico que nadie lograba encajar
+
+   Las propiedades sísmicas del núcleo interno llevan años siendo un
+   rompecabezas Las ondas de corte que solo pueden propagarse en sólidos
+   viajan allí a velocidades inesperadamente bajas Además la
+   llamada relación de Poisson un parámetro que describe cómo se deforma un
+   material al ser comprimido alcanza valores extremadamente altos
+   comparables a los de materiales muy blandos
+
+   Estas observaciones chocan con los modelos tradicionales basados en hierro
+   puro Incluso teniendo en cuenta la enorme temperatura del núcleo interno
+   los cálculos teóricos y los experimentos previos no conseguían reproducir
+   una combinación tan extrema de rigidez estructural y suavidad mecánica El
+   resultado era una paradoja persistente en geofísica un núcleo interno
+   sólido que se comporta casi como si no lo fuera
+
+   Durante años se barajaron hipótesis que incluían fases cristalinas
+   exóticas del hierro o la presencia de elementos ligeros como silicio
+   oxígeno hidrógeno o carbono Sin embargo faltaba una prueba experimental
+   directa que conectara esas ideas con los valores sísmicos reales
+   observados en el interior del planeta
+
+   Cómo cambian las ondas sísmicas en una aleación de hierro y carbono al
+   aumentar presión y temperatura Fuente National Science Review
+
+Carbono en el hierro una pieza clave olvidada
+
+   El nuevo estudio pone el foco en el carbono un elemento abundante en los
+   materiales primitivos del sistema solar y con una fuerte afinidad química
+   por el hierro El núcleo terrestre no es hierro puro presenta un déficit
+   de densidad que solo se explica si contiene una cierta proporción de
+   elementos más ligeros
+
+   Los autores trabajaron con una aleación bien definida hierro con un 15 
+   en peso de carbono una concentración compatible con los límites estimados
+   para el núcleo interno Esta elección no es casual A diferencia del
+   hidrógeno o el oxígeno el carbono puede incorporarse de forma
+   relativamente estable en la estructura cristalina del hierro lo que
+   permite fabricar muestras homogéneas y estudiarlas en laboratorio
+
+   El objetivo era claro comprobar si el carbono cuando se encuentra en
+   posiciones intersticiales dentro de la red de hierro y bajo condiciones
+   extremas de presión y temperatura puede inducir un comportamiento
+   radicalmente distinto al de un sólido convencional
+
+   Esquema de la difusión atómica en aleaciones de hierro superiónicas en
+   condiciones relevantes para el núcleo interno Fuente National Science
+   Review
+
+Un experimento extremo para imitar el centro del planeta
+
+   Para recrear las condiciones del núcleo interno los investigadores
+   utilizaron experimentos de compresión por choque dinámico En ellos
+   pequeños proyectiles de la aleación de hierro y carbono se aceleran a
+   velocidades superiores a los 7 kilómetros por segundo y se hacen impactar
+   contra un blanco generando presiones de hasta 140 gigapascales y
+   temperaturas cercanas a los 2600 kelvin
+
+   Estas condiciones no duran más que microsegundos pero son suficientes
+   para medir con gran precisión cómo se propagan las ondas acústicas en el
+   material Gracias a técnicas como la velocimetría Doppler los autores
+   pudieron determinar la velocidad de las ondas longitudinales y de corte
+   así como calcular la relación de Poisson
+
+   Los resultados mostraron un comportamiento claramente anómalo Por encima
+   de un determinado umbral de presión y temperatura la velocidad de las
+   ondas de corte cayó de forma brusca mientras que la relación de Poisson
+   aumentó hasta valores muy próximos a los inferidos para el núcleo interno
+   terrestre Ese cambio no era gradual sino indicativo de una transición de
+   fase
+
+La confirmación experimental del estado superiónico
+
+   El análisis combinado de los datos experimentales y de simulaciones de
+   dinámica molecular permitió identificar la causa de esa transición A
+   temperaturas suficientemente altas pero aún por debajo del punto de
+   fusión el sistema entra en un estado superiónico
+
+   En palabras del propio artículo científico nuestros resultados sugieren
+   que el núcleo interno puede presentar una suavidad similar a la de un
+   líquido que surge tanto de la difusión superiónica de los elementos
+   ligeros como del movimiento colectivo de los átomos de hierro Esta frase
+   resume el núcleo del hallazgo el material no está fundido pero tampoco
+   es un sólido rígido convencional
+
+   En este estado los átomos de hierro permanecen ordenados en una red
+   cristalina estable mientras que los átomos de carbono se vuelven
+   altamente móviles desplazándose entre los huecos de esa red Esa
+   movilidad interna es suficiente para reducir drásticamente la resistencia
+   al esfuerzo cortante sin destruir la estructura sólida global
+
+Qué significa realmente que algo sea superiónico
+
+   El concepto de superionicidad puede resultar abstracto fuera del ámbito de
+   la física del estado sólido En términos simples se trata de un estado
+   híbrido en el que distintos tipos de átomos dentro del mismo material se
+   comportan de forma muy diferente
+
+   En el caso del hierro con carbono el hierro actúa como un esqueleto
+   sólido mientras que el carbono se mueve con una libertad comparable a la
+   de un líquido Las simulaciones muestran que el coeficiente de difusión
+   del carbono se vuelve claramente distinto de cero mientras que el del
+   hierro sigue siendo prácticamente nulo
+
+   Este comportamiento explica de forma directa las propiedades sísmicas
+   observadas Las ondas de corte son especialmente sensibles a la
+   resistencia del material frente a deformaciones laterales y la movilidad
+   interna de los átomos ligeros debilita esa resistencia sin necesidad de
+   que el material esté fundido
+
+Un encaje perfecto con los datos sísmicos reales
+
+   Uno de los aspectos más llamativos del estudio es la coincidencia
+   cuantitativa entre los valores medidos en el laboratorio y los inferidos a
+   partir de observaciones sísmicas reales A las condiciones experimentales
+   alcanzadas la velocidad de las ondas de corte y la relación de Poisson se
+   solapan con los rangos estimados para el núcleo interno
+
+   El artículo señala que la transición superiónica se acompaña de una
+   reducción significativa de la velocidad de las ondas de corte y de un
+   aumento de la relación de Poisson hasta valores comparables a los del
+   núcleo interno Este ajuste fino refuerza la idea de que no se trata de
+   una curiosidad de laboratorio sino de un proceso relevante a escala
+   planetaria
+
+   Además el estudio muestra que esta transición puede producirse con
+   concentraciones relativamente bajas de carbono lo que la hace compatible
+   con los límites geoquímicos conocidos No es necesario imaginar un núcleo
+   saturado de elementos ligeros para explicar su comportamiento
+
+Implicaciones para la dinámica del núcleo y el campo magnético
+
+   Las consecuencias del hallazgo van más allá de la sismología Un núcleo
+   interno con movilidad atómica internapodría participar de forma activa en
+   procesos dinámicos que hasta ahora se atribuían casi en exclusiva al
+   núcleo externo líquido
+
+   La difusión de elementos ligeros dentro de una estructura sólida puede
+   contribuir a formas de convección química alterar el transporte de calor
+   y modificar las condiciones que sostienen el geodinamo el mecanismo
+   responsable del campo magnético terrestre El propio artículo subraya que
+   este estado reconcilia discrepancias geofísicas y sismológicas de larga
+   data
+
+   Este nuevo marco obliga a replantear la imagen del núcleo interno como una
+   esfera estática y pasiva En su lugar emerge la idea de un sólido
+   dinámico con procesos internos activos que influyen en la evolución
+   térmica y magnética del planeta
+
+   Confirmado la rotación del núcleo interno de la Tierra se ha ralentizado
+      Actualidad
+      Ciencia
+
+   Confirmado la rotación del núcleo interno de la Tierra se ha ralentizado
+
+      Sarah Romero
+
+Una nueva forma de mirar el corazón de la Tierra
+
+   El descubrimiento del estado superiónico en una aleación de hierro y
+   carbono no resuelve todas las incógnitas sobre el núcleo terrestre pero
+   sí ofrece una pieza clave que faltaba Demuestra que la frontera entre
+   sólido y líquido puede ser mucho más difusa de lo que sugieren las
+   clasificaciones clásicas
+
+   Además abre la puerta a investigar comportamientos similares en otras
+   aleaciones y en otros planetas rocosos Si estados superiónicos son
+   posibles en el interior de la Tierra podrían ser comunes en cuerpos
+   planetarios sometidos a presiones y temperaturas extremas
+
+   El núcleo terrestre deja de ser un simple bloque de metal comprimido y
+   pasa a entenderse como un sistema complejo donde la física del estado
+   sólido y la dinámica planetaria se entrelazan de formas inesperadas
+
+Referencias
+
+      Huang Y He Y Zhang Y et al Experimental evidence for
+       superionic Fe–C alloy revealed by shear softening in Earths inner
+       core National Science Review 12 nwaf419 2025 DOI
+       httpsdoiorg101093nsrnwaf419
+   Temas
+   Geología Tierra
+
+   Recomendamos en
+
+Una ola monstruosa cruzó el Pacífico y la NASA la captó con un satélite de
+última generación
+
+   Gracias a un satélite de alta resolución científicos pudieron observar
+   por primera vez cómo un tsunami se propaga en el océano en tiempo casi
+   real El hallazgo reescribe parte de lo que creíamos sobre terremotos y
+   alerta temprana
+      Eugenio M Fernández Aguilar
+
+Este nuevo misterio en las Bermudas no tiene que ver con el Triángulo Tiene que
+ver con el fondo del mar
+
+   Una estructura geológica de 20 kilómetros de espesor bajo las Bermudas
+   podría explicar por qué el fondo oceánico permanece elevado tras millones
+   de años de inactividad volcánica
+      Eugenio M Fernández Aguilar
+
+La península ibérica se está girando lentamente así lo revelan nuevos datos
+geodinámicos
+
+   Nuevos datos geodinámicos revelan que la península ibérica gira lentamente
+   por la presión tectónica Descubre cómo este hallazgo puede cambiar la
+   evaluación del riesgo sísmico en España y el norte de África
+      Eugenio M Fernández Aguilar
+
+Esta piedra de 13000 años esconde un secreto azul que desconcierta a la ciencia
+
+   Nuevos análisis con tecnología avanzada revelan que los humanos del
+   Paleolítico dominaban más colores de los que se creía utilizando
+   pigmentos que rara vez dejan rastro arqueológico
+      Eugenio M Fernández Aguilar
+      Christian Pérez
+   Muy Interesante
+   Otras webs
+      Fundación Muy Interesante
+      Marie Claire
+      Ser Padres
+      Mia Revista
+      Código ético
+      Política de privacidad
+      Aviso legal
+      Política de cookies
+      Configuración de cookies
+      Contacto
+      Suscripciones
+      Publicidad
+   2026 ZINET MEDIA GLOBAL SL Reservados todos los derechos Queda
+   terminantemente prohibida cualquier reproducción distribución
+   diseminación comunicación pública puesta a disposición o transformación
+   de los contenidos de esta web a no contar para ello con la autorización
+   previa expresa y por escrito de ZINET MEDIA GLOBAL SL
+   Grupo Zinet Media

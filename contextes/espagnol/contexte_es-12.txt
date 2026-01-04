@@ -1,0 +1,102 @@
+      Inicio
+      1 ..Estado.. físico en diferentes teorías físicas
+      2 ..Estado.. físico en mecánica clásica
+      3 ..Estado.. físico en mecánica cuántica
+           31 Mecánica cuántica relativista
+      4 ..Estado.. físico en termodinámica
+      5 Referencias
+--
+
+                                 ..Estado.. físico
+
+--
+
+   Un ..estado.. físico es cada una de las situaciones o formas físicamente
+   distinguibles mediante la medición de algunas propiedades que puede
+   adoptar un sistema físico en su evolución temporal Es decir en un
+   sistema físico que está sufriendo cambios un ..estado.. físico es cualquiera
+   de las situaciones posibles como resultado de estos cambios
+
+..Estado.. físico en diferentes teorías físicas
+
+--
+
+    1 ..Estado.. es usado a veces como un sinónimo de ..estado.. de la materia
+    2 En mecánica clásica el micro..estado.. de un sistema o un cuerpo se
+       refiere al conjunto de variables medibles relevantes para especificar
+       completamente su evolución temporal futura
+    3 En termodinámica el ..estado.. termodinámico o más concretamente el
+       macro..estado.. de equilibrio de un sistema se refiere a una situación
+       descriptiva del sistema caracterizada por una combinación de
+--
+       evoluciona con el tiempo se modeliza mediante una ecuación diferencial
+       o conjunto de ellas en este contexto se denomina ..estado.. al vector
+       de variables incógnita que interviene en esa ecuación en ciertos
+       casos esto coincide con el concepto de ..estado.. físico en el sentido
+       termodinámico en otros es un concepto más abstracto
+    5 En mecánica cuántica el ..estado.. se refiere a un objeto matemático que
+       resume la información maximal obtenible del sistema usualmente este
+       ..estado.. viene representado por un vector en un espacio de Hilbert
+       abstracto técnicamente una clase de equivalencia de vectores del
+--
+
+..Estado.. físico en mecánica clásica
+
+--
+
+   En mecánica clásica el ..estado.. de movimiento de una partícula queda
+   determinado por la posición y velocidad Eso determina a su vez su energía
+--
+   Debido a lo anterior una manera conveniente de representar el conjunto
+   del ..estados.. posibles de una partícula es especificar el par x v
+   posición velocidad o el par x p posición cantidad de movimiento
+--
+   espacio de configuración que como caso particular puede ser ℝ Así pues
+   como espacio de ..estados.. se seleccionada el fibrado tangente del espacio
+   de configuración que es lo que conocemos como espacio fásico
+--
+   anterior vuelve a ser un espacio fásico adecuado para representar todos
+   los ..estados.. de movimiento del sólido rígido
+
+..Estado.. físico en mecánica cuántica
+
+--
+
+   En mecánica cuántica norelativista el ..estado.. físico de una partícula
+   comúnmente queda especificado por el valor de un conjunto maximal del
+--
+   espacio de Hilbert Puesto que la medida anterior no cambia si
+   representamos el vector de ..estado.. por displaystyle eitheta
+   leftpsi rightrangle  puesto que
+--
+
+   El ..estado.. físico de una partícula cuántica es una clase de equivalencia de
+   vectores unitarios formada por vectores que difieren en un factor de la
+--
+
+   En mecánica cuántica relativista los ..estados.. suelen referirse a los
+   ..estados.. posibles del espaciotiempo Así el ..estado.. del espaciotiempo
+   viene dado por el número de partículas de cada tipo presentes y los
+--
+
+..Estado.. físico en termodinámica
+
+--
+   Un sistema termodinámico que en equilibrio queda caracterizado por un
+   número finito n de variables de ..estado.. se dice que es un sistema
+   termodinámico con n de grados de libertad El ..estado.. del sistema viene
+   dado por un X1 X2  Xn de las cuales al menos una de ellas es
+--
+                             Wd Datos Q230855                           
+                             Wikiquote Citas célebres ..Estado.. física   
+   Control de autoridades                                                 
+--
+      Wd Datos Q230855
+      Wikiquote Citas célebres ..Estado.. física
+   Obtenido de
+   httpseswikipediaorgwindexphptitle..Estado..físicooldid170148916
+   Categoría
+--
+     Cambiar a la tabla de contenidos
+   ..Estado.. físico
+   6 idiomas Añadir tema

@@ -1,1 +1,577 @@
-estado_espagnol
+<!DOCTYPE html>
+<html>
+<head>
+<title>Projet PPE-25/26 – espagnol</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+<style>
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #999; padding: 0.5em; }
+th { font-weight: bold; }
+.error { color: red; font-weight: bold; }
+</style>
+</head>
+<body>
+<h2 class="title">Tableau <code>espagnol</code></h2>
+<table>
+<tr>
+<th>num Ligne</th>
+<th>URL</th>
+<th>Code HTTP</th>
+<th>Encodage</th>
+<th>Nombre d'occurences</th>
+<th>Page HTML brute</th>
+<th>Dump textuel</th>
+<th>Contextes</th>
+<th>Concordancier</th>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="https://www.bcn.cl/formacioncivica/detalle_guia?h=10221.3/45679">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      28</td>
+<td><a href=".../../aspirations/espagnol/es-1.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-1.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-1.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-1.html">concordancier</a></td>
+</tr>
+<tr style="background-color: #FFFACD;">
+<td>2</td>
+<td><a href="https://sil.gobernacion.gob.mx/Glosario/definicionpop.php?ID=96">Lien internet</a></td>
+<td>200</td>
+<td>unknown-8bit</td>
+<td>      11</td>
+<td><a href=".../../aspirations/espagnol/es-2.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-2.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-2.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-2.html">concordancier</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://administracion.gob.es/pag_Home/espanaAdmon/comoSeOrganizaEstado/Sistema_Politico.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      19</td>
+<td><a href=".../../aspirations/espagnol/es-3.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-3.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-3.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-3.html">concordancier</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.defensa.gob.es/defensa/cadenamando/situaciones/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      11</td>
+<td><a href=".../../aspirations/espagnol/es-4.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-4.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-4.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-4.html">concordancier</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_es">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      38</td>
+<td><a href=".../../aspirations/espagnol/es-5.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-5.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-5.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-5.html">concordancier</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://es.wikipedia.org/wiki/Estado">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>     245</td>
+<td><a href=".../../aspirations/espagnol/es-6.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-6.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-6.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-6.html">concordancier</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://es.wikipedia.org/wiki/Ciudad-Estado">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      84</td>
+<td><a href=".../../aspirations/espagnol/es-7.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-7.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-7.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-7.html">concordancier</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://sede.administracion.gob.es/PAG_Sede/ServiciosElectronicos/RegistroElectronicoDeApoderamientos.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       9</td>
+<td><a href=".../../aspirations/espagnol/es-8.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-8.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-8.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-8.html">concordancier</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://es.wikipedia.org/wiki/Razón_de_Estado">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      65</td>
+<td><a href=".../../aspirations/espagnol/es-9.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-9.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-9.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-9.html">concordancier</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://desinformemonos.org/viaje-al-estado-de-vigilancia/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       8</td>
+<td><a href=".../../aspirations/espagnol/es-10.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-10.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-10.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-10.html">concordancier</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.zschimmer-schwarz.es/noticias/cuales-son-los-estados-fisicos-de-la-materia-y-que-los-define/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      42</td>
+<td><a href=".../../aspirations/espagnol/es-11.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-11.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-11.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-11.html">concordancier</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://es.wikipedia.org/wiki/Estado_físico">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      36</td>
+<td><a href=".../../aspirations/espagnol/es-12.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-12.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-12.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-12.html">concordancier</a></td>
+</tr>
+<tr style="background-color: #FFFACD;">
+<td>13</td>
+<td><a href="https://www.fqsaja.com/la-naturaleza-de-los-cambios-de-estado/">Lien internet</a></td>
+<td>000</td>
+<td>N/A</td>
+<td>0</td>
+<td><a href=".../../aspirations/espagnol/es-13.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-13.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-13.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-13.html">concordancier</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.wisdomlib.org/es/concept/estado-físico">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       8</td>
+<td><a href=".../../aspirations/espagnol/es-14.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-14.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-14.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-14.html">concordancier</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://ambientech.org/estado-de-agregacion">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      28</td>
+<td><a href=".../../aspirations/espagnol/es-15.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-15.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-15.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-15.html">concordancier</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://medlineplus.gov/spanish/exerciseandphysicalfitness.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       9</td>
+<td><a href=".../../aspirations/espagnol/es-16.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-16.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-16.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-16.html">concordancier</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.bbc.com/mundo/articles/c9306qgnkveo">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      11</td>
+<td><a href=".../../aspirations/espagnol/es-17.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-17.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-17.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-17.html">concordancier</a></td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.lne.es/asturias/canal-parlamento/2025/12/05/juan-cofino-urge-renovar-constitucion-124490341.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       8</td>
+<td><a href=".../../aspirations/espagnol/es-18.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-18.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-18.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-18.html">concordancier</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.casareal.es/ES/Actividades/Paginas/actividades_actividades_detalle.aspx?data=16741">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      32</td>
+<td><a href=".../../aspirations/espagnol/es-19.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-19.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-19.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-19.html">concordancier</a></td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.elheraldo.hn/mundo/nicolas-maduro-declara-estado-conmocion-exterior-venezuela-agresion-militar-estados-unidos-CC28800983">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      23</td>
+<td><a href=".../../aspirations/espagnol/es-20.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-20.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-20.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-20.html">concordancier</a></td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.lavanguardia.com/magazine/bienestar/20251210/11346527/uma-naidoo-psiquiatra-nutricional-comemos-moldea-nuestro-cuerpo-nuestro-animo-concentracion-salud-emocional-epm.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       9</td>
+<td><a href=".../../aspirations/espagnol/es-21.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-21.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-21.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-21.html">concordancier</a></td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/what-is-your-emotional-weather-try-mood-tracking-this-fall">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      26</td>
+<td><a href=".../../aspirations/espagnol/es-22.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-22.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-22.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-22.html">concordancier</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.infobae.com/salud/2025/12/07/como-impacta-el-verano-en-el-cerebro-8-habitos-neuroprotectores-para-potenciar-el-descanso-y-el-bienestar/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       5</td>
+<td><a href=".../../aspirations/espagnol/es-23.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-23.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-23.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-23.html">concordancier</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.reduno.com.bo/educacion-e-innovacion/las-mascotas-generan-emociones-positivas-y-mejoran-el-bienestar-diario-2025128114127">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       5</td>
+<td><a href=".../../aspirations/espagnol/es-24.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-24.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-24.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-24.html">concordancier</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://es.gizmodo.com/el-responsable-de-tu-estado-de-animo-que-no-esta-en-tu-cerebro-2000204797">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       7</td>
+<td><a href=".../../aspirations/espagnol/es-25.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-25.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-25.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-25.html">concordancier</a></td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.lavanguardia.com/magazine/bienestar/20251201/11320543/sara-marin-medica-kefir-mejora-ansiedad-animo-nuestra-microbiota-conectada-cerebro-mmn.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       5</td>
+<td><a href=".../../aspirations/espagnol/es-26.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-26.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-26.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-26.html">concordancier</a></td>
+</tr>
+<tr style="background-color: #FFFACD;">
+<td>27</td>
+<td><a href="https://www.rfi.fr/es/europa/20251216-el-jefe-del-estado-mayor-insta-a-más-británicos-a-prepararse-para-combatir-ante-la-amenaza-rusa">Lien internet</a></td>
+<td>403</td>
+<td>N/A</td>
+<td>0</td>
+<td><a href=".../../aspirations/espagnol/es-27.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-27.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-27.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-27.html">concordancier</a></td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.melomanodigital.com/como-la-musica-clasica-ayuda-al-cerebro-a-afrontar-la-depresion-y-mejora-el-estado-de-animo/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      12</td>
+<td><a href=".../../aspirations/espagnol/es-28.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-28.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-28.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-28.html">concordancier</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="http://www.scielo.edu.uy/scielo.php?pid=S1688-42212010000100006&script=sci_arttext">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       9</td>
+<td><a href=".../../aspirations/espagnol/es-29.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-29.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-29.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-29.html">concordancier</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.bbc.com/mundo/articles/c4g5pz9nmklo">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      10</td>
+<td><a href=".../../aspirations/espagnol/es-30.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-30.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-30.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-30.html">concordancier</a></td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://oem.com.mx/elheraldodechiapas/local/como-afectan-diciembre-y-la-cuesta-de-enero-al-estado-de-animo-y-la-salud-mental-en-chiapas-27444007">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       2</td>
+<td><a href=".../../aspirations/espagnol/es-31.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-31.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-31.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-31.html">concordancier</a></td>
+</tr>
+<tr style="background-color: #FFFACD;">
+<td>32</td>
+<td><a href="https://www.elnuevoherald.com/noticias/america-latina/article314101615.html">Lien internet</a></td>
+<td>000</td>
+<td>N/A</td>
+<td>0</td>
+<td><a href=".../../aspirations/espagnol/es-32.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-32.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-32.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-32.html">concordancier</a></td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://otdchile.org/a-100-anos-del-estado-laico-columna-de-opinion/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      17</td>
+<td><a href=".../../aspirations/espagnol/es-33.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-33.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-33.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-33.html">concordancier</a></td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://es.wikipedia.org/wiki/Secretos_de_estado_(película_de_2019)">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      17</td>
+<td><a href=".../../aspirations/espagnol/es-34.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-34.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-34.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-34.html">concordancier</a></td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.ineaf.es/glosario-juridico/secreto-de-estado">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      16</td>
+<td><a href=".../../aspirations/espagnol/es-35.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-35.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-35.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-35.html">concordancier</a></td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.diariojudicial.com/news-19498-apuntes-sobre-el-secreto-de-estado">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      12</td>
+<td><a href=".../../aspirations/espagnol/es-36.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-36.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-36.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-36.html">concordancier</a></td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.abc.com.py/edicion-impresa/suplementos/escolar/los-cambios-de-estados-fisicos-de-la-materia-388246.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      25</td>
+<td><a href=".../../aspirations/espagnol/es-37.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-37.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-37.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-37.html">concordancier</a></td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://fundacionsantafedebogota.com/servicios-en-salud/az-enfermedades/estado-fisico-para-cuidar-tu-corazon">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      21</td>
+<td><a href=".../../aspirations/espagnol/es-38.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-38.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-38.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-38.html">concordancier</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://blogdeespanol.com/2012/06/caracter-estado-fisico-y-de-animo/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      11</td>
+<td><a href=".../../aspirations/espagnol/es-39.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-39.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-39.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-39.html">concordancier</a></td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.baenegocios.com/mundo/Puede-un-Estado-capturar-al-presidente-de-otro-pais-en-ejercicio-que-dice-el-derecho-internacional-20260103-0008.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      29</td>
+<td><a href=".../../aspirations/espagnol/es-40.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-40.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-40.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-40.html">concordancier</a></td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://bradanovic.blogspot.com/2021/01/el-estado-fisico.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       7</td>
+<td><a href=".../../aspirations/espagnol/es-41.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-41.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-41.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-41.html">concordancier</a></td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://blog.hospitaleslapaz.com/hospitales-la-paz/salud_y_bienestar_hlp/salud-y-bienestar/2017/12/26/secretos-para-mantener-un-buen-estado-fisico">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      12</td>
+<td><a href=".../../aspirations/espagnol/es-42.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-42.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-42.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-42.html">concordancier</a></td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://muyinteresante.okdiario.com/ciencia/misterioso-estado-superionico-nucleo-terrestre.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      11</td>
+<td><a href=".../../aspirations/espagnol/es-43.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-43.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-43.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-43.html">concordancier</a></td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://es.gizmodo.com/cristales-de-tiempo-superfluidos-y-electrones-entre-hielo-y-fuego-asi-son-los-otros-estados-de-la-materia-que-desafian-que-creiamos-saber-2000193797">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      17</td>
+<td><a href=".../../aspirations/espagnol/es-44.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-44.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-44.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-44.html">concordancier</a></td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.rtve.es/television/20250312/cuarto-estado-materia-plasma/16485869.shtml">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      13</td>
+<td><a href=".../../aspirations/espagnol/es-45.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-45.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-45.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-45.html">concordancier</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.cronista.com/mexico/actualidad-mx/se-descubre-un-nuevo-capitulo-en-la-fisica-cientificos-encuentran-el-quinto-estado-de-la-materia/">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>      14</td>
+<td><a href=".../../aspirations/espagnol/es-46.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-46.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-46.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-46.html">concordancier</a></td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.bbc.com/mundo/articles/cjw2gzqxj71o">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       9</td>
+<td><a href=".../../aspirations/espagnol/es-47.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-47.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-47.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-47.html">concordancier</a></td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.agenciasinc.es/Noticias/Generado-en-el-espacio-el-quinto-estado-de-la-materia-el-condensado-de-Bose-Einstein">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       5</td>
+<td><a href=".../../aspirations/espagnol/es-48.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-48.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-48.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-48.html">concordancier</a></td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.bbc.com/mundo/noticias-42992694">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       6</td>
+<td><a href=".../../aspirations/espagnol/es-49.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-49.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-49.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-49.html">concordancier</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.diariodecadiz.es/costa-noroeste/ugt-denuncia-lamentable-acceso-estacio-residuos-sanlucar_0_2005540317.html">Lien internet</a></td>
+<td>200</td>
+<td>utf-8</td>
+<td>       8</td>
+<td><a href=".../../aspirations/espagnol/es-50.html">HTML brute</a></td>
+<td><a href=".../../dumps-text/espagnol/es-50.txt">dump</a></td>
+<td><a href=".../../contextes/espagnol/contexte_es-50.txt">contexte</a></td>
+<td><a href=".../../concordances/espagnol/concordancier-es-50.html">concordancier</a></td>
+</tr>
+</table></body></html>
