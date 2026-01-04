@@ -8,7 +8,7 @@
 DUMP_DIR="../dumps-text/espagnol"
 CORPUS="./corpus_espagnol.txt"
 NUAGE_IMG="./nuages/espagnol/nuage_espagnol.png"
-STOPWORDS="./stopwords-es.txt"
+STOPWORDS="./nuages/espagnol/stopwords-es.txt"
 
 # ------------------------
 # Vérifications
